@@ -1,0 +1,93 @@
+name: Telegram Media to Release
+
+on:
+  workflow_dispatch:
+    inputs:
+      telegram_link:
+        description: "🔗 Public Telegram post link (e.g., https://t.me/channelname/123)"
+        required: true
+        type: string
+      release_tag:
+        description: "🏷️ GitHub Release tag (e.g., v1.0.0 or telegram-2026-07-12)"
+        required: true
+        type: string
+      release_title:
+        description: "📋 Release title (optional)"
+        required: false
+        type: string
+        default: "Telegram Media Download"
+      release_notes:
+        description: "📝 Release notes (optional)"
+        required: false
+        type: string
+        default: "Media downloaded from Telegram via GitHub Actions."
+
+permissions:
+  contents: write
+
+jobs:
+  download-and-release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📂 Checkout repository
+        uses: actions/checkout@v4
+
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 📦 Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install telethon
+
+      - name: 📥 Download media from Telegram
+        id: telegram_download
+        env:
+          TELEGRAM_API_ID: ${{ secrets.TELEGRAM_API_ID }}
+          TELEGRAM_API_HASH: ${{ secrets.TELEGRAM_API_HASH }}
+          TELEGRAM_SESSION_STRING: ${{ secrets.TELEGRAM_SESSION_STRING }}
+          TELEGRAM_LINK: ${{ github.event.inputs.telegram_link }}
+        run: |
+          mkdir -p downloaded_media
+          python scripts/download_telegram_media.py
+
+      - name: 🏷️ Create or update GitHub Release
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TAG: ${{ github.event.inputs.release_tag }}
+          TITLE: ${{ github.event.inputs.release_title }}
+          NOTES: ${{ github.event.inputs.release_notes }}
+        run: |
+          if gh release view "$TAG" >/dev/null 2>&1; then
+            echo "Release $TAG already exists. Will upload assets to it."
+          else
+            echo "Creating release $TAG ..."
+            gh release create "$TAG" \
+              --title "$TITLE" \
+              --notes "$NOTES"
+          fi
+
+      - name: ⬆️ Upload downloaded media to Release
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TAG: ${{ github.event.inputs.release_tag }}
+        run: |
+          if [ ! -d "downloaded_media" ] || [ -z "$(ls -A downloaded_media)" ]; then
+            echo "❌ No downloaded media found to upload."
+            exit 1
+          fi
+
+          echo "═══════════════════════════════════════════════════════════════"
+          echo "📤 Uploading files to release: $TAG"
+          echo "═══════════════════════════════════════════════════════════════"
+
+          for file in downloaded_media/*; do
+            if [ -f "$file" ]; then
+              echo "⬆️ Uploading $(basename "$file") ..."
+              gh release upload "$TAG" "$file" --clobber
+            fi
+          done
+
+          echo "✅ Upload complete."
