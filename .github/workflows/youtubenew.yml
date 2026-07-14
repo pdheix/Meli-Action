@@ -1,0 +1,302 @@
+name: YouTube batch → one Release
+
+# Only download material that you own or are authorised to download, and comply
+# with the terms of YouTube and GitHub.
+on:
+  workflow_dispatch:
+    inputs:
+      video_urls:
+        description: 'هر لینک ویدیوی YouTube را در یک خط جداگانه وارد کنید (به همان ترتیب دانلود می‌شوند).'
+        required: true
+        type: string
+      output_format:
+        description: 'نوع فایل خروجی'
+        required: true
+        type: choice
+        options:
+          - mp4
+          - mp3
+        default: mp4
+      video_quality:
+        description: 'کیفیت ویدیو (فقط برای mp4)'
+        required: true
+        type: choice
+        options:
+          - best
+          - 360p
+          - 480p
+          - 720p
+          - 1080p
+          - 1440p
+          - 2160p
+        default: 720p
+      audio_bitrate:
+        description: 'بیت‌ریت صدا (فقط برای mp3)'
+        required: true
+        type: choice
+        options:
+          - '64'
+          - '128'
+          - '192'
+          - '320'
+        default: '192'
+      max_part_mb:
+        description: 'حداکثر حجم هر asset در Release بر حسب MB؛ 0 = خودکار (1800 MB)'
+        required: true
+        type: string
+        default: '1800'
+      release_tag:
+        description: 'تگ Release؛ خالی بگذارید تا yt-batch-RUN_NUMBER ساخته شود. برای افزودن به همان Release، همان تگ را دوباره وارد کنید.'
+        required: false
+        type: string
+        default: ''
+      release_title:
+        description: 'عنوان Release؛ خالی = عنوان خودکار'
+        required: false
+        type: string
+        default: ''
+
+permissions:
+  contents: write
+
+jobs:
+  download-and-release:
+    name: Download in order and publish
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+
+    steps:
+      - name: Install yt-dlp and FFmpeg
+        shell: bash
+        run: |
+          set -Eeuo pipefail
+          sudo apt-get update -qq
+          sudo apt-get install -y --no-install-recommends ffmpeg
+          python3 -m pip install --upgrade yt-dlp
+          yt-dlp --version
+
+      - name: Validate URLs and prepare Release metadata
+        id: meta
+        shell: bash
+        env:
+          VIDEO_URLS: ${{ inputs.video_urls }}
+          RELEASE_TAG_INPUT: ${{ inputs.release_tag }}
+          RELEASE_TITLE_INPUT: ${{ inputs.release_title }}
+        run: |
+          set -Eeuo pipefail
+
+          # Empty lines and lines starting with # are ignored. CRLF input is also supported.
+          printf '%s\n' "$VIDEO_URLS" \
+            | tr -d '\r' \
+            | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//' \
+            | awk 'NF && $0 !~ /^#/' > .youtube_urls.txt
+
+          total=$(awk 'END { print NR }' .youtube_urls.txt)
+          if (( total == 0 )); then
+            echo '::error::At least one YouTube URL is required.'
+            exit 1
+          fi
+
+          tag=$(printf '%s' "$RELEASE_TAG_INPUT" | tr -d '\r\n')
+          if [[ -z "$tag" ]]; then
+            tag="yt-batch-${GITHUB_RUN_NUMBER}"
+          fi
+          if ! git check-ref-format "refs/tags/$tag" >/dev/null; then
+            echo "::error::Invalid Git tag: $tag"
+            exit 1
+          fi
+
+          release_title=$(printf '%s' "$RELEASE_TITLE_INPUT" | tr -d '\r\n')
+          if [[ -z "$release_title" ]]; then
+            release_title="YouTube batch — $tag"
+          fi
+
+          {
+            printf 'total=%s\n' "$total"
+            printf 'tag=%s\n' "$tag"
+            printf 'name=%s\n' "$release_title"
+            printf 'date=%s\n' "$(date -u '+%Y-%m-%d %H:%M UTC')"
+          } >> "$GITHUB_OUTPUT"
+
+          echo "Found $total URL(s). They will be downloaded one at a time."
+
+      - name: Download videos sequentially (with progress)
+        shell: bash
+        env:
+          OUTPUT_FORMAT: ${{ inputs.output_format }}
+          VIDEO_QUALITY: ${{ inputs.video_quality }}
+          AUDIO_BITRATE: ${{ inputs.audio_bitrate }}
+          TOTAL: ${{ steps.meta.outputs.total }}
+        run: |
+          set -Eeuo pipefail
+          shopt -s nullglob
+
+          mkdir -p release_files
+          cat > release_files/manifest.txt <<EOF
+          YouTube batch manifest
+          ======================
+          Requested items: $TOTAL
+          Output format: $OUTPUT_FORMAT
+          Video quality: $VIDEO_QUALITY
+          Audio bitrate: ${AUDIO_BITRATE} kbps
+
+          Each media filename begins with its zero-padded input number, so the
+          order remains clear in the GitHub Release even when assets are sorted.
+
+          Requested sources (input/download order)
+          ----------------------------------------
+          EOF
+
+          if [[ "$OUTPUT_FORMAT" == 'mp3' ]]; then
+            media_args=(
+              --extract-audio
+              --audio-format mp3
+              --audio-quality "${AUDIO_BITRATE}K"
+            )
+          else
+            if [[ "$VIDEO_QUALITY" == 'best' ]]; then
+              selector='bv*+ba/b'
+            else
+              height="${VIDEO_QUALITY%p}"
+              selector="bv*[height<=${height}]+ba/b[height<=${height}]/b[height<=${height}]"
+            fi
+            media_args=(
+              --format "$selector"
+              --merge-output-format mp4
+            )
+          fi
+
+          # Use at least three digits; increase the width for batches over 999 items.
+          width=${#TOTAL}
+          if (( width < 3 )); then width=3; fi
+
+          index=0
+          while IFS= read -r url || [[ -n "$url" ]]; do
+            ((index += 1))
+            prefix=$(printf "%0${width}d" "$index")
+
+            echo ""
+            echo "========== Downloading ${index}/${TOTAL} =========="
+            echo "URL: $url"
+
+            # --no-playlist makes one line correspond to exactly one video.
+            # --newline writes normal progress lines that are visible in Actions logs.
+            yt-dlp \
+              --no-playlist \
+              --no-overwrites \
+              --continue \
+              --retries 10 \
+              --fragment-retries 10 \
+              --file-access-retries 5 \
+              --socket-timeout 30 \
+              --progress \
+              --newline \
+              --restrict-filenames \
+              --trim-filenames 160 \
+              "${media_args[@]}" \
+              --output "release_files/${prefix} - %(title).160B [%(id)s].%(ext)s" \
+              "$url"
+
+            files=( release_files/"${prefix} - "* )
+            if (( ${#files[@]} == 0 )); then
+              echo "::error::No final file was produced for item ${index}."
+              exit 1
+            fi
+
+            {
+              printf '\n[%s/%s]\n' "$index" "$TOTAL"
+              printf 'Source: %s\n' "$url"
+              for file in "${files[@]}"; do
+                printf 'Downloaded file: %s\n' "$(basename "$file")"
+              done
+            } >> release_files/manifest.txt
+          done < .youtube_urls.txt
+
+      - name: Split assets that are too large
+        shell: bash
+        env:
+          MAX_PART_MB_INPUT: ${{ inputs.max_part_mb }}
+        run: |
+          set -Eeuo pipefail
+
+          max_part_mb="$MAX_PART_MB_INPUT"
+          # GitHub Release assets have a 2 GiB limit. 1800 MB leaves headroom.
+          if ! [[ "$max_part_mb" =~ ^[0-9]+$ ]] || (( max_part_mb == 0 || max_part_mb > 1900 )); then
+            max_part_mb=1800
+          fi
+          max_bytes=$(( max_part_mb * 1024 * 1024 ))
+          echo "Maximum asset size: ${max_part_mb} MB"
+
+          while IFS= read -r -d '' file; do
+            size=$(stat --printf='%s' "$file")
+            if (( size <= max_bytes )); then
+              printf 'Keeping %s (%s MB)\n' "$(basename "$file")" "$((size / 1024 / 1024))"
+              continue
+            fi
+
+            filename=$(basename "$file")
+            echo "Splitting ${filename} ($((size / 1024 / 1024)) MB) into ${max_part_mb} MB parts..."
+            (
+              cd release_files
+              # Raw numbered parts are portable and avoid relying on a ZIP client
+              # with multi-part archive support. Concatenate them to restore the file.
+              split --bytes="${max_part_mb}M" --numeric-suffixes=1 --suffix-length=4 \
+                "$filename" "${filename}.part-"
+              rm -- "$filename"
+            )
+          done < <(find release_files -maxdepth 1 -type f ! -name 'manifest.txt' -print0 | LC_ALL=C sort -z)
+
+      - name: Create manifest, notes, and ordered asset list
+        id: assets
+        shell: bash
+        env:
+          TOTAL: ${{ steps.meta.outputs.total }}
+          RELEASE_TAG: ${{ steps.meta.outputs.tag }}
+          RELEASE_DATE: ${{ steps.meta.outputs.date }}
+          OUTPUT_FORMAT: ${{ inputs.output_format }}
+        run: |
+          set -Eeuo pipefail
+
+          {
+            printf '\nFinal Release assets (ordered by filename)\n'
+            printf '%s\n' '------------------------------------------'
+            find release_files -maxdepth 1 -type f ! -name 'manifest.txt' -printf '%f\n' | LC_ALL=C sort | while IFS= read -r name; do
+              printf '%s\n' "$name"
+            done
+          } >> release_files/manifest.txt
+
+          {
+            printf '%s\n\n' '# YouTube batch download'
+            printf '%s\n' "- **Videos requested:** $TOTAL"
+            printf '%s\n' "- **Output format:** $OUTPUT_FORMAT"
+            printf '%s\n' "- **Created:** $RELEASE_DATE"
+            printf '%s\n\n' '- Assets use numeric prefixes (`001`, `002`, …) matching the input order.'
+            printf '%s\n\n' '- `manifest.txt` lists every source and final asset. A file over the selected size is stored as numbered `.part-0001`, `.part-0002`, … pieces. Keep all pieces together and concatenate them in numeric order to restore the original file (for example on Linux/macOS: `cat "filename.part-"* > "filename"`).'
+            printf '%s\n' '## Source links (input order)'
+            index=0
+            while IFS= read -r url || [[ -n "$url" ]]; do
+              ((index += 1))
+              printf '%s. <%s>\n' "$index" "$url"
+            done < .youtube_urls.txt
+          } > release-notes.md
+
+          {
+            printf 'files<<ASSET_LIST\n'
+            find release_files -maxdepth 1 -type f -printf '%p\n' | LC_ALL=C sort
+            printf 'ASSET_LIST\n'
+          } >> "$GITHUB_OUTPUT"
+
+          echo 'Assets that will be uploaded:'
+          find release_files -maxdepth 1 -type f -printf '%f\n' | LC_ALL=C sort
+
+      - name: Publish all files to one GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ steps.meta.outputs.tag }}
+          name: ${{ steps.meta.outputs.name }}
+          body_path: release-notes.md
+          files: ${{ steps.assets.outputs.files }}
+          fail_on_unmatched_files: true
+          token: ${{ secrets.GITHUB_TOKEN }}
+          draft: false
+          prerelease: false
