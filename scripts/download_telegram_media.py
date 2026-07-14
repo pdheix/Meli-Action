@@ -133,14 +133,22 @@ async def download_single_link(
     output_path = resolve_output_path(output_dir, file_name)
 
     print(f"📥 Downloading: {output_path.name}")
-    await client.download_media(
+    result = await client.download_media(
         message,
         file=str(output_path),
         progress_callback=lambda c, t: print_progress(c, t, output_path.name),
     )
     print()  # newline after progress bar
 
+    if not result or not output_path.exists():
+        print(f"⚠️  Download did not produce a file for {link}.")
+        return None
+
     size = output_path.stat().st_size
+    if size == 0:
+        print(f"⚠️  Downloaded file has zero size: {output_path}")
+        return None
+
     print(f"✅ Saved: {output_path} ({size / 1024 / 1024:.2f} MB)")
     return output_path
 
