@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     inputs:
       video_urls:
-        description: 'هر لینک ویدیوی YouTube را در یک خط جداگانه وارد کنید (به همان ترتیب دانلود می‌شوند).'
+        description: 'لینک‌های ویدیوی YouTube را با کاما (,) جدا کنید؛ ترتیب لینک‌ها، ترتیب دانلود و Release خواهد بود.'
         required: true
         type: string
       output_format:
@@ -85,9 +85,10 @@ jobs:
         run: |
           set -Eeuo pipefail
 
-          # Empty lines and lines starting with # are ignored. CRLF input is also supported.
+          # URLs are comma-separated. Empty items, comments, whitespace, and CRLF are ignored.
           printf '%s\n' "$VIDEO_URLS" \
             | tr -d '\r' \
+            | tr ',' '\n' \
             | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//' \
             | awk 'NF && $0 !~ /^#/' > .youtube_urls.txt
 
@@ -179,7 +180,7 @@ jobs:
             echo "========== Downloading ${index}/${TOTAL} =========="
             echo "URL: $url"
 
-            # --no-playlist makes one line correspond to exactly one video.
+            # --no-playlist makes each supplied URL correspond to exactly one video.
             # --newline writes normal progress lines that are visible in Actions logs.
             yt-dlp \
               --no-playlist \
