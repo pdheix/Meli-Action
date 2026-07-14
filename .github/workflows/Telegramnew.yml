@@ -53,6 +53,19 @@ jobs:
           mkdir -p downloaded_media
           python scripts/download_telegram_media.py
 
+      - name: 🔍 Inspect downloaded files
+        run: |
+          echo "═══════════════════════════════════════════════════════════════"
+          echo "📂 Inspecting downloaded_media directory"
+          echo "═══════════════════════════════════════════════════════════════"
+          ls -lah downloaded_media/ || true
+          if [ -f "downloaded_media/downloaded_files.txt" ]; then
+            echo "📄 Manifest content:"
+            cat downloaded_media/downloaded_files.txt
+          else
+            echo "⚠️ No manifest file found"
+          fi
+
       - name: 🏷️ Create or update GitHub Release
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -85,11 +98,24 @@ jobs:
           echo "📤 Uploading files to release: $TAG"
           echo "═══════════════════════════════════════════════════════════════"
 
+          UPLOAD_FAILED=0
           while IFS= read -r file; do
             if [ -n "$file" ] && [ -f "$file" ]; then
-              echo "⬆️ Uploading $(basename "$file") ..."
-              gh release upload "$TAG" "$file" --clobber
+              echo "⬆️ Uploading $(basename "$file") ($(stat -c%s "$file" | numfmt --to=iec-i)) ..."
+              if ! gh release upload "$TAG" "$file" --clobber; then
+                echo "   ❌ Failed to upload $(basename "$file")"
+                UPLOAD_FAILED=1
+              else
+                echo "   ✅ Uploaded $(basename "$file")"
+              fi
+            else
+              echo "⚠️ Skipping invalid path: $file"
             fi
           done < "$MANIFEST"
 
-          echo "✅ Upload complete."
+          if [ "$UPLOAD_FAILED" -eq 1 ]; then
+            echo "❌ One or more uploads failed."
+            exit 1
+          fi
+
+          echo "✅ All files uploaded successfully."
