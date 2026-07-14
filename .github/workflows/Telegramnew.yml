@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       telegram_link:
-        description: "🔗 Public Telegram post link (e.g., https://t.me/channelname/123)"
+        description: "🔗 Public Telegram post link(s), comma-separated (e.g., https://t.me/channel/123,https://t.me/channel/124)"
         required: true
         type: string
       release_tag:
@@ -74,8 +74,10 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           TAG: ${{ github.event.inputs.release_tag }}
         run: |
-          if [ ! -d "downloaded_media" ] || [ -z "$(ls -A downloaded_media)" ]; then
-            echo "❌ No downloaded media found to upload."
+          MANIFEST="downloaded_media/downloaded_files.txt"
+
+          if [ ! -f "$MANIFEST" ]; then
+            echo "❌ No downloaded media manifest found. Nothing to upload."
             exit 1
           fi
 
@@ -83,11 +85,11 @@ jobs:
           echo "📤 Uploading files to release: $TAG"
           echo "═══════════════════════════════════════════════════════════════"
 
-          for file in downloaded_media/*; do
-            if [ -f "$file" ]; then
+          while IFS= read -r file; do
+            if [ -n "$file" ] && [ -f "$file" ]; then
               echo "⬆️ Uploading $(basename "$file") ..."
               gh release upload "$TAG" "$file" --clobber
             fi
-          done
+          done < "$MANIFEST"
 
           echo "✅ Upload complete."
