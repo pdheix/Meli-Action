@@ -199,8 +199,10 @@ async def main() -> None:
     if downloaded_paths:
         # Write a manifest so the workflow can iterate over files safely
         manifest = output_dir / "downloaded_files.txt"
+        # ✅ FIX: Using relative path (str(p)) instead of absolute path (str(p.resolve()))
+        # This prevents GitHub CLI (gh) from failing due to absolute path slashes.
         manifest.write_text(
-            "\n".join(str(p.resolve()) for p in downloaded_paths), encoding="utf-8"
+            "\n".join(str(p) for p in downloaded_paths), encoding="utf-8"
         )
         print("📄 Manifest written to:", manifest)
 
