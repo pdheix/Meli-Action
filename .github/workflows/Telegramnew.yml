@@ -1,121 +1,156 @@
-name: Telegram Media to Release
+name: Telegram Media Downloader
 
 on:
   workflow_dispatch:
     inputs:
-      telegram_link:
-        description: "🔗 Public Telegram post link(s), comma-separated (e.g., https://t.me/channel/123,https://t.me/channel/124)"
-        required: true
-        type: string
-      release_tag:
-        description: "🏷️ GitHub Release tag (e.g., v1.0.0 or telegram-2026-07-12)"
+      media_url:
+        description: "لینک عمومی رسانه تلگرام (مثال: https://t.me/channel/123)"
         required: true
         type: string
       release_title:
-        description: "📋 Release title (optional)"
-        required: false
+        description: "عنوان Release"
+        required: true
         type: string
-        default: "Telegram Media Download"
-      release_notes:
-        description: "📝 Release notes (optional)"
-        required: false
-        type: string
-        default: "Media downloaded from Telegram via GitHub Actions."
-
-permissions:
-  contents: write
 
 jobs:
   download-and-release:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
-      - name: 📂 Checkout repository
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: 🐍 Set up Python
+      - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: 📦 Install Python dependencies
+      - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install telethon
 
-      - name: 📥 Download media from Telegram
-        id: telegram_download
+      - name: Download media from Telegram
         env:
           TELEGRAM_API_ID: ${{ secrets.TELEGRAM_API_ID }}
           TELEGRAM_API_HASH: ${{ secrets.TELEGRAM_API_HASH }}
           TELEGRAM_SESSION_STRING: ${{ secrets.TELEGRAM_SESSION_STRING }}
-          TELEGRAM_LINK: ${{ github.event.inputs.telegram_link }}
+          MEDIA_URL: ${{ github.event.inputs.media_url }}
         run: |
-          mkdir -p downloaded_media
-          python scripts/download_telegram_media.py
+          python << 'PYEOF'
+          import re
+          import os
+          import sys
+          from telethon.sync import TelegramClient
+          from telethon.tl.functions.messages import GetHistoryRequest
 
-      - name: 🔍 Inspect downloaded files
+          api_id = int(os.environ["TELEGRAM_API_ID"])
+          api_hash = os.environ["TELEGRAM_API_HASH"]
+          session_string = os.environ["TELEGRAM_SESSION_STRING"]
+          media_url = os.environ["MEDIA_URL"].strip()
+
+          # Parse the Telegram URL to extract channel/group and message ID
+          # Supported formats:
+          #   https://t.me/channel/123
+          #   https://t.me/channel/123?single
+          #   https://t.me/c/1234567890/123  (private channel)
+          pattern = r"https://t\.me/(?:c/)?([^/]+)/(\d+)"
+          match = re.search(pattern, media_url)
+          if not match:
+              print(f"ERROR: Could not parse the Telegram URL: {media_url}")
+              print("Supported formats:")
+              print("  https://t.me/channel/123")
+              print("  https://t.me/c/1234567890/123")
+              sys.exit(1)
+
+          channel_part = match.group(1)
+          message_id = int(match.group(2))
+
+          print(f"Channel/Group: {channel_part}")
+          print(f"Message ID: {message_id}")
+
+          async def main():
+              async with TelegramClient(
+                  StringSession(session_string), api_id, api_hash
+              ) as client:
+                  # If the link uses private channel format (e.g., c/1234567890),
+                  # convert to the numeric entity format
+                  if "/c/" in media_url:
+                      entity = int("-100" + channel_part)
+                  else:
+                      # Resolve public channel username
+                      entity = channel_part
+
+                  print(f"Fetching message {message_id} ...")
+                  message = await client.get_messages(entity, ids=message_id)
+
+                  if message is None:
+                      print(f"ERROR: Message {message_id} not found.")
+                      sys.exit(1)
+
+                  if not message.media:
+                      print(f"ERROR: No media found in message {message_id}.")
+                      sys.exit(1)
+
+                  print(f"Media type: {type(message.media).__name__}")
+
+                  # Determine file extension
+                  mime = message.file.mime_type if message.file else ""
+                  ext = ""
+                  if mime:
+                      ext_map = {
+                          "video/mp4": ".mp4",
+                          "video/quicktime": ".mov",
+                          "image/jpeg": ".jpg",
+                          "image/png": ".png",
+                          "audio/mpeg": ".mp3",
+                          "audio/ogg": ".ogg",
+                          "application/pdf": ".pdf",
+                          "application/zip": ".zip",
+                          "application/x-rar-compressed": ".rar",
+                          "application/x-7z-compressed": ".7z",
+                          "application/octet-stream": ".bin",
+                      }
+                      ext = ext_map.get(mime, "")
+                  if not ext:
+                      ext = ".bin"
+
+                  filename = f"telegram_media_{message_id}{ext}"
+                  print(f"Downloading to: {filename}")
+
+                  await client.download_media(message, file=filename)
+                  print(f"Download complete: {filename}")
+                  print(f"File size: {os.path.getsize(filename)} bytes")
+
+                  # Write filename to GITHUB_ENV so next steps can access it
+                  with open(os.environ["GITHUB_ENV"], "a") as env_file:
+                      env_file.write(f"DOWNLOADED_FILENAME={filename}\n")
+
+          from telethon.sync import StringSession
+          import asyncio
+          asyncio.run(main())
+          PYEOF
+
+      - name: Get file info
+        id: file_info
         run: |
-          echo "═══════════════════════════════════════════════════════════════"
-          echo "📂 Inspecting downloaded_media directory"
-          echo "═══════════════════════════════════════════════════════════════"
-          ls -lah downloaded_media/ || true
-          if [ -f "downloaded_media/downloaded_files.txt" ]; then
-            echo "📄 Manifest content:"
-            cat downloaded_media/downloaded_files.txt
-          else
-            echo "⚠️ No manifest file found"
-          fi
+          echo "File: ${DOWNLOADED_FILENAME}"
+          FILE_SIZE=$(stat -c%s "${DOWNLOADED_FILENAME}")
+          echo "Size: ${FILE_SIZE} bytes"
+          echo "size=${FILE_SIZE}" >> "$GITHUB_OUTPUT"
 
-      - name: 🏷️ Create or update GitHub Release
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          TAG: ${{ github.event.inputs.release_tag }}
-          TITLE: ${{ github.event.inputs.release_title }}
-          NOTES: ${{ github.event.inputs.release_notes }}
-        run: |
-          if gh release view "$TAG" >/dev/null 2>&1; then
-            echo "Release $TAG already exists. Will upload assets to it."
-          else
-            echo "Creating release $TAG ..."
-            gh release create "$TAG" \
-              --title "$TITLE" \
-              --notes "$NOTES"
-          fi
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: "release-${{ github.run_number }}"
+          name: "${{ github.event.inputs.release_title }}"
+          files: ${{ env.DOWNLOADED_FILENAME }}
+          body: |
+            ## Downloaded from Telegram
 
-      - name: ⬆️ Upload downloaded media to Release
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          TAG: ${{ github.event.inputs.release_tag }}
-        run: |
-          MANIFEST="downloaded_media/downloaded_files.txt"
-
-          if [ ! -f "$MANIFEST" ]; then
-            echo "❌ No downloaded media manifest found. Nothing to upload."
-            exit 1
-          fi
-
-          echo "═══════════════════════════════════════════════════════════════"
-          echo "📤 Uploading files to release: $TAG"
-          echo "═══════════════════════════════════════════════════════════════"
-
-          UPLOAD_FAILED=0
-          while IFS= read -r file; do
-            if [ -n "$file" ] && [ -f "$file" ]; then
-              echo "⬆️ Uploading $(basename "$file") ($(stat -c%s "$file" | numfmt --to=iec-i)) ..."
-              if ! gh release upload "$TAG" "$file" --clobber; then
-                echo "   ❌ Failed to upload $(basename "$file")"
-                UPLOAD_FAILED=1
-              else
-                echo "   ✅ Uploaded $(basename "$file")"
-              fi
-            else
-              echo "⚠️ Skipping invalid path: $file"
-            fi
-          done < "$MANIFEST"
-
-          if [ "$UPLOAD_FAILED" -eq 1 ]; then
-            echo "❌ One or more uploads failed."
-            exit 1
-          fi
-
-          echo "✅ All files uploaded successfully."
+            **Source URL:** ${{ github.event.inputs.media_url }}
+            **File:** ${{ env.DOWNLOADED_FILENAME }}
+            **Size:** ${{ steps.file_info.outputs.size }} bytes
+          generate_release_notes: false
