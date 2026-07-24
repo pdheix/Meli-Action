@@ -43,8 +43,9 @@ jobs:
           import re
           import os
           import sys
+          import asyncio
           from telethon.sync import TelegramClient
-          from telethon.tl.functions.messages import GetHistoryRequest
+          from telethon import StringSession
 
           api_id = int(os.environ["TELEGRAM_API_ID"])
           api_hash = os.environ["TELEGRAM_API_HASH"]
@@ -128,8 +129,6 @@ jobs:
                   with open(os.environ["GITHUB_ENV"], "a") as env_file:
                       env_file.write(f"DOWNLOADED_FILENAME={filename}\n")
 
-          from telethon.sync import StringSession
-          import asyncio
           asyncio.run(main())
           PYEOF
 
