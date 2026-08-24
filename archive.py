@@ -130,10 +130,37 @@ def to_shamsi(dt):
     return jd.strftime("%Y/%m/%d"), jd.strftime("%H:%M:%S")
 
 
+def classify_mime(mime):
+    """تشخیص نوع کلی رسانه از روی MIME type."""
+    if not mime:
+        return "document"
+    mime = mime.lower()
+    if mime.startswith("image/"):
+        # image/telugu.webp یا image/webp → sticker/photo بر اساس نام
+        if mime == "image/webp":
+            return "sticker"
+        return "photo"
+    if mime.startswith("video/"):
+        if mime == "video/mp4":
+            return "video"
+        return "video"
+    if mime.startswith("audio/"):
+        return "audio"
+    if mime == "application/gif" or mime == "image/gif":
+        return "gif"
+    if mime.startswith("application/") and "tg" not in mime:
+        return "document"
+    return "document"
+
+
 def analyze_media(message):
     """
     بررسی نوع و حجم رسانه‌ی پیام.
     خروجی: dict با کلیدهای has_media, media_type, size, ext, mime, reason
+
+    توجه: شئ message.file در Telethon ویژگی‌های is_video/is_audio/... را
+    ندارد؛ بنابراین نوع رسانه را مستقیماً از روی message.media و صفات داکیومنت
+    و mime_type تشخیص می‌دهیم.
     """
     res = {
         "has_media": False,
@@ -154,61 +181,103 @@ def analyze_media(message):
         res["reason"] = NOTE_WEBPAGE
         return res
 
-    # ── روش راحت: message.file در Telethon ──
-    f = getattr(message, "file", None)
-    if f is not None:
-        res["has_media"] = True
-        res["size"] = f.size or 0
-        res["ext"]  = f.ext or ""
-        res["mime"] = getattr(f, "mime_type", "") or ""
-
-        if isinstance(message.media, MessageMediaPhoto):
-            res["media_type"] = "photo"
-        elif f.is_video:
-            res["media_type"] = "video"
-        elif f.is_audio:
-            res["media_type"] = "audio"
-        elif f.is_gif:
-            res["media_type"] = "gif"
-        elif f.is_sticker:
-            res["media_type"] = "sticker"
-        else:
-            res["media_type"] = "document"
-        return res
-
-    # ── روش پشتیبان: بررسی مستقیم آبجکت رسانه ──
+    # ── عکس ──
     if isinstance(message.media, MessageMediaPhoto):
         photo = message.media.photo
+        res["has_media"] = True
+        res["media_type"] = "photo"
+        res["ext"] = ".jpg"
         if photo:
-            res["has_media"] = True
-            res["media_type"] = "photo"
-            res["ext"] = ".jpg"
-            sizes = [s.size for s in photo.sizes
-                     if hasattr(s, "size") and isinstance(s.size, int)]
+            sizes = []
+            for s in photo.sizes:
+                sz = getattr(s, "size", None)
+                if isinstance(sz, int):
+                    sizes.append(sz)
             res["size"] = max(sizes, default=0)
-            return res
+        # در صورت وجود message.file (متادیتای مطمئن‌تر) اصلاح کن
+        f = getattr(message, "file", None)
+        if f is not None:
+            res["size"] = getattr(f, "size", None) or res["size"]
+            if getattr(f, "ext", None):
+                res["ext"] = f.ext
+            if getattr(f, "mime_type", None):
+                res["mime"] = f.mime_type
+        return res
 
+    # ── سند/ویدیو/صدا/استیکر ──
     if isinstance(message.media, MessageMediaDocument):
         doc = message.media.document
-        if doc:
-            res["has_media"] = True
-            res["size"] = doc.size or 0
-            res["mime"] = doc.mime_type or ""
-            res["media_type"] = "document"
-            for attr in doc.attributes:
-                if isinstance(attr, DocumentAttributeVideo):
-                    res["media_type"] = "video"
-                elif isinstance(attr, DocumentAttributeAudio):
-                    res["media_type"] = "audio"
-                elif isinstance(attr, DocumentAttributeFilename):
-                    fn = attr.file_name
-                    if fn and "." in fn:
-                        res["ext"] = "." + fn.rsplit(".", 1)[-1].lower()
-            if not res["ext"] and res["mime"]:
-                res["ext"] = mimetypes.guess_extension(res["mime"]) or ""
+        if doc is None:
+            res["media_type"] = "unsupported"
+            res["reason"] = NOTE_UNSUPPORTED
             return res
 
-    # ── سایر انواع پشتیبانی‌نشده ──
+        res["has_media"] = True
+        res["size"] = doc.size or 0
+        res["mime"] = doc.mime_type or ""
+
+        # اول پیاده‌روی روی صفت‌ها
+        has_video_attr = False
+        has_audio_attr = False
+        for attr in doc.attributes:
+            if isinstance(attr, DocumentAttributeVideo):
+                has_video_attr = True
+                # ویدیوهایی که round=True یا با صفت خاص هستند هم همچنان video
+            elif isinstance(attr, DocumentAttributeAudio):
+                has_audio_attr = True
+                if getattr(attr, "voice", False):
+                    res["media_type"] = "voice"
+            elif isinstance(attr, DocumentAttributeFilename):
+                fn = attr.file_name
+                if fn and "." in fn:
+                    res["ext"] = "." + fn.rsplit(".", 1)[-1].lower()
+
+        if has_video_attr:
+            # GIF معمولاً ویدیوی کوتاه بدون صدا با mime video/mp4 است
+            if res["mime"] == "image/gif":
+                res["media_type"] = "gif"
+            else:
+                res["media_type"] = "video"
+        elif res.get("media_type") == "voice":
+            pass
+        elif has_audio_attr:
+            res["media_type"] = "audio"
+        elif res["mime"] == "image/webp" or res["mime"] == "application/x-tgsticker":
+            res["media_type"] = "sticker"
+        elif res["mime"] == "image/gif":
+            res["media_type"] = "gif"
+        else:
+            # تشخیص کلی بر اساس MIME
+            res["media_type"] = classify_mime(res["mime"])
+
+        # پسوند فایل: اول از روی filename، بعد MIME، در آخر حدس
+        if not res["ext"]:
+            if res["mime"]:
+                res["ext"] = mimetypes.guess_extension(res["mime"]) or ""
+            if not res["ext"]:
+                defaults = {
+                    "photo": ".jpg",
+                    "video": ".mp4",
+                    "audio": ".mp3",
+                    "voice": ".ogg",
+                    "gif": ".mp4",
+                    "sticker": ".webp",
+                    "document": "",
+                }
+                res["ext"] = defaults.get(res["media_type"], "")
+
+        # استفاده از message.file به‌عنوان منبع مطمئن تکمیلی
+        f = getattr(message, "file", None)
+        if f is not None:
+            if getattr(f, "size", None):
+                res["size"] = f.size
+            if getattr(f, "ext", None) and not res["ext"]:
+                res["ext"] = f.ext
+            if getattr(f, "mime_type", None):
+                res["mime"] = f.mime_type
+        return res
+
+    # ── سایر انواع (poll, geo, contact, ...) ──
     res["media_type"] = "unsupported"
     res["reason"] = NOTE_UNSUPPORTED
     return res
