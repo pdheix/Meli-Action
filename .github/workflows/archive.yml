@@ -1,7 +1,7 @@
 name: Telegram News Archiver
 
 # ─────────────────────────────────────────────────────────────
-#  هر ۵ دقیقه یک‌بار اجرا می‌شود + امکان اجرای دستی از تب Actions
+#  هر ۱۰ دقیقه یک‌بار اجرا می‌شود + امکان اجرای دستی از تب Actions
 #  در هر اجرا:
 #   - فایل‌های JSON و رسانه‌ی قبلی پاک می‌شوند
 #   - پیام‌های اخیر از همه‌ی کانال‌ها دریافت می‌شود
@@ -10,7 +10,7 @@ name: Telegram News Archiver
 # ─────────────────────────────────────────────────────────────
 on:
   schedule:
-    - cron: '*/10 * * * *'      # every 5 minutes (GitHub time is UTC)
+    - cron: '*/10 * * * *'     # every 10 minutes (GitHub time is UTC)
   workflow_dispatch:           # manual run button
 
 permissions:
@@ -53,7 +53,7 @@ jobs:
 
           # ── مسیر و تنظیمات خروجی ──
           OUTPUT_FILE:                     "archive.json"           # یک فایل JSON واحد
-          MESSAGES_PER_CHANNEL:            "30"                     # پیام اخیر از هر کانال
+          TOTAL_MESSAGES:                  "60"                     # تعداد کل پیام در هر اجرا (به‌طور مساوی بین کانال‌ها)
           MAX_MEDIA_MB:                    "99"                     # حداکثر حجم دانلود (مگابایت)
           MAX_MEDIA_DOWNLOADS_PER_RUN:     "50"                     # حداکثر تعداد رسانه در هر اجرا
           RUN_TIME_BUDGET_SEC:             "480"                    # بودجه‌ی زمانی دانلود (ثانیه)
