@@ -52,7 +52,11 @@ OUTPUT_FILE   = BASE_DIR / os.environ.get("OUTPUT_FILE", "archive.json")
 # ───────────────────────── تنظیمات ────────────────────────────
 MAX_MEDIA_MB       = int(os.environ.get("MAX_MEDIA_MB", "99"))
 MAX_MEDIA_SIZE     = MAX_MEDIA_MB * 1024 * 1024
-MSG_PER_CHANNEL    = int(os.environ.get("MESSAGES_PER_CHANNEL", "30"))
+# تعداد کل پیام در هر اجرا که به‌طور مساوی بین کانال‌ها تقسیم می‌شود.
+# مثال: 60 پیام و 3 کانال → از هر کانال 20 پیام.
+TOTAL_MESSAGES     = int(os.environ.get("TOTAL_MESSAGES", "60"))
+# متغیر قدیمی (فقط برای سازگاری برگشتی؛ اگر TOTAL_MESSAGES نباشد استفاده می‌شود)
+MSG_PER_CHANNEL    = int(os.environ.get("MESSAGES_PER_CHANNEL", "0"))
 MAX_MEDIA_PER_RUN  = int(os.environ.get("MAX_MEDIA_DOWNLOADS_PER_RUN", "60"))
 RUN_TIME_BUDGET    = int(os.environ.get("RUN_TIME_BUDGET_SEC", "480"))  # ۸ دقیقه
 TEHRAN_TZ          = timezone(timedelta(hours=3, minutes=30))
@@ -314,7 +318,21 @@ def build_item(message, ch_username, ch_title, mi):
 #  دریافت پیام‌های یک کانال
 # ═══════════════════════════════════════════════════════════════
 
-async def fetch_channel(client, username):
+def compute_quotas(n_channels, total):
+    """
+    توزیع مساویِ «total» پیام بین «n_channels» کانال.
+    باقیمانده (تقسیم ناکامل) یکی‌یکی به کانال‌های اولیه اضافه می‌شود.
+    مثال: 60 پیام و 3 کانال → [20, 20, 20]
+          61 پیام و 3 کانال → [21, 20, 20]
+    """
+    if n_channels <= 0:
+        return []
+    base = total // n_channels
+    remainder = total % n_channels
+    return [base + (1 if i < remainder else 0) for i in range(n_channels)]
+
+
+async def fetch_channel(client, username, quota):
     try:
         entity = await client.get_entity(username)
     except UsernameNotOccupiedError:
@@ -330,8 +348,12 @@ async def fetch_channel(client, username):
     ch_title = get_display_name(entity) or username
     real_user = getattr(entity, "username", None) or username
 
+    if quota <= 0:
+        return [], real_user
+
     try:
-        msgs = await client.get_messages(entity, limit=MSG_PER_CHANNEL)
+        # get_messages به‌طور پیش‌فرض پیام‌ها را از جدیدترین به قدیمی‌ترین برمی‌گرداند
+        msgs = await client.get_messages(entity, limit=quota)
     except FloodWaitError as e:
         print(f"  [محدودیت] @{real_user}: {e.seconds} ثانیه صبر لازم است.")
         return [], real_user
@@ -339,12 +361,10 @@ async def fetch_channel(client, username):
         print(f"  [خطا] دریافت @{real_user}: {e}")
         return [], real_user
 
-    # از قدیم به جدید
-    msgs = sorted(msgs, key=lambda m: m.id)
-    print(f"  @{real_user} ({ch_title}): {len(msgs)} پیام اخیر (سقف={MSG_PER_CHANNEL})")
+    print(f"  @{real_user} ({ch_title}): {len(msgs)} پیام (سهمیه={quota})")
 
     items = []
-    for msg in msgs:
+    for msg in msgs:  # ترتیب: جدیدترین ابتدا
         mi = analyze_media(msg)
         items.append(build_item(msg, real_user, ch_title, mi))
     return items, real_user
@@ -355,10 +375,18 @@ async def fetch_channel(client, username):
 # ═══════════════════════════════════════════════════════════════
 
 def interleave_round_robin(grouped, channel_order):
-    queues = {}
-    for ch in channel_order:
-        if ch in grouped:
-            queues[ch] = list(grouped[ch])
+    """
+    چینش متوازن پیام‌ها از کانال‌های مختلف به‌صورت round-robin.
+
+    ورودیِ هر کانال از جدیدترین به قدیمی‌ترین مرتب شده است.
+    در خروجی، اولین آیتم از اولین کانال، سپس اولین آیتم از کانال بعدی و ...
+    قرار می‌گیرد؛ به این ترتیب جدیدترین پیامِ هر کانال در ابتدای نوبت خودش
+    و در بالاترین جایگاهِ ممکن در فایل JSON ظاهر می‌شود.
+
+    مثال با ۳ کانال و ۳ پیام از هر کدام (a1 جدیدترین پیام a است):
+      [a1, b1, c1, a2, b2, c2, a3, b3, c3]
+    """
+    queues = {ch: list(grouped[ch]) for ch in channel_order if ch in grouped}
     for ch, lst in grouped.items():
         queues.setdefault(ch, list(lst))
 
@@ -366,8 +394,14 @@ def interleave_round_robin(grouped, channel_order):
     remaining = True
     while remaining:
         remaining = False
+        for ch in channel_order:
+            q = queues.get(ch)
+            if q:
+                result.append(q.pop(0))   # جدیدترینِ باقی‌مانده از این کانال
+                remaining = True
+        # کانال‌هایی که شاید در channel_order نبوده‌اند
         for ch in list(queues.keys()):
-            if queues[ch]:
+            if ch not in channel_order and queues[ch]:
                 result.append(queues[ch].pop(0))
                 remaining = True
     return result
@@ -486,6 +520,15 @@ async def main():
     # ۱) پاک‌سازی خروجی‌های قبلی
     wipe_old_outputs()
 
+    # محاسبه‌ی سهمیه‌ی هر کانال از کل پیام‌ها
+    n_channels = len(channels)
+    if TOTAL_MESSAGES > 0:
+        quotas = compute_quotas(n_channels, TOTAL_MESSAGES)
+    else:
+        # سازگاری برگشتی: اگر TOTAL_MESSAGES=0 بود از MESSAGES_PER_CHANNEL استفاده کن
+        quotas = [MSG_PER_CHANNEL] * n_channels
+    print(f"📊 توزیع سهمیه: مجموع {sum(quotas)} پیام بین {n_channels} کانال → {quotas}")
+
     print(f"🔗 پایه‌ی لینک raw: {RAW_BASE_URL or '(تنظیم نشده — media_link خالی خواهد ماند)'}" )
 
     print("🔌 اتصال به تلگرام...")
@@ -505,20 +548,30 @@ async def main():
         me = await client.get_me()
         print(f"✅ ورود موفق: {me.first_name} (id={me.id})")
 
-        # ۲) دریافت پیام‌های همه‌ی کانال‌ها
-        for username in channels:
+        # ۲) دریافت پیام‌های همه‌ی کانال‌ها با توزیع سهمیه
+        for idx, username in enumerate(channels):
             print(f"\n── دریافت @{username} ──")
+            quota = quotas[idx] if idx < len(quotas) else 0
             try:
-                items, real_user = await fetch_channel(client, username)
+                items, real_user = await fetch_channel(client, username, quota)
             except Exception as e:
                 print(f"  [خطای پیش‌بینی‌نشده] @{username}: {e}")
                 traceback.print_exc()
                 items, real_user = [], None
+
+            key = real_user or username
             if items:
-                key = real_user or username
                 grouped[key] = items
                 if key not in channel_order:
                     channel_order.append(key)
+
+            # اگر این کانال کمتر از سهمیه‌اش پیام داشت، باقی‌مانده را
+            # به کانال‌های بعدی منتقل کن تا مجموع پیام‌ها تا حد امکان به TOTAL_MESSAGES برسد.
+            if idx + 1 < len(quotas):
+                deficit = quota - len(items)
+                if deficit > 0:
+                    quotas[idx + 1] += deficit
+                    print(f"  ↪️ {deficit} سهمیه‌ی بلااستفاده به کانال بعدی منتقل شد.")
 
         # ۳) چینش متوازن
         all_items = interleave_round_robin(grouped, channel_order)
