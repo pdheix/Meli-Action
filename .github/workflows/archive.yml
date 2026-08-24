@@ -10,7 +10,7 @@ name: Telegram News Archiver
 # ─────────────────────────────────────────────────────────────
 on:
   schedule:
-    - cron: '*/5 * * * *'      # every 5 minutes (GitHub time is UTC)
+    - cron: '*/10 * * * *'      # every 5 minutes (GitHub time is UTC)
   workflow_dispatch:           # manual run button
 
 permissions:
