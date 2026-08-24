@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24T16:57:25.300495+00:00",
-  "shamsi_generated": "1405/06/02 16:57:25 تهران",
+  "generated_at": "2026-08-24T17:40:25.300393+00:00",
+  "shamsi_generated": "1405/06/02 17:40:25 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -33,25 +33,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-24T16:54:35.653660+00:00"
+      "archived_at": "2026-08-24T17:37:17.205708+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354021,
-      "message_link": "https://t.me/IranintlTV/354021",
-      "text": "ربات‌های انسان‌نما دوشنبه دوم شهریور در بازی‌های جهانی ربات‌های انسان‌نما که در سالن ملی اسکیت سرعت پکن برگزار می‌شود، برای نخستین‌بار در رشته وزنه‌برداری به رقابت پرداختند.\n\nچهار ربات حاضر در دسته سنگین‌وزن، کار خود را با بلند کردن هالتر ۱۵ کیلوگرمی آغاز کردند. در یکی از تلاش‌ها، رباتی تعادلش را از دست داد و به‌سمت میز داوران سقوط کرد. پس از آن، مسئولان بلافاصله رقابت را متوقف و آن حرکت را پایان‌یافته اعلام کردند.\n\nرقابت‌های چیرلیدینگ و باز کردن درِ بطری نیز دوشنبه برگزار شد. دومین دوره این بازی‌ها شامل ۵۱ رویداد، از جمله ۳۰ رقابت ورزشی و ۲۱ مسابقه مبتنی بر سناریو، است و تا چهارشنبه چهارم شهریور ادامه دارد.\n@iranintltv",
+      "message_id": 354035,
+      "message_link": "https://t.me/IranintlTV/354035",
+      "text": "محمدباقر قالیباف، رییس مجلس، در شبکه ایکس، نوشت آمریکایی‌ها می‌دانند که کسی «گنده‌لافی‌های» آنها را باور نمی‌کند.\n\nاو تاکید کرد: «آمریکا از لحاظ اقتصادی در شرایطی نیست که بخواهد روابط خود با دیگر کشورها را محدودتر از این کند.»\n\nقالیباف نوشت که شرکای تجاری جمهوری اسلامی هم در رسانه‌ها و هم با ارسال پیام‌ به ما اعلام کرده‌اند که به این اظهارات اهمیت نمی‌دهند.\nhttps://iranintl.com/202608244856",
       "shamsi_date": "1405/06/02",
-      "tehran_time": "20:21:32",
-      "gregorian_utc": "2026-08-24T16:51:32+00:00",
-      "media_type": "video",
-      "media_size_bytes": 2034889,
-      "media_size_human": "1.94 MB",
+      "tehran_time": "21:05:32",
+      "gregorian_utc": "2026-08-24T17:35:32+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 132646,
+      "media_size_human": "129.54 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354021_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354021_video.mp4",
+      "media_local_path": "media/IranintlTV_354035_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354035_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-24T16:54:36.026205+00:00"
+      "archived_at": "2026-08-24T17:37:17.529369+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -69,7 +69,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-08-24T16:54:36.369331+00:00"
+      "archived_at": "2026-08-24T17:37:17.877949+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -87,25 +87,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-24T16:54:35.653691+00:00"
+      "archived_at": "2026-08-24T17:37:17.205748+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354020,
-      "message_link": "https://t.me/IranintlTV/354020",
-      "text": "الحدث به نقل از منابع خود گزارش داد که دولت عراق نگران فشارهای آمریکا برای اجرای تحریم‌های اعمال‌شده علیه جمهوری اسلامی از جمله اعمال محدودیت بر گذرگاه‌های مرزی زمینی با ایران و جلوگیری از فرود هواپیماهای ایرانی در فرودگاه‌های این کشور است.\n\nدولت آمریکا از آغاز عملیات بزرگ اقتصادی علیه جمهوری اسلامی از دوشنبه ۲ شهریور ۱۴۰۵ خبر داده است. \nhttps://iranintl.com/202608248937",
+      "message_id": 354034,
+      "message_link": "https://t.me/IranintlTV/354034",
+      "text": "اسکات بسنت، وزیر خزانه‌داری آمریکا، گفت: «دیوار برلین زمانی سقوط کرد که سربازان عادی تصمیم گرفتند دیگر به مردم عادی، به شهروندان خودشان، شلیک نکنند. به کسانی که در تهران نشسته‌اند می‌گوییم اراده واشینگتن را به بوته آزمایش نگذارید. هیچ کشوری تحمل نمی‌کند دیگران در پی نابودی آن کشور باشند.\n\nرژیم ایران باید انتخاب کند؛ بین انزوا و شکوفایی، بین صلح و جنگ. دنیا هم باید انتخاب کند که می‌خواهد با آمریکا باشد یا بدون آمریکا. ما از پا نخواهیم نشست تا زمانی که این رژیم تنها شود.»\n@iranintltv",
       "shamsi_date": "1405/06/02",
-      "tehran_time": "20:20:03",
-      "gregorian_utc": "2026-08-24T16:50:03+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 174750,
-      "media_size_human": "170.65 KB",
+      "tehran_time": "21:01:06",
+      "gregorian_utc": "2026-08-24T17:31:06+00:00",
+      "media_type": "video",
+      "media_size_bytes": 614458,
+      "media_size_human": "600.06 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354020_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354020_photo.jpg",
+      "media_local_path": "media/IranintlTV_354034_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354034_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-24T16:54:36.026277+00:00"
+      "archived_at": "2026-08-24T17:37:17.529458+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -123,7 +123,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-24T16:54:36.369393+00:00"
+      "archived_at": "2026-08-24T17:37:17.878019+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -141,25 +141,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-24T16:54:35.653710+00:00"
+      "archived_at": "2026-08-24T17:37:17.205774+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354019,
-      "message_link": "https://t.me/IranintlTV/354019",
-      "text": "تیتر اول با نیوشا صارمی، دوشنبه ۲ شهریور\n@iranintltv",
+      "message_id": 354033,
+      "message_link": "https://t.me/IranintlTV/354033",
+      "text": "اسکات بسنت، وزیر خزانه‌داری آمریکا، گفت امروز مرحله نهایی رویارویی با جمهوری اسلامی آغاز می‌شود و بزرگ‌ترین تهاجم مالی که تاکنون علیه تهران طراحی شده، به اجرا درمی‌آید. هم‌زمان، دونالد ترامپ گفت جمهوری اسلامی کاملا در حال فروپاشی است.\n\nدر همین حال، ارزش پول ملی ایران به پایین‌ترین سطح تاریخی خود رسیده است.\n\nگزارش بابک اسحاقی و سمیرا قرایی، خبرنگاران ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/06/02",
-      "tehran_time": "20:09:41",
-      "gregorian_utc": "2026-08-24T16:39:41+00:00",
+      "tehran_time": "20:57:24",
+      "gregorian_utc": "2026-08-24T17:27:24+00:00",
       "media_type": "video",
-      "media_size_bytes": 789597,
-      "media_size_human": "771.09 KB",
+      "media_size_bytes": 6411625,
+      "media_size_human": "6.11 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354019_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354019_video.mp4",
+      "media_local_path": "media/IranintlTV_354033_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354033_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-24T16:54:36.026321+00:00"
+      "archived_at": "2026-08-24T17:37:17.529519+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -177,7 +177,7 @@
       "media_local_path": "media/satlastnews_76335_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76335_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-24T16:54:36.369435+00:00"
+      "archived_at": "2026-08-24T17:37:17.878067+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -195,25 +195,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-24T16:54:35.653730+00:00"
+      "archived_at": "2026-08-24T17:37:17.205799+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354018,
-      "message_link": "https://t.me/IranintlTV/354018",
-      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال، یخچال خالی خانه‌اش را نشان می‌دهد و می‌گوید: «درآمدی نداریم و قرار است بنزین را هم گران‌تر کنند.»",
+      "message_id": 354032,
+      "message_link": "https://t.me/IranintlTV/354032",
+      "text": "اسکات بسنت، وزیر خزانه‌داری ایالات متحده، گفت: «دیگر هیچ کشوری نمی‌تواند ادعای ناآگاهی کند. کسانی که ایران را توانمند می‌کنند، درآمدهای مالی آن را تسهیل می‌کنند، سوخت قاچاق ایران را نادیده می‌گیرند یا اجازه استفاده از بانک‌های خود را به ایران می‌دهند، همدست حکومت ایران هستند.»\nبسنت افزود: «کشورهایی که در کنار آمریکا بایستند از مزایای این حمایت برخوردار خواهند شد و کسانی که به حکومت ایران کمک کنند، مانند حکومت ایران منزوی خواهند شد.»\n@iranintltv",
       "shamsi_date": "1405/06/02",
-      "tehran_time": "20:01:21",
-      "gregorian_utc": "2026-08-24T16:31:21+00:00",
+      "tehran_time": "20:56:31",
+      "gregorian_utc": "2026-08-24T17:26:31+00:00",
       "media_type": "video",
-      "media_size_bytes": 12698495,
-      "media_size_human": "12.11 MB",
+      "media_size_bytes": 4684883,
+      "media_size_human": "4.47 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354018_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354018_video.mp4",
+      "media_local_path": "media/IranintlTV_354032_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354032_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-24T16:54:36.026344+00:00"
+      "archived_at": "2026-08-24T17:37:17.529581+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -231,7 +231,7 @@
       "media_local_path": "media/satlastnews_76334_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76334_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-24T16:54:36.369473+00:00"
+      "archived_at": "2026-08-24T17:37:17.878112+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -249,25 +249,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-24T16:54:35.653748+00:00"
+      "archived_at": "2026-08-24T17:37:17.205819+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354016,
-      "message_link": "https://t.me/IranintlTV/354016",
-      "text": "دونالد ترامپ، رییس‌جمهوری آمریکا، در تروث سوشال با اشاره به اینکه «دموکرات‌های چپ رادیکال با نظرسنجی‌های جعلی دارند دیوانه‌وار عمل می‌کنند»، نوشت: «روحیه در کشور ما هیچ‌گاه تا این اندازه بالا نبوده است. ما در برابر همه در حال پیروزی هستیم، از جمله ایران؛ کشوری که در یک مارپیچ مرگ اقتصادی و نظامی گرفتار شده است.»\n\nترامپ دوشنبه در پستی دیگر در تروث‌سوشال نیز گفته بود که ایران در حال فروپاشی است.\nhttps://iranintl.com/202608242948",
+      "message_id": 354031,
+      "message_link": "https://t.me/IranintlTV/354031",
+      "text": "اسکات بسنت، وزیر خزانه‌داری آمریکا، گفت: «به دستور دونالد ترامپ، رییس‌جمهوری آمریکا، عملیات طرد اقتصادی را آغاز کرده‌ایم؛ کارزاری بی‌سابقه علیه جمهوری اسلامی و حامیان و تسهیل‌کنندگان آن.»\n\nبسنت گفت که حمله‌ای اقتصادی علیه ارتباطات مالی جمهوری اسلامی در سراسر جهان آغاز می‌کنیم.\n\nاو افزود: «هدف قطع تمام شریان‌های اقتصادی است که حکومت را سرپا نگه می‌دارند تا تهران در انزوا قرار گیرد.»\n\nوزیر خزانه‌داری آمریکا گفت: «تندروهای ایران خود را وقف شعار مرگ بر آمریکا کرده‌اند و برای تحقق آن به دنبال سلاح هسته‌ای هستند. آنها ۴۷ سال است که علیه آمریکا، همسایگانشان در خلیج فارس و بخش بزرگی از جهان در جنگند.»\n\nبسنت تاکید کرد: «حکومت ایران اکنون با انتخابی کاملا روشن و دو مسیر روبه‌روست؛ انزوای کامل جهانی و اقتصادی در حد گذران زندگی، یا بازگشت به شرایط عادی و فرصتی برای پیوستن دوباره به اقتصاد جهانی.» \nhttps://iranintl.com/202608245421",
       "shamsi_date": "1405/06/02",
-      "tehran_time": "19:59:01",
-      "gregorian_utc": "2026-08-24T16:29:01+00:00",
+      "tehran_time": "20:49:54",
+      "gregorian_utc": "2026-08-24T17:19:54+00:00",
       "media_type": "photo",
-      "media_size_bytes": 156691,
-      "media_size_human": "153.02 KB",
+      "media_size_bytes": 64817,
+      "media_size_human": "63.30 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354016_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354016_photo.jpg",
+      "media_local_path": "media/IranintlTV_354031_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354031_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-24T16:54:36.026395+00:00"
+      "archived_at": "2026-08-24T17:37:17.529679+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -285,7 +285,7 @@
       "media_local_path": "media/satlastnews_76333_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76333_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-24T16:54:36.369606+00:00"
+      "archived_at": "2026-08-24T17:37:17.878258+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -303,25 +303,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-24T16:54:35.653768+00:00"
+      "archived_at": "2026-08-24T17:37:17.205844+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354015,
-      "message_link": "https://t.me/IranintlTV/354015",
-      "text": "محمدباقر قالیباف، رییس مجلس شورای اسلامی، در دیدار عصر دوشنبه با عاصم منیر، رییس ستادکل ارتش پاکستان، گفت: «تعهدات طرفین در یادداشت تفاهم روشن است و این آمریکا بود که با بدعهدی مانع برقراری ثبات در منطقه شد و دلیل دیگری برای بی اعتمادی به این کشور ایجاد کرد.»\n\nرییس هیات مذاکره‌کننده جمهوری اسلامی، با رد تاثیرپذیری تهران از فشارها، گفت: «ما پیگیر اجرای شروط یادداشت تفاهم هستیم و این آمریکاست که باید به تعهدات خود بر اساس تفاهم‌نامه پایبند باشد.»\nhttps://iranintl.com/202608240721",
+      "message_id": 354030,
+      "message_link": "https://t.me/IranintlTV/354030",
+      "text": "اسکات بسنت، وزیر خزانه‌داری ایالات متحده، گفت: «در جبهه اقتصاد، تحت فرمان پرزیدنت ترامپ، عملیات ممتد اقتصادی را در کنار و به موازات عملیات نظامی ادامه می‌دهیم.»\nاو افزود: «ایران با انتخابی روشن مواجه است؛ یا انزوای کامل جهانی و اقتصادی ورشکسته، یا بازگشت به حیات عادی و پیوستن به اقتصاد جهانی. امروز عملیات محاصره اقتصادی را آغاز می‌کنیم تا هیچ گزینه دیگری برای حکومت ایران باقی نماند.»\n@iranintltv",
       "shamsi_date": "1405/06/02",
-      "tehran_time": "19:38:09",
-      "gregorian_utc": "2026-08-24T16:08:09+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 153225,
-      "media_size_human": "149.63 KB",
+      "tehran_time": "20:49:23",
+      "gregorian_utc": "2026-08-24T17:19:23+00:00",
+      "media_type": "video",
+      "media_size_bytes": 4138667,
+      "media_size_human": "3.95 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354015_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354015_photo.jpg",
+      "media_local_path": "media/IranintlTV_354030_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354030_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-24T16:54:36.026448+00:00"
+      "archived_at": "2026-08-24T17:37:17.529751+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -339,7 +339,7 @@
       "media_local_path": "media/satlastnews_76332_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76332_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-24T16:54:36.369654+00:00"
+      "archived_at": "2026-08-24T17:37:17.878316+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -357,25 +357,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-24T16:54:35.653783+00:00"
+      "archived_at": "2026-08-24T17:37:17.205863+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354014,
-      "message_link": "https://t.me/IranintlTV/354014",
-      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال در خصوص گرانی‌های شدید در ایران می‌گوید: «یک خرید فروشگاهی برای خانه، شد ۱۸ میلیون تومان که فقط سه میلیون آن را با کالابرگ پرداختیم.»",
+      "message_id": 354029,
+      "message_link": "https://t.me/IranintlTV/354029",
+      "text": "بنیامین نتانیاهو، نخست‌وزیر اسرائیل، در گفت‌وگو با کانال ۱۴ اسرائیل، از اقدام جمهوری اسلامی برای ترور فرزندش خبر داد و گفت: «فکر می‌کنم اینجا با چیزی روبه‌رو هستیم که غیرقابل‌قبول است. بله. ایران یکی از پسرهایم را تهدید کرد. ایران تلاش کرد یکی از پسرهایم را پیدا کند و بکشد. تلاش کرد او را پیدا کند.»\n\nنتانیاهو در پاسخ به اینکه آیا این موضوع بر اساس اطلاعاتی بوده که درباره ایران در اختیارش قرار گرفته، توضیح بیشتری نداد و گفت که حفاظت از پسرانش یک امر تجملی نیست. او افزود: «اگر این حفاظت نباشد، آنها به‌سادگی موفق خواهند شد.»\nhttps://iranintl.com/202608248550",
       "shamsi_date": "1405/06/02",
-      "tehran_time": "19:33:03",
-      "gregorian_utc": "2026-08-24T16:03:03+00:00",
-      "media_type": "video",
-      "media_size_bytes": 5296112,
-      "media_size_human": "5.05 MB",
+      "tehran_time": "20:44:13",
+      "gregorian_utc": "2026-08-24T17:14:13+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 159764,
+      "media_size_human": "156.02 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354014_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354014_video.mp4",
+      "media_local_path": "media/IranintlTV_354029_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354029_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-24T16:54:36.026471+00:00"
+      "archived_at": "2026-08-24T17:37:17.529821+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -393,7 +393,7 @@
       "media_local_path": "media/satlastnews_76331_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76331_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-24T16:54:36.369689+00:00"
+      "archived_at": "2026-08-24T17:37:17.878357+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -411,25 +411,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-24T16:54:35.653810+00:00"
+      "archived_at": "2026-08-24T17:37:17.205894+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354013,
-      "message_link": "https://t.me/IranintlTV/354013",
-      "text": "محمد مخبر، دستیار مجتبی خامنه‌ای، در ایکس نوشت که راهبردها علیه جمهوری اسلامی شامل تحریم و جنگ در طول ۴۷ سال گذشته شکست خورده و دشمن «با بازدارندگی جمهوری اسلامی در تنگه هرمز مواجه» مواجه شده است.\n\nدستیار رهبر جمهوری اسلامی نوشت که این شکست راهبردی، هشداری قطعی برای تداوم محاسبات غلط بوده و پاسخ جمهوری قاطع‌تر از گذشته خواهد بود.\nhttps://iranintl.com/202608247508",
+      "message_id": 354028,
+      "message_link": "https://t.me/IranintlTV/354028",
+      "text": "🔻تیم فوتبال تراکتور در هفته سوم لیگ برتر، پرسپولیس را با نتیجه یک بر صفر شکست داد و با ۹ امتیاز به دلیل تفاضل گل کمتر، در رده دوم جدول قرار گرفت.\n\n🔹تک گل بازی را تومیسلاو اشترکالی در دقیقه ۹۰ برای تراکتور به ثمر رساند. این بازی بدون حضور تماشاگر در استادیوم سهند تبریز برگزار شد.\n\n@iranintltvsport",
       "shamsi_date": "1405/06/02",
-      "tehran_time": "19:26:58",
-      "gregorian_utc": "2026-08-24T15:56:58+00:00",
+      "tehran_time": "20:37:22",
+      "gregorian_utc": "2026-08-24T17:07:22+00:00",
       "media_type": "photo",
-      "media_size_bytes": 142192,
-      "media_size_human": "138.86 KB",
+      "media_size_bytes": 180168,
+      "media_size_human": "175.95 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354013_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354013_photo.jpg",
+      "media_local_path": "media/IranintlTV_354028_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354028_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-24T16:54:36.026515+00:00"
+      "archived_at": "2026-08-24T17:37:17.596678+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -447,7 +447,7 @@
       "media_local_path": "media/satlastnews_76330_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76330_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-24T16:54:36.369716+00:00"
+      "archived_at": "2026-08-24T17:37:17.878389+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -465,25 +465,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-24T16:54:35.653826+00:00"
+      "archived_at": "2026-08-24T17:37:17.205912+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354012,
-      "message_link": "https://t.me/IranintlTV/354012",
-      "text": "🔻با دو طلای سینا خلیلی و ابوالفضل محمدنژاد، پرونده آزادکاران ایران در مسابقات جوانان جهان با مقام چهارمی بسته شد و ایران پس از ۱۰ سال روی سکوی تیمی نرفت.\n\n🔹گفت‌وگو با ابراهیم اسحاقی، کشتی‌گیر\n\n‌@iranintltvsport",
+      "message_id": 354027,
+      "message_link": "https://t.me/IranintlTV/354027",
+      "text": "بر اساس گزارش موسسه پژوهش‌های اقتصادی اتریش، جنگ مرتبط با جمهوری اسلامی و افزایش قیمت نفت، روند بهبود اقتصاد این کشور را متوقف کرده است.\n\nاین گزارش نشان می‌دهد بخش خرده‌فروشی اتریش در نیمه نخست سال عملا در رکود بوده است.\n\nگزارش علی حسن‌پور، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/06/02",
-      "tehran_time": "19:22:41",
-      "gregorian_utc": "2026-08-24T15:52:41+00:00",
+      "tehran_time": "20:35:54",
+      "gregorian_utc": "2026-08-24T17:05:54+00:00",
       "media_type": "video",
-      "media_size_bytes": 2265984,
-      "media_size_human": "2.16 MB",
+      "media_size_bytes": 1674335,
+      "media_size_human": "1.60 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354012_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354012_video.mp4",
+      "media_local_path": "media/IranintlTV_354027_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354027_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-24T16:54:36.036652+00:00"
+      "archived_at": "2026-08-24T17:37:17.596838+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -501,7 +501,7 @@
       "media_local_path": "media/satlastnews_76329_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76329_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-24T16:54:36.369747+00:00"
+      "archived_at": "2026-08-24T17:37:17.878420+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -519,25 +519,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-24T16:54:35.653840+00:00"
+      "archived_at": "2026-08-24T17:37:17.205930+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354011,
-      "message_link": "https://t.me/IranintlTV/354011",
-      "text": "آنتونیو گوترش، دبیرکل سازمان ملل، با تاکید بر اینکه اعمال بدون مانع حقوق و آزادی‌های کشتیرانی، یکی از ارکان صلح، امنیت و رفاه مشترک است و باید مورد احترام قرار گیرد، نوشت: «حملات و اختلال در تردد دریایی در تنگه هرمز و دریای سرخ، جابه‌جایی انرژی، کود و سایر کالاهای اساسی را با محدودیت مواجه کرده است.»\n\nگوترش نوشت: «در درگیری پس از تهاجم تمام‌عیار روسیه به اوکراین نیز حملات، مسیرهای کشتیرانی حیاتی برای صادرات نفت، غلات و سایر محصولات کشاورزی را تهدید می‌کنند.»\n\nدبیرکل سازمان ملل نوشت: «پیامد این وضعیت، افزایش قیمت‌ها، تشدید گرسنگی و دشوارتر شدن شرایط زندگی است؛ به‌ویژه برای آسیب‌پذیرترین مردم جهان.»\nhttps://iranintl.com/202608243372",
+      "message_id": 354026,
+      "message_link": "https://t.me/IranintlTV/354026",
+      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال در دوشنبه دوم شهریور، آب شرب آلوده را در عظیمیه کرج نشان می‌دهد.",
       "shamsi_date": "1405/06/02",
-      "tehran_time": "19:07:16",
-      "gregorian_utc": "2026-08-24T15:37:16+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 166095,
-      "media_size_human": "162.20 KB",
+      "tehran_time": "20:31:55",
+      "gregorian_utc": "2026-08-24T17:01:55+00:00",
+      "media_type": "video",
+      "media_size_bytes": 14790957,
+      "media_size_human": "14.11 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354011_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354011_photo.jpg",
+      "media_local_path": "media/IranintlTV_354026_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354026_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-24T16:54:36.036768+00:00"
+      "archived_at": "2026-08-24T17:37:17.596873+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -555,7 +555,7 @@
       "media_local_path": "media/satlastnews_76326_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76326_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-24T16:54:36.369815+00:00"
+      "archived_at": "2026-08-24T17:37:17.878506+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -573,25 +573,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-24T16:54:35.653854+00:00"
+      "archived_at": "2026-08-24T17:37:17.205946+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354010,
-      "message_link": "https://t.me/IranintlTV/354010",
-      "text": "یک شهروند ساکن شهرک رضویه در تهران با ارسال ویدیویی به ایران‌اینترنشنال می‌گوید: «آب و برق نداریم و با دلار ۲۰۰ هزار تومانی، یخچال‌هایمان خالی است.»",
+      "message_id": 354025,
+      "message_link": "https://t.me/IranintlTV/354025",
+      "text": "**آمریکا می‌گوید در آستانهٔ رونمایی از «بزرگ‌ترین حملهٔ مالی» علیه یک کشور است و به شرکای تجاری جمهوری اسلامی هشدار داده که باید میان تهران و دسترسی به آمریکا و نظام مالی جهانی، یکی را انتخاب کنند.**\n**هدف اعلام‌شده، جمهوری اسلامی است؛ اما مردم ایران نخستین قربانیان این جنگ اقتصادی‌اند.**\n**تا کی باید مردم تاوان سیاست‌های جمهوری اسلامی را بپردازند؟**\n**حالا پرسش فقط این نیست که تحریم‌ها چه پیامدهایی خواهند داشت؛ پرسش این است که مردم برای حفظ کار، معیشت و آیندهٔ خود چه راهی پیش رو دارند؟**\n**نظر شما چیست؟**\n**همین حالا در واتس‌اپ پیام بدهید؛ شما را بدون نوبت، مستقیم از ایران روی خط می‌آوریم:**\n**۰۰۴۴۷۵۲۲۱۱۰۱۱۰**\n**۰۰۴۴۷۵۴۴۱۱۰۱۱۰**\n**۰۰۴۴۷۵۱۱۱۰۲۵۵۳**\n**بیایید و روایت خود را برای همیشه ثبت کنید؛ تاریخ با صدای شما نوشته می‌شود.**\n**«برنامه با کامبیز حسینی»**\n**«برنامه» صدای شماست.**\n**«یک ایران صدای شما را می‌شنود.»**\n@iranintltv",
       "shamsi_date": "1405/06/02",
-      "tehran_time": "19:02:35",
-      "gregorian_utc": "2026-08-24T15:32:35+00:00",
-      "media_type": "video",
-      "media_size_bytes": 2902786,
-      "media_size_human": "2.77 MB",
+      "tehran_time": "20:30:32",
+      "gregorian_utc": "2026-08-24T17:00:32+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 268928,
+      "media_size_human": "262.62 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354010_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354010_video.mp4",
+      "media_local_path": "media/IranintlTV_354025_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354025_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-24T16:54:36.036797+00:00"
+      "archived_at": "2026-08-24T17:37:17.597032+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -609,7 +609,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "نوع رسانه پشتیبانی نمی‌شود (نظرسنجی، موقعیت مکانی، مخاطب و...).",
-      "archived_at": "2026-08-24T16:54:36.369832+00:00"
+      "archived_at": "2026-08-24T17:37:17.878524+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -627,25 +627,25 @@
       "media_local_path": "media/zedTV_12079_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_12079_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-24T16:54:35.653904+00:00"
+      "archived_at": "2026-08-24T17:37:17.206005+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354009,
-      "message_link": "https://t.me/IranintlTV/354009",
-      "text": "🔻ورزش سه ویدیویی منتشر کرده که نشان می‌دهد مهدی تارتار، سرمربی پرسپولیس پیش از بازی با تراکتور در استادیوم خالی از تماشاگر سهند تبریز، مشغول مترکردن زمین و بررسی چمن استادیوم است.\n\n@iranintltvsport",
+      "message_id": 354024,
+      "message_link": "https://t.me/IranintlTV/354024",
+      "text": "🎧نسخه صوتی اخبار شبانگاهی | دوشنبه ۲ شهریور\n@iranintlTV",
       "shamsi_date": "1405/06/02",
-      "tehran_time": "19:00:02",
-      "gregorian_utc": "2026-08-24T15:30:02+00:00",
-      "media_type": "video",
-      "media_size_bytes": 3139064,
-      "media_size_human": "2.99 MB",
+      "tehran_time": "20:30:05",
+      "gregorian_utc": "2026-08-24T17:00:05+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 30201580,
+      "media_size_human": "28.80 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354009_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354009_video.mp4",
+      "media_local_path": "media/IranintlTV_354024_audio.mp3",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354024_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-08-24T16:54:36.036840+00:00"
+      "archived_at": "2026-08-24T17:37:17.597083+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -663,7 +663,7 @@
       "media_local_path": "media/satlastnews_76324_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76324_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-24T16:54:36.369898+00:00"
+      "archived_at": "2026-08-24T17:37:17.878607+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -681,25 +681,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-24T16:54:35.653919+00:00"
+      "archived_at": "2026-08-24T17:37:17.206025+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354008,
-      "message_link": "https://t.me/IranintlTV/354008",
-      "text": "غلامحسین محسنی اژه‌ای، رییس قوه قضاییه جمهوری اسلامی، با اشاره به تهدیدهای اقتصادی آمریکا و تشدید تحریم‌ها گفت: «مگر تا الان تحریم نکرده بودند؟!»\n\nاو در ادامه گفت اسرائیل و آمریکا به دنبال «ایجاد شکاف میان مردم» و به میدان کشیدن برخی افراد در جهت خواسته‌های خود هستند «اما کور خوانده‌اند». \n@iranintltv",
+      "message_id": 354023,
+      "message_link": "https://t.me/IranintlTV/354023",
+      "text": "امانوئل مکرون، رییس‌جمهوری فرانسه، امروز در پاریس با محمد بن سلمان، ولیعهد عربستان سعودی، دیدار و گفت‌وگو می‌کند.\n\nاین دیدار با محوریت گسترش همکاری‌های دوجانبه و بررسی تحولات خاورمیانه برگزار می‌شود و دو طرف درباره موضوعات منطقه‌ای، از جمله اقدامات جمهوری اسلامی، گفت‌وگو خواهند کرد.\n\nگزارش ساجده شریفی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/06/02",
-      "tehran_time": "18:58:24",
-      "gregorian_utc": "2026-08-24T15:28:24+00:00",
+      "tehran_time": "20:27:26",
+      "gregorian_utc": "2026-08-24T16:57:26+00:00",
       "media_type": "video",
-      "media_size_bytes": 789984,
-      "media_size_human": "771.47 KB",
+      "media_size_bytes": 2539586,
+      "media_size_human": "2.42 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354008_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354008_video.mp4",
+      "media_local_path": "media/IranintlTV_354023_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354023_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-24T16:54:36.036882+00:00"
+      "archived_at": "2026-08-24T17:37:17.597138+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -717,7 +717,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-24T16:54:36.370121+00:00"
+      "archived_at": "2026-08-24T17:37:17.878909+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -735,25 +735,25 @@
       "media_local_path": "media/zedTV_12077_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_12077_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-24T16:54:35.653942+00:00"
+      "archived_at": "2026-08-24T17:37:17.206051+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354007,
-      "message_link": "https://t.me/IranintlTV/354007",
-      "text": "وزیر خزانه‌داری آمریکا با اعلام آغاز بزرگ‌ترین حمله اقتصادی تاریخ علیه جمهوری اسلامی، هدف این سیاست را تغییر رژیم خواند. همزمان، در تهران، در حالی که قیمت دلار از ۲۰۳ هزار تومان گذشت، رئیس دفتر پزشکیان، کاهش سهمیه بنزین و افزایش قیمت ان را قطعی دانست.\n\nگزارشی از مجتبا پورمحسن\n@iranintltv",
+      "message_id": 354022,
+      "message_link": "https://t.me/IranintlTV/354022",
+      "text": "قیمت برخی املاک لوکس در شمال تهران به متری ۲.۵ میلیارد تومان رسیده است؛ رقمی که با قیمت مسکن در مرکز مونیخ و سیدنی رقابت می‌کند. در مقابل، حداقل دستمزد کارگران در ایران ماهانه حدود ۱۷ میلیون تومان است که با احتساب مزایا می‌تواند به حدود ۲۲ میلیون تومان برسد؛ یعنی برای خرید تنها یک متر از چنین ملکی باید درآمد حدود ۸ تا ۱۰ سال را کنار بگذارند.\n\nهومن عابدی از ایران‌اینترنشنال گزارش می‌دهد\n@iranintltv",
       "shamsi_date": "1405/06/02",
-      "tehran_time": "18:50:29",
-      "gregorian_utc": "2026-08-24T15:20:29+00:00",
+      "tehran_time": "20:26:20",
+      "gregorian_utc": "2026-08-24T16:56:20+00:00",
       "media_type": "video",
-      "media_size_bytes": 6643776,
-      "media_size_human": "6.34 MB",
+      "media_size_bytes": 1805386,
+      "media_size_human": "1.72 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354007_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354007_video.mp4",
+      "media_local_path": "media/IranintlTV_354022_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354022_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-24T16:54:36.036923+00:00"
+      "archived_at": "2026-08-24T17:37:17.597196+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -771,7 +771,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-24T16:54:36.370153+00:00"
+      "archived_at": "2026-08-24T17:37:17.878953+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -789,25 +789,25 @@
       "media_local_path": "media/zedTV_12076_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_12076_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-24T16:54:35.653966+00:00"
+      "archived_at": "2026-08-24T17:37:17.206080+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354006,
-      "message_link": "https://t.me/IranintlTV/354006",
-      "text": "ولیعهد عربستان سعودی در سفر به پایتخت فرانسه با استقبال امانوئل مکرون روبه‌رو شد. سفر دو روزه محمد بن‌سلمان به پاریس با هدف تقویت همکاری‌های دوجانبه در زمینه‌های مختلف و بررسی تحولات خاورمیانه انجام می‌شود. \n@iranintltv",
+      "message_id": 354021,
+      "message_link": "https://t.me/IranintlTV/354021",
+      "text": "ربات‌های انسان‌نما دوشنبه دوم شهریور در بازی‌های جهانی ربات‌های انسان‌نما که در سالن ملی اسکیت سرعت پکن برگزار می‌شود، برای نخستین‌بار در رشته وزنه‌برداری به رقابت پرداختند.\n\nچهار ربات حاضر در دسته سنگین‌وزن، کار خود را با بلند کردن هالتر ۱۵ کیلوگرمی آغاز کردند. در یکی از تلاش‌ها، رباتی تعادلش را از دست داد و به‌سمت میز داوران سقوط کرد. پس از آن، مسئولان بلافاصله رقابت را متوقف و آن حرکت را پایان‌یافته اعلام کردند.\n\nرقابت‌های چیرلیدینگ و باز کردن درِ بطری نیز دوشنبه برگزار شد. دومین دوره این بازی‌ها شامل ۵۱ رویداد، از جمله ۳۰ رقابت ورزشی و ۲۱ مسابقه مبتنی بر سناریو، است و تا چهارشنبه چهارم شهریور ادامه دارد.\n@iranintltv",
       "shamsi_date": "1405/06/02",
-      "tehran_time": "18:47:06",
-      "gregorian_utc": "2026-08-24T15:17:06+00:00",
+      "tehran_time": "20:21:32",
+      "gregorian_utc": "2026-08-24T16:51:32+00:00",
       "media_type": "video",
-      "media_size_bytes": 918778,
-      "media_size_human": "897.24 KB",
+      "media_size_bytes": 2034889,
+      "media_size_human": "1.94 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354006_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354006_video.mp4",
+      "media_local_path": "media/IranintlTV_354021_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354021_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-24T16:54:36.036960+00:00"
+      "archived_at": "2026-08-24T17:37:17.597269+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -825,7 +825,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-24T16:54:36.370186+00:00"
+      "archived_at": "2026-08-24T17:37:17.878995+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -843,25 +843,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-24T16:54:35.653983+00:00"
+      "archived_at": "2026-08-24T17:37:17.206100+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354005,
-      "message_link": "https://t.me/IranintlTV/354005",
-      "text": "حسین محبی، سخنگوی سپاه پاسداران، گفت: «واقعیت میدانی نشان داد که با حذف یا تهدید افراد، خللی در ارکان اداره کشور ایجاد نمی‌شود؛ چرا که نظام اسلامی بر پایه پیوندهای عمیق میان مردم و حاکمیت استوار است، نه بر فرد.»\n\nسخنگوی سپاه گفت که دشمن با هدف قراردادن پایگاه‌های بسیج و پست‌های بازرسی، گمان می‌کرد امنیت خیابان‌ها فرو می‌پاشد، اما حضور نیروهای فراجا و بسیجیان در عرصه‌های عمومی، این سناریو را بلافاصله خنثی کرد.\n\nمحبی با اشاره به استمرار تولید موشک‌های هوشمند و هدایت‌پذیر، گفت: «مهم‌ترین دستاورد این جنگ، انتقال آسیب‌پذیری به زیرساخت‌های حیاتی و مراکز وابسته به دشمن بود.»\nhttps://iranintl.com/202608247128",
+      "message_id": 354020,
+      "message_link": "https://t.me/IranintlTV/354020",
+      "text": "الحدث به نقل از منابع خود گزارش داد که دولت عراق نگران فشارهای آمریکا برای اجرای تحریم‌های اعمال‌شده علیه جمهوری اسلامی از جمله اعمال محدودیت بر گذرگاه‌های مرزی زمینی با ایران و جلوگیری از فرود هواپیماهای ایرانی در فرودگاه‌های این کشور است.\n\nدولت آمریکا از آغاز عملیات بزرگ اقتصادی علیه جمهوری اسلامی از دوشنبه ۲ شهریور ۱۴۰۵ خبر داده است. \nhttps://iranintl.com/202608248937",
       "shamsi_date": "1405/06/02",
-      "tehran_time": "18:40:29",
-      "gregorian_utc": "2026-08-24T15:10:29+00:00",
+      "tehran_time": "20:20:03",
+      "gregorian_utc": "2026-08-24T16:50:03+00:00",
       "media_type": "photo",
-      "media_size_bytes": 171874,
-      "media_size_human": "167.85 KB",
+      "media_size_bytes": 174750,
+      "media_size_human": "170.65 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354005_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354005_photo.jpg",
+      "media_local_path": "media/IranintlTV_354020_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354020_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-24T16:54:36.037018+00:00"
+      "archived_at": "2026-08-24T17:37:17.597326+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -879,7 +879,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-24T16:54:36.370217+00:00"
+      "archived_at": "2026-08-24T17:37:17.879033+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -897,25 +897,25 @@
       "media_local_path": "media/zedTV_12074_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_12074_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-24T16:54:35.654008+00:00"
+      "archived_at": "2026-08-24T17:37:17.206128+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354004,
-      "message_link": "https://t.me/IranintlTV/354004",
-      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال در خصوص گرانی‌ها در ایران و افزایش شدید قیمت برنج و روغن می‌گوید: «با این گرانی‌ها فقط در تلاشیم زنده بمانیم نه اینکه زندگی کنیم.»",
+      "message_id": 354019,
+      "message_link": "https://t.me/IranintlTV/354019",
+      "text": "تیتر اول با نیوشا صارمی، دوشنبه ۲ شهریور\n@iranintltv",
       "shamsi_date": "1405/06/02",
-      "tehran_time": "18:31:57",
-      "gregorian_utc": "2026-08-24T15:01:57+00:00",
+      "tehran_time": "20:09:41",
+      "gregorian_utc": "2026-08-24T16:39:41+00:00",
       "media_type": "video",
-      "media_size_bytes": 15229404,
-      "media_size_human": "14.52 MB",
+      "media_size_bytes": 789597,
+      "media_size_human": "771.09 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354004_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354004_video.mp4",
+      "media_local_path": "media/IranintlTV_354019_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354019_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-24T16:54:36.037037+00:00"
+      "archived_at": "2026-08-24T17:37:17.597356+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -933,7 +933,7 @@
       "media_local_path": "media/satlastnews_76313_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76313_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-24T16:54:36.370238+00:00"
+      "archived_at": "2026-08-24T17:37:17.879057+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -951,25 +951,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-24T16:54:35.654023+00:00"
+      "archived_at": "2026-08-24T17:37:17.206144+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354003,
-      "message_link": "https://t.me/IranintlTV/354003",
-      "text": "رودیانساه، نوجوان ۱۶ ساله اندونزیایی، در حومه پالانگ‌کارایا در استان کالیمانتان مرکزی، همراه پدرش و داوطلبان محلی برای مقابله با آتش‌سوزی‌های جنگلی به گروه‌های اطفای حریق پیوسته است و با پوشیدن لباس سوپرمن با شعله‌ها مقابله می‌کند. او می‌گوید پس از مدرسه به جای ماندن در خانه، ترجیح می‌دهد به گروه آتش‌نشان‌ها ملحق شود. \n@iranintltv",
+      "message_id": 354018,
+      "message_link": "https://t.me/IranintlTV/354018",
+      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال، یخچال خالی خانه‌اش را نشان می‌دهد و می‌گوید: «درآمدی نداریم و قرار است بنزین را هم گران‌تر کنند.»",
       "shamsi_date": "1405/06/02",
-      "tehran_time": "18:23:31",
-      "gregorian_utc": "2026-08-24T14:53:31+00:00",
+      "tehran_time": "20:01:21",
+      "gregorian_utc": "2026-08-24T16:31:21+00:00",
       "media_type": "video",
-      "media_size_bytes": 399951,
-      "media_size_human": "390.58 KB",
+      "media_size_bytes": 12698495,
+      "media_size_human": "12.11 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354003_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354003_video.mp4",
+      "media_local_path": "media/IranintlTV_354018_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354018_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-24T16:54:36.037080+00:00"
+      "archived_at": "2026-08-24T17:37:17.597378+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -987,7 +987,7 @@
       "media_local_path": "media/satlastnews_76312_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76312_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-24T16:54:36.370257+00:00"
+      "archived_at": "2026-08-24T17:37:17.879078+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1005,25 +1005,25 @@
       "media_local_path": "media/zedTV_12072_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_12072_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-24T16:54:35.654076+00:00"
+      "archived_at": "2026-08-24T17:37:17.206204+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354002,
-      "message_link": "https://t.me/IranintlTV/354002",
-      "text": "روابط عمومی سازمان غذا و دارو اعلام کرد که محصول طبیعی اسپری بینی «کلدانیز» تولید شرکت نفس زیست فارمد، به دلیل عدم انطباق کیفی و آلودگی میکروبی، غیرمجاز شناخته شده و دستور جمع‌آوری فوری سری‌های ساخت مشخص‌شده از سراسر کشور صادر شده است.\n\nاین سازمان اعلام کرد که بر اساس این ابلاغیه، اسپری بینی «کلدانیز» با سری ساخت‌های ۲۵AF۰۰۷ (با تاریخ انقضای ۲۰۲۷/۰۷/۰۱) و ۲۴AF۰۰۸ (با تاریخ انقضای ۲۰۲۶/۱۲/۰۱) به دلیل آلودگی میکروبی مشمول جمع‌آوری فوری هستند.\nhttps://iranintl.com/202608249815",
+      "message_id": 354016,
+      "message_link": "https://t.me/IranintlTV/354016",
+      "text": "دونالد ترامپ، رییس‌جمهوری آمریکا، در تروث سوشال با اشاره به اینکه «دموکرات‌های چپ رادیکال با نظرسنجی‌های جعلی دارند دیوانه‌وار عمل می‌کنند»، نوشت: «روحیه در کشور ما هیچ‌گاه تا این اندازه بالا نبوده است. ما در برابر همه در حال پیروزی هستیم، از جمله ایران؛ کشوری که در یک مارپیچ مرگ اقتصادی و نظامی گرفتار شده است.»\n\nترامپ دوشنبه در پستی دیگر در تروث‌سوشال نیز گفته بود که ایران در حال فروپاشی است.\nhttps://iranintl.com/202608242948",
       "shamsi_date": "1405/06/02",
-      "tehran_time": "18:08:09",
-      "gregorian_utc": "2026-08-24T14:38:09+00:00",
+      "tehran_time": "19:59:01",
+      "gregorian_utc": "2026-08-24T16:29:01+00:00",
       "media_type": "photo",
-      "media_size_bytes": 115453,
-      "media_size_human": "112.75 KB",
+      "media_size_bytes": 156691,
+      "media_size_human": "153.02 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354002_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354002_photo.jpg",
+      "media_local_path": "media/IranintlTV_354016_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354016_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-24T16:54:36.037132+00:00"
+      "archived_at": "2026-08-24T17:37:17.597438+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1041,7 +1041,7 @@
       "media_local_path": "media/satlastnews_76311_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76311_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-24T16:54:36.370274+00:00"
+      "archived_at": "2026-08-24T17:37:17.879098+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1059,25 +1059,25 @@
       "media_local_path": "media/zedTV_12071_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_12071_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-24T16:54:35.654098+00:00"
+      "archived_at": "2026-08-24T17:37:17.206230+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354001,
-      "message_link": "https://t.me/IranintlTV/354001",
-      "text": "ویدیوی ارسال‌شده به ایران‌اینترنشنال نشان می‌دهد یک شهروند در رامسر با نوشتن «۴۰ هزار، ایران» بر ساحل، یاد جاویدنامان انقلاب ملی را گرامی داشته است.",
+      "message_id": 354015,
+      "message_link": "https://t.me/IranintlTV/354015",
+      "text": "محمدباقر قالیباف، رییس مجلس شورای اسلامی، در دیدار عصر دوشنبه با عاصم منیر، رییس ستادکل ارتش پاکستان، گفت: «تعهدات طرفین در یادداشت تفاهم روشن است و این آمریکا بود که با بدعهدی مانع برقراری ثبات در منطقه شد و دلیل دیگری برای بی اعتمادی به این کشور ایجاد کرد.»\n\nرییس هیات مذاکره‌کننده جمهوری اسلامی، با رد تاثیرپذیری تهران از فشارها، گفت: «ما پیگیر اجرای شروط یادداشت تفاهم هستیم و این آمریکاست که باید به تعهدات خود بر اساس تفاهم‌نامه پایبند باشد.»\nhttps://iranintl.com/202608240721",
       "shamsi_date": "1405/06/02",
-      "tehran_time": "18:03:29",
-      "gregorian_utc": "2026-08-24T14:33:29+00:00",
-      "media_type": "video",
-      "media_size_bytes": 3771413,
-      "media_size_human": "3.60 MB",
+      "tehran_time": "19:38:09",
+      "gregorian_utc": "2026-08-24T16:08:09+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 153225,
+      "media_size_human": "149.63 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354001_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354001_video.mp4",
+      "media_local_path": "media/IranintlTV_354015_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354015_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-24T16:54:36.037152+00:00"
+      "archived_at": "2026-08-24T17:37:17.597501+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1095,7 +1095,7 @@
       "media_local_path": "media/satlastnews_76310_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76310_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-24T16:54:36.370359+00:00"
+      "archived_at": "2026-08-24T17:37:17.879185+00:00"
     }
   ]
 }
