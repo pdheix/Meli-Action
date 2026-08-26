@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26T00:29:35.582203+00:00",
-  "shamsi_generated": "1405/06/04 00:29:35 تهران",
+  "generated_at": "2026-08-26T02:15:16.370805+00:00",
+  "shamsi_generated": "1405/06/04 02:15:16 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -33,25 +33,25 @@
       "media_local_path": "media/zedTV_12100_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_12100_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-26T00:26:24.004487+00:00"
+      "archived_at": "2026-08-26T02:11:01.348942+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354244,
-      "message_link": "https://t.me/IranintlTV/354244",
-      "text": "شبکه ان‌بی‌سی نیوز گزارش داد حملات موشکی و پهپادی جمهوری اسلامی به تاسیسات ایالات متحده در خاورمیانه، میلیاردها دلار خسارت به مراکز اطلاعاتی و تجهیزات نظارتی آمریکا وارد کرده است.\n\nبر اساس این گزارش، شدت و گستردگی این حملات ضعف‌هایی در سامانه‌های دفاعی پایگاه‌های آمریکا را آشکار کرده است.\n\nان‌بی‌سی نیوز نوشت این خسارت‌ها مقام‌های آمریکایی را وادار کرده است نحوه حفاظت از تاسیسات حساس اطلاعاتی و تجهیزات مراقبتی ایالات متحده در منطقه را مورد بازنگری قرار دهند.\nhttps://iranintl.com/202608256504",
+      "message_id": 354251,
+      "message_link": "https://t.me/IranintlTV/354251",
+      "text": "روزنامه ایندین اکسپرس گزارش داد تحریم‌های تازه دولت دونالد ترامپ، رییس‌جمهوری آمریکا، علیه جمهوری اسلامی می‌تواند صادرات برنج، چای و محصولات دارویی هند به ایران را به‌شدت مختل کند.\n\nبه نوشته این روزنامه، واشینگتن هشدار داده است شرکت‌ها و کشورهایی که به تجارت با تهران ادامه دهند، ممکن است تحریم شوند و دسترسی خود به نظام مالی آمریکا را از دست بدهند.\n\nتجارت ایران و هند از ۱۷.۰۳ میلیارد دلار در سال مالی ۲۰۱۹-۲۰۱۸ به ۱.۶۳ میلیارد دلار در سال مالی ۲۰۲۶-۲۰۲۵ کاهش یافته و اکنون بیش از ۹۰ درصد آن را صادرات هند تشکیل می‌دهد.\n\nایران دومین بازار بزرگ برنج مرغوب هند است و دهلی‌نو تنها در نیمه نخست سال ۲۰۲۶ حدود ۳۸۳ میلیون دلار برنج به ایران صادر کرد. صادرات چای و محصولات دارویی نیز به‌دلیل وابستگی به مسیرهای پرداخت در امارات متحده عربی در معرض اختلال قرار دارد.\n\nایندین اکسپرس افزود هند در نیمه نخست سال ۲۰۲۶ حدود ۷۰۷ میلیون دلار نفت خام از ایران وارد کرده است، اما تحریم‌های تازه می‌تواند این تجارت را نیز متوقف کند. مسیرهای مالی از طریق امارات نیز با محدودیت‌های تازه روبه‌رو شده‌اند.\n\nhttps://iranintl.com/202608263686",
       "shamsi_date": "1405/06/04",
-      "tehran_time": "03:27:24",
-      "gregorian_utc": "2026-08-25T23:57:24+00:00",
+      "tehran_time": "05:39:57",
+      "gregorian_utc": "2026-08-26T02:09:57+00:00",
       "media_type": "photo",
-      "media_size_bytes": 143988,
-      "media_size_human": "140.61 KB",
+      "media_size_bytes": 163589,
+      "media_size_human": "159.75 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354244_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354244_photo.jpg",
+      "media_local_path": "media/IranintlTV_354251_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354251_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-26T00:26:24.322547+00:00"
+      "archived_at": "2026-08-26T02:11:01.760827+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -69,7 +69,7 @@
       "media_local_path": "media/satlastnews_76348_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76348_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-26T00:26:24.649808+00:00"
+      "archived_at": "2026-08-26T02:11:02.174968+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -87,25 +87,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-26T00:26:24.004539+00:00"
+      "archived_at": "2026-08-26T02:11:01.348995+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354243,
-      "message_link": "https://t.me/IranintlTV/354243",
-      "text": "فایننشال تایمز از کمبود روزانه حدود ۱۵ میلیون لیتر بنزین در ایران گزارش داده است. تصاویر و پیام‌های رسیده به ایران‌اینترنشنال نیز از صف‌های طولانی، تعطیلی جایگاه‌ها و سرگردانی مردم در تهران، کرج و شماری دیگر از شهرها حکایت دارند؛ مردمی که با باک خالی، از یک جایگاه تعطیل به جایگاه بعدی می‌روند.\n\nسؤال دیگر این نیست که بنزین چقدر گران خواهد شد؛ سؤال این است که آیا اصلاً بنزینی هست که مردم بخرند؟\n\nکامبیز حسینی در «برنامه» به این موضوع می‌پردازد.\n\n«یک ایران صدای شما را می‌شنود»\n\nدوشنبه تا پنجشنبه ۱۱ شب تهران\n\nاز تلویزیون ایران اینترنشنال\n\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\n\nhttps://youtu.be/wWDYMyJsFOY\n@iranintltv",
+      "message_id": 354250,
+      "message_link": "https://t.me/IranintlTV/354250",
+      "text": "سازمان حقوق بشر ایران اعلام کرد بابک دادبخش، زندانی سیاسی در زندان اردبیل، در اعتراض به رسیدگی‌نشدن به وضعیت قضایی و مطالباتش، از اول شهریور در سلول انفرادی اعتصاب غذا کرده و لب‌های خود را دوخته است.\n\nدادبخش در پیامی صوتی گفت خواستار عفو، تخفیف مجازات یا امتیازی برای آزادی نیست و تنها می‌خواهد امکان گفت‌وگو با یک مقام قضایی مورد اعتماد و متخصص فراهم شود تا اعتراض‌ها و درخواست‌هایش را به مقام‌های ارشد قوه قضاییه منتقل کند.\n\nاو گفت: «در سلول انفرادی، در اعتصاب غذا، با لب‌های دوخته، منتظر آن می‌مانم.»\n\nبه نوشته سازمان حقوق بشر ایران، دادبخش در هشتمین سال حبس خود به سر می‌برد. او در سال ۱۳۹۷ بازداشت و به اتهام‌هایی از جمله «حمل و نگهداری سلاح و مهمات» در مجموع به ۴۳ سال زندان محکوم شد که ۱۶ سال آن قابل اجراست.\n\nاین نهاد افزود گزارش‌هایی از وخامت وضعیت جسمانی دادبخش به‌دلیل دیابت و انتقال او به بیمارستان منتشر شده است. مقام‌های قضایی و زندان اردبیل تاکنون درباره وضعیت او توضیحی ارائه نکرده‌اند.\n\nhttps://iranintl.com/202608267972",
       "shamsi_date": "1405/06/04",
-      "tehran_time": "03:15:43",
-      "gregorian_utc": "2026-08-25T23:45:43+00:00",
-      "media_type": "video",
-      "media_size_bytes": 5737395,
-      "media_size_human": "5.47 MB",
+      "tehran_time": "05:31:37",
+      "gregorian_utc": "2026-08-26T02:01:37+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 106963,
+      "media_size_human": "104.46 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354243_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354243_video.mp4",
+      "media_local_path": "media/IranintlTV_354250_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354250_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-26T00:26:24.322693+00:00"
+      "archived_at": "2026-08-26T02:11:01.761079+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -123,7 +123,7 @@
       "media_local_path": "media/satlastnews_76347_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76347_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-26T00:26:24.649905+00:00"
+      "archived_at": "2026-08-26T02:11:02.175063+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -141,25 +141,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "نوع رسانه پشتیبانی نمی‌شود (نظرسنجی، موقعیت مکانی، مخاطب و...).",
-      "archived_at": "2026-08-26T00:26:24.004578+00:00"
+      "archived_at": "2026-08-26T02:11:01.349034+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354242,
-      "message_link": "https://t.me/IranintlTV/354242",
-      "text": "واشینگتن‌پست گزارش داد تعرفه‌های دونالد ترامپ، رییس‌جمهوری آمریکا، و جنگ با جمهوری اسلامی، هزینه کود، سوخت و ماشین‌آلات کشاورزی را افزایش داده و هم‌زمان تلاش کنگره برای کمک اضطراری به کشاورزان متوقف شده است.\n\nبه نوشته این روزنامه، کاهش قیمت محصولات کشاورزی در کنار افزایش هزینه‌ها، سود برخی کشاورزان را به‌شدت کاهش داده و نگرانی از بروز بحران تازه‌ای در بخش کشاورزی را افزایش داده است.\n\nرهبران جمهوری‌خواه در تلاش‌اند ۱۲ میلیارد دلار کمک اضطراری برای مناطق روستایی تصویب کنند، اما این کمک با اختصاص میلیاردها دلار برای جنگ با ایران در یک بسته قرار گرفته است؛ جنگی که به نوشته واشینگتن‌پست، خود به افزایش هزینه سوخت و فشار بر کشاورزان منجر شده است.\n\nبرخی گروه‌های کشاورزی از این طرح حمایت کرده‌اند، اما گروه‌های دیگر با پیوند زدن کمک به کشاورزان و تامین مالی جنگ مخالفت کرده‌اند.\n\nاتحادیه ملی کشاورزان آمریکا نیز هشدار داده است تامین مالی جنگی پرهزینه می‌تواند بازارهای جهانی را بیشتر مختل کند، هزینه نهاده‌های کشاورزی را افزایش دهد و فشار اقتصادی بر کشاورزان را تشدید کند.\n\nhttps://iranintl.com/202608252438",
+      "message_id": 354249,
+      "message_link": "https://t.me/IranintlTV/354249",
+      "text": "دولت آمریکا در ادامه تشدید سیاست‌های مهاجرتی، وقت‌های مصاحبه ویزا در سفارتخانه‌ها و کنسولگری‌های خود در سراسر جهان را به‌طور موقت متوقف یا جابه‌جا کرده است.\n\nوزارت خارجه آمریکا اعلام کرد این تغییر به‌دلیل برگزاری یک برنامه آموزشی جهانی برای کارکنان کنسولی انجام شده است. هدف این دوره‌ها، آموزش ماموران برای شناسایی متقاضیانی عنوان شده که ممکن است در آینده به کمک‌های عمومی آمریکا وابسته شوند و همچنین ارزیابی یکسان درخواست‌های ویزا در سراسر جهان.\nاین تصمیم چند روز پس از آن اعلام شد که جنت وارگاس، قاضی فدرال آمریکا، سیاست دولت دونالد ترامپ، رییس‌جمهوری آمریکا، برای توقف صدور ویزای مهاجرتی اتباع ۷۵ کشور، از جمله ایران، را غیرقانونی اعلام کرد.\nبا این حال، بیشتر متقاضیان ایرانی به‌دلیل فرمان جداگانه ترامپ همچنان با ممنوعیت صدور ویزا روبه‌رو هستند.\nوزارت خارجه آمریکا درباره مدت برنامه آموزشی و زمان بازگشت وقت‌های مصاحبه به وضعیت عادی جزییاتی ارائه نکرده است. فایننشال‌تایمز نیز گزارش داد برخی متقاضیان ایمیل‌هایی درباره تغییر زمان مصاحبه دریافت کرده‌اند و تاریخ جدید بعدا اعلام خواهد شد.\nhttps://iranintl.com/202608267661",
       "shamsi_date": "1405/06/04",
-      "tehran_time": "03:13:35",
-      "gregorian_utc": "2026-08-25T23:43:35+00:00",
+      "tehran_time": "05:14:47",
+      "gregorian_utc": "2026-08-26T01:44:47+00:00",
       "media_type": "photo",
-      "media_size_bytes": 183907,
-      "media_size_human": "179.60 KB",
+      "media_size_bytes": 161573,
+      "media_size_human": "157.79 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354242_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354242_photo.jpg",
+      "media_local_path": "media/IranintlTV_354249_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354249_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-26T00:26:24.322854+00:00"
+      "archived_at": "2026-08-26T02:11:01.761390+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -177,7 +177,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-26T00:26:24.649941+00:00"
+      "archived_at": "2026-08-26T02:11:02.175097+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -195,25 +195,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-26T00:26:24.004664+00:00"
+      "archived_at": "2026-08-26T02:11:01.349079+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354241,
-      "message_link": "https://t.me/IranintlTV/354241",
-      "text": "روز دوم «عملیات طرد اقتصادی» است؛ اما مسئله فقط تحریم و فشار اقتصادی نیست. مسئله، حکومتی است که هر روز از ادارهٔ کشور ناتوان‌تر می‌شود، اما همچنان برای کنترل مردم، پول، نیرو، زندان و گلوله دارد.\n\nامشب در «برنامه با کامبیز حسینی» از مردم پرسیدیم: «جمهوری اسلامی هنوز ایران را اداره می‌کند یا فقط مردم را کنترل می‌کند؟ کجای زندگی‌تان می‌بینید که کشور رها شده، اما کنترل حکومت همچنان ادامه دارد؟»\n\n«یک ایران صدای شما را می‌شنود»\n\nدوشنبه تا پنجشنبه ۱۱ شب تهران\n\nاز تلویزیون ایران اینترنشنال\n\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\n\nhttps://youtu.be/wWDYMyJsFOY\n@iranintltv",
+      "message_id": 354248,
+      "message_link": "https://t.me/IranintlTV/354248",
+      "text": "خبرگزاری رویترز درباره سفر جان راتکلیف، مدیر سازمان اطلاعات مرکزی آمریکا (سیا)، به مسکو برای دیدار با مقام‌های روسیه نوشت این سازمان از اظهارنظر درباره این موضوع خودداری کرد.\n\nدیمیتری پسکوف، سخنگوی کرملین، نیز گفت ولادیمیر پوتین، رییس‌جمهوری روسیه، برنامه‌ای برای دیدار با راتکلیف ندارد.\n\nیک منبع مطلع از موضوع به رویترز گفت آمریکا از اوکراین خواسته بود روزهای دوشنبه، سه‌شنبه و چهارشنبه این هفته حملات هوایی در اطراف مسکو، سن‌پترزبورگ و برخی مناطق شمالی روسیه انجام ندهد، زیرا قرار است هواپیمای حامل یک مقام ارشد آمریکایی به پایتخت روسیه پرواز کند.\n\nاین منبع از ارائه جزییات بیشتر خودداری کرد.\n\nروزنامه فایننشال‌تایمز نخستین رسانه‌ای بود که درباره این پیام آمریکا به اوکراین گزارش داد.\nhttps://iranintl.com/202608266467",
       "shamsi_date": "1405/06/04",
-      "tehran_time": "03:09:53",
-      "gregorian_utc": "2026-08-25T23:39:53+00:00",
-      "media_type": "video",
-      "media_size_bytes": 4272526,
-      "media_size_human": "4.07 MB",
+      "tehran_time": "05:08:19",
+      "gregorian_utc": "2026-08-26T01:38:19+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 120966,
+      "media_size_human": "118.13 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354241_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354241_video.mp4",
+      "media_local_path": "media/IranintlTV_354248_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354248_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-26T00:26:24.322955+00:00"
+      "archived_at": "2026-08-26T02:11:01.761612+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -231,7 +231,7 @@
       "media_local_path": "media/satlastnews_76345_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76345_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-26T00:26:24.650172+00:00"
+      "archived_at": "2026-08-26T02:11:02.175347+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -249,25 +249,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-26T00:26:24.004706+00:00"
+      "archived_at": "2026-08-26T02:11:01.349118+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354240,
-      "message_link": "https://t.me/IranintlTV/354240",
-      "text": "بلومبرگ گزارش داد ترکیه، متحد آمریکا و سومین شریک تجاری بزرگ تهران، در صورت اجرای تهدید واشینگتن برای انزوای اقتصادی جمهوری اسلامی، ممکن است یکی از منابع مهم تامین انرژی خود را از دست بدهد.\n\nترکیه سال گذشته ۷.۷ میلیارد مترمکعب گاز، معادل حدود ۱۳ درصد واردات خود، از ایران خرید و جمهوری اسلامی چهارمین تامین‌کننده بزرگ گاز این کشور بود. تجارت دو کشور نیز در نیمه نخست سال به حدود ۳.۱ میلیارد دلار رسید.\n\nبلومبرگ نوشت آغاز عملیات «طرد اقتصادی» آمریکا، آنکارا را میان حفظ روابط تجاری و انرژی با تهران و جلوگیری از تنش با واشینگتن قرار داده است. این موضوع در شرایطی مطرح می‌شود که ترکیه به دنبال فراهم کردن زمینه مذاکرات برای خرید جنگنده‌های اف-۳۵ آمریکایی است.\n\nنیهات علی اوزجان، راهبردشناس اندیشکده تیپاو، گفت رجب طیب اردوغان، رییس‌جمهوری ترکیه، احتمالا از اقدامی که روابط با دونالد ترامپ، رییس‌جمهوری آمریکا، را به خطر بیندازد خودداری خواهد کرد، حتی اگر آنکارا ناچار شود پیش از زمستان انرژی گران‌تری از منابع دیگر تامین کند.\n\nhttps://iranintl.com/202608251141",
+      "message_id": 354247,
+      "message_link": "https://t.me/IranintlTV/354247",
+      "text": "وزارت خارجه سوریه ورود یسرائیل کاتس، وزیر دفاع اسرائیل، به خاک این کشور را محکوم کرد و آن را «نقض آشکار حاکمیت و تمامیت ارضی سوریه» و مغایر با قوانین بین‌المللی و توافق جداسازی نیروها در سال ۱۹۷۴ دانست.\n\nبه گزارش خبرگزاری دولتی سوریه، سانا، دمشق از جامعه بین‌المللی خواست برای توقف نقض حاکمیت سوریه اقدام کند و نیروهای اسرائیلی نیز به‌طور کامل از مناطق این کشور خارج شوند و به خط جداسازی نیروها بازگردند.\n\nپیش‌تر تایمز اسرائیل گزارش داده بود کاتس در بازدید از نیروهای اسرائیلی در جنوب سوریه گفت ارتش این کشور تا زمانی که «تهدیدهای جهادی» ادامه داشته باشد، از جبل حرمون و منطقه امنیتی عقب‌نشینی نخواهد کرد.\n\nکاتس خطاب به احمد الشرع، رییس دولت سوریه، گفت حضور نیروهای اسرائیلی در این منطقه پیامی روشن است که اسرائیل برای دفاع از جوامع و مرزهای خود در آنجا حضور خواهد داشت.\n\nhttps://iranintl.com/202608254369",
       "shamsi_date": "1405/06/04",
-      "tehran_time": "02:39:24",
-      "gregorian_utc": "2026-08-25T23:09:24+00:00",
+      "tehran_time": "04:25:25",
+      "gregorian_utc": "2026-08-26T00:55:25+00:00",
       "media_type": "photo",
-      "media_size_bytes": 151179,
-      "media_size_human": "147.64 KB",
+      "media_size_bytes": 147373,
+      "media_size_human": "143.92 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354240_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354240_photo.jpg",
+      "media_local_path": "media/IranintlTV_354247_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354247_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-26T00:26:24.323081+00:00"
+      "archived_at": "2026-08-26T02:11:01.761837+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -285,7 +285,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-26T00:26:24.650207+00:00"
+      "archived_at": "2026-08-26T02:11:02.175387+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -303,25 +303,25 @@
       "media_local_path": "media/zedTV_12094_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_12094_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-26T00:26:24.004769+00:00"
+      "archived_at": "2026-08-26T02:11:01.349179+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354239,
-      "message_link": "https://t.me/IranintlTV/354239",
-      "text": "🎧نسخه صوتی برنامه با کامبیز حسینی | روز دوم «عملیات طرد اقتصادی» چگونه گذشت؟\n@iranintlTV",
+      "message_id": 354246,
+      "message_link": "https://t.me/IranintlTV/354246",
+      "text": "شایان سمیعی، کارشناس امنیت ملی، با اشاره به پایان عملیات مین‌روبی آمریکا در تنگه هرمز گفت تهدید ترامپ به انهدام شناورهای مین‌گذار نشان می‌دهد واشینگتن در پی سلب امکان اعمال کنترل سپاه بر آب‌های بین‌المللی و شکل دادن به یک رژیم امنیتی تحت مدیریت آمریکا در تنگه هرمز است.\n@iranintltv",
       "shamsi_date": "1405/06/04",
-      "tehran_time": "02:29:03",
-      "gregorian_utc": "2026-08-25T22:59:03+00:00",
-      "media_type": "audio",
-      "media_size_bytes": 44797072,
-      "media_size_human": "42.72 MB",
+      "tehran_time": "04:02:38",
+      "gregorian_utc": "2026-08-26T00:32:38+00:00",
+      "media_type": "video",
+      "media_size_bytes": 3419174,
+      "media_size_human": "3.26 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354239_audio.mp3",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354239_audio.mp3",
+      "media_local_path": "media/IranintlTV_354246_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354246_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-26T00:26:24.342485+00:00"
+      "archived_at": "2026-08-26T02:11:01.761988+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -339,7 +339,7 @@
       "media_local_path": "media/satlastnews_76341_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76341_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-26T00:26:24.650290+00:00"
+      "archived_at": "2026-08-26T02:11:02.175474+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -357,25 +357,25 @@
       "media_local_path": "media/zedTV_12093_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_12093_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-26T00:26:24.004820+00:00"
+      "archived_at": "2026-08-26T02:11:01.349228+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354238,
-      "message_link": "https://t.me/IranintlTV/354238",
-      "text": "ویدیوهای منتشرشده در شبکه‌های اجتماعی نشان می‌دهد پس از افزایش قیمت دلار به ۲۰۰ هزار تومان، شماری از حامیان جمهوری اسلامی در تجمع‌های شبانه در تهران علیه عبدالناصر همتی، رییس‌کل بانک مرکزی، و مسعود پزشکیان، رییس دولت، شعار سر دادند.\n@iranintltv",
+      "message_id": 354245,
+      "message_link": "https://t.me/IranintlTV/354245",
+      "text": "احمد الشرع، رییس دولت سوریه، و مظلوم عبدی، فرمانده کل نیروهای دموکراتیک سوریه (اس‌دی‌اف)، سه‌شنبه در دمشق دیدار و درباره ادغام این نیروها در نهادهای دولتی و مراحل بعدی این روند گفت‌وگو کردند.\n\nبه گزارش خبرگزاری دولتی سوریه، سانا، دو طرف بر تقویت حضور دولت و حمایت از امنیت و ثبات سوریه تاکید کردند.\n\nعبدی پس از این دیدار از پایان ماموریت اس‌دی‌اف و انحلال آن به‌عنوان نیروی نظامی مستقل خبر داد. او گفت این تصمیم پس از تکمیل ادغام نیروهای اس‌دی‌اف در واحدهای ارتش سوریه اتخاذ شده و آغازگر مرحله‌ای جدید با محوریت صلح، ثبات و بازسازی کشور است.\n\nعبدی گفت: «می‌خواهیم این روز، نشانه گذار واقعی از میدان‌های نبرد به میدان‌های سازندگی و از دوران سلاح به دوران صلح باشد.»\n\nاو همچنین گفت الشرع بارها بر حق آموزش به زبان کردی تاکید کرده و اجرای این برنامه از امسال آغاز خواهد شد.\n\nعبدی افزود هدف، ساختن سوریه‌ای متحد و باثبات برای کردها، عرب‌ها، ترکمن‌ها و آشوری‌هاست که آینده فرزندان این کشور و زندگی شایسته آنان را تضمین کند.\n\nhttps://iranintl.com/202608254493",
       "shamsi_date": "1405/06/04",
-      "tehran_time": "02:24:11",
-      "gregorian_utc": "2026-08-25T22:54:11+00:00",
-      "media_type": "video",
-      "media_size_bytes": 260332,
-      "media_size_human": "254.23 KB",
+      "tehran_time": "03:59:31",
+      "gregorian_utc": "2026-08-26T00:29:31+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 157383,
+      "media_size_human": "153.69 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354238_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354238_video.mp4",
+      "media_local_path": "media/IranintlTV_354245_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354245_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-26T00:26:24.342579+00:00"
+      "archived_at": "2026-08-26T02:11:01.762225+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -393,7 +393,7 @@
       "media_local_path": "media/satlastnews_76340_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76340_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-26T00:26:24.650444+00:00"
+      "archived_at": "2026-08-26T02:11:02.175593+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -411,25 +411,25 @@
       "media_local_path": "media/zedTV_12092_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_12092_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-26T00:26:24.004878+00:00"
+      "archived_at": "2026-08-26T02:11:01.349367+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354237,
-      "message_link": "https://t.me/IranintlTV/354237",
-      "text": "نیلوفر منصوری، خبرنگار ایران‌اینترنشنال در گزارش خود با اشاره به آغاز عملیات تازه «انزوای اقتصادی» آمریکا علیه جمهوری‌اسلامی گفت واشینگتن حوزه‌هایی از جمله طلا و نقره، کشتیرانی، هواپیمایی و رمزارزها را هدف گرفته و به کشورها و شرکت‌های طرف معامله با تهران درباره تحریم‌های ثانویه هشدار داده است.\n@iranintltv",
+      "message_id": 354244,
+      "message_link": "https://t.me/IranintlTV/354244",
+      "text": "شبکه ان‌بی‌سی نیوز گزارش داد حملات موشکی و پهپادی جمهوری اسلامی به تاسیسات ایالات متحده در خاورمیانه، میلیاردها دلار خسارت به مراکز اطلاعاتی و تجهیزات نظارتی آمریکا وارد کرده است.\n\nبر اساس این گزارش، شدت و گستردگی این حملات ضعف‌هایی در سامانه‌های دفاعی پایگاه‌های آمریکا را آشکار کرده است.\n\nان‌بی‌سی نیوز نوشت این خسارت‌ها مقام‌های آمریکایی را وادار کرده است نحوه حفاظت از تاسیسات حساس اطلاعاتی و تجهیزات مراقبتی ایالات متحده در منطقه را مورد بازنگری قرار دهند.\nhttps://iranintl.com/202608256504",
       "shamsi_date": "1405/06/04",
-      "tehran_time": "02:22:34",
-      "gregorian_utc": "2026-08-25T22:52:34+00:00",
-      "media_type": "video",
-      "media_size_bytes": 3281625,
-      "media_size_human": "3.13 MB",
+      "tehran_time": "03:27:24",
+      "gregorian_utc": "2026-08-25T23:57:24+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 143988,
+      "media_size_human": "140.61 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354237_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354237_video.mp4",
+      "media_local_path": "media/IranintlTV_354244_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354244_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-26T00:26:24.342705+00:00"
+      "archived_at": "2026-08-26T02:11:01.762423+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -447,7 +447,7 @@
       "media_local_path": "media/satlastnews_76339_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76339_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-26T00:26:24.650527+00:00"
+      "archived_at": "2026-08-26T02:11:02.175657+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -465,25 +465,25 @@
       "media_local_path": "media/zedTV_12091_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_12091_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-26T00:26:24.004966+00:00"
+      "archived_at": "2026-08-26T02:11:01.349459+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354236,
-      "message_link": "https://t.me/IranintlTV/354236",
-      "text": "🎧نسخه صوتی ضربه نهایی برای نجات ایران از چنگ ملاها\n@iranintlTV",
+      "message_id": 354243,
+      "message_link": "https://t.me/IranintlTV/354243",
+      "text": "فایننشال تایمز از کمبود روزانه حدود ۱۵ میلیون لیتر بنزین در ایران گزارش داده است. تصاویر و پیام‌های رسیده به ایران‌اینترنشنال نیز از صف‌های طولانی، تعطیلی جایگاه‌ها و سرگردانی مردم در تهران، کرج و شماری دیگر از شهرها حکایت دارند؛ مردمی که با باک خالی، از یک جایگاه تعطیل به جایگاه بعدی می‌روند.\n\nسؤال دیگر این نیست که بنزین چقدر گران خواهد شد؛ سؤال این است که آیا اصلاً بنزینی هست که مردم بخرند؟\n\nکامبیز حسینی در «برنامه» به این موضوع می‌پردازد.\n\n«یک ایران صدای شما را می‌شنود»\n\nدوشنبه تا پنجشنبه ۱۱ شب تهران\n\nاز تلویزیون ایران اینترنشنال\n\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\n\nhttps://youtu.be/wWDYMyJsFOY\n@iranintltv",
       "shamsi_date": "1405/06/04",
-      "tehran_time": "02:13:55",
-      "gregorian_utc": "2026-08-25T22:43:55+00:00",
-      "media_type": "audio",
-      "media_size_bytes": 18799012,
-      "media_size_human": "17.93 MB",
+      "tehran_time": "03:15:43",
+      "gregorian_utc": "2026-08-25T23:45:43+00:00",
+      "media_type": "video",
+      "media_size_bytes": 5737395,
+      "media_size_human": "5.47 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354236_audio.mp3",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354236_audio.mp3",
+      "media_local_path": "media/IranintlTV_354243_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354243_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-26T00:26:24.342780+00:00"
+      "archived_at": "2026-08-26T02:11:01.762623+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -501,7 +501,7 @@
       "media_local_path": "media/satlastnews_76338_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76338_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-26T00:26:24.650567+00:00"
+      "archived_at": "2026-08-26T02:11:02.175696+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -519,25 +519,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-26T00:26:24.005001+00:00"
+      "archived_at": "2026-08-26T02:11:01.349493+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354235,
-      "message_link": "https://t.me/IranintlTV/354235",
-      "text": "اکسیوس به نقل از دو منبع گزارش داد مارکو روبیو، وزیر خارجه آمریکا، به چند همتای خارجی خود گفته است واشینگتن «در حال حاضر» انتظار ندارد حملات جدیدی علیه جمهوری اسلامی آغاز کند و تمرکز خود را بر فشار اقتصادی، محاصره دریایی و تحریم‌های تازه قرار داده است.\n\nبه نوشته اکسیوس، روبیو گفته آمریکا قصد بازگشت به عملیات نظامی گسترده را ندارد، اما در صورت حمله جمهوری اسلامی، اقدام نظامی را منتفی نمی‌داند.\n\nمقام‌های آمریکایی می‌گویند پاک‌سازی مین‌ها از تنگه هرمز و افزایش انتقال نفت از این مسیر، یکی از اهرم‌های اصلی تهران را تضعیف کرده است. آنها همچنین مدعی‌اند محاصره دریایی، جمهوری اسلامی را از درآمدهای حیاتی نفت محروم کرده است.\n\nیک مقام آمریکایی گفت واشینگتن اکنون با تهران مذاکره نمی‌کند و هدف، افزایش فشار برای بازگرداندن جمهوری اسلامی به میز مذاکره است.\n\nاکسیوس همچنین گزارش داد انتظار می‌رود استیو ویتکاف و جرد کوشنر، فرستادگان کاخ سفید، برای دریافت گزارش درباره وضعیت میدانی از سنتکام بازدید کنند.\n\nhttps://iranintl.com/202608257780",
+      "message_id": 354242,
+      "message_link": "https://t.me/IranintlTV/354242",
+      "text": "واشینگتن‌پست گزارش داد تعرفه‌های دونالد ترامپ، رییس‌جمهوری آمریکا، و جنگ با جمهوری اسلامی، هزینه کود، سوخت و ماشین‌آلات کشاورزی را افزایش داده و هم‌زمان تلاش کنگره برای کمک اضطراری به کشاورزان متوقف شده است.\n\nبه نوشته این روزنامه، کاهش قیمت محصولات کشاورزی در کنار افزایش هزینه‌ها، سود برخی کشاورزان را به‌شدت کاهش داده و نگرانی از بروز بحران تازه‌ای در بخش کشاورزی را افزایش داده است.\n\nرهبران جمهوری‌خواه در تلاش‌اند ۱۲ میلیارد دلار کمک اضطراری برای مناطق روستایی تصویب کنند، اما این کمک با اختصاص میلیاردها دلار برای جنگ با ایران در یک بسته قرار گرفته است؛ جنگی که به نوشته واشینگتن‌پست، خود به افزایش هزینه سوخت و فشار بر کشاورزان منجر شده است.\n\nبرخی گروه‌های کشاورزی از این طرح حمایت کرده‌اند، اما گروه‌های دیگر با پیوند زدن کمک به کشاورزان و تامین مالی جنگ مخالفت کرده‌اند.\n\nاتحادیه ملی کشاورزان آمریکا نیز هشدار داده است تامین مالی جنگی پرهزینه می‌تواند بازارهای جهانی را بیشتر مختل کند، هزینه نهاده‌های کشاورزی را افزایش دهد و فشار اقتصادی بر کشاورزان را تشدید کند.\n\nhttps://iranintl.com/202608252438",
       "shamsi_date": "1405/06/04",
-      "tehran_time": "02:08:12",
-      "gregorian_utc": "2026-08-25T22:38:12+00:00",
+      "tehran_time": "03:13:35",
+      "gregorian_utc": "2026-08-25T23:43:35+00:00",
       "media_type": "photo",
-      "media_size_bytes": 154191,
-      "media_size_human": "150.58 KB",
+      "media_size_bytes": 183907,
+      "media_size_human": "179.60 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354235_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354235_photo.jpg",
+      "media_local_path": "media/IranintlTV_354242_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354242_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-26T00:26:24.342916+00:00"
+      "archived_at": "2026-08-26T02:11:01.762872+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -555,7 +555,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-08-26T00:26:24.650738+00:00"
+      "archived_at": "2026-08-26T02:11:02.175828+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -573,25 +573,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-26T00:26:24.005029+00:00"
+      "archived_at": "2026-08-26T02:11:01.349520+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354234,
-      "message_link": "https://t.me/IranintlTV/354234",
-      "text": "محمدباقر قالیباف، رییس مجلس جمهوری اسلامی، در شبکه اجتماعی ایکس، سخنان اخیر اسکات بسنت، وزیر خزانه‌داری آمریکا، را نه «روز پیروزی»، بلکه «نمایش مضحک» و «روز دلقک» خواند.\n\nاو نوشت: «اسکات بسنت که پیش‌تر ادعا کرده بود تحریم‌های جدید علیه ایران مانند عملیات نورماندی، کوبنده و سرنوشت‌ساز خواهد بود، در نشست خبری روز گذشته [دوشنبه] وقتی با پرسش خبرنگاری درباره توخالی‌بودن این ادعا مواجه شد، دستپاچه پاسخ داد: مگر من می‌خواهم اقتصاد جهان را منفجر کنم؟!»\n\nقالیباف همچنین خطاب به بسنت نوشت: «این برنامه اصلا شبیه عملیات نورماندی نبود؛ یک استندآپ مضحک در کلاب شبانه بود که در آن حتی دیالوگ‌های طنز خودت را هم فراموش کردی!»\nhttps://iranintl.com/202608252988",
+      "message_id": 354241,
+      "message_link": "https://t.me/IranintlTV/354241",
+      "text": "روز دوم «عملیات طرد اقتصادی» است؛ اما مسئله فقط تحریم و فشار اقتصادی نیست. مسئله، حکومتی است که هر روز از ادارهٔ کشور ناتوان‌تر می‌شود، اما همچنان برای کنترل مردم، پول، نیرو، زندان و گلوله دارد.\n\nامشب در «برنامه با کامبیز حسینی» از مردم پرسیدیم: «جمهوری اسلامی هنوز ایران را اداره می‌کند یا فقط مردم را کنترل می‌کند؟ کجای زندگی‌تان می‌بینید که کشور رها شده، اما کنترل حکومت همچنان ادامه دارد؟»\n\n«یک ایران صدای شما را می‌شنود»\n\nدوشنبه تا پنجشنبه ۱۱ شب تهران\n\nاز تلویزیون ایران اینترنشنال\n\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\n\nhttps://youtu.be/wWDYMyJsFOY\n@iranintltv",
       "shamsi_date": "1405/06/04",
-      "tehran_time": "01:44:07",
-      "gregorian_utc": "2026-08-25T22:14:07+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 165561,
-      "media_size_human": "161.68 KB",
+      "tehran_time": "03:09:53",
+      "gregorian_utc": "2026-08-25T23:39:53+00:00",
+      "media_type": "video",
+      "media_size_bytes": 4272526,
+      "media_size_human": "4.07 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354234_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354234_photo.jpg",
+      "media_local_path": "media/IranintlTV_354241_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354241_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-26T00:26:24.343024+00:00"
+      "archived_at": "2026-08-26T02:11:01.763058+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -609,7 +609,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-26T00:26:24.650822+00:00"
+      "archived_at": "2026-08-26T02:11:02.175910+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -627,25 +627,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-26T00:26:24.005060+00:00"
+      "archived_at": "2026-08-26T02:11:01.349546+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354233,
-      "message_link": "https://t.me/IranintlTV/354233",
-      "text": "تام باراک، سفیر آمریکا در ترکیه و فرستاده ویژه ریاست‌جمهوری در امور عراق و سوریه، اعلام کرد طرح دونالد ترامپ، رییس‌جمهوری آمریکا، برای خاورمیانه وارد مرحله‌ای مهم شده و سوریه‌ای متحد در حال شکل‌گیری است.\n\nباراک در ایکس نوشت سیاست ترامپ مسیر ادغام نیروهای دموکراتیک سوریه (اس‌دی‌اف) در نهادهای دولتی سوریه را هموار کرده و به گفته او، این روند اختلافات گذشته را به شراکتی پایدار تبدیل می‌کند.\n\nاو به اختصاص نقش‌هایی در دولت سوریه به مظلوم عبدی و الهام احمد و به رسمیت شناختن زبان کردی در آموزش اشاره کرد و آن را نشانه احترام به نقش کردها در ثبات منطقه دانست.\n\nباراک افزود این روند نمونه‌ای از «ادغام واقعی» است که در آن طرف‌های دارای دیدگاه‌های متفاوت از طریق دیپلماسی برای تقویت سوریه‌ای مستقل و دارای حاکمیت همکاری می‌کنند.\n\nاو در پایان چشم‌انداز این روند را چنین توصیف کرد: «یک ارتش، یک دولت، یک کشور.»\n\nhttps://iranintl.com/202608252912",
+      "message_id": 354240,
+      "message_link": "https://t.me/IranintlTV/354240",
+      "text": "بلومبرگ گزارش داد ترکیه، متحد آمریکا و سومین شریک تجاری بزرگ تهران، در صورت اجرای تهدید واشینگتن برای انزوای اقتصادی جمهوری اسلامی، ممکن است یکی از منابع مهم تامین انرژی خود را از دست بدهد.\n\nترکیه سال گذشته ۷.۷ میلیارد مترمکعب گاز، معادل حدود ۱۳ درصد واردات خود، از ایران خرید و جمهوری اسلامی چهارمین تامین‌کننده بزرگ گاز این کشور بود. تجارت دو کشور نیز در نیمه نخست سال به حدود ۳.۱ میلیارد دلار رسید.\n\nبلومبرگ نوشت آغاز عملیات «طرد اقتصادی» آمریکا، آنکارا را میان حفظ روابط تجاری و انرژی با تهران و جلوگیری از تنش با واشینگتن قرار داده است. این موضوع در شرایطی مطرح می‌شود که ترکیه به دنبال فراهم کردن زمینه مذاکرات برای خرید جنگنده‌های اف-۳۵ آمریکایی است.\n\nنیهات علی اوزجان، راهبردشناس اندیشکده تیپاو، گفت رجب طیب اردوغان، رییس‌جمهوری ترکیه، احتمالا از اقدامی که روابط با دونالد ترامپ، رییس‌جمهوری آمریکا، را به خطر بیندازد خودداری خواهد کرد، حتی اگر آنکارا ناچار شود پیش از زمستان انرژی گران‌تری از منابع دیگر تامین کند.\n\nhttps://iranintl.com/202608251141",
       "shamsi_date": "1405/06/04",
-      "tehran_time": "01:31:42",
-      "gregorian_utc": "2026-08-25T22:01:42+00:00",
+      "tehran_time": "02:39:24",
+      "gregorian_utc": "2026-08-25T23:09:24+00:00",
       "media_type": "photo",
-      "media_size_bytes": 136335,
-      "media_size_human": "133.14 KB",
+      "media_size_bytes": 151179,
+      "media_size_human": "147.64 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354233_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354233_photo.jpg",
+      "media_local_path": "media/IranintlTV_354240_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354240_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-26T00:26:24.343145+00:00"
+      "archived_at": "2026-08-26T02:11:01.763348+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -663,7 +663,7 @@
       "media_local_path": "media/satlastnews_76335_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76335_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-26T00:26:24.650865+00:00"
+      "archived_at": "2026-08-26T02:11:02.175951+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -681,25 +681,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-26T00:26:24.005085+00:00"
+      "archived_at": "2026-08-26T02:11:01.349575+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354232,
-      "message_link": "https://t.me/IranintlTV/354232",
-      "text": "موسسه علوم و امنیت بین‌المللی از شناسایی یک تاسیسات زیرزمینی احتمالی در مجموعه هسته‌ای نطنز خبر داد که به گفته این موسسه، ممکن است برای ذخیره سیلندرهای هگزافلوراید اورانیوم و پشتیبانی از غنی‌سازی در مقیاس گسترده ساخته شده باشد.\n\nبررسی تصاویر ماهواره‌ای نشان می‌دهد ساخت این تاسیسات از سال ۲۰۱۰ آغاز شده و بخش اصلی آن بین سال‌های ۲۰۱۵ تا ۲۰۱۷ تکمیل شده است. این موسسه ظرفیت این ساختمان را بسیار بیشتر از نیاز ذخایر شناخته‌شده اورانیوم ایران ارزیابی کرده است.\n\nگفت‌وگو با امیر گیتی، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 354239,
+      "message_link": "https://t.me/IranintlTV/354239",
+      "text": "🎧نسخه صوتی برنامه با کامبیز حسینی | روز دوم «عملیات طرد اقتصادی» چگونه گذشت؟\n@iranintlTV",
       "shamsi_date": "1405/06/04",
-      "tehran_time": "01:21:41",
-      "gregorian_utc": "2026-08-25T21:51:41+00:00",
-      "media_type": "video",
-      "media_size_bytes": 3442699,
-      "media_size_human": "3.28 MB",
+      "tehran_time": "02:29:03",
+      "gregorian_utc": "2026-08-25T22:59:03+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 44797072,
+      "media_size_human": "42.72 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354232_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354232_video.mp4",
+      "media_local_path": "media/IranintlTV_354239_audio.mp3",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354239_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-08-26T00:26:24.343239+00:00"
+      "archived_at": "2026-08-26T02:11:01.778736+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -717,7 +717,7 @@
       "media_local_path": "media/satlastnews_76334_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76334_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-26T00:26:24.650926+00:00"
+      "archived_at": "2026-08-26T02:11:02.176014+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -735,25 +735,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-26T00:26:24.005115+00:00"
+      "archived_at": "2026-08-26T02:11:01.349599+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354231,
-      "message_link": "https://t.me/IranintlTV/354231",
-      "text": "موسسه علوم و امنیت بین‌المللی از شناسایی یک تاسیسات زیرزمینی احتمالی در مجموعه هسته‌ای نطنز خبر داد که به گفته این موسسه، ممکن است برای ذخیره سیلندرهای هگزافلوراید اورانیوم و پشتیبانی از غنی‌سازی در مقیاس گسترده ساخته شده باشد.\n\nبررسی تصاویر ماهواره‌ای نشان می‌دهد ساخت این تاسیسات از سال ۲۰۱۰ آغاز شده و بخش اصلی آن بین سال‌های ۲۰۱۵ تا ۲۰۱۷ تکمیل شده است. این موسسه ظرفیت این ساختمان را بسیار بیشتر از نیاز ذخایر شناخته‌شده اورانیوم ایران ارزیابی کرده است.\n\nگفت‌وگو با امیر گیتی، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 354238,
+      "message_link": "https://t.me/IranintlTV/354238",
+      "text": "ویدیوهای منتشرشده در شبکه‌های اجتماعی نشان می‌دهد پس از افزایش قیمت دلار به ۲۰۰ هزار تومان، شماری از حامیان جمهوری اسلامی در تجمع‌های شبانه در تهران علیه عبدالناصر همتی، رییس‌کل بانک مرکزی، و مسعود پزشکیان، رییس دولت، شعار سر دادند.\n@iranintltv",
       "shamsi_date": "1405/06/04",
-      "tehran_time": "01:21:39",
-      "gregorian_utc": "2026-08-25T21:51:39+00:00",
+      "tehran_time": "02:24:11",
+      "gregorian_utc": "2026-08-25T22:54:11+00:00",
       "media_type": "video",
-      "media_size_bytes": 3442699,
-      "media_size_human": "3.28 MB",
+      "media_size_bytes": 260332,
+      "media_size_human": "254.23 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354231_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354231_video.mp4",
+      "media_local_path": "media/IranintlTV_354238_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354238_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-26T00:26:24.343329+00:00"
+      "archived_at": "2026-08-26T02:11:01.778877+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -771,7 +771,7 @@
       "media_local_path": "media/satlastnews_76333_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76333_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-26T00:26:24.651089+00:00"
+      "archived_at": "2026-08-26T02:11:02.176174+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -789,25 +789,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-26T00:26:24.005141+00:00"
+      "archived_at": "2026-08-26T02:11:01.349623+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354230,
-      "message_link": "https://t.me/IranintlTV/354230",
-      "text": "ارتش اسرائیل و سازمان امنیت داخلی این کشور، شاباک، با انتشار ویدیویی اعلام کردند چند نقطه در نوار غزه را که محل نگهداری موشک، سلاح، مواد منفجره، نارنجک، مهمات و دیگر تجهیزات نظامی بوده، هدف قرار داده‌اند.\n\nدر بیانیه مشترک ارتش اسرائیل و شاباک آمده است این انبارهای تسلیحاتی در داخل مساجد و در مجاورت زیرساخت‌های بشردوستانه در نوار غزه ایجاد شده بودند.\n@iranintltv",
+      "message_id": 354237,
+      "message_link": "https://t.me/IranintlTV/354237",
+      "text": "نیلوفر منصوری، خبرنگار ایران‌اینترنشنال در گزارش خود با اشاره به آغاز عملیات تازه «انزوای اقتصادی» آمریکا علیه جمهوری‌اسلامی گفت واشینگتن حوزه‌هایی از جمله طلا و نقره، کشتیرانی، هواپیمایی و رمزارزها را هدف گرفته و به کشورها و شرکت‌های طرف معامله با تهران درباره تحریم‌های ثانویه هشدار داده است.\n@iranintltv",
       "shamsi_date": "1405/06/04",
-      "tehran_time": "01:08:32",
-      "gregorian_utc": "2026-08-25T21:38:32+00:00",
+      "tehran_time": "02:22:34",
+      "gregorian_utc": "2026-08-25T22:52:34+00:00",
       "media_type": "video",
-      "media_size_bytes": 542694,
-      "media_size_human": "529.97 KB",
+      "media_size_bytes": 3281625,
+      "media_size_human": "3.13 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354230_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354230_video.mp4",
+      "media_local_path": "media/IranintlTV_354237_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354237_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-26T00:26:24.343407+00:00"
+      "archived_at": "2026-08-26T02:11:01.778967+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -825,7 +825,7 @@
       "media_local_path": "media/satlastnews_76332_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76332_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-26T00:26:24.651170+00:00"
+      "archived_at": "2026-08-26T02:11:02.176254+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -843,25 +843,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-26T00:26:24.005168+00:00"
+      "archived_at": "2026-08-26T02:11:01.349649+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354229,
-      "message_link": "https://t.me/IranintlTV/354229",
-      "text": "کاظم غریب‌آبادی، معاون وزارت خارجه جمهوری اسلامی، گفت جمهوری اسلامی می‌تواند برای دفاع از منافع خود دست به اقدامات پیش‌دستانه بزند.\n\nاو افزود: «پاسخ جدید ما در چارچوب راهبرد جدید این است که اگر [آمریکایی‌ها] منافع اقتصادی ما را هدف قرار دادند، ما هم منافع اقتصادی آنها را هدف قرار بدهیم.»\n@iranintltv",
+      "message_id": 354236,
+      "message_link": "https://t.me/IranintlTV/354236",
+      "text": "🎧نسخه صوتی ضربه نهایی برای نجات ایران از چنگ ملاها\n@iranintlTV",
       "shamsi_date": "1405/06/04",
-      "tehran_time": "00:27:32",
-      "gregorian_utc": "2026-08-25T20:57:32+00:00",
-      "media_type": "video",
-      "media_size_bytes": 517519,
-      "media_size_human": "505.39 KB",
+      "tehran_time": "02:13:55",
+      "gregorian_utc": "2026-08-25T22:43:55+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 18799012,
+      "media_size_human": "17.93 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354229_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354229_video.mp4",
+      "media_local_path": "media/IranintlTV_354236_audio.mp3",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354236_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-08-26T00:26:24.343480+00:00"
+      "archived_at": "2026-08-26T02:11:01.779038+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -879,7 +879,7 @@
       "media_local_path": "media/satlastnews_76331_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76331_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-26T00:26:24.651226+00:00"
+      "archived_at": "2026-08-26T02:11:02.176328+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -897,25 +897,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-26T00:26:24.005193+00:00"
+      "archived_at": "2026-08-26T02:11:01.349673+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354228,
-      "message_link": "https://t.me/IranintlTV/354228",
-      "text": "🔻برونو فرناندز، کاپیتان منچستریونایتد، جایزه بهترین بازیکن سال اتحادیه فوتبالیست‌های حرفه‌ای انگلیس (PFA) در سال ۲۰۲۶ را به دست آورد.\n\n🔹فرناندز ۳۱ ساله برای کسب این جایزه، داوید رایا، دکلان رایس، ارلینگ هالند، گابریل ماگالاش و رایان شرکی را پشت سر گذاشت. هر شش بازیکن در تیم منتخب فصل لیگ برتر از نگاه PFA نیز قرار گرفتند؛ تیمی که آنتوان سمنیو، ایگور تیاگو، یورین تیمبر، نیکو اورایلی و ویلیام سالیبا نیز در آن حضور دارند.\n\n🔹کاپیتان یونایتد با این جایزه، کلکسیون افتخارات فردی خود را تکمیل کرد؛ او پیش از این نیز جایزه بهترین بازیکن سال FWA و بهترین بازیکن فصل لیگ برتر را دریافت کرده بود. فرناندز همچنین عنوان بهترین بازی‌ساز فصل لیگ برتر را از آن خود کرد.\n\n🔹او در فصل گذشته با ثبت ۲۱ پاس گل، رکورد جدیدی در لیگ برتر به جا گذاشت و یک پاس گل بیشتر از رکورد تیری آنری در فصل ۰۳-۲۰۰۲ ثبت کرد. فرناندز همچنین ۹ گل به ثمر رساند و نقش مهمی در کسب رتبه سوم لیگ برتر توسط منچستریونایتد داشت؛ بهترین رتبه این تیم در سه فصل اخیر.\n\n🔹در بخش بهترین بازیکن جوان سال نیز نیکو اورایلی از منچسترسیتی بالاتر از رایان شرکی، جونیور کروپی، مکس داومن و ریو انگوموها قرار گرفت و جایزه را به دست آورد.\n\n@iranintltvsport",
-      "shamsi_date": "1405/06/03",
-      "tehran_time": "23:56:46",
-      "gregorian_utc": "2026-08-25T20:26:46+00:00",
+      "message_id": 354235,
+      "message_link": "https://t.me/IranintlTV/354235",
+      "text": "اکسیوس به نقل از دو منبع گزارش داد مارکو روبیو، وزیر خارجه آمریکا، به چند همتای خارجی خود گفته است واشینگتن «در حال حاضر» انتظار ندارد حملات جدیدی علیه جمهوری اسلامی آغاز کند و تمرکز خود را بر فشار اقتصادی، محاصره دریایی و تحریم‌های تازه قرار داده است.\n\nبه نوشته اکسیوس، روبیو گفته آمریکا قصد بازگشت به عملیات نظامی گسترده را ندارد، اما در صورت حمله جمهوری اسلامی، اقدام نظامی را منتفی نمی‌داند.\n\nمقام‌های آمریکایی می‌گویند پاک‌سازی مین‌ها از تنگه هرمز و افزایش انتقال نفت از این مسیر، یکی از اهرم‌های اصلی تهران را تضعیف کرده است. آنها همچنین مدعی‌اند محاصره دریایی، جمهوری اسلامی را از درآمدهای حیاتی نفت محروم کرده است.\n\nیک مقام آمریکایی گفت واشینگتن اکنون با تهران مذاکره نمی‌کند و هدف، افزایش فشار برای بازگرداندن جمهوری اسلامی به میز مذاکره است.\n\nاکسیوس همچنین گزارش داد انتظار می‌رود استیو ویتکاف و جرد کوشنر، فرستادگان کاخ سفید، برای دریافت گزارش درباره وضعیت میدانی از سنتکام بازدید کنند.\n\nhttps://iranintl.com/202608257780",
+      "shamsi_date": "1405/06/04",
+      "tehran_time": "02:08:12",
+      "gregorian_utc": "2026-08-25T22:38:12+00:00",
       "media_type": "photo",
-      "media_size_bytes": 138535,
-      "media_size_human": "135.29 KB",
+      "media_size_bytes": 154191,
+      "media_size_human": "150.58 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354228_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354228_photo.jpg",
+      "media_local_path": "media/IranintlTV_354235_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354235_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-26T00:26:24.343659+00:00"
+      "archived_at": "2026-08-26T02:11:01.779182+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -933,7 +933,7 @@
       "media_local_path": "media/satlastnews_76330_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76330_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-26T00:26:24.651298+00:00"
+      "archived_at": "2026-08-26T02:11:02.176390+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -951,25 +951,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-26T00:26:24.005218+00:00"
+      "archived_at": "2026-08-26T02:11:01.349695+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354227,
-      "message_link": "https://t.me/IranintlTV/354227",
-      "text": "تانکرترکرز سه‌شنبه سوم شهریور در شبکه اجتماعی ایکس اعلام کرد دست‌کم ۱۵ عملیات انتقال کشتی‌به‌کشتی در دریای عمان در حال انجام است که شامل حدود ۲۵ میلیون بشکه نفت خام و مقداری فرآورده نفتی می‌شود.\n\nاین موسسه افزود نفت در حال انتقال از تقریبا همه کشورهای منطقه به جز ایران است.\nhttps://iranintl.com/202608250688",
-      "shamsi_date": "1405/06/03",
-      "tehran_time": "23:56:20",
-      "gregorian_utc": "2026-08-25T20:26:20+00:00",
+      "message_id": 354234,
+      "message_link": "https://t.me/IranintlTV/354234",
+      "text": "محمدباقر قالیباف، رییس مجلس جمهوری اسلامی، در شبکه اجتماعی ایکس، سخنان اخیر اسکات بسنت، وزیر خزانه‌داری آمریکا، را نه «روز پیروزی»، بلکه «نمایش مضحک» و «روز دلقک» خواند.\n\nاو نوشت: «اسکات بسنت که پیش‌تر ادعا کرده بود تحریم‌های جدید علیه ایران مانند عملیات نورماندی، کوبنده و سرنوشت‌ساز خواهد بود، در نشست خبری روز گذشته [دوشنبه] وقتی با پرسش خبرنگاری درباره توخالی‌بودن این ادعا مواجه شد، دستپاچه پاسخ داد: مگر من می‌خواهم اقتصاد جهان را منفجر کنم؟!»\n\nقالیباف همچنین خطاب به بسنت نوشت: «این برنامه اصلا شبیه عملیات نورماندی نبود؛ یک استندآپ مضحک در کلاب شبانه بود که در آن حتی دیالوگ‌های طنز خودت را هم فراموش کردی!»\nhttps://iranintl.com/202608252988",
+      "shamsi_date": "1405/06/04",
+      "tehran_time": "01:44:07",
+      "gregorian_utc": "2026-08-25T22:14:07+00:00",
       "media_type": "photo",
-      "media_size_bytes": 183691,
-      "media_size_human": "179.39 KB",
+      "media_size_bytes": 165561,
+      "media_size_human": "161.68 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354227_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354227_photo.jpg",
+      "media_local_path": "media/IranintlTV_354234_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354234_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-26T00:26:24.343738+00:00"
+      "archived_at": "2026-08-26T02:11:01.779293+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -987,7 +987,7 @@
       "media_local_path": "media/satlastnews_76329_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76329_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-26T00:26:24.651349+00:00"
+      "archived_at": "2026-08-26T02:11:02.176442+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1005,25 +1005,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-26T00:26:24.005243+00:00"
+      "archived_at": "2026-08-26T02:11:01.349719+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354226,
-      "message_link": "https://t.me/IranintlTV/354226",
-      "text": "کاظم غریب‌آبادی، معاون حقوقی و بین‌الملل وزارت خارجه جمهوری اسلامی، گفت بر اساس تفاهم ایران و عمان، مسیر ورود به خلیج فارس از آب‌های ایران و مسیر خروج از آب‌های سرزمینی عمان خواهد بود و کشتی‌ها در هر دو مسیر از آب‌های ایران عبور خواهند کرد.\nبه گفته او، این مسیر موقت است و دو کشور باید ظرف ۳۰ تا ۶۰ روز درباره مسیر دایمی جدید و ترتیبات مشترک برای اداره آینده تنگه هرمز مذاکره کنند.\nغریب‌آبادی افزود بر اساس تفاهم‌نامه، هیچ شناور نظامی اجازه عبور نخواهد داشت و تنها شناورهای تجاری می‌توانند از تنگه عبور کنند.\nاو همچنین گفت مسیر جنوبی تنگه هرمز با موافقت عمان بسته و این موضوع به سازمان بین‌المللی دریانوردی اعلام خواهد شد.\nغریب‌آبادی بازگشایی تنگه را مشروط به رفع کامل محاصره اقتصادی، پایان پایدار جنگ در همه جبهه‌ها از جمله لبنان و تعیین تکلیف محاصره یمن دانست و گفت اگر الزامات جمهوری اسلامی برآورده نشود، تنگه هرمز همچنان بسته خواهد ماند.\nhttps://iranintl.com/202608250818",
-      "shamsi_date": "1405/06/03",
-      "tehran_time": "23:34:22",
-      "gregorian_utc": "2026-08-25T20:04:22+00:00",
+      "message_id": 354233,
+      "message_link": "https://t.me/IranintlTV/354233",
+      "text": "تام باراک، سفیر آمریکا در ترکیه و فرستاده ویژه ریاست‌جمهوری در امور عراق و سوریه، اعلام کرد طرح دونالد ترامپ، رییس‌جمهوری آمریکا، برای خاورمیانه وارد مرحله‌ای مهم شده و سوریه‌ای متحد در حال شکل‌گیری است.\n\nباراک در ایکس نوشت سیاست ترامپ مسیر ادغام نیروهای دموکراتیک سوریه (اس‌دی‌اف) در نهادهای دولتی سوریه را هموار کرده و به گفته او، این روند اختلافات گذشته را به شراکتی پایدار تبدیل می‌کند.\n\nاو به اختصاص نقش‌هایی در دولت سوریه به مظلوم عبدی و الهام احمد و به رسمیت شناختن زبان کردی در آموزش اشاره کرد و آن را نشانه احترام به نقش کردها در ثبات منطقه دانست.\n\nباراک افزود این روند نمونه‌ای از «ادغام واقعی» است که در آن طرف‌های دارای دیدگاه‌های متفاوت از طریق دیپلماسی برای تقویت سوریه‌ای مستقل و دارای حاکمیت همکاری می‌کنند.\n\nاو در پایان چشم‌انداز این روند را چنین توصیف کرد: «یک ارتش، یک دولت، یک کشور.»\n\nhttps://iranintl.com/202608252912",
+      "shamsi_date": "1405/06/04",
+      "tehran_time": "01:31:42",
+      "gregorian_utc": "2026-08-25T22:01:42+00:00",
       "media_type": "photo",
-      "media_size_bytes": 147312,
-      "media_size_human": "143.86 KB",
+      "media_size_bytes": 136335,
+      "media_size_human": "133.14 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354226_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354226_photo.jpg",
+      "media_local_path": "media/IranintlTV_354233_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354233_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-26T00:26:24.343855+00:00"
+      "archived_at": "2026-08-26T02:11:01.779472+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1041,7 +1041,7 @@
       "media_local_path": "media/satlastnews_76326_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76326_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-26T00:26:24.651468+00:00"
+      "archived_at": "2026-08-26T02:11:02.176562+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1059,25 +1059,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-26T00:26:24.005266+00:00"
+      "archived_at": "2026-08-26T02:11:01.349742+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354225,
-      "message_link": "https://t.me/IranintlTV/354225",
-      "text": "آرام حسامی، استاد علوم سیاسی، با اشاره به عملیات «طرد اقتصادی» از سوی دولت دونالد ترامپ بر جمهوری‌اسلامی گفت نقطه ضعف اصلی این عملیات وابستگی موفقیت آن به همکاری کشورهایی مانند چین، امارات، روسیه، هند و ترکیه است و بدون همراهی این کشورها، اجرای موثر فشار حداکثری دشوار خواهد بود.\n@iranintltv",
-      "shamsi_date": "1405/06/03",
-      "tehran_time": "23:32:31",
-      "gregorian_utc": "2026-08-25T20:02:31+00:00",
+      "message_id": 354232,
+      "message_link": "https://t.me/IranintlTV/354232",
+      "text": "موسسه علوم و امنیت بین‌المللی از شناسایی یک تاسیسات زیرزمینی احتمالی در مجموعه هسته‌ای نطنز خبر داد که به گفته این موسسه، ممکن است برای ذخیره سیلندرهای هگزافلوراید اورانیوم و پشتیبانی از غنی‌سازی در مقیاس گسترده ساخته شده باشد.\n\nبررسی تصاویر ماهواره‌ای نشان می‌دهد ساخت این تاسیسات از سال ۲۰۱۰ آغاز شده و بخش اصلی آن بین سال‌های ۲۰۱۵ تا ۲۰۱۷ تکمیل شده است. این موسسه ظرفیت این ساختمان را بسیار بیشتر از نیاز ذخایر شناخته‌شده اورانیوم ایران ارزیابی کرده است.\n\nگفت‌وگو با امیر گیتی، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
+      "shamsi_date": "1405/06/04",
+      "tehran_time": "01:21:41",
+      "gregorian_utc": "2026-08-25T21:51:41+00:00",
       "media_type": "video",
-      "media_size_bytes": 8209753,
-      "media_size_human": "7.83 MB",
+      "media_size_bytes": 3442699,
+      "media_size_human": "3.28 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354225_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354225_video.mp4",
+      "media_local_path": "media/IranintlTV_354232_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354232_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-26T00:26:24.343923+00:00"
+      "archived_at": "2026-08-26T02:11:01.779569+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1095,7 +1095,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "نوع رسانه پشتیبانی نمی‌شود (نظرسنجی، موقعیت مکانی، مخاطب و...).",
-      "archived_at": "2026-08-26T00:26:24.651499+00:00"
+      "archived_at": "2026-08-26T02:11:02.176594+00:00"
     }
   ]
 }
