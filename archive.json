@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-28T22:32:21.525830+00:00",
-  "shamsi_generated": "1405/06/06 22:32:21 تهران",
+  "generated_at": "2026-08-28T22:42:51.771073+00:00",
+  "shamsi_generated": "1405/06/06 22:42:51 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -24,12 +24,12 @@
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12235,
-      "message_link": "https://t.me/zedTV/12235",
-      "text": "پزشکیان با اعتراف به نداشتن برنامه، منتقدان را به سکوت فراخواند: «تحلیل‌هایتان را در جیب بگذارید.»\nدرخواست واگذاری اختیارات به دیگران؛ اذعان صریح رئیس دولت به ناتوانی در حل بحران‌های کشور.\nتشدید بن‌بست اقتصادی و معیشتی در سایه بی‌کفایتی و فرار مقام‌های حکومتی از مسئولیت.",
+      "message_id": 12237,
+      "message_link": "https://t.me/zedTV/12237",
+      "text": "پزشکیان: افزایش ۱۰۰ درصدی قیمت بنزین در لایه سوم و هشدار نسبت به جهش قیمت دلار.\nاعتراف به بی‌پولی دولت و سقوط شدید تجارت خارجی در پی تداوم محاصره دریایی.\nناتوانی رژیم در تامین بودجه و پرداخت خسارت به بیکاران ناشی از بحران جنگ.",
       "shamsi_date": "1405/06/07",
-      "tehran_time": "00:05:13",
-      "gregorian_utc": "2026-08-28T20:35:13+00:00",
+      "tehran_time": "02:04:55",
+      "gregorian_utc": "2026-08-28T22:34:55+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -37,25 +37,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-28T22:30:36.630379+00:00"
+      "archived_at": "2026-08-28T22:40:28.890305+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354706,
-      "message_link": "https://t.me/IranintlTV/354706",
-      "text": "محسن رضایی، دبیر شورای عالی امنیت ملی جمهوری اسلامی، با اشاره به تاکید مجتبی خامنه‌ای، رهبر جمهوری اسلامی، بر پرهیز از «سخن ناامیدکننده»، «دوگانه‌سازی‌های موهوم» و اقداماتی که به انسجام اجتماعی آسیب می‌زند، نوشت این موضع برای همه «یک راهبرد روشن و غیرقابل تفسیر» است.\n\nپیش‌تر، مجتبی خامنه‌ای، رهبر جمهوری اسلامی، ششم شهریور در پیامی به مناسبت هفته دولت گفته بود هر اقدامی که به انسجام اجتماعی آسیب بزند، «ممنوع» است.\nhttps://iranintl.com/202608288195",
+      "message_id": 354708,
+      "message_link": "https://t.me/IranintlTV/354708",
+      "text": "محمد ماشین‌چیان، عضو تحریریه ایران‌اینترنشنال، گفت از میان ۶۶ میلیون ایرانی در سن کار، تنها حدود ۲۴ میلیون نفر شاغل هستند و آمار رسمی بیکاری، تصویر واقعی بازار کار را منعکس نمی‌کند. او افزود همین آمار مبنای سیاست‌گذاری قرار می‌گیرد و باعث می‌شود تصمیم‌های اقتصادی با واقعیت‌های بازار کار همخوانی نداشته باشد.\n\nاو همچنین گفت از دست رفتن شمار زیادی از مشاغل در ماه‌های اخیر و تشدید فشارهای اقتصادی، به‌ویژه در استان‌های محروم، اقتصاد غیررسمی را گسترش خواهد داد و بحران معیشتی را عمیق‌تر می‌کند.\n@iranintltv",
       "shamsi_date": "1405/06/07",
-      "tehran_time": "01:43:15",
-      "gregorian_utc": "2026-08-28T22:13:15+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 144382,
-      "media_size_human": "141.00 KB",
+      "tehran_time": "02:06:02",
+      "gregorian_utc": "2026-08-28T22:36:02+00:00",
+      "media_type": "video",
+      "media_size_bytes": 3654480,
+      "media_size_human": "3.49 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354706_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354706_photo.jpg",
+      "media_local_path": "media/IranintlTV_354708_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354708_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-28T22:30:37.012186+00:00"
+      "archived_at": "2026-08-28T22:40:29.269128+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -73,7 +73,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-28T22:30:37.318996+00:00"
+      "archived_at": "2026-08-28T22:40:29.740441+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -91,17 +91,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-28T22:30:37.589623+00:00"
+      "archived_at": "2026-08-28T22:40:30.101852+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12234,
-      "message_link": "https://t.me/zedTV/12234",
-      "text": "فساد سیستماتیک در صنعت خودرو؛ مدیرعامل «فردا موتورز» پس از غارت اموال مردم در شرکتی جدید فعال شد.\nتوهین وقیحانه مقام حکومتی به مالباختگان: «حق‌تان است که پولتان را خوردند».\nتداوم بی‌قانونی و حمایت نهادهای نظارتی از کلاهبرداران، موجی از خشم و نارضایتی ایجاد کرده است.",
-      "shamsi_date": "1405/06/06",
-      "tehran_time": "23:50:36",
-      "gregorian_utc": "2026-08-28T20:20:36+00:00",
+      "message_id": 12236,
+      "message_link": "https://t.me/zedTV/12236",
+      "text": "العربیه: قصد شبه‌نظامیان عراقی برای حمله گسترده به عربستان سعودی.\nآمادگی گروه‌های نیابتی برای آغاز عملیات طی ساعات پیش‌ رو.\nگسترش تنش‌های منطقه‌ای توسط بازوهای نظامی جمهوری اسلامی.",
+      "shamsi_date": "1405/06/07",
+      "tehran_time": "02:04:30",
+      "gregorian_utc": "2026-08-28T22:34:30+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -109,25 +109,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-28T22:30:36.630427+00:00"
+      "archived_at": "2026-08-28T22:40:28.890356+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354705,
-      "message_link": "https://t.me/IranintlTV/354705",
-      "text": "🔻تیم فوتبال تراکتور در هفته چهارم لیگ برتر چادرملو را در اردکان با نتیجه دو بر صفر شکست داد. تراکتوری‌ها چهارمین برد و کلین‌شیت پیاپی خود را در حالی کسب کردند که با توجه به تساوی استقلال برابر فولاد، صدرنشین لیگ برتر شدند.\n\n🔹گفتگوی مزدک میرزایی با محمد تقوی و رها پوربخش در برنامه هت‌تریک\n\n🔹تماشای نسخه کامل هت‌تریک؛👇\nhttps://youtu.be/oubA98AxIRE\n\n@iranintltvsport",
+      "message_id": 354707,
+      "message_link": "https://t.me/IranintlTV/354707",
+      "text": "جمشید برزگر، روزنامه‌نگار و تحلیل‌گر سیاسی، گفت ادامه ابهام درباره وضعیت مجتبی خامنه‌ای و نبود هرگونه تصویر یا پیام قابل راستی‌آزمایی از او، بر بحران جانشینی و خلا قدرت در جمهوری اسلامی افزوده است. او افزود هرچه این وضعیت طولانی‌تر شود، هزینه‌های سیاسی آن برای حکومت بیشتر خواهد شد.\n\nاو همچنین گفت در غیاب مجتبی خامنه‌ای، ساختار تصمیم‌گیری جمهوری اسلامی به سمت نوعی رهبری چندلایه حرکت کرده و جریان‌های مختلف قدرت می‌کوشند تصمیم‌ها و مواضع خود را به او نسبت دهند؛ موضوعی که به گفته برزگر، اختلافات در راس حکومت را آشکارتر کرده است.\n@iranintltv",
       "shamsi_date": "1405/06/07",
-      "tehran_time": "01:22:40",
-      "gregorian_utc": "2026-08-28T21:52:40+00:00",
+      "tehran_time": "02:01:07",
+      "gregorian_utc": "2026-08-28T22:31:07+00:00",
       "media_type": "video",
-      "media_size_bytes": 5216687,
-      "media_size_human": "4.98 MB",
+      "media_size_bytes": 5003765,
+      "media_size_human": "4.77 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354705_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354705_video.mp4",
+      "media_local_path": "media/IranintlTV_354707_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354707_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-28T22:30:37.026197+00:00"
+      "archived_at": "2026-08-28T22:40:29.269248+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -145,7 +145,7 @@
       "media_local_path": "media/satlastnews_76371_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76371_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-28T22:30:37.319179+00:00"
+      "archived_at": "2026-08-28T22:40:29.740611+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -163,17 +163,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-28T22:30:37.589681+00:00"
+      "archived_at": "2026-08-28T22:40:30.101936+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12233,
-      "message_link": "https://t.me/zedTV/12233",
-      "text": "استقرار گسترده نیروهای سرکوبگر در محورهای مواصلاتی تهران و البرز؛\nتشدید نظارت امنیتی بر جایگاه‌های سوخت برای مقابله با اعتراضات مردمی؛\nهراس رژیم از تبدیل خشم ناشی از بحران انرژی به جرقه‌های قیام سراسری.",
-      "shamsi_date": "1405/06/06",
-      "tehran_time": "23:50:22",
-      "gregorian_utc": "2026-08-28T20:20:22+00:00",
+      "message_id": 12235,
+      "message_link": "https://t.me/zedTV/12235",
+      "text": "پزشکیان با اعتراف به نداشتن برنامه، منتقدان را به سکوت فراخواند: «تحلیل‌هایتان را در جیب بگذارید.»\nدرخواست واگذاری اختیارات به دیگران؛ اذعان صریح رئیس دولت به ناتوانی در حل بحران‌های کشور.\nتشدید بن‌بست اقتصادی و معیشتی در سایه بی‌کفایتی و فرار مقام‌های حکومتی از مسئولیت.",
+      "shamsi_date": "1405/06/07",
+      "tehran_time": "00:05:13",
+      "gregorian_utc": "2026-08-28T20:35:13+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -181,25 +181,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-28T22:30:36.630492+00:00"
+      "archived_at": "2026-08-28T22:40:28.890397+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354704,
-      "message_link": "https://t.me/IranintlTV/354704",
-      "text": "🔻تیم فوتبال تراکتور در حالی موفق شد با پیروزی بر چادرملو در هفته چهارم لیگ برتر صدرنشین شود که تیم جواد نکونام از فضاهای پشت مدافعین چادرملو استفاده کرد و توانست این تیم را تحت فشار قرار بدهد.\n\n🔹آنالیز فنی بازی چادرملو - تراکتور توسط محمد تقوی، ایران‌اینترنشنال در برنامه هت‌تریک\n\n🔹تماشای نسخه کامل هت‌تریک؛👇\nhttps://youtu.be/oubA98AxIRE\n\n@iranintltvsport",
+      "message_id": 354706,
+      "message_link": "https://t.me/IranintlTV/354706",
+      "text": "محسن رضایی، دبیر شورای عالی امنیت ملی جمهوری اسلامی، با اشاره به تاکید مجتبی خامنه‌ای، رهبر جمهوری اسلامی، بر پرهیز از «سخن ناامیدکننده»، «دوگانه‌سازی‌های موهوم» و اقداماتی که به انسجام اجتماعی آسیب می‌زند، نوشت این موضع برای همه «یک راهبرد روشن و غیرقابل تفسیر» است.\n\nپیش‌تر، مجتبی خامنه‌ای، رهبر جمهوری اسلامی، ششم شهریور در پیامی به مناسبت هفته دولت گفته بود هر اقدامی که به انسجام اجتماعی آسیب بزند، «ممنوع» است.\nhttps://iranintl.com/202608288195",
       "shamsi_date": "1405/06/07",
-      "tehran_time": "01:22:28",
-      "gregorian_utc": "2026-08-28T21:52:28+00:00",
-      "media_type": "video",
-      "media_size_bytes": 3853972,
-      "media_size_human": "3.68 MB",
+      "tehran_time": "01:43:15",
+      "gregorian_utc": "2026-08-28T22:13:15+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 144382,
+      "media_size_human": "141.00 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354704_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354704_video.mp4",
+      "media_local_path": "media/IranintlTV_354706_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354706_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-28T22:30:37.026365+00:00"
+      "archived_at": "2026-08-28T22:40:29.269356+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -217,7 +217,7 @@
       "media_local_path": "media/satlastnews_76369_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76369_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-28T22:30:37.319319+00:00"
+      "archived_at": "2026-08-28T22:40:29.740745+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -235,17 +235,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-28T22:30:37.589709+00:00"
+      "archived_at": "2026-08-28T22:40:30.101973+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12232,
-      "message_link": "https://t.me/zedTV/12232",
-      "text": "استقرار سنگین نیروهای یگان ویژه در بازار تهران از ترس قیام؛ خشم عمومی به مرز انفجار رسید.\nبحران سوخت و جهش چهاربرابری هزینه‌های درمان؛ تداوم غارت معیشت شهروندان توسط رژیم.\nتوقف صرفه اقتصادی مشاغل و گسترش ناامنی؛ پایتخت در انتظار جرقه‌ای برای خیزش نهایی.",
+      "message_id": 12234,
+      "message_link": "https://t.me/zedTV/12234",
+      "text": "فساد سیستماتیک در صنعت خودرو؛ مدیرعامل «فردا موتورز» پس از غارت اموال مردم در شرکتی جدید فعال شد.\nتوهین وقیحانه مقام حکومتی به مالباختگان: «حق‌تان است که پولتان را خوردند».\nتداوم بی‌قانونی و حمایت نهادهای نظارتی از کلاهبرداران، موجی از خشم و نارضایتی ایجاد کرده است.",
       "shamsi_date": "1405/06/06",
-      "tehran_time": "23:36:43",
-      "gregorian_utc": "2026-08-28T20:06:43+00:00",
+      "tehran_time": "23:50:36",
+      "gregorian_utc": "2026-08-28T20:20:36+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -253,25 +253,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-28T22:30:36.630525+00:00"
+      "archived_at": "2026-08-28T22:40:28.890434+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354703,
-      "message_link": "https://t.me/IranintlTV/354703",
-      "text": "ان‌پی‌آر در گزارشی درباره شش ماه جنگ ایران نوشت با وجود حملات گسترده آمریکا و اسرائیل، کشته شدن علی خامنه‌ای و شماری از مقام‌های ارشد و خسارت سنگین به توان نظامی و اقتصاد ایران، جمهوری اسلامی همچنان کنترل خود بر کشور را حفظ کرده و مواضع سخت‌گیرانه‌تری در پیش گرفته است.\n\nبه نوشته ان‌پی‌آر، نیروی هوایی و بخش عمده نیروی دریایی ایران در پنج هفته نخست جنگ از بین رفت و برنامه‌های موشکی و پهپادی نیز آسیب دیدند. با این حال، جمهوری اسلامی توان حملات محدود را حفظ کرده و تنگه هرمز را به مهم‌ترین اهرم راهبردی خود تبدیل کرده است.\n\nاین رسانه افزود مذاکرات پس از آتش‌بس آوریل به نتیجه نرسیده و متوقف شده است. هم‌زمان، دولت دونالد ترامپ کارزار «طرد اقتصادی» را برای تشدید تحریم‌ها و قطع ارتباطات مالی جمهوری اسلامی آغاز کرده است.\n\nان‌پی‌آر همچنین به تورم، سقوط ارزش ریال، دشواری تامین مواد غذایی و دارو و افزایش اعدام‌ها اشاره کرد. وطنخواه گفت اعتراضات به‌تنهایی برای ایجاد تغییر کافی نیست و مخالفان به برنامه سیاسی و ایجاد شکاف در ساختار حکومت و نیروهای امنیتی نیاز دارند.\n\nhttps://iranintl.com/202608280192",
+      "message_id": 354705,
+      "message_link": "https://t.me/IranintlTV/354705",
+      "text": "🔻تیم فوتبال تراکتور در هفته چهارم لیگ برتر چادرملو را در اردکان با نتیجه دو بر صفر شکست داد. تراکتوری‌ها چهارمین برد و کلین‌شیت پیاپی خود را در حالی کسب کردند که با توجه به تساوی استقلال برابر فولاد، صدرنشین لیگ برتر شدند.\n\n🔹گفتگوی مزدک میرزایی با محمد تقوی و رها پوربخش در برنامه هت‌تریک\n\n🔹تماشای نسخه کامل هت‌تریک؛👇\nhttps://youtu.be/oubA98AxIRE\n\n@iranintltvsport",
       "shamsi_date": "1405/06/07",
-      "tehran_time": "01:10:42",
-      "gregorian_utc": "2026-08-28T21:40:42+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 176156,
-      "media_size_human": "172.03 KB",
+      "tehran_time": "01:22:40",
+      "gregorian_utc": "2026-08-28T21:52:40+00:00",
+      "media_type": "video",
+      "media_size_bytes": 5216687,
+      "media_size_human": "4.98 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354703_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354703_photo.jpg",
+      "media_local_path": "media/IranintlTV_354705_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354705_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-28T22:30:37.026552+00:00"
+      "archived_at": "2026-08-28T22:40:29.283177+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -289,7 +289,7 @@
       "media_local_path": "media/satlastnews_76368_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76368_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-28T22:30:37.319371+00:00"
+      "archived_at": "2026-08-28T22:40:29.740807+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -307,17 +307,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-28T22:30:37.589747+00:00"
+      "archived_at": "2026-08-28T22:40:30.102032+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12231,
-      "message_link": "https://t.me/zedTV/12231",
-      "text": "پزشکیان: قیمت بنزین در لایه سوم به ۱۰ هزار تومان افزایش می‌یابد.\nتایید دو برابر شدن قیمت سوخت پس از هماهنگی با تمامی نهادها و سازمان‌ها.\nتشدید فشارهای معیشتی بر شهروندان در پی تصمیمات اقتصادی جدید رژیم.",
+      "message_id": 12233,
+      "message_link": "https://t.me/zedTV/12233",
+      "text": "استقرار گسترده نیروهای سرکوبگر در محورهای مواصلاتی تهران و البرز؛\nتشدید نظارت امنیتی بر جایگاه‌های سوخت برای مقابله با اعتراضات مردمی؛\nهراس رژیم از تبدیل خشم ناشی از بحران انرژی به جرقه‌های قیام سراسری.",
       "shamsi_date": "1405/06/06",
-      "tehran_time": "23:36:30",
-      "gregorian_utc": "2026-08-28T20:06:30+00:00",
+      "tehran_time": "23:50:22",
+      "gregorian_utc": "2026-08-28T20:20:22+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -325,25 +325,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-28T22:30:36.630549+00:00"
+      "archived_at": "2026-08-28T22:40:28.890465+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354702,
-      "message_link": "https://t.me/IranintlTV/354702",
-      "text": "نیروی دریایی سپاه پاسداران، اظهارات مقام‌های آمریکایی درباره باز بودن تنگه هرمز را «دروغی آشکار» خواند و اعلام کرد این اظهارات «با هدف کنترل قیمت نفت و سرپوش گذاشتن بر شکست‌های آمریکا» مطرح می‌شود. \n\nنیروی دریایی سپاه اعلام کرد: «تسلط رزمندگان بر این آبراه راهبردی کاملا قاطع است و تنگه هرمز بر روی تمامی کشتی‌هایی که بدون هماهنگی با جمهوری اسلامی ایران قصد تردد دارند، مسدود است.» \n\nدر این بیانیه آمده است که این روند «تا پایان شرارت‌های ارتش آمریکا علیه کشور عزیزمان و اجرای تعهدات مقرر ادامه خواهد یافت.»\nhttps://iranintl.com/202608288268",
+      "message_id": 354704,
+      "message_link": "https://t.me/IranintlTV/354704",
+      "text": "🔻تیم فوتبال تراکتور در حالی موفق شد با پیروزی بر چادرملو در هفته چهارم لیگ برتر صدرنشین شود که تیم جواد نکونام از فضاهای پشت مدافعین چادرملو استفاده کرد و توانست این تیم را تحت فشار قرار بدهد.\n\n🔹آنالیز فنی بازی چادرملو - تراکتور توسط محمد تقوی، ایران‌اینترنشنال در برنامه هت‌تریک\n\n🔹تماشای نسخه کامل هت‌تریک؛👇\nhttps://youtu.be/oubA98AxIRE\n\n@iranintltvsport",
       "shamsi_date": "1405/06/07",
-      "tehran_time": "00:05:24",
-      "gregorian_utc": "2026-08-28T20:35:24+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 187333,
-      "media_size_human": "182.94 KB",
+      "tehran_time": "01:22:28",
+      "gregorian_utc": "2026-08-28T21:52:28+00:00",
+      "media_type": "video",
+      "media_size_bytes": 3853972,
+      "media_size_human": "3.68 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354702_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354702_photo.jpg",
+      "media_local_path": "media/IranintlTV_354704_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354704_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-28T22:30:37.026654+00:00"
+      "archived_at": "2026-08-28T22:40:29.283339+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -361,7 +361,7 @@
       "media_local_path": "media/satlastnews_76367_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76367_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-28T22:30:37.319500+00:00"
+      "archived_at": "2026-08-28T22:40:29.740998+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -379,17 +379,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-08-28T22:30:37.589817+00:00"
+      "archived_at": "2026-08-28T22:40:30.102106+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12230,
-      "message_link": "https://t.me/zedTV/12230",
-      "text": "درخواست نماینده پارلمان اروپا برای حفاظت از رسانه‌های فارسی‌زبان در برابر تهدیدات جمهوری اسلامی.\nهانا نیومن: رژیم ایران با هدف قرار دادن خبرنگاران در اروپا، به دنبال «سرکوب فراملی» است.\nتأکید بر لزوم واکنش قاطع اتحادیه اروپا به تلاش‌های تهران برای کنترل روایت‌ها در خارج از کشور.",
+      "message_id": 12232,
+      "message_link": "https://t.me/zedTV/12232",
+      "text": "استقرار سنگین نیروهای یگان ویژه در بازار تهران از ترس قیام؛ خشم عمومی به مرز انفجار رسید.\nبحران سوخت و جهش چهاربرابری هزینه‌های درمان؛ تداوم غارت معیشت شهروندان توسط رژیم.\nتوقف صرفه اقتصادی مشاغل و گسترش ناامنی؛ پایتخت در انتظار جرقه‌ای برای خیزش نهایی.",
       "shamsi_date": "1405/06/06",
-      "tehran_time": "22:36:09",
-      "gregorian_utc": "2026-08-28T19:06:09+00:00",
+      "tehran_time": "23:36:43",
+      "gregorian_utc": "2026-08-28T20:06:43+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -397,25 +397,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-28T22:30:36.630580+00:00"
+      "archived_at": "2026-08-28T22:40:28.890501+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354701,
-      "message_link": "https://t.me/IranintlTV/354701",
-      "text": "رویترز به نقل از منابع نزدیک به مجتبی خامنه‌ای گزارش داده که او با وجود جراحات شدید در حملات آغاز جنگ، همچنان در تصمیم‌گیری‌های جمهوری اسلامی نقش دارد و در خفا کشور را اداره می‌کند. یک مقام ارشد جمهوری اسلامی نیز گفته تنها شمار معدودی از مقام‌ها ارتباط مستقیم با او دارند.\n@iranintltv",
-      "shamsi_date": "1405/06/06",
-      "tehran_time": "23:42:47",
-      "gregorian_utc": "2026-08-28T20:12:47+00:00",
-      "media_type": "video",
-      "media_size_bytes": 1472643,
-      "media_size_human": "1.40 MB",
+      "message_id": 354703,
+      "message_link": "https://t.me/IranintlTV/354703",
+      "text": "ان‌پی‌آر در گزارشی درباره شش ماه جنگ ایران نوشت با وجود حملات گسترده آمریکا و اسرائیل، کشته شدن علی خامنه‌ای و شماری از مقام‌های ارشد و خسارت سنگین به توان نظامی و اقتصاد ایران، جمهوری اسلامی همچنان کنترل خود بر کشور را حفظ کرده و مواضع سخت‌گیرانه‌تری در پیش گرفته است.\n\nبه نوشته ان‌پی‌آر، نیروی هوایی و بخش عمده نیروی دریایی ایران در پنج هفته نخست جنگ از بین رفت و برنامه‌های موشکی و پهپادی نیز آسیب دیدند. با این حال، جمهوری اسلامی توان حملات محدود را حفظ کرده و تنگه هرمز را به مهم‌ترین اهرم راهبردی خود تبدیل کرده است.\n\nاین رسانه افزود مذاکرات پس از آتش‌بس آوریل به نتیجه نرسیده و متوقف شده است. هم‌زمان، دولت دونالد ترامپ کارزار «طرد اقتصادی» را برای تشدید تحریم‌ها و قطع ارتباطات مالی جمهوری اسلامی آغاز کرده است.\n\nان‌پی‌آر همچنین به تورم، سقوط ارزش ریال، دشواری تامین مواد غذایی و دارو و افزایش اعدام‌ها اشاره کرد. وطنخواه گفت اعتراضات به‌تنهایی برای ایجاد تغییر کافی نیست و مخالفان به برنامه سیاسی و ایجاد شکاف در ساختار حکومت و نیروهای امنیتی نیاز دارند.\n\nhttps://iranintl.com/202608280192",
+      "shamsi_date": "1405/06/07",
+      "tehran_time": "01:10:42",
+      "gregorian_utc": "2026-08-28T21:40:42+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 176156,
+      "media_size_human": "172.03 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354701_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354701_video.mp4",
+      "media_local_path": "media/IranintlTV_354703_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354703_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-28T22:30:37.026724+00:00"
+      "archived_at": "2026-08-28T22:40:29.283515+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -433,7 +433,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-28T22:30:37.319562+00:00"
+      "archived_at": "2026-08-28T22:40:29.741079+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -451,17 +451,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-28T22:30:37.589858+00:00"
+      "archived_at": "2026-08-28T22:40:30.102167+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12229,
-      "message_link": "https://t.me/zedTV/12229",
-      "text": "بانک مرکزی عراق فعالیت ۱۴ شخص و ۱۹ شرکت را در پی تحریم‌های جدید آمریکا به حالت تعلیق درآورد.\nاین نهادها در حوزه‌های نفت، تجارت و حمل‌ونقل فعال بودند.\nتداوم انسداد مسیرهای دور زدن تحریم‌ها و قطع شریان‌های مالی رژیم ایران در منطقه.",
+      "message_id": 12231,
+      "message_link": "https://t.me/zedTV/12231",
+      "text": "پزشکیان: قیمت بنزین در لایه سوم به ۱۰ هزار تومان افزایش می‌یابد.\nتایید دو برابر شدن قیمت سوخت پس از هماهنگی با تمامی نهادها و سازمان‌ها.\nتشدید فشارهای معیشتی بر شهروندان در پی تصمیمات اقتصادی جدید رژیم.",
       "shamsi_date": "1405/06/06",
-      "tehran_time": "22:06:43",
-      "gregorian_utc": "2026-08-28T18:36:43+00:00",
+      "tehran_time": "23:36:30",
+      "gregorian_utc": "2026-08-28T20:06:30+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -469,25 +469,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-28T22:30:36.630604+00:00"
+      "archived_at": "2026-08-28T22:40:28.890532+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354700,
-      "message_link": "https://t.me/IranintlTV/354700",
-      "text": "فرزین ندیمی، پژوهشگر ارشد امور دفاعی و امنیتی در موسسه واشنگتن، گفت اطلاعات ماهواره‌ای نقشی حیاتی در رصد فعالیت‌های هسته‌ای و تحرکات نظامی جمهوری اسلامی، از جمله در تنگه هرمز، دارد. او افزود در شرایط کنونی، آمریکا ممکن است در کوتاه‌مدت به نظارت دقیق بر برنامه هسته‌ای ایران اکتفا کند، اما در صورت شتاب گرفتن دوباره غنی‌سازی، احتمال حملات نظامی جدید را منتفی نمی‌داند.\n\nاو همچنین گفت جمهوری اسلامی هنوز نتوانسته خسارت‌های واردشده به نیروها و تجهیزات متعارف خود را جبران کند، اما بخش عمده توان موشکی و تولید پهپادهایش را بازسازی کرده و این حوزه را در اولویت قرار داده است.\n@iranintltv",
-      "shamsi_date": "1405/06/06",
-      "tehran_time": "23:37:14",
-      "gregorian_utc": "2026-08-28T20:07:14+00:00",
-      "media_type": "video",
-      "media_size_bytes": 6647610,
-      "media_size_human": "6.34 MB",
+      "message_id": 354702,
+      "message_link": "https://t.me/IranintlTV/354702",
+      "text": "نیروی دریایی سپاه پاسداران، اظهارات مقام‌های آمریکایی درباره باز بودن تنگه هرمز را «دروغی آشکار» خواند و اعلام کرد این اظهارات «با هدف کنترل قیمت نفت و سرپوش گذاشتن بر شکست‌های آمریکا» مطرح می‌شود. \n\nنیروی دریایی سپاه اعلام کرد: «تسلط رزمندگان بر این آبراه راهبردی کاملا قاطع است و تنگه هرمز بر روی تمامی کشتی‌هایی که بدون هماهنگی با جمهوری اسلامی ایران قصد تردد دارند، مسدود است.» \n\nدر این بیانیه آمده است که این روند «تا پایان شرارت‌های ارتش آمریکا علیه کشور عزیزمان و اجرای تعهدات مقرر ادامه خواهد یافت.»\nhttps://iranintl.com/202608288268",
+      "shamsi_date": "1405/06/07",
+      "tehran_time": "00:05:24",
+      "gregorian_utc": "2026-08-28T20:35:24+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 187333,
+      "media_size_human": "182.94 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354700_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354700_video.mp4",
+      "media_local_path": "media/IranintlTV_354702_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354702_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-28T22:30:37.026820+00:00"
+      "archived_at": "2026-08-28T22:40:29.283620+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -505,7 +505,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-28T22:30:37.319680+00:00"
+      "archived_at": "2026-08-28T22:40:29.741199+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -523,17 +523,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-08-28T22:30:37.589913+00:00"
+      "archived_at": "2026-08-28T22:40:30.102227+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12228,
-      "message_link": "https://t.me/zedTV/12228",
-      "text": "نتانیاهو: دستیابی جمهوری اسلامی به بمب اتمی به معنای پایان موجودیت اسرائیل است.\nتأکید بر لزوم سرنگونی فوری رژیم تهران برای جلوگیری از نابودی و تغییر توازن قدرت.\nهشدار نخست‌وزیر اسرائیل: برای بقا چاره‌ای جز فروپاشی سریع حکومت ایران وجود ندارد.",
+      "message_id": 12230,
+      "message_link": "https://t.me/zedTV/12230",
+      "text": "درخواست نماینده پارلمان اروپا برای حفاظت از رسانه‌های فارسی‌زبان در برابر تهدیدات جمهوری اسلامی.\nهانا نیومن: رژیم ایران با هدف قرار دادن خبرنگاران در اروپا، به دنبال «سرکوب فراملی» است.\nتأکید بر لزوم واکنش قاطع اتحادیه اروپا به تلاش‌های تهران برای کنترل روایت‌ها در خارج از کشور.",
       "shamsi_date": "1405/06/06",
-      "tehran_time": "22:06:38",
-      "gregorian_utc": "2026-08-28T18:36:38+00:00",
+      "tehran_time": "22:36:09",
+      "gregorian_utc": "2026-08-28T19:06:09+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -541,25 +541,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-28T22:30:36.630643+00:00"
+      "archived_at": "2026-08-28T22:40:28.890573+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354699,
-      "message_link": "https://t.me/IranintlTV/354699",
-      "text": "میعاد ملکی، رییس پیشین دفتر هدف‌گذاری تحریم‌های وزارت خزانه‌داری آمریکا، گفت درهم‌تنیدگی روابط مالی و تجاری ایران و امارات، قطع کامل شبکه‌های مالی جمهوری اسلامی را دشوار کرده است. او افزود تحریم‌های جدید واشینگتن، به‌ویژه علیه شعب بانک ملی، پیامی جدی به امارات برای محدود کردن فعالیت‌های مالی جمهوری اسلامی است.\n\nاو همچنین گفت نگرانی‌های امنیتی، از جمله احتمال عملیات تروریستی جمهوری اسلامی، در کنار منافع تجاری، بر رویکرد امارات تاثیر گذاشته است. به گفته ملکی، اگر امارات اراده سیاسی لازم را داشته باشد، با توجه به تمرکز شبکه‌های مالی و تجاری جمهوری اسلامی در دبی، توان شناسایی و محدود کردن این فعالیت‌ها را خواهد داشت.\n@iranintltv",
+      "message_id": 354701,
+      "message_link": "https://t.me/IranintlTV/354701",
+      "text": "رویترز به نقل از منابع نزدیک به مجتبی خامنه‌ای گزارش داده که او با وجود جراحات شدید در حملات آغاز جنگ، همچنان در تصمیم‌گیری‌های جمهوری اسلامی نقش دارد و در خفا کشور را اداره می‌کند. یک مقام ارشد جمهوری اسلامی نیز گفته تنها شمار معدودی از مقام‌ها ارتباط مستقیم با او دارند.\n@iranintltv",
       "shamsi_date": "1405/06/06",
-      "tehran_time": "23:30:51",
-      "gregorian_utc": "2026-08-28T20:00:51+00:00",
+      "tehran_time": "23:42:47",
+      "gregorian_utc": "2026-08-28T20:12:47+00:00",
       "media_type": "video",
-      "media_size_bytes": 6464958,
-      "media_size_human": "6.17 MB",
+      "media_size_bytes": 1472643,
+      "media_size_human": "1.40 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354699_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354699_video.mp4",
+      "media_local_path": "media/IranintlTV_354701_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354701_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-28T22:30:37.026925+00:00"
+      "archived_at": "2026-08-28T22:40:29.283710+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -577,7 +577,7 @@
       "media_local_path": "media/satlastnews_76364_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76364_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-28T22:30:37.319732+00:00"
+      "archived_at": "2026-08-28T22:40:29.741265+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -595,17 +595,17 @@
       "media_local_path": "media/Mellig_120353_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120353_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-28T22:30:37.589984+00:00"
+      "archived_at": "2026-08-28T22:40:30.102286+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12227,
-      "message_link": "https://t.me/zedTV/12227",
-      "text": "شوک و ناباوری در مسکو؛ زلنسکی از شلیک روزانه ۱۰۰۰ پهپاد دوربرد به عمق خاک روسیه خبر داد.\nتشدید حملات پهپادی اوکراین علیه اهداف استراتژیک در قلب روسیه.",
+      "message_id": 12229,
+      "message_link": "https://t.me/zedTV/12229",
+      "text": "بانک مرکزی عراق فعالیت ۱۴ شخص و ۱۹ شرکت را در پی تحریم‌های جدید آمریکا به حالت تعلیق درآورد.\nاین نهادها در حوزه‌های نفت، تجارت و حمل‌ونقل فعال بودند.\nتداوم انسداد مسیرهای دور زدن تحریم‌ها و قطع شریان‌های مالی رژیم ایران در منطقه.",
       "shamsi_date": "1405/06/06",
-      "tehran_time": "22:06:26",
-      "gregorian_utc": "2026-08-28T18:36:26+00:00",
+      "tehran_time": "22:06:43",
+      "gregorian_utc": "2026-08-28T18:36:43+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -613,25 +613,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-28T22:30:36.630669+00:00"
+      "archived_at": "2026-08-28T22:40:28.890602+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354698,
-      "message_link": "https://t.me/IranintlTV/354698",
-      "text": "🎧نسخه صوتی ‌‌‏﻿﻿۲۴ با فرداد فرحزاد: شروع فشار نهایی بر جمهوری اسلامی\n@iranintlTV",
+      "message_id": 354700,
+      "message_link": "https://t.me/IranintlTV/354700",
+      "text": "فرزین ندیمی، پژوهشگر ارشد امور دفاعی و امنیتی در موسسه واشنگتن، گفت اطلاعات ماهواره‌ای نقشی حیاتی در رصد فعالیت‌های هسته‌ای و تحرکات نظامی جمهوری اسلامی، از جمله در تنگه هرمز، دارد. او افزود در شرایط کنونی، آمریکا ممکن است در کوتاه‌مدت به نظارت دقیق بر برنامه هسته‌ای ایران اکتفا کند، اما در صورت شتاب گرفتن دوباره غنی‌سازی، احتمال حملات نظامی جدید را منتفی نمی‌داند.\n\nاو همچنین گفت جمهوری اسلامی هنوز نتوانسته خسارت‌های واردشده به نیروها و تجهیزات متعارف خود را جبران کند، اما بخش عمده توان موشکی و تولید پهپادهایش را بازسازی کرده و این حوزه را در اولویت قرار داده است.\n@iranintltv",
       "shamsi_date": "1405/06/06",
-      "tehran_time": "23:29:17",
-      "gregorian_utc": "2026-08-28T19:59:17+00:00",
-      "media_type": "audio",
-      "media_size_bytes": 31864967,
-      "media_size_human": "30.39 MB",
+      "tehran_time": "23:37:14",
+      "gregorian_utc": "2026-08-28T20:07:14+00:00",
+      "media_type": "video",
+      "media_size_bytes": 6647610,
+      "media_size_human": "6.34 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354698_audio.mp3",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354698_audio.mp3",
+      "media_local_path": "media/IranintlTV_354700_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354700_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-28T22:30:37.027002+00:00"
+      "archived_at": "2026-08-28T22:40:29.283806+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -649,7 +649,7 @@
       "media_local_path": "media/satlastnews_76363_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76363_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-28T22:30:37.319776+00:00"
+      "archived_at": "2026-08-28T22:40:29.741320+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -667,17 +667,17 @@
       "media_local_path": "media/Mellig_120352_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120352_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-28T22:30:37.590018+00:00"
+      "archived_at": "2026-08-28T22:40:30.102326+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12226,
-      "message_link": "https://t.me/zedTV/12226",
-      "text": "انتقاد مجتبی خامنه‌ای از اعتراف مقامات به بحران سوخت و بنزین؛ «بیان ضعف‌ها کمک به دشمن است».\nتداوم غیبت فیزیکی رهبر جدید رژیم همزمان با ادعای ترامپ مبنی بر جراحت شدید وی.\nتلاش دفتر خامنه‌ای برای سرپوش گذاشتن بر تورم و بیکاری با عنوان «نقاط سیاه» اقتصادی.",
+      "message_id": 12228,
+      "message_link": "https://t.me/zedTV/12228",
+      "text": "نتانیاهو: دستیابی جمهوری اسلامی به بمب اتمی به معنای پایان موجودیت اسرائیل است.\nتأکید بر لزوم سرنگونی فوری رژیم تهران برای جلوگیری از نابودی و تغییر توازن قدرت.\nهشدار نخست‌وزیر اسرائیل: برای بقا چاره‌ای جز فروپاشی سریع حکومت ایران وجود ندارد.",
       "shamsi_date": "1405/06/06",
-      "tehran_time": "21:36:26",
-      "gregorian_utc": "2026-08-28T18:06:26+00:00",
+      "tehran_time": "22:06:38",
+      "gregorian_utc": "2026-08-28T18:36:38+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -685,25 +685,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-28T22:30:36.630692+00:00"
+      "archived_at": "2026-08-28T22:40:28.890633+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354697,
-      "message_link": "https://t.me/IranintlTV/354697",
-      "text": "🗣**روایت شما از شرایط زندگی و بحران اقتصادی- جمعه ۶ شهریور:**\n\n🔹از تهران پیام می‌دم. پمپ بنزین‌ها به شدت شلوغه با صف‌های طولانی، مردم با هم برای بنزین و نوبت دعوا می‌کنن، نان و مواد خوراکی هر روز گرون‌تر می‌شه، دیگه واقعا کم آوردیم و فکر نمی‌کنم بتونیم ادامه بدیم، مردم شدیدا عصبانی‌ان از وضعیت و منتظر جرقه‌ان که بریزن بیرون.\n\n🔹کلاهبرداری خیلی زیاد شده، کلاهبرداران در پوشش نهادهایی مثل وکیل دادگستری فعالیت می‌کنن. هیچ نهادی هم برای دستگیری این باندها نیست.\n\n🔹کل بازار تهران این چند روزه مخصوصا بیشتر در قسمت پاچنار امنیتی بوده. وجب به وجب داخل خود بازار مامور ضدشورش وایساده از ترس خیزش مردمی.\n\n🔹بسته اینترنت ۱۲ گیگی گرفتم از ۶ صبح تا ۱۲. تو چهار روز تموم شد. اینم از اینترنت بی‌کیفیت و دزدی‌های آشکارشون.\n\n🔹شاید بیکار شدن به معنای واقعی هنوز اتفاق نیفتاده باشه اما شرایط بیشتر مشاغل طوری شده که دیگه ادامه دادن مقرون به صرفه نیست یعنی حساب می‌کنی می‌بینی کار کنی یا نکنی تفاوت چندانی نداره.\n\n🔹به همین روال جمهوری اسلامی پیش بریم ۲سال دیگه بنزین لیتری ۱۰۰ هزار تومانه.\n\n🔹اینکه پزشکیان گفته نرخ سوم بنزین ۱۰ هزار تومان می‌شود، یعنی باید منتظر موج جدید و شدید از افزایش قیمت همه کالاها و خدمات باشیم.\n\n🔹داروهام قبلا سه میلیون بود الان شده ۱۲ میلیون. در عرض چند ماه هزینه‌های درمانم چهار برابر شده.",
+      "message_id": 354699,
+      "message_link": "https://t.me/IranintlTV/354699",
+      "text": "میعاد ملکی، رییس پیشین دفتر هدف‌گذاری تحریم‌های وزارت خزانه‌داری آمریکا، گفت درهم‌تنیدگی روابط مالی و تجاری ایران و امارات، قطع کامل شبکه‌های مالی جمهوری اسلامی را دشوار کرده است. او افزود تحریم‌های جدید واشینگتن، به‌ویژه علیه شعب بانک ملی، پیامی جدی به امارات برای محدود کردن فعالیت‌های مالی جمهوری اسلامی است.\n\nاو همچنین گفت نگرانی‌های امنیتی، از جمله احتمال عملیات تروریستی جمهوری اسلامی، در کنار منافع تجاری، بر رویکرد امارات تاثیر گذاشته است. به گفته ملکی، اگر امارات اراده سیاسی لازم را داشته باشد، با توجه به تمرکز شبکه‌های مالی و تجاری جمهوری اسلامی در دبی، توان شناسایی و محدود کردن این فعالیت‌ها را خواهد داشت.\n@iranintltv",
       "shamsi_date": "1405/06/06",
-      "tehran_time": "23:22:39",
-      "gregorian_utc": "2026-08-28T19:52:39+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-28T22:30:37.027190+00:00"
+      "tehran_time": "23:30:51",
+      "gregorian_utc": "2026-08-28T20:00:51+00:00",
+      "media_type": "video",
+      "media_size_bytes": 6464958,
+      "media_size_human": "6.17 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/IranintlTV_354699_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354699_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-08-28T22:40:29.283905+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -721,7 +721,7 @@
       "media_local_path": "media/satlastnews_76362_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76362_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-28T22:30:37.319803+00:00"
+      "archived_at": "2026-08-28T22:40:29.741357+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -739,17 +739,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-28T22:30:37.590042+00:00"
+      "archived_at": "2026-08-28T22:40:30.102352+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12225,
-      "message_link": "https://t.me/zedTV/12225",
-      "text": "صدور حکم اخراج برای ۶ دانشجوی دانشگاه صنعتی شریف؛\nتبدیل نهاد علم به بازوی سرکوب و نقض استقلال دانشگاهی؛\nتداوم ایستادگی دانشجویان در برابر فشارهای امنیتی و احکام ناعادلانه.",
+      "message_id": 12227,
+      "message_link": "https://t.me/zedTV/12227",
+      "text": "شوک و ناباوری در مسکو؛ زلنسکی از شلیک روزانه ۱۰۰۰ پهپاد دوربرد به عمق خاک روسیه خبر داد.\nتشدید حملات پهپادی اوکراین علیه اهداف استراتژیک در قلب روسیه.",
       "shamsi_date": "1405/06/06",
-      "tehran_time": "20:50:35",
-      "gregorian_utc": "2026-08-28T17:20:35+00:00",
+      "tehran_time": "22:06:26",
+      "gregorian_utc": "2026-08-28T18:36:26+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -757,25 +757,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-28T22:30:36.630713+00:00"
+      "archived_at": "2026-08-28T22:40:28.890658+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354696,
-      "message_link": "https://t.me/IranintlTV/354696",
-      "text": "رامیار از تهران: اسنپ چند روز است به بهانهٔ اختلال در نظام بانکی با ما تسویه نمی‌کند\n\n«یک ایران صدای شما را می‌شنود»\nدوشنبه تا پنجشنبه ۱۱ شب تهران\nاز تلویزیون ایران اینترنشنال\n\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\nhttps://youtu.be/RSq9ZwLdFY0\n@iranintltv",
+      "message_id": 354698,
+      "message_link": "https://t.me/IranintlTV/354698",
+      "text": "🎧نسخه صوتی ‌‌‏﻿﻿۲۴ با فرداد فرحزاد: شروع فشار نهایی بر جمهوری اسلامی\n@iranintlTV",
       "shamsi_date": "1405/06/06",
-      "tehran_time": "23:21:04",
-      "gregorian_utc": "2026-08-28T19:51:04+00:00",
-      "media_type": "video",
-      "media_size_bytes": 2037676,
-      "media_size_human": "1.94 MB",
+      "tehran_time": "23:29:17",
+      "gregorian_utc": "2026-08-28T19:59:17+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 31864967,
+      "media_size_human": "30.39 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354696_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354696_video.mp4",
+      "media_local_path": "media/IranintlTV_354698_audio.mp3",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354698_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-08-28T22:30:37.027258+00:00"
+      "archived_at": "2026-08-28T22:40:29.284013+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -793,7 +793,7 @@
       "media_local_path": "media/satlastnews_76361_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76361_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-28T22:30:37.319952+00:00"
+      "archived_at": "2026-08-28T22:40:29.741501+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -811,17 +811,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-28T22:30:37.590064+00:00"
+      "archived_at": "2026-08-28T22:40:30.102377+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12224,
-      "message_link": "https://t.me/zedTV/12224",
-      "text": "وزارت خزانه‌داری آمریکا: شناسایی شبکه‌ها و واسطه‌های قاچاق نفت رژیم.\nهدف‌گذاری منابع درآمدی غیرقانونی با همکاری دولت‌ها و متحدان بین‌المللی.\nتلاش برای قطع کامل شریان‌های اقتصادی و پایان دادن به تهدیدات تهران.",
+      "message_id": 12226,
+      "message_link": "https://t.me/zedTV/12226",
+      "text": "انتقاد مجتبی خامنه‌ای از اعتراف مقامات به بحران سوخت و بنزین؛ «بیان ضعف‌ها کمک به دشمن است».\nتداوم غیبت فیزیکی رهبر جدید رژیم همزمان با ادعای ترامپ مبنی بر جراحت شدید وی.\nتلاش دفتر خامنه‌ای برای سرپوش گذاشتن بر تورم و بیکاری با عنوان «نقاط سیاه» اقتصادی.",
       "shamsi_date": "1405/06/06",
-      "tehran_time": "20:22:35",
-      "gregorian_utc": "2026-08-28T16:52:35+00:00",
+      "tehran_time": "21:36:26",
+      "gregorian_utc": "2026-08-28T18:06:26+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -829,25 +829,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-28T22:30:36.630733+00:00"
+      "archived_at": "2026-08-28T22:40:28.890683+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354695,
-      "message_link": "https://t.me/IranintlTV/354695",
-      "text": "احمد نادری، عضو هیات رییسه مجلس شورای اسلامی، با انتشار پستی در ایکس نوشت که اگر بنا بود با علم به تداوم «تهدید و ترور»، آن‌هم کشته شدن علی خامنه‌ای، از ظرفیت هسته‌ای عقب‌نشینی کنیم، اتفاقا منطق بازدارندگی حکم می‌کرد با ساخت بمب اتم توان نهایی بازدارنده را ایجاد کنیم.\n\nنادری نوشت: «دشمن نه با عقب‌نشینی، بلکه با افزایش هزینه تجاوز مهار می‌شود.»\n\nاظهارات نماینده تهران در حالی صورت گرفته که جعفر قائم‌پناه، معاون مسعود پزشکیان، گفته بود که من اگر بودم و می دانستم آمریکا رهبر ما را می‌کشد، دست از غنی‌سازی برمی‌داشتم.\nhttps://iranintl.com/202608283788",
+      "message_id": 354697,
+      "message_link": "https://t.me/IranintlTV/354697",
+      "text": "🗣**روایت شما از شرایط زندگی و بحران اقتصادی- جمعه ۶ شهریور:**\n\n🔹از تهران پیام می‌دم. پمپ بنزین‌ها به شدت شلوغه با صف‌های طولانی، مردم با هم برای بنزین و نوبت دعوا می‌کنن، نان و مواد خوراکی هر روز گرون‌تر می‌شه، دیگه واقعا کم آوردیم و فکر نمی‌کنم بتونیم ادامه بدیم، مردم شدیدا عصبانی‌ان از وضعیت و منتظر جرقه‌ان که بریزن بیرون.\n\n🔹کلاهبرداری خیلی زیاد شده، کلاهبرداران در پوشش نهادهایی مثل وکیل دادگستری فعالیت می‌کنن. هیچ نهادی هم برای دستگیری این باندها نیست.\n\n🔹کل بازار تهران این چند روزه مخصوصا بیشتر در قسمت پاچنار امنیتی بوده. وجب به وجب داخل خود بازار مامور ضدشورش وایساده از ترس خیزش مردمی.\n\n🔹بسته اینترنت ۱۲ گیگی گرفتم از ۶ صبح تا ۱۲. تو چهار روز تموم شد. اینم از اینترنت بی‌کیفیت و دزدی‌های آشکارشون.\n\n🔹شاید بیکار شدن به معنای واقعی هنوز اتفاق نیفتاده باشه اما شرایط بیشتر مشاغل طوری شده که دیگه ادامه دادن مقرون به صرفه نیست یعنی حساب می‌کنی می‌بینی کار کنی یا نکنی تفاوت چندانی نداره.\n\n🔹به همین روال جمهوری اسلامی پیش بریم ۲سال دیگه بنزین لیتری ۱۰۰ هزار تومانه.\n\n🔹اینکه پزشکیان گفته نرخ سوم بنزین ۱۰ هزار تومان می‌شود، یعنی باید منتظر موج جدید و شدید از افزایش قیمت همه کالاها و خدمات باشیم.\n\n🔹داروهام قبلا سه میلیون بود الان شده ۱۲ میلیون. در عرض چند ماه هزینه‌های درمانم چهار برابر شده.",
       "shamsi_date": "1405/06/06",
-      "tehran_time": "23:15:40",
-      "gregorian_utc": "2026-08-28T19:45:40+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 182441,
-      "media_size_human": "178.17 KB",
-      "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354695_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354695_photo.jpg",
-      "no_media_reason": null,
-      "archived_at": "2026-08-28T22:30:37.027351+00:00"
+      "tehran_time": "23:22:39",
+      "gregorian_utc": "2026-08-28T19:52:39+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-08-28T22:40:29.284206+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -865,7 +865,7 @@
       "media_local_path": "media/satlastnews_76358_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76358_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-28T22:30:37.320008+00:00"
+      "archived_at": "2026-08-28T22:40:29.741570+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -883,17 +883,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-28T22:30:37.590115+00:00"
+      "archived_at": "2026-08-28T22:40:30.102433+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12223,
-      "message_link": "https://t.me/zedTV/12223",
-      "text": "وزارت خزانه‌داری آمریکا رضا محمد طیبی، مرتبط با بانک ملی، و شرکت «کامنگ تریدینگ» را تحریم کرد.\nاین اقدام در واکنش به فعالیت‌های تروریستی و در چارچوب فشارهای هدفمند علیه رژیم انجام شد.\nتشدید انزوای مالی جمهوری اسلامی با هدف قرار دادن مهره‌های اقتصادی در دبی و هنگ‌کنگ.",
+      "message_id": 12225,
+      "message_link": "https://t.me/zedTV/12225",
+      "text": "صدور حکم اخراج برای ۶ دانشجوی دانشگاه صنعتی شریف؛\nتبدیل نهاد علم به بازوی سرکوب و نقض استقلال دانشگاهی؛\nتداوم ایستادگی دانشجویان در برابر فشارهای امنیتی و احکام ناعادلانه.",
       "shamsi_date": "1405/06/06",
-      "tehran_time": "20:22:23",
-      "gregorian_utc": "2026-08-28T16:52:23+00:00",
+      "tehran_time": "20:50:35",
+      "gregorian_utc": "2026-08-28T17:20:35+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -901,25 +901,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-28T22:30:36.630756+00:00"
+      "archived_at": "2026-08-28T22:40:28.890712+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354694,
-      "message_link": "https://t.me/IranintlTV/354694",
-      "text": "نعیم قاسم، دبیرکل حزب‌الله لبنان، گفت گروه‌های موسوم به «مقاومت» در فلسطین، لبنان، عراق، یمن و دیگر نقاط منطقه در کنار جمهوری اسلامی قرار دارند و فشارهای نظامی، اقتصادی و تبلیغاتی علیه این جریان‌ها نتیجه‌ای نخواهد داشت.\n\nقاسم در مراسمی در ضاحیه جنوبی بیروت از عملکرد دولت لبنان انتقاد کرد و گفت مسیری که این دولت انتخاب کرده، شایسته لبنان و فداکاری‌های مردم این کشور نیست. او خطاب به دولت لبنان گفت: «به دنبال میانجی دیگری غیر از میانجی آمریکایی باشید. آمریکا بی‌طرف نیست.»\n\nدبیرکل حزب‌الله همچنین از کشورهای عربی و اسلامی و مردم این کشورها خواست برای وحدت تلاش کنند و در برابر تحولات و درگیری‌های منطقه «تماشاگر» نباشند.\nhttps://iranintl.com/202608285574",
+      "message_id": 354696,
+      "message_link": "https://t.me/IranintlTV/354696",
+      "text": "رامیار از تهران: اسنپ چند روز است به بهانهٔ اختلال در نظام بانکی با ما تسویه نمی‌کند\n\n«یک ایران صدای شما را می‌شنود»\nدوشنبه تا پنجشنبه ۱۱ شب تهران\nاز تلویزیون ایران اینترنشنال\n\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\nhttps://youtu.be/RSq9ZwLdFY0\n@iranintltv",
       "shamsi_date": "1405/06/06",
-      "tehran_time": "23:14:12",
-      "gregorian_utc": "2026-08-28T19:44:12+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 130034,
-      "media_size_human": "126.99 KB",
+      "tehran_time": "23:21:04",
+      "gregorian_utc": "2026-08-28T19:51:04+00:00",
+      "media_type": "video",
+      "media_size_bytes": 2037676,
+      "media_size_human": "1.94 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354694_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354694_photo.jpg",
+      "media_local_path": "media/IranintlTV_354696_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354696_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-28T22:30:37.027451+00:00"
+      "archived_at": "2026-08-28T22:40:29.284278+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -937,7 +937,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-28T22:30:37.320031+00:00"
+      "archived_at": "2026-08-28T22:40:29.741599+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -955,17 +955,17 @@
       "media_local_path": "media/Mellig_120348_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120348_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-28T22:30:37.590170+00:00"
+      "archived_at": "2026-08-28T22:40:30.102500+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12222,
-      "message_link": "https://t.me/zedTV/12222",
-      "text": "بحران معیشت: تعویق ۵ ماهه حقوق پرسنل مگاموتور و شهریه‌های ۲۰ میلیونی مدارس دولتی.\nفلج شدن زیرساخت‌ها: نایاب شدن بنزین، قطعی مکرر برق در کرج و خیابان‌های خلوت پایتخت.\nفروپاشی اقتصادی: سفره‌های خالی شهروندان در سایه غارتگری و بی‌کفایتی سیستماتیک رژیم.",
+      "message_id": 12224,
+      "message_link": "https://t.me/zedTV/12224",
+      "text": "وزارت خزانه‌داری آمریکا: شناسایی شبکه‌ها و واسطه‌های قاچاق نفت رژیم.\nهدف‌گذاری منابع درآمدی غیرقانونی با همکاری دولت‌ها و متحدان بین‌المللی.\nتلاش برای قطع کامل شریان‌های اقتصادی و پایان دادن به تهدیدات تهران.",
       "shamsi_date": "1405/06/06",
-      "tehran_time": "20:05:00",
-      "gregorian_utc": "2026-08-28T16:35:00+00:00",
+      "tehran_time": "20:22:35",
+      "gregorian_utc": "2026-08-28T16:52:35+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -973,25 +973,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-28T22:30:36.630775+00:00"
+      "archived_at": "2026-08-28T22:40:28.890737+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354693,
-      "message_link": "https://t.me/IranintlTV/354693",
-      "text": "🔻استقلال در دیدار با فولاد خوزستان در هفته چهارم لیگ برتر به تساوی بدون گل رسید و صدر جدول را به تراکتور واگذار کرد.\n\n🔹این تساوی در حالی به دست آمد که استقلال در هفته پنجم لیگ برتر باید در دربی ۱۰۷ تهران در ورزشگاه نقش جهان اصفهان به مصاف پرسپولیس برود.\n\n🔹استقلال با این نتیجه اولین تساوی خود در لیگ بیست و ششم را کسب کرد و با ۱۰ امتیاز و پایین‌تر از تراکتور در رده دوم قرار گرفت. این در حالی است که استقلال مانند تراکتور توانست در چهارمین هفته پیاپی کلین شیت کند.\n\n🔹فولاد هم با این تک امتیاز ۶ امتیازی شد در رده ششم جدول رده بندی قرار گرفت.\n\n🔹در این بازی دو تیم موقعیت‌های زیادی روی دروازه یکدیگر ایجاد کردند، اما دروازه‌بان‌ها مانع گلزنی مهاجم‌های استقلال و فولاد شدند.\n\n@iranintltvsport",
+      "message_id": 354695,
+      "message_link": "https://t.me/IranintlTV/354695",
+      "text": "احمد نادری، عضو هیات رییسه مجلس شورای اسلامی، با انتشار پستی در ایکس نوشت که اگر بنا بود با علم به تداوم «تهدید و ترور»، آن‌هم کشته شدن علی خامنه‌ای، از ظرفیت هسته‌ای عقب‌نشینی کنیم، اتفاقا منطق بازدارندگی حکم می‌کرد با ساخت بمب اتم توان نهایی بازدارنده را ایجاد کنیم.\n\nنادری نوشت: «دشمن نه با عقب‌نشینی، بلکه با افزایش هزینه تجاوز مهار می‌شود.»\n\nاظهارات نماینده تهران در حالی صورت گرفته که جعفر قائم‌پناه، معاون مسعود پزشکیان، گفته بود که من اگر بودم و می دانستم آمریکا رهبر ما را می‌کشد، دست از غنی‌سازی برمی‌داشتم.\nhttps://iranintl.com/202608283788",
       "shamsi_date": "1405/06/06",
-      "tehran_time": "23:07:43",
-      "gregorian_utc": "2026-08-28T19:37:43+00:00",
+      "tehran_time": "23:15:40",
+      "gregorian_utc": "2026-08-28T19:45:40+00:00",
       "media_type": "photo",
-      "media_size_bytes": 176813,
-      "media_size_human": "172.67 KB",
+      "media_size_bytes": 182441,
+      "media_size_human": "178.17 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354693_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354693_photo.jpg",
+      "media_local_path": "media/IranintlTV_354695_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354695_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-28T22:30:37.027561+00:00"
+      "archived_at": "2026-08-28T22:40:29.284375+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1009,7 +1009,7 @@
       "media_local_path": "media/satlastnews_76353_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76353_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-28T22:30:37.320072+00:00"
+      "archived_at": "2026-08-28T22:40:29.741651+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1027,17 +1027,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-28T22:30:37.590319+00:00"
+      "archived_at": "2026-08-28T22:40:30.102639+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12221,
-      "message_link": "https://t.me/zedTV/12221",
-      "text": "بن‌بست کامل دیپلماتیک رژیم؛ واشینگتن هرگونه مذاکره را رد کرد.\nشکست تلاش‌های تهران برای میانجی‌گری منطقه‌ای و گشایش ارزی.\nهراس از انفجار اجتماعی در پی محاصره دریایی و انسداد کامل مالی.",
+      "message_id": 12223,
+      "message_link": "https://t.me/zedTV/12223",
+      "text": "وزارت خزانه‌داری آمریکا رضا محمد طیبی، مرتبط با بانک ملی، و شرکت «کامنگ تریدینگ» را تحریم کرد.\nاین اقدام در واکنش به فعالیت‌های تروریستی و در چارچوب فشارهای هدفمند علیه رژیم انجام شد.\nتشدید انزوای مالی جمهوری اسلامی با هدف قرار دادن مهره‌های اقتصادی در دبی و هنگ‌کنگ.",
       "shamsi_date": "1405/06/06",
-      "tehran_time": "19:05:50",
-      "gregorian_utc": "2026-08-28T15:35:50+00:00",
+      "tehran_time": "20:22:23",
+      "gregorian_utc": "2026-08-28T16:52:23+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -1045,25 +1045,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-28T22:30:36.630795+00:00"
+      "archived_at": "2026-08-28T22:40:28.890761+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354691,
-      "message_link": "https://t.me/IranintlTV/354691",
-      "text": "مسعود پزشکیان، رییس دولت جمهوری اسلامی، در گفت‌وگو با صداوسیما با اشاره به آسیب‌های اقتصادی وارد شده از جنگ، گفت که ما پول نداریم، درآمد نداریم، در جنگ زدند و خراب کردند و حتی نمی‌توانیم به آن‌ها که بیکار شدند پولی بدهیم. او افزود: «ارز کم داریم و قیمت دلار می‌تواند خیلی بالاتر از این هم برود.»\n\nپزشکیان گفت: «تحریم ادامه پیدا کند، گرانی هم بیشتر می‌شود.»\n\nرییس دولت جمهوری اسلامی با اشاره به اینکه «واردات و صادرات ما به شدت کاهش یافته است»، گفت: «دخل و خرج ما با هم هم‌خوان نیست.»\n\nپزشکیان افزود: «واقعیت این است که ما پول نداریم، درآمدمان هم کمتر شده، مشکلات‌مان هم بیشتر شده و باید جواب هم پس بدهیم.»\nhttps://iranintl.com/202608282970",
+      "message_id": 354694,
+      "message_link": "https://t.me/IranintlTV/354694",
+      "text": "نعیم قاسم، دبیرکل حزب‌الله لبنان، گفت گروه‌های موسوم به «مقاومت» در فلسطین، لبنان، عراق، یمن و دیگر نقاط منطقه در کنار جمهوری اسلامی قرار دارند و فشارهای نظامی، اقتصادی و تبلیغاتی علیه این جریان‌ها نتیجه‌ای نخواهد داشت.\n\nقاسم در مراسمی در ضاحیه جنوبی بیروت از عملکرد دولت لبنان انتقاد کرد و گفت مسیری که این دولت انتخاب کرده، شایسته لبنان و فداکاری‌های مردم این کشور نیست. او خطاب به دولت لبنان گفت: «به دنبال میانجی دیگری غیر از میانجی آمریکایی باشید. آمریکا بی‌طرف نیست.»\n\nدبیرکل حزب‌الله همچنین از کشورهای عربی و اسلامی و مردم این کشورها خواست برای وحدت تلاش کنند و در برابر تحولات و درگیری‌های منطقه «تماشاگر» نباشند.\nhttps://iranintl.com/202608285574",
       "shamsi_date": "1405/06/06",
-      "tehran_time": "22:35:50",
-      "gregorian_utc": "2026-08-28T19:05:50+00:00",
+      "tehran_time": "23:14:12",
+      "gregorian_utc": "2026-08-28T19:44:12+00:00",
       "media_type": "photo",
-      "media_size_bytes": 142628,
-      "media_size_human": "139.29 KB",
+      "media_size_bytes": 130034,
+      "media_size_human": "126.99 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354691_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354691_photo.jpg",
+      "media_local_path": "media/IranintlTV_354694_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354694_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-28T22:30:37.027654+00:00"
+      "archived_at": "2026-08-28T22:40:29.284475+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1081,7 +1081,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-28T22:30:37.320093+00:00"
+      "archived_at": "2026-08-28T22:40:29.741679+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1099,7 +1099,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-28T22:30:37.590365+00:00"
+      "archived_at": "2026-08-28T22:40:30.102695+00:00"
     }
   ]
 }
