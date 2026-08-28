@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-28T12:27:16.967366+00:00",
-  "shamsi_generated": "1405/06/06 12:27:16 تهران",
+  "generated_at": "2026-08-28T12:38:30.679149+00:00",
+  "shamsi_generated": "1405/06/06 12:38:30 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -37,25 +37,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-28T12:20:40.544564+00:00"
+      "archived_at": "2026-08-28T12:30:39.318242+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354634,
-      "message_link": "https://t.me/IranintlTV/354634",
-      "text": "رضا نوری، امام جمعه بجنورد، در خطبه‌های نماز جمعه این شهر گفت: «فشار اقتصادی کمر خود آمریکا را هم دارد می‌شکند و با فشارهای مردم در آمریکا بر علیه خود ترامپ، او که رای اول را در آمریکا داشت امروز محبوبیتش به زیر ۳۰ درصد رسیده است.»\n\nنوری گفت: «تا دیروز جنگ ما با آمریکا جنگ وجودی بود؛ یا ما نابود می‌شدیم یا آنان اما امروز دیگر از جنگ وجودی گذشته است و ذخایر تسلیحاتی و نظامی آمریکا ته کشیده است.»\n\nامام حمعه بجنورد افزود: «تنگه هرمز یکی از نقاط قوتی است که نظامیان، دولتیان و رهبر ما ایستاده‌اند تا آن را از دست ندهند و با تنگه هرمز می‌توانیم بر هم‌پیمانان آمریکا در منطقه و بر خود آمریکا فشار اقتصادی وارد کنیم.»\nhttps://iranintl.com/202608282322",
+      "message_id": 354638,
+      "message_link": "https://t.me/IranintlTV/354638",
+      "text": "🎧نسخه صوتی اخبار نیم‌روزی | جمعه ۶ شهریور\n@iranintlTV",
       "shamsi_date": "1405/06/06",
-      "tehran_time": "15:49:46",
-      "gregorian_utc": "2026-08-28T12:19:46+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 151494,
-      "media_size_human": "147.94 KB",
+      "tehran_time": "15:54:35",
+      "gregorian_utc": "2026-08-28T12:24:35+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 30227306,
+      "media_size_human": "28.83 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354634_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354634_photo.jpg",
+      "media_local_path": "media/IranintlTV_354638_audio.mp3",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354638_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-08-28T12:20:41.058327+00:00"
+      "archived_at": "2026-08-28T12:30:39.602986+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -73,7 +73,7 @@
       "media_local_path": "media/satlastnews_76369_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76369_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-28T12:20:41.558371+00:00"
+      "archived_at": "2026-08-28T12:30:39.864152+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -91,7 +91,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-28T12:20:41.993604+00:00"
+      "archived_at": "2026-08-28T12:30:40.154933+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -109,25 +109,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-28T12:20:40.544615+00:00"
+      "archived_at": "2026-08-28T12:30:39.318289+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354633,
-      "message_link": "https://t.me/IranintlTV/354633",
-      "text": "سازمان حقوق بشری هه‌نگاو گزارش داد رضا زنگنه، جوان ۲۷ ساله اهل ملایر و ساکن ملارد، با اتهام‌هایی از جمله «همکاری با موساد» و «محاربه» از سوی دادگاه انقلاب کرج به اعدام محکوم شده است.\n\nبر اساس این گزارش، رضا زنگنه، اهل روستای کلیل‌آباد ملایر، از سوی شعبه دوم دادگاه انقلاب کرج به ریاست قاضی سبزواری و قاضی نریمانی به اعدام محکوم شده است.\n\nهه‌نگاو گزارش داد پرونده زنگنه که اکنون در زندان قزل‌حصار کرج زندانی است، با تعیین مهلت ۱۲ روزه برای اعتراض و فرجام‌خواهی به دیوان عالی کشور ارسال شده است.\n\nزنگنه پیش از بازداشت به عنوان تکنسین و تعمیرکار خودروهای خارجی در ملارد فعالیت می‌کرد و به‌تازگی ازدواج کرده بود.\n\nبه گفته نزدیکان او، اتهام «همکاری با موساد» بر مبنای فعالیت شغلی زنگنه در زمینه تعمیر خودروهای خارجی و سفرهای کاری پیشین او به خارج از کشور مطرح شده است.\n\nبر اساس این گزارش، رضا زنگنه ۱۴ فروردین ۱۴۰۵ پس از ورود نیروهای حکومتی به محل کارش بازداشت و سپس به زندان قزل‌حصار کرج منتقل شد.\n\nمنابع آگاه گفته‌اند زنگنه در مدت بازداشت در زندان قزل‌حصار نگهداری شده و خانواده او نیز برای سکوت و خودداری از اطلاع‌رسانی تحت فشار نهادهای امنیتی قرار داشته‌اند.\nhttps://www.iranintl.com/202608288078",
+      "message_id": 354637,
+      "message_link": "https://t.me/IranintlTV/354637",
+      "text": "🔻بی‌بی‌سی اسپورت در آستانه شروع بوندس‌لیگا و دیدار بایرن‌مونیخ و اشتوتگارت، در گزارشی به اهداف ونسان کمپانی و شاگردانش در فصل جدید پرداخته است.\n\n🔹بایرن‌مونیخ پس از کسب دوگانه داخلی در فصل گذشته، فصل جدید را با بخت بالایی برای قهرمانی در بوندس‌لیگا آغاز می‌کند. شاگردان کمپانی که فصل پیش با ۱۲۲ گل در بوندس‌لیگا رکورد جدیدی ثبت کردند، رقابت‌های امسال را نیز با برتری ۲ بر ۱ مقابل دورتموند در سوپرجام آلمان و کسب نخستین جام فصل شروع کرده‌اند.\n\n🔹هدف مونیخی‌ها همواره فتح سه گانه بوندس‌لیگا، جام حذفی و لیگ قهرمانان اروپاست. ونسان کمپانی ثبات و جذابیت تاکتیکی را به آلیانتس آرنا بازگردانده است. \n\n🔹بایرن در فصل گذشته ۱۸۴ گل در تمامی رقابت‌ها به ثمر رساند و تا نیمه‌نهایی لیگ قهرمانان اروپا پیش رفت. مدیریت باشگاه از روند پیشرفت تیم تحت هدایت این مربی بلژیکی بسیار راضی است و حضور در جمع چهار تیم برتر اروپا برای آن‌ها رضایت‌بخش بوده است.\n\n🔹در بخش دیگری از گزارش بی‌بی‌سی اسپورت، به شرایط ویژه هری کین اشاره شده است. این مهاجم ۳۳ ساله فصل گذشته ۶۱ گل در ۵۱ بازی به ثمر رساند.\n\n🔹جزییات بیشتر را در [سایت](https://www.iranintl.com/202608288061)** **بخوانید.\n\n[@iranintltvsport](https://t.me/iranintltvsport)",
       "shamsi_date": "1405/06/06",
-      "tehran_time": "15:33:07",
-      "gregorian_utc": "2026-08-28T12:03:07+00:00",
+      "tehran_time": "15:53:17",
+      "gregorian_utc": "2026-08-28T12:23:17+00:00",
       "media_type": "photo",
-      "media_size_bytes": 74983,
-      "media_size_human": "73.23 KB",
+      "media_size_bytes": 297306,
+      "media_size_human": "290.34 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354633_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354633_photo.jpg",
+      "media_local_path": "media/IranintlTV_354637_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354637_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-28T12:20:41.058515+00:00"
+      "archived_at": "2026-08-28T12:30:39.603311+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -145,7 +145,7 @@
       "media_local_path": "media/satlastnews_76368_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76368_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-28T12:20:41.558444+00:00"
+      "archived_at": "2026-08-28T12:30:39.864222+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -163,7 +163,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-28T12:20:41.993735+00:00"
+      "archived_at": "2026-08-28T12:30:40.155070+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -181,25 +181,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-28T12:20:40.544662+00:00"
+      "archived_at": "2026-08-28T12:30:39.318334+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354632,
-      "message_link": "https://t.me/IranintlTV/354632",
-      "text": "یکی از مخاطبان ایران اینترنشنال با ارسال ویدیویی از تهران در ششم شهریور، صف طولانی خودروها برای دریافت بنزین در محدوده بزرگراه «یادگار امام» را نشان داد.",
+      "message_id": 354636,
+      "message_link": "https://t.me/IranintlTV/354636",
+      "text": "وزارت خارجه آلمان در پاسخ به ایران‌اینترنشنال، تهدید اخیر ابوالفضل شکارچی، سخنگوی ارشد نیروهای مسلح جمهوری اسلامی، علیه خبرنگاران رسانه‌های فارسی‌زبان خارج از کشور را محکوم کرد. \n\nوزارت خارجه آلمان اعلام کرد دولت فدرال این کشور هرگونه تهدید جمهوری اسلامی علیه روزنامه‌نگاران و هر اقدامی برای محدود کردن آزادی مطبوعات را محکوم می‌کند. \n\nاین واکنش پس از تهدید اخیر ابوالفضل شکارچی علیه خبرنگاران رسانه‌های فارسی‌زبان خارج از کشور مطرح شد.\n [iranintl.com/202608283359](https://t.co/P5ca1PYpcm)",
       "shamsi_date": "1405/06/06",
-      "tehran_time": "15:32:16",
-      "gregorian_utc": "2026-08-28T12:02:16+00:00",
-      "media_type": "video",
-      "media_size_bytes": 8023485,
-      "media_size_human": "7.65 MB",
+      "tehran_time": "15:52:27",
+      "gregorian_utc": "2026-08-28T12:22:27+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 124078,
+      "media_size_human": "121.17 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354632_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354632_video.mp4",
+      "media_local_path": "media/IranintlTV_354636_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354636_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-28T12:20:41.058570+00:00"
+      "archived_at": "2026-08-28T12:30:39.603428+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -217,7 +217,7 @@
       "media_local_path": "media/satlastnews_76367_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76367_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-28T12:20:41.558586+00:00"
+      "archived_at": "2026-08-28T12:30:39.864350+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -235,7 +235,7 @@
       "media_local_path": "media/Mellig_120331_audio.mp3",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120331_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-08-28T12:20:41.993826+00:00"
+      "archived_at": "2026-08-28T12:30:40.155152+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -253,25 +253,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-28T12:20:40.544699+00:00"
+      "archived_at": "2026-08-28T12:30:39.318367+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354631,
-      "message_link": "https://t.me/IranintlTV/354631",
-      "text": "اطلاعات رسیده به ایران‌اینترنشنال نشان می‌دهد در جریان انقلاب ملی ایرانیان، یک فرمانده سپاه با سابقه قلع‌وقمع مخالفان دولت بشار اسد در سوریه، سردستگی سرکوب‌گران در شهریار را بر عهده داشته است. در این سرکوب‌ها، نیروهای نیابتی نیز در برخی شهرستان‌های استان تهران حضور داشتند.\n\nفرزاد فتاحی، عضو تحریریه ایران‌اینترنشنال درباره سرکوب اعتراضات در شهرستان‌های استان تهران توضیح می‌دهد\n@iranintltv",
+      "message_id": 354635,
+      "message_link": "https://t.me/IranintlTV/354635",
+      "text": "محمد بن عبدالرحمن آل ثانی، نخست‌وزیر و وزیر امور خارجه قطر، پنجشنبه در تهران با مسعود پزشکیان، رییس‌ دولت جمهوری اسلامی، دیدار کرد.\nاین دیدار در حالی انجام شد که دوحه شش ماه پس از آغاز جنگ، تلاش می‌کند دیپلماسی متوقف‌شده را احیا کند.\nآل ثانی از جمله بر اهمیت رعایت آزادی کشتیرانی در تنگه هرمز مطابق با قوانین بین‌المللی تاکید کرد. \n@iranintltv",
       "shamsi_date": "1405/06/06",
-      "tehran_time": "15:26:47",
-      "gregorian_utc": "2026-08-28T11:56:47+00:00",
+      "tehran_time": "15:50:49",
+      "gregorian_utc": "2026-08-28T12:20:49+00:00",
       "media_type": "video",
-      "media_size_bytes": 5262530,
-      "media_size_human": "5.02 MB",
+      "media_size_bytes": 125723,
+      "media_size_human": "122.78 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354631_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354631_video.mp4",
+      "media_local_path": "media/IranintlTV_354635_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354635_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-28T12:20:41.058657+00:00"
+      "archived_at": "2026-08-28T12:30:39.603518+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -289,7 +289,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-28T12:20:41.558659+00:00"
+      "archived_at": "2026-08-28T12:30:39.864415+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -307,7 +307,7 @@
       "media_local_path": "media/Mellig_120330_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120330_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-28T12:20:41.993942+00:00"
+      "archived_at": "2026-08-28T12:30:40.155254+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -325,25 +325,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-28T12:20:40.544729+00:00"
+      "archived_at": "2026-08-28T12:30:39.318393+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354630,
-      "message_link": "https://t.me/IranintlTV/354630",
-      "text": "یایویی کوساما، هنرمند آوانگارد و سرشناس ژاپنی، در ۹۷ سالگی درگذشت. او از تاثیرگذارترین چهره‌های هنر معاصر بود و خبر درگذشت او بازتاب گسترده‌ای در صفحه اول شماری از مهم‌ترین روزنامه‌های ژاپن و جهان داشت.\n\nگفت‌وگو با سمیه مهری، روزنامه‌نگار\n@iranintltv",
+      "message_id": 354634,
+      "message_link": "https://t.me/IranintlTV/354634",
+      "text": "رضا نوری، امام جمعه بجنورد، در خطبه‌های نماز جمعه این شهر گفت: «فشار اقتصادی کمر خود آمریکا را هم دارد می‌شکند و با فشارهای مردم در آمریکا بر علیه خود ترامپ، او که رای اول را در آمریکا داشت امروز محبوبیتش به زیر ۳۰ درصد رسیده است.»\n\nنوری گفت: «تا دیروز جنگ ما با آمریکا جنگ وجودی بود؛ یا ما نابود می‌شدیم یا آنان اما امروز دیگر از جنگ وجودی گذشته است و ذخایر تسلیحاتی و نظامی آمریکا ته کشیده است.»\n\nامام حمعه بجنورد افزود: «تنگه هرمز یکی از نقاط قوتی است که نظامیان، دولتیان و رهبر ما ایستاده‌اند تا آن را از دست ندهند و با تنگه هرمز می‌توانیم بر هم‌پیمانان آمریکا در منطقه و بر خود آمریکا فشار اقتصادی وارد کنیم.»\nhttps://iranintl.com/202608282322",
       "shamsi_date": "1405/06/06",
-      "tehran_time": "15:25:04",
-      "gregorian_utc": "2026-08-28T11:55:04+00:00",
-      "media_type": "video",
-      "media_size_bytes": 2619941,
-      "media_size_human": "2.50 MB",
+      "tehran_time": "15:49:46",
+      "gregorian_utc": "2026-08-28T12:19:46+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 151494,
+      "media_size_human": "147.94 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354630_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354630_video.mp4",
+      "media_local_path": "media/IranintlTV_354634_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354634_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-28T12:20:41.058733+00:00"
+      "archived_at": "2026-08-28T12:30:39.603627+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -361,7 +361,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-28T12:20:41.558782+00:00"
+      "archived_at": "2026-08-28T12:30:39.864536+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -379,7 +379,7 @@
       "media_local_path": "media/Mellig_120329_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120329_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-28T12:20:41.994013+00:00"
+      "archived_at": "2026-08-28T12:30:40.155306+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -397,25 +397,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-28T12:20:40.544783+00:00"
+      "archived_at": "2026-08-28T12:30:39.318425+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354629,
-      "message_link": "https://t.me/IranintlTV/354629",
-      "text": "حسن علیدادی‌سلیمانی، امام جمعه کرمان، جمعه ششم شهریور اعلام کرد جمهوری اسلامی به هیچ‌وجه از «حقوق مسلم خود از جمله حقوق هسته‌ای و حق حاکمیت بر تنگه هرمز» عقب‌نشینی نخواهد کرد.\n\nامام جمعه کرمان گفت: «با زمین‌گیر شدن همکاران و متحدان خائن آمریکا در منطقه که یکی پس از دیگری توان دفاع از خود را از دست داده‌اند، جایگاه مهم و تاثیرگذار جمهوری اسلامی در منطقه بیش از پیش آشکار شده است.»",
+      "message_id": 354633,
+      "message_link": "https://t.me/IranintlTV/354633",
+      "text": "سازمان حقوق بشری هه‌نگاو گزارش داد رضا زنگنه، جوان ۲۷ ساله اهل ملایر و ساکن ملارد، با اتهام‌هایی از جمله «همکاری با موساد» و «محاربه» از سوی دادگاه انقلاب کرج به اعدام محکوم شده است.\n\nبر اساس این گزارش، رضا زنگنه، اهل روستای کلیل‌آباد ملایر، از سوی شعبه دوم دادگاه انقلاب کرج به ریاست قاضی سبزواری و قاضی نریمانی به اعدام محکوم شده است.\n\nهه‌نگاو گزارش داد پرونده زنگنه که اکنون در زندان قزل‌حصار کرج زندانی است، با تعیین مهلت ۱۲ روزه برای اعتراض و فرجام‌خواهی به دیوان عالی کشور ارسال شده است.\n\nزنگنه پیش از بازداشت به عنوان تکنسین و تعمیرکار خودروهای خارجی در ملارد فعالیت می‌کرد و به‌تازگی ازدواج کرده بود.\n\nبه گفته نزدیکان او، اتهام «همکاری با موساد» بر مبنای فعالیت شغلی زنگنه در زمینه تعمیر خودروهای خارجی و سفرهای کاری پیشین او به خارج از کشور مطرح شده است.\n\nبر اساس این گزارش، رضا زنگنه ۱۴ فروردین ۱۴۰۵ پس از ورود نیروهای حکومتی به محل کارش بازداشت و سپس به زندان قزل‌حصار کرج منتقل شد.\n\nمنابع آگاه گفته‌اند زنگنه در مدت بازداشت در زندان قزل‌حصار نگهداری شده و خانواده او نیز برای سکوت و خودداری از اطلاع‌رسانی تحت فشار نهادهای امنیتی قرار داشته‌اند.\nhttps://www.iranintl.com/202608288078",
       "shamsi_date": "1405/06/06",
-      "tehran_time": "15:18:21",
-      "gregorian_utc": "2026-08-28T11:48:21+00:00",
+      "tehran_time": "15:33:07",
+      "gregorian_utc": "2026-08-28T12:03:07+00:00",
       "media_type": "photo",
-      "media_size_bytes": 133247,
-      "media_size_human": "130.12 KB",
+      "media_size_bytes": 74983,
+      "media_size_human": "73.23 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354629_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354629_photo.jpg",
+      "media_local_path": "media/IranintlTV_354633_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354633_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-28T12:20:41.058779+00:00"
+      "archived_at": "2026-08-28T12:30:39.603772+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -433,7 +433,7 @@
       "media_local_path": "media/satlastnews_76364_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76364_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-28T12:20:41.558848+00:00"
+      "archived_at": "2026-08-28T12:30:39.864591+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -451,7 +451,7 @@
       "media_local_path": "media/Mellig_120328_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120328_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-28T12:20:41.994091+00:00"
+      "archived_at": "2026-08-28T12:30:40.155361+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -469,25 +469,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-28T12:20:40.544814+00:00"
+      "archived_at": "2026-08-28T12:30:39.318448+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354628,
-      "message_link": "https://t.me/IranintlTV/354628",
-      "text": "🔻سازمان حقوق بشر برای ورزش از صدور حکم اعدام برای پنج ورزشکار بازداشت‌شده در جریان «انقلاب ملی ایرانیان» خبر داد. بر اساس این گزارش، این افراد از حق دسترسی به وکیل انتخابی محروم بوده‌اند و در آستانه اجرای حکم اعدام قرار دارند.\n\n🔹گفت‌وگو با زهره عبدالله‌خانی، پژوهشگر سیاست‌های بین‌المللی ورزشی و عضو هیئت‌رییسه سازمان حقوق بشر برای ورزش\n\n@iranintltvsport",
+      "message_id": 354632,
+      "message_link": "https://t.me/IranintlTV/354632",
+      "text": "یکی از مخاطبان ایران اینترنشنال با ارسال ویدیویی از تهران در ششم شهریور، صف طولانی خودروها برای دریافت بنزین در محدوده بزرگراه «یادگار امام» را نشان داد.",
       "shamsi_date": "1405/06/06",
-      "tehran_time": "15:14:06",
-      "gregorian_utc": "2026-08-28T11:44:06+00:00",
+      "tehran_time": "15:32:16",
+      "gregorian_utc": "2026-08-28T12:02:16+00:00",
       "media_type": "video",
-      "media_size_bytes": 3140583,
-      "media_size_human": "3.00 MB",
+      "media_size_bytes": 8023485,
+      "media_size_human": "7.65 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354628_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354628_video.mp4",
+      "media_local_path": "media/IranintlTV_354632_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354632_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-28T12:20:41.080766+00:00"
+      "archived_at": "2026-08-28T12:30:39.603806+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -505,7 +505,7 @@
       "media_local_path": "media/satlastnews_76363_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76363_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-28T12:20:41.558905+00:00"
+      "archived_at": "2026-08-28T12:30:39.864635+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -523,7 +523,7 @@
       "media_local_path": "media/Mellig_120327_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120327_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-28T12:20:41.994205+00:00"
+      "archived_at": "2026-08-28T12:30:40.155410+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -541,25 +541,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-28T12:20:40.544855+00:00"
+      "archived_at": "2026-08-28T12:30:39.318487+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354627,
-      "message_link": "https://t.me/IranintlTV/354627",
-      "text": "مستندات و اطلاعات خود درباره زندانیان انقلاب ملی ایرانیان در استان‌ها و شهرهای مختلف را برای انتشار به ایران‌اینترنشنال ارسال کنید.\n\nاگر شهروندی در ارتباط با اعتراضات دی‌ماه ۱۴۰۴ برایش پرونده تشکیل شده، محکوم شده یا به زندان افتاده است، جزئیات و مستندات مربوط به آن را از طریق مدیابات ایران‌اینترنشنال، از طریق لینک موجود در پروفایل شبکه در اینستاگرام، برای ما ارسال کنید.\nhttps://iranintl.com/202608281402",
+      "message_id": 354631,
+      "message_link": "https://t.me/IranintlTV/354631",
+      "text": "اطلاعات رسیده به ایران‌اینترنشنال نشان می‌دهد در جریان انقلاب ملی ایرانیان، یک فرمانده سپاه با سابقه قلع‌وقمع مخالفان دولت بشار اسد در سوریه، سردستگی سرکوب‌گران در شهریار را بر عهده داشته است. در این سرکوب‌ها، نیروهای نیابتی نیز در برخی شهرستان‌های استان تهران حضور داشتند.\n\nفرزاد فتاحی، عضو تحریریه ایران‌اینترنشنال درباره سرکوب اعتراضات در شهرستان‌های استان تهران توضیح می‌دهد\n@iranintltv",
       "shamsi_date": "1405/06/06",
-      "tehran_time": "15:12:10",
-      "gregorian_utc": "2026-08-28T11:42:10+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 122300,
-      "media_size_human": "119.43 KB",
+      "tehran_time": "15:26:47",
+      "gregorian_utc": "2026-08-28T11:56:47+00:00",
+      "media_type": "video",
+      "media_size_bytes": 5262530,
+      "media_size_human": "5.02 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354627_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354627_photo.jpg",
+      "media_local_path": "media/IranintlTV_354631_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354631_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-28T12:20:41.080957+00:00"
+      "archived_at": "2026-08-28T12:30:39.603883+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -577,7 +577,7 @@
       "media_local_path": "media/satlastnews_76362_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76362_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-28T12:20:41.558943+00:00"
+      "archived_at": "2026-08-28T12:30:39.864665+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -595,7 +595,7 @@
       "media_local_path": "media/Mellig_120326_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120326_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-28T12:20:41.994294+00:00"
+      "archived_at": "2026-08-28T12:30:40.155455+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -613,25 +613,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-28T12:20:40.544884+00:00"
+      "archived_at": "2026-08-28T12:30:39.318512+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354626,
-      "message_link": "https://t.me/IranintlTV/354626",
-      "text": "🔻سعید فتاحی، مدیر سازمان فوتبال باشگاه استقلال، در یک برنامه تلویزیونی ابراز امیدواری کرد که فیفا اجازه جذب سه بازیکن آزاد را به آبی‌پوشان بدهد.\n\n🔹فتاحی در پاسخ به پرسشی درباره جذب سه بازیکن آزاد گفت: «روز گذشته که نقل‌وانتقالات ایران به پایان رسید، پنجره ما در فیفا همچنان بسته بود؛ اما وکلا پیشنهاد دادند نامه‌ای به فیفا بزنیم و امیدواریم این اتفاق بیفتد. نباید بگویند فتاحی گفته قطعی است، ما فقط امیدواریم از تمام ظرفیت‌های قانونی استفاده کنیم. وظیفه ما انجام این کار است و قطعاً آن را دنبال می‌کنیم. اگر هم نشود، همان‌طور که گفتم، تیم ما خوب است و کادر فنی عالی دارد. جا دارد از کادر فنی، بازیکنان و هواداران تشکر کنم که کمک کردند تا این لحظه اتفاقات خوبی رقم بخورد و امیدوارم در ادامه نیز همین مسیر برای استقلال تداوم داشته باشد.»\n\n🔹او همچنین تأکید کرد یاسر آسانی هیچ مشکلی برای همراهی استقلال ندارد. این در حالی است که حضور این بازیکن در سه بازی اخیر استقلال با اعتراض‌هایی همراه شده؛ باشگاه مس شهربابک شکایت رسمی خود را به کمیته انضباطی فدراسیون فوتبال ارسال کرده است. \n[@iranintltvsport](https://t.me/iranintltvsport)",
+      "message_id": 354630,
+      "message_link": "https://t.me/IranintlTV/354630",
+      "text": "یایویی کوساما، هنرمند آوانگارد و سرشناس ژاپنی، در ۹۷ سالگی درگذشت. او از تاثیرگذارترین چهره‌های هنر معاصر بود و خبر درگذشت او بازتاب گسترده‌ای در صفحه اول شماری از مهم‌ترین روزنامه‌های ژاپن و جهان داشت.\n\nگفت‌وگو با سمیه مهری، روزنامه‌نگار\n@iranintltv",
       "shamsi_date": "1405/06/06",
-      "tehran_time": "14:47:26",
-      "gregorian_utc": "2026-08-28T11:17:26+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 205916,
-      "media_size_human": "201.09 KB",
+      "tehran_time": "15:25:04",
+      "gregorian_utc": "2026-08-28T11:55:04+00:00",
+      "media_type": "video",
+      "media_size_bytes": 2619941,
+      "media_size_human": "2.50 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354626_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354626_photo.jpg",
+      "media_local_path": "media/IranintlTV_354630_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354630_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-28T12:20:41.081213+00:00"
+      "archived_at": "2026-08-28T12:30:39.603946+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -649,7 +649,7 @@
       "media_local_path": "media/satlastnews_76361_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76361_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-28T12:20:41.559096+00:00"
+      "archived_at": "2026-08-28T12:30:39.864815+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -667,7 +667,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-28T12:20:41.994328+00:00"
+      "archived_at": "2026-08-28T12:30:40.155478+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -685,25 +685,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-28T12:20:40.544916+00:00"
+      "archived_at": "2026-08-28T12:30:39.318535+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354624,
-      "message_link": "https://t.me/IranintlTV/354624",
-      "text": "**🗣روایت شما: وضعیت زندگی در سایه سرکوب سیاسی و تنش‌های نظامی - جمعه ۶ شهریور**\n\n🔹از صفادشت، از ساعت ۲۴ پنجشنبه ۵ شهریور تا الان که ساعت ۱۴ روز جمعه ۶ شهریوره، آب نداریم. ترامپ تهدید می‌کنه زیرساخت می‌زنم؛ عمو ترامپ، نداریم که بخوای بزنی\n\n🔹اینترنت تو تبریز خیلی خیلی ضعیف شده و بازم فیلترشکن‌ها کار نمی‌کنن، بازم شروع شد\n\n🔹اگه دوباره اینترنت رو قطع کنن، ما راننده‌های اسنپی‌ها چیکار کنیم؟! عملاً باید صبح تا شب بشینیم تو خونه!!!!\n\n🔹چرا شاکی‌این از کرایه‌های اسنپ؟ هیچ می‌دونین ما واسه درآوردن یه لقمه نون، روزی چندصد کیلومتر رو می‌ریم؟ کولر ماشین براتون روشن می‌کنیم، حداقل ۳ بار در هفته بنزین آزاد می‌زنیم. ماشین استهلاک پیدا می‌کنه، پول روغن موتور، دیسک، صفحه‌کلاچ و لنت ترمز، می‌دونین قیمتش چقدره؟\n\n🔹این خط و این نشان، عملیات طرد اقتصادی، اگر با عملیات نابودی امکانات سرکوب و عملیات حمایت واقعی از مردم همراه نشود، هرگز نتیجه مطلوبی نخواهد داشت؛ مثلاً احتمال قیام گرسنگان را افزایش می‌دهد که می‌تواند به فاجعه منجر شود\n\n🔹بانک ملی اگر منابع عمومی را به مفسدان اقتصادی وابسته به ساختار قدرت، دریافت‌کنندگان تسهیلات کلان، به‌خصوص همان ۱۵ نفر مندرج در گزارش محرمانه هیئت تحقیق‌وتفحص مجلس که نخستین‌بار سحام‌نیوز و روح‌الله زم افشا کرد، نمی‌بخشید، امروز ناچار به دزدی از مردم نبود\n\n🔹بیمه رانندگان را گفتن با گوشی پرداخت کن، برنامه تأمین من. حالا تا اسفند هر ماه مبلغی اضافه کردن. تا اسفند حدود ۱ میلیون. ۱۴۲۰ تماس گرفتم، گفتن حضوری اعتراض کنید. حق همچین کاری رو ندارن، مگه قرارداد جدید بستن؟\n\n🔹شهریه دانشگاه آزاد پنج میلیون افزایش داشته، درصورتی‌که کیفیت آموزش بسیار بسیار پایینه؛ مثلاً درس عمومی معارف شده یک میلیون و دویست، ولی ترم پیش هفتصد هزار تومن بود\n\n🔹خیلی سخت زندگی می‌کنیم با این وضعیت بنزین؛ رفتیم بنزین بزنیم، ۲ ساعت تو صف بنزین بودیم. نمی‌دونم چکار کنیم. هیچ‌کس به فکر مردم نیست، فقط به فکر خودشونن. حاضرن هر چیزی بدن که بمونن. خیلی شرایطمون سخت شده. آخر ایرانمون پس می‌گیریم. تا ابد جاوید شاه\n\n🔹ترامپ شیردل، بی‌بی دل‌ها، همین‌جوری ادامه بدید. برای سرنگونی حکومت منحوس، ما مردم ایران با شما همراهیم\n\n🔹پدر من کارگر با ۱۲ تومن، ۹ قلم جنس خرید، شد ۳ تومن. پدر من نمی‌دونه اجاره خونه بده، قرض بده؛ کلاً نمی‌دونه چیکار کنیم. هرچقدر هم کار می‌کنه، نمی‌رسونه",
+      "message_id": 354629,
+      "message_link": "https://t.me/IranintlTV/354629",
+      "text": "حسن علیدادی‌سلیمانی، امام جمعه کرمان، جمعه ششم شهریور اعلام کرد جمهوری اسلامی به هیچ‌وجه از «حقوق مسلم خود از جمله حقوق هسته‌ای و حق حاکمیت بر تنگه هرمز» عقب‌نشینی نخواهد کرد.\n\nامام جمعه کرمان گفت: «با زمین‌گیر شدن همکاران و متحدان خائن آمریکا در منطقه که یکی پس از دیگری توان دفاع از خود را از دست داده‌اند، جایگاه مهم و تاثیرگذار جمهوری اسلامی در منطقه بیش از پیش آشکار شده است.»",
       "shamsi_date": "1405/06/06",
-      "tehran_time": "14:14:11",
-      "gregorian_utc": "2026-08-28T10:44:11+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-28T12:20:41.081555+00:00"
+      "tehran_time": "15:18:21",
+      "gregorian_utc": "2026-08-28T11:48:21+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 133247,
+      "media_size_human": "130.12 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/IranintlTV_354629_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354629_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-08-28T12:30:39.603979+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -721,7 +721,7 @@
       "media_local_path": "media/satlastnews_76358_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76358_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-28T12:20:41.559191+00:00"
+      "archived_at": "2026-08-28T12:30:39.864875+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -739,7 +739,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-28T12:20:41.994356+00:00"
+      "archived_at": "2026-08-28T12:30:40.155499+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -757,25 +757,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-28T12:20:40.544941+00:00"
+      "archived_at": "2026-08-28T12:30:39.318556+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354623,
-      "message_link": "https://t.me/IranintlTV/354623",
-      "text": "ویدیوی رسیده نشان می‌دهد یک شهروند حین عبور از کنار تجمعات حکومتی شبانه،‌ می‌گوید «لعنت به سپاه و بسیج و پرچم ضحاکی ظلم شما.»",
+      "message_id": 354628,
+      "message_link": "https://t.me/IranintlTV/354628",
+      "text": "🔻سازمان حقوق بشر برای ورزش از صدور حکم اعدام برای پنج ورزشکار بازداشت‌شده در جریان «انقلاب ملی ایرانیان» خبر داد. بر اساس این گزارش، این افراد از حق دسترسی به وکیل انتخابی محروم بوده‌اند و در آستانه اجرای حکم اعدام قرار دارند.\n\n🔹گفت‌وگو با زهره عبدالله‌خانی، پژوهشگر سیاست‌های بین‌المللی ورزشی و عضو هیئت‌رییسه سازمان حقوق بشر برای ورزش\n\n@iranintltvsport",
       "shamsi_date": "1405/06/06",
-      "tehran_time": "14:04:29",
-      "gregorian_utc": "2026-08-28T10:34:29+00:00",
+      "tehran_time": "15:14:06",
+      "gregorian_utc": "2026-08-28T11:44:06+00:00",
       "media_type": "video",
-      "media_size_bytes": 5978111,
-      "media_size_human": "5.70 MB",
+      "media_size_bytes": 3140583,
+      "media_size_human": "3.00 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354623_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354623_video.mp4",
+      "media_local_path": "media/IranintlTV_354628_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354628_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-28T12:20:41.081618+00:00"
+      "archived_at": "2026-08-28T12:30:39.604054+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -793,7 +793,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-28T12:20:41.559225+00:00"
+      "archived_at": "2026-08-28T12:30:39.864898+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -811,7 +811,7 @@
       "media_local_path": "media/Mellig_120323_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120323_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-28T12:20:41.994399+00:00"
+      "archived_at": "2026-08-28T12:30:40.155528+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -829,25 +829,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-28T12:20:40.544966+00:00"
+      "archived_at": "2026-08-28T12:30:39.318577+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354622,
-      "message_link": "https://t.me/IranintlTV/354622",
-      "text": "دومین جلسه رسیدگی به پرونده وحید عابری، شهروند ایرانی‌ـ‌بریتانیایی در دادگاه اولد بیلی لندن برگزار شد. او از سوی پلیس ضدتروریسم بازداشت و به همکاری با یک سرویس اطلاعاتی خارجی متهم شده است.\n\nگزارش علی رشید، خبرنگار ایران‌اینترنشنال، از مقابل دادگاه اولد بیلی لندن\n@iranintltv",
+      "message_id": 354627,
+      "message_link": "https://t.me/IranintlTV/354627",
+      "text": "مستندات و اطلاعات خود درباره زندانیان انقلاب ملی ایرانیان در استان‌ها و شهرهای مختلف را برای انتشار به ایران‌اینترنشنال ارسال کنید.\n\nاگر شهروندی در ارتباط با اعتراضات دی‌ماه ۱۴۰۴ برایش پرونده تشکیل شده، محکوم شده یا به زندان افتاده است، جزئیات و مستندات مربوط به آن را از طریق مدیابات ایران‌اینترنشنال، از طریق لینک موجود در پروفایل شبکه در اینستاگرام، برای ما ارسال کنید.\nhttps://iranintl.com/202608281402",
       "shamsi_date": "1405/06/06",
-      "tehran_time": "14:02:47",
-      "gregorian_utc": "2026-08-28T10:32:47+00:00",
-      "media_type": "video",
-      "media_size_bytes": 2771359,
-      "media_size_human": "2.64 MB",
+      "tehran_time": "15:12:10",
+      "gregorian_utc": "2026-08-28T11:42:10+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 122300,
+      "media_size_human": "119.43 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354622_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354622_video.mp4",
+      "media_local_path": "media/IranintlTV_354627_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354627_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-28T12:20:41.081697+00:00"
+      "archived_at": "2026-08-28T12:30:39.604146+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -865,7 +865,7 @@
       "media_local_path": "media/satlastnews_76353_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76353_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-28T12:20:41.559283+00:00"
+      "archived_at": "2026-08-28T12:30:39.864942+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -883,7 +883,7 @@
       "media_local_path": "media/Mellig_120322_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120322_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-28T12:20:41.994435+00:00"
+      "archived_at": "2026-08-28T12:30:40.155554+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -901,25 +901,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-28T12:20:40.544990+00:00"
+      "archived_at": "2026-08-28T12:30:39.318597+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354621,
-      "message_link": "https://t.me/IranintlTV/354621",
-      "text": "علی‌حسین قاضی‌زاده، عضو تحریریه ایران‌اینترنشنال، با اشاره به اظهارات محمدجعفر قائم‌پناه، معاون اجرایی مسعود پزشکیان، مبنی بر اینکه «اگر علی خامنه‌ای می‌دانست آمریکا او را می‌کشد، از غنی‌سازی دست می‌کشید» گفت این سخنان با «ماهیت جمهوری اسلامی» و «فلسفه مقاومت» در تضاد است و با چنین استدلالی، سیاست خارجی ۴۷ سال گذشته جمهوری اسلامی زیر سوال می‌رود.\n\nاو افزود جمهوری اسلامی نظامی منعطف نیست که بتواند از هویت انقلابی و ایده مقاومت فاصله بگیرد و ادامه این دوگانگی می‌تواند به «ترک خوردن ساختار» و در نهایت فروپاشی حکومت منجر شود.\n@iranintltv",
+      "message_id": 354626,
+      "message_link": "https://t.me/IranintlTV/354626",
+      "text": "🔻سعید فتاحی، مدیر سازمان فوتبال باشگاه استقلال، در یک برنامه تلویزیونی ابراز امیدواری کرد که فیفا اجازه جذب سه بازیکن آزاد را به آبی‌پوشان بدهد.\n\n🔹فتاحی در پاسخ به پرسشی درباره جذب سه بازیکن آزاد گفت: «روز گذشته که نقل‌وانتقالات ایران به پایان رسید، پنجره ما در فیفا همچنان بسته بود؛ اما وکلا پیشنهاد دادند نامه‌ای به فیفا بزنیم و امیدواریم این اتفاق بیفتد. نباید بگویند فتاحی گفته قطعی است، ما فقط امیدواریم از تمام ظرفیت‌های قانونی استفاده کنیم. وظیفه ما انجام این کار است و قطعاً آن را دنبال می‌کنیم. اگر هم نشود، همان‌طور که گفتم، تیم ما خوب است و کادر فنی عالی دارد. جا دارد از کادر فنی، بازیکنان و هواداران تشکر کنم که کمک کردند تا این لحظه اتفاقات خوبی رقم بخورد و امیدوارم در ادامه نیز همین مسیر برای استقلال تداوم داشته باشد.»\n\n🔹او همچنین تأکید کرد یاسر آسانی هیچ مشکلی برای همراهی استقلال ندارد. این در حالی است که حضور این بازیکن در سه بازی اخیر استقلال با اعتراض‌هایی همراه شده؛ باشگاه مس شهربابک شکایت رسمی خود را به کمیته انضباطی فدراسیون فوتبال ارسال کرده است. \n[@iranintltvsport](https://t.me/iranintltvsport)",
       "shamsi_date": "1405/06/06",
-      "tehran_time": "14:02:13",
-      "gregorian_utc": "2026-08-28T10:32:13+00:00",
-      "media_type": "video",
-      "media_size_bytes": 2785993,
-      "media_size_human": "2.66 MB",
+      "tehran_time": "14:47:26",
+      "gregorian_utc": "2026-08-28T11:17:26+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 205916,
+      "media_size_human": "201.09 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354621_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354621_video.mp4",
+      "media_local_path": "media/IranintlTV_354626_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354626_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-28T12:20:41.081799+00:00"
+      "archived_at": "2026-08-28T12:30:39.604285+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -937,7 +937,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-28T12:20:41.559312+00:00"
+      "archived_at": "2026-08-28T12:30:39.864963+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -955,7 +955,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-28T12:20:41.994461+00:00"
+      "archived_at": "2026-08-28T12:30:40.155574+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -973,25 +973,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-28T12:20:40.545015+00:00"
+      "archived_at": "2026-08-28T12:30:39.318619+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354620,
-      "message_link": "https://t.me/IranintlTV/354620",
-      "text": "حسین آقایی، عضو تحریریه ایران‌اینترنشنال، گفت جمهوری اسلامی یکی از مهم‌ترین اهرم‌های خود را در حال از دست دادن می‌بیند. به گفته او، تنگه هرمز اگرچه از نظر نظامی باز است، اما عبور و مرور کشتی‌ها هنوز به شرایط پیش از جنگ بازنگشته و فشار اقتصادی آمریکا نیز می‌تواند تهران را بیش از پیش در موضع ضعف قرار دهد.\n\nاو معتقد است جمهوری اسلامی در این شرایط میان پذیرش مذاکره و تشدید تنش، گزینه‌های محدودی پیش رو دارد.\n@iranintltv",
+      "message_id": 354624,
+      "message_link": "https://t.me/IranintlTV/354624",
+      "text": "**🗣روایت شما: وضعیت زندگی در سایه سرکوب سیاسی و تنش‌های نظامی - جمعه ۶ شهریور**\n\n🔹از صفادشت، از ساعت ۲۴ پنجشنبه ۵ شهریور تا الان که ساعت ۱۴ روز جمعه ۶ شهریوره، آب نداریم. ترامپ تهدید می‌کنه زیرساخت می‌زنم؛ عمو ترامپ، نداریم که بخوای بزنی\n\n🔹اینترنت تو تبریز خیلی خیلی ضعیف شده و بازم فیلترشکن‌ها کار نمی‌کنن، بازم شروع شد\n\n🔹اگه دوباره اینترنت رو قطع کنن، ما راننده‌های اسنپی‌ها چیکار کنیم؟! عملاً باید صبح تا شب بشینیم تو خونه!!!!\n\n🔹چرا شاکی‌این از کرایه‌های اسنپ؟ هیچ می‌دونین ما واسه درآوردن یه لقمه نون، روزی چندصد کیلومتر رو می‌ریم؟ کولر ماشین براتون روشن می‌کنیم، حداقل ۳ بار در هفته بنزین آزاد می‌زنیم. ماشین استهلاک پیدا می‌کنه، پول روغن موتور، دیسک، صفحه‌کلاچ و لنت ترمز، می‌دونین قیمتش چقدره؟\n\n🔹این خط و این نشان، عملیات طرد اقتصادی، اگر با عملیات نابودی امکانات سرکوب و عملیات حمایت واقعی از مردم همراه نشود، هرگز نتیجه مطلوبی نخواهد داشت؛ مثلاً احتمال قیام گرسنگان را افزایش می‌دهد که می‌تواند به فاجعه منجر شود\n\n🔹بانک ملی اگر منابع عمومی را به مفسدان اقتصادی وابسته به ساختار قدرت، دریافت‌کنندگان تسهیلات کلان، به‌خصوص همان ۱۵ نفر مندرج در گزارش محرمانه هیئت تحقیق‌وتفحص مجلس که نخستین‌بار سحام‌نیوز و روح‌الله زم افشا کرد، نمی‌بخشید، امروز ناچار به دزدی از مردم نبود\n\n🔹بیمه رانندگان را گفتن با گوشی پرداخت کن، برنامه تأمین من. حالا تا اسفند هر ماه مبلغی اضافه کردن. تا اسفند حدود ۱ میلیون. ۱۴۲۰ تماس گرفتم، گفتن حضوری اعتراض کنید. حق همچین کاری رو ندارن، مگه قرارداد جدید بستن؟\n\n🔹شهریه دانشگاه آزاد پنج میلیون افزایش داشته، درصورتی‌که کیفیت آموزش بسیار بسیار پایینه؛ مثلاً درس عمومی معارف شده یک میلیون و دویست، ولی ترم پیش هفتصد هزار تومن بود\n\n🔹خیلی سخت زندگی می‌کنیم با این وضعیت بنزین؛ رفتیم بنزین بزنیم، ۲ ساعت تو صف بنزین بودیم. نمی‌دونم چکار کنیم. هیچ‌کس به فکر مردم نیست، فقط به فکر خودشونن. حاضرن هر چیزی بدن که بمونن. خیلی شرایطمون سخت شده. آخر ایرانمون پس می‌گیریم. تا ابد جاوید شاه\n\n🔹ترامپ شیردل، بی‌بی دل‌ها، همین‌جوری ادامه بدید. برای سرنگونی حکومت منحوس، ما مردم ایران با شما همراهیم\n\n🔹پدر من کارگر با ۱۲ تومن، ۹ قلم جنس خرید، شد ۳ تومن. پدر من نمی‌دونه اجاره خونه بده، قرض بده؛ کلاً نمی‌دونه چیکار کنیم. هرچقدر هم کار می‌کنه، نمی‌رسونه",
       "shamsi_date": "1405/06/06",
-      "tehran_time": "13:49:30",
-      "gregorian_utc": "2026-08-28T10:19:30+00:00",
-      "media_type": "video",
-      "media_size_bytes": 3954188,
-      "media_size_human": "3.77 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354620_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354620_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-08-28T12:20:41.081889+00:00"
+      "tehran_time": "14:14:11",
+      "gregorian_utc": "2026-08-28T10:44:11+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-08-28T12:30:39.604564+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1009,7 +1009,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-28T12:20:41.559601+00:00"
+      "archived_at": "2026-08-28T12:30:39.865257+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1027,7 +1027,7 @@
       "media_local_path": "media/Mellig_120320_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120320_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-28T12:20:41.994523+00:00"
+      "archived_at": "2026-08-28T12:30:40.155620+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1045,25 +1045,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-28T12:20:40.545038+00:00"
+      "archived_at": "2026-08-28T12:30:39.318639+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354619,
-      "message_link": "https://t.me/IranintlTV/354619",
-      "text": "روزنامه آلمانی فرانکفورتر آلگماینه گزارش داد نشست روز یکشنبه در استانبول درباره وضعیت تنگه هرمز لغو شده است.\nاین نشست با ابتکار آلمان و ترکیه برنامه‌ریزی شده بود و به درخواست مصر و به دلیل مشکل زمان‌بندی برگزار نمی‌شود. هنوز تاریخ تازه‌ای برای برگزاری این نشست اعلام نشده است.\n\nگفت‌وگو با فرزیا ثابتی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 354623,
+      "message_link": "https://t.me/IranintlTV/354623",
+      "text": "ویدیوی رسیده نشان می‌دهد یک شهروند حین عبور از کنار تجمعات حکومتی شبانه،‌ می‌گوید «لعنت به سپاه و بسیج و پرچم ضحاکی ظلم شما.»",
       "shamsi_date": "1405/06/06",
-      "tehran_time": "13:42:25",
-      "gregorian_utc": "2026-08-28T10:12:25+00:00",
+      "tehran_time": "14:04:29",
+      "gregorian_utc": "2026-08-28T10:34:29+00:00",
       "media_type": "video",
-      "media_size_bytes": 2244505,
-      "media_size_human": "2.14 MB",
+      "media_size_bytes": 5978111,
+      "media_size_human": "5.70 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354619_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354619_video.mp4",
+      "media_local_path": "media/IranintlTV_354623_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354623_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-28T12:20:41.081977+00:00"
+      "archived_at": "2026-08-28T12:30:39.604599+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1081,7 +1081,7 @@
       "media_local_path": "media/satlastnews_76348_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76348_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-28T12:20:41.559761+00:00"
+      "archived_at": "2026-08-28T12:30:39.865413+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1099,7 +1099,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-28T12:20:41.994568+00:00"
+      "archived_at": "2026-08-28T12:30:40.155652+00:00"
     }
   ]
 }
