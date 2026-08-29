@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-29T00:41:20.905858+00:00",
-  "shamsi_generated": "1405/06/07 00:41:20 تهران",
+  "generated_at": "2026-08-29T00:51:18.681117+00:00",
+  "shamsi_generated": "1405/06/07 00:51:18 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -37,25 +37,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-29T00:40:24.337294+00:00"
+      "archived_at": "2026-08-29T00:50:29.036022+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354719,
-      "message_link": "https://t.me/IranintlTV/354719",
-      "text": "مارکو روبیو، وزیر خارجه آمریکا، توافق نفتی واشینگتن و کاراکاس را «پیروزی بزرگی هم برای مردم آمریکا و هم برای مردم ونزوئلا» خواند و گفت این توافق نشان می‌دهد سیاست خارجی دونالد ترامپ، رییس‌جمهوری آمریکا، در چارچوب رویکرد «اول آمریکا» دستاورد به همراه دارد.\n\nروبیو افزود این توافق برای ونزوئلا نزدیک به ۱۰۰ میلیارد دلار سرمایه‌گذاری خصوصی به همراه خواهد داشت، از هزاران شغل پردرآمد حمایت خواهد کرد و به بازسازی اقتصاد این کشور کمک خواهد کرد.\n\nترامپ پیش‌تر در تروت سوشال این توافق را «بزرگ‌ترین توافق نفتی در تاریخ جهان» خواند و اعلام کرد آمریکا با مشارکت بخش خصوصی، کنترل اکثریت بیش از ۶۵ میلیارد بشکه از ذخایر اثبات‌شده نفت ونزوئلا را بدون تحمیل هزینه به مالیات‌دهندگان آمریکایی در اختیار خواهد گرفت.\n\nترامپ همچنین گفته بود این توافق ذخایر نفت آمریکا را بیش از دو برابر می‌کند، عرضه نفت را افزایش می‌دهد و در بلندمدت به کاهش قیمت بنزین برای آمریکایی‌ها کمک خواهد کرد.\nhttps://iranintl.com/202608287111",
+      "message_id": 354720,
+      "message_link": "https://t.me/IranintlTV/354720",
+      "text": "فرماندهی مرکزی آمریکا، سنتکام، اعلام کرد نیروهای این فرماندهی تا ۲۸ اوت در چارچوب اجرای محاصره دریایی علیه ایران، ۸۲ کشتی تجاری را تغییر مسیر داده، سه کشتی را از کار انداخته و وارد دو کشتی شده‌اند.\n\nسنتکام همچنین تصویری از یک ملوان آمریکایی در ناوشکن «یواس‌اس جان پل جونز» منتشر کرد و نوشت این ناوشکن در آب‌های منطقه در حال اجرای محاصره آمریکا علیه ایران است.\n\nhttps://iranintl.com/202608299300",
       "shamsi_date": "1405/06/07",
-      "tehran_time": "03:49:48",
-      "gregorian_utc": "2026-08-29T00:19:48+00:00",
+      "tehran_time": "04:19:05",
+      "gregorian_utc": "2026-08-29T00:49:05+00:00",
       "media_type": "photo",
-      "media_size_bytes": 156884,
-      "media_size_human": "153.21 KB",
+      "media_size_bytes": 182416,
+      "media_size_human": "178.14 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354719_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354719_photo.jpg",
+      "media_local_path": "media/IranintlTV_354720_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354720_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T00:40:24.754061+00:00"
+      "archived_at": "2026-08-29T00:50:29.278526+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -73,7 +73,7 @@
       "media_local_path": "media/satlastnews_76369_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76369_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T00:40:25.204596+00:00"
+      "archived_at": "2026-08-29T00:50:29.605461+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -91,7 +91,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-29T00:40:25.462163+00:00"
+      "archived_at": "2026-08-29T00:50:29.870154+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -109,25 +109,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-29T00:40:24.337341+00:00"
+      "archived_at": "2026-08-29T00:50:29.036067+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354718,
-      "message_link": "https://t.me/IranintlTV/354718",
-      "text": "ان‌بی‌سی نیوز به نقل از دو فرد مطلع گزارش داد پیت هگست، وزیر جنگ آمریکا، در ماه‌های اخیر به‌صورت خصوصی درباره احتمال نامزدی خود در انتخابات ریاست‌جمهوری ۲۰۲۸ گفت‌وگو کرده است.\n\nبه گفته این منابع، هگست و جنیفر هگست، همسرش، این احتمال را با دوستان نزدیک و افراد مرتبط با خود مطرح کرده‌اند.\n\nپنتاگون این گزارش را رد کرد و آن را «احمقانه» خواند و اعلام کرد هگست نامزد ریاست‌جمهوری نخواهد شد و اولویت اصلی او رهبری وزارت جنگ است.\nhttps://iranintl.com/202608285269",
+      "message_id": 354719,
+      "message_link": "https://t.me/IranintlTV/354719",
+      "text": "مارکو روبیو، وزیر خارجه آمریکا، توافق نفتی واشینگتن و کاراکاس را «پیروزی بزرگی هم برای مردم آمریکا و هم برای مردم ونزوئلا» خواند و گفت این توافق نشان می‌دهد سیاست خارجی دونالد ترامپ، رییس‌جمهوری آمریکا، در چارچوب رویکرد «اول آمریکا» دستاورد به همراه دارد.\n\nروبیو افزود این توافق برای ونزوئلا نزدیک به ۱۰۰ میلیارد دلار سرمایه‌گذاری خصوصی به همراه خواهد داشت، از هزاران شغل پردرآمد حمایت خواهد کرد و به بازسازی اقتصاد این کشور کمک خواهد کرد.\n\nترامپ پیش‌تر در تروت سوشال این توافق را «بزرگ‌ترین توافق نفتی در تاریخ جهان» خواند و اعلام کرد آمریکا با مشارکت بخش خصوصی، کنترل اکثریت بیش از ۶۵ میلیارد بشکه از ذخایر اثبات‌شده نفت ونزوئلا را بدون تحمیل هزینه به مالیات‌دهندگان آمریکایی در اختیار خواهد گرفت.\n\nترامپ همچنین گفته بود این توافق ذخایر نفت آمریکا را بیش از دو برابر می‌کند، عرضه نفت را افزایش می‌دهد و در بلندمدت به کاهش قیمت بنزین برای آمریکایی‌ها کمک خواهد کرد.\nhttps://iranintl.com/202608287111",
       "shamsi_date": "1405/06/07",
-      "tehran_time": "03:41:41",
-      "gregorian_utc": "2026-08-29T00:11:41+00:00",
+      "tehran_time": "03:49:48",
+      "gregorian_utc": "2026-08-29T00:19:48+00:00",
       "media_type": "photo",
-      "media_size_bytes": 165990,
-      "media_size_human": "162.10 KB",
+      "media_size_bytes": 156884,
+      "media_size_human": "153.21 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354718_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354718_photo.jpg",
+      "media_local_path": "media/IranintlTV_354719_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354719_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T00:40:24.754167+00:00"
+      "archived_at": "2026-08-29T00:50:29.278697+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -145,7 +145,7 @@
       "media_local_path": "media/satlastnews_76368_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76368_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T00:40:25.204665+00:00"
+      "archived_at": "2026-08-29T00:50:29.605530+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -163,7 +163,7 @@
       "media_local_path": "media/Mellig_120363_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120363_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T00:40:25.462226+00:00"
+      "archived_at": "2026-08-29T00:50:29.870227+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -181,25 +181,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-29T00:40:24.337393+00:00"
+      "archived_at": "2026-08-29T00:50:29.036104+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354717,
-      "message_link": "https://t.me/IranintlTV/354717",
-      "text": "سازمان بین‌المللی دریانوردی هم‌زمان با گذشت شش ماه از جنگ ایران هشدار داد بحران تنگه هرمز همچنان حل‌نشده است و حدود ۴۰۰ کشتی حامل نزدیک به شش هزار دریانورد نتوانسته‌اند با ایمنی کامل از منطقه خارج شوند.\n\nآرسنیو دومینگز، دبیرکل این سازمان، گزارش‌ها درباره آزادی رفت‌وآمد را رد کرد و خواستار همکاری کشورها و صنعت کشتیرانی برای بازگرداندن آزادی کشتیرانی در تنگه هرمز شد.\n\nبر اساس اعلام این سازمان، تا چهارشنبه ۷۰ حادثه و مرگ ۱۹ دریانورد تایید شده است.\n\nداده‌های ردیابی نیز از تردد محدود و آهسته کشتی‌ها حکایت دارند و بسیاری از شرکت‌های کشتیرانی همچنان تمایلی به بازگرداندن کشتی‌های بزرگ خود به خلیج فارس ندارند.\nhttps://iranintl.com/202608283175",
+      "message_id": 354718,
+      "message_link": "https://t.me/IranintlTV/354718",
+      "text": "ان‌بی‌سی نیوز به نقل از دو فرد مطلع گزارش داد پیت هگست، وزیر جنگ آمریکا، در ماه‌های اخیر به‌صورت خصوصی درباره احتمال نامزدی خود در انتخابات ریاست‌جمهوری ۲۰۲۸ گفت‌وگو کرده است.\n\nبه گفته این منابع، هگست و جنیفر هگست، همسرش، این احتمال را با دوستان نزدیک و افراد مرتبط با خود مطرح کرده‌اند.\n\nپنتاگون این گزارش را رد کرد و آن را «احمقانه» خواند و اعلام کرد هگست نامزد ریاست‌جمهوری نخواهد شد و اولویت اصلی او رهبری وزارت جنگ است.\nhttps://iranintl.com/202608285269",
       "shamsi_date": "1405/06/07",
-      "tehran_time": "03:33:57",
-      "gregorian_utc": "2026-08-29T00:03:57+00:00",
+      "tehran_time": "03:41:41",
+      "gregorian_utc": "2026-08-29T00:11:41+00:00",
       "media_type": "photo",
-      "media_size_bytes": 141098,
-      "media_size_human": "137.79 KB",
+      "media_size_bytes": 165990,
+      "media_size_human": "162.10 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354717_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354717_photo.jpg",
+      "media_local_path": "media/IranintlTV_354718_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354718_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T00:40:24.754275+00:00"
+      "archived_at": "2026-08-29T00:50:29.278805+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -217,7 +217,7 @@
       "media_local_path": "media/satlastnews_76367_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76367_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T00:40:25.204800+00:00"
+      "archived_at": "2026-08-29T00:50:29.605669+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -235,7 +235,7 @@
       "media_local_path": "media/Mellig_120362_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120362_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T00:40:25.462263+00:00"
+      "archived_at": "2026-08-29T00:50:29.870264+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -253,25 +253,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-29T00:40:24.337430+00:00"
+      "archived_at": "2026-08-29T00:50:29.036136+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354716,
-      "message_link": "https://t.me/IranintlTV/354716",
-      "text": "دونالد ترامپ، رییس‌جمهوری آمریکا، در تروت سوشال اعلام کرد آمریکا با ونزوئلا به توافقی دست یافته که آن را «بزرگ‌ترین توافق نفتی در تاریخ جهان» خواند.\n\nترامپ گفت بر اساس این توافق و با مشارکت بخش خصوصی، آمریکا کنترل اکثریت بیش از ۶۵ میلیارد بشکه از ذخایر اثبات‌شده نفت ونزوئلا را بدون تحمیل هزینه به مالیات‌دهندگان آمریکایی در اختیار خواهد گرفت.\n\nاو افزود مارکو روبیو، وزیر خارجه آمریکا، و پیت هگست، وزیر جنگ آمریکا، با همکاری دلسی رودریگز، رییس‌جمهوری موقت ونزوئلا، در دستیابی به این توافق نقش داشته‌اند.\n\nترامپ گفت این توافق ذخایر نفت آمریکا را بیش از دو برابر می‌کند، عرضه نفت را به میزان قابل‌توجهی افزایش می‌دهد و در بلندمدت به کاهش قیمت بنزین برای آمریکایی‌ها کمک خواهد کرد.\nhttps://iranintl.com/202608282353",
+      "message_id": 354717,
+      "message_link": "https://t.me/IranintlTV/354717",
+      "text": "سازمان بین‌المللی دریانوردی هم‌زمان با گذشت شش ماه از جنگ ایران هشدار داد بحران تنگه هرمز همچنان حل‌نشده است و حدود ۴۰۰ کشتی حامل نزدیک به شش هزار دریانورد نتوانسته‌اند با ایمنی کامل از منطقه خارج شوند.\n\nآرسنیو دومینگز، دبیرکل این سازمان، گزارش‌ها درباره آزادی رفت‌وآمد را رد کرد و خواستار همکاری کشورها و صنعت کشتیرانی برای بازگرداندن آزادی کشتیرانی در تنگه هرمز شد.\n\nبر اساس اعلام این سازمان، تا چهارشنبه ۷۰ حادثه و مرگ ۱۹ دریانورد تایید شده است.\n\nداده‌های ردیابی نیز از تردد محدود و آهسته کشتی‌ها حکایت دارند و بسیاری از شرکت‌های کشتیرانی همچنان تمایلی به بازگرداندن کشتی‌های بزرگ خود به خلیج فارس ندارند.\nhttps://iranintl.com/202608283175",
       "shamsi_date": "1405/06/07",
-      "tehran_time": "03:24:53",
-      "gregorian_utc": "2026-08-28T23:54:53+00:00",
+      "tehran_time": "03:33:57",
+      "gregorian_utc": "2026-08-29T00:03:57+00:00",
       "media_type": "photo",
-      "media_size_bytes": 152850,
-      "media_size_human": "149.27 KB",
+      "media_size_bytes": 141098,
+      "media_size_human": "137.79 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354716_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354716_photo.jpg",
+      "media_local_path": "media/IranintlTV_354717_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354717_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T00:40:24.754406+00:00"
+      "archived_at": "2026-08-29T00:50:29.278912+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -289,7 +289,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-29T00:40:25.204867+00:00"
+      "archived_at": "2026-08-29T00:50:29.605752+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -307,7 +307,7 @@
       "media_local_path": "media/Mellig_120361_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120361_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T00:40:25.462336+00:00"
+      "archived_at": "2026-08-29T00:50:29.870342+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -325,25 +325,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-29T00:40:24.337513+00:00"
+      "archived_at": "2026-08-29T00:50:29.036161+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354715,
-      "message_link": "https://t.me/IranintlTV/354715",
-      "text": "محمدباقر قالیباف، رییس مجلس جمهوری اسلامی، در واکنش به تاکید مجتبی خامنه‌ای، رهبر جمهوری اسلامی، بر حفظ انسجام اجتماعی، نوشت پیام او «نصب‌العین ما و تمام مسوولان کشور است».\n\nقالیباف افزود: «باید از دوگانه‌سازی‌های موهوم به هر شکلی پرهیز کرد و هر اقدامی که به انسجام اجتماعی آسیبی برساند، برای همه ما حرام ملی و شرعی است.»\n\nمجتبی خامنه‌ای پیش‌تر بر پرهیز از «سخن ناامیدکننده» و «دوگانه‌سازی‌های موهوم» تاکید کرده و گفته بود ارتکاب هر اقدامی که به انسجام اجتماعی آسیب بزند، ممنوع است.\nhttps://iranintl.com/202608287312",
+      "message_id": 354716,
+      "message_link": "https://t.me/IranintlTV/354716",
+      "text": "دونالد ترامپ، رییس‌جمهوری آمریکا، در تروت سوشال اعلام کرد آمریکا با ونزوئلا به توافقی دست یافته که آن را «بزرگ‌ترین توافق نفتی در تاریخ جهان» خواند.\n\nترامپ گفت بر اساس این توافق و با مشارکت بخش خصوصی، آمریکا کنترل اکثریت بیش از ۶۵ میلیارد بشکه از ذخایر اثبات‌شده نفت ونزوئلا را بدون تحمیل هزینه به مالیات‌دهندگان آمریکایی در اختیار خواهد گرفت.\n\nاو افزود مارکو روبیو، وزیر خارجه آمریکا، و پیت هگست، وزیر جنگ آمریکا، با همکاری دلسی رودریگز، رییس‌جمهوری موقت ونزوئلا، در دستیابی به این توافق نقش داشته‌اند.\n\nترامپ گفت این توافق ذخایر نفت آمریکا را بیش از دو برابر می‌کند، عرضه نفت را به میزان قابل‌توجهی افزایش می‌دهد و در بلندمدت به کاهش قیمت بنزین برای آمریکایی‌ها کمک خواهد کرد.\nhttps://iranintl.com/202608282353",
       "shamsi_date": "1405/06/07",
-      "tehran_time": "03:14:01",
-      "gregorian_utc": "2026-08-28T23:44:01+00:00",
+      "tehran_time": "03:24:53",
+      "gregorian_utc": "2026-08-28T23:54:53+00:00",
       "media_type": "photo",
-      "media_size_bytes": 154804,
-      "media_size_human": "151.18 KB",
+      "media_size_bytes": 152850,
+      "media_size_human": "149.27 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354715_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354715_photo.jpg",
+      "media_local_path": "media/IranintlTV_354716_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354716_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T00:40:24.754494+00:00"
+      "archived_at": "2026-08-29T00:50:29.279017+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -361,7 +361,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-29T00:40:25.204992+00:00"
+      "archived_at": "2026-08-29T00:50:29.605876+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -379,7 +379,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-29T00:40:25.462396+00:00"
+      "archived_at": "2026-08-29T00:50:29.870388+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -397,25 +397,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-29T00:40:24.337549+00:00"
+      "archived_at": "2026-08-29T00:50:29.036195+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354714,
-      "message_link": "https://t.me/IranintlTV/354714",
-      "text": "حسین قاضیان، جامعه‌شناس، گفت کمبود معلم در ایران به افزایش تراکم کلاس‌ها و افت کیفیت آموزش منجر شده است. او افزود استفاده از آمارهای متفاوت، از ۱۲۰ هزار تا ۱۷۶ هزار کمبود معلم، نشان می‌دهد نظام آموزشی با کسری قابل‌توجه نیروی انسانی روبه‌رو است.\n\nاو همچنین گفت اتکا به معلمان بازنشسته، سربازمعلم‌ها و اضافه‌تدریس، نتیجه دو دهه سیاست‌گذاری نادرست بوده و به افت کیفیت آموزش دامن زده است. به گفته قاضیان، این روند در کنار افزایش ترک تحصیل و نتایج ضعیف آزمون‌های آموزشی، آثار خود را بر نظام آموزشی ایران گذاشته است.\n@iranintltv",
+      "message_id": 354715,
+      "message_link": "https://t.me/IranintlTV/354715",
+      "text": "محمدباقر قالیباف، رییس مجلس جمهوری اسلامی، در واکنش به تاکید مجتبی خامنه‌ای، رهبر جمهوری اسلامی، بر حفظ انسجام اجتماعی، نوشت پیام او «نصب‌العین ما و تمام مسوولان کشور است».\n\nقالیباف افزود: «باید از دوگانه‌سازی‌های موهوم به هر شکلی پرهیز کرد و هر اقدامی که به انسجام اجتماعی آسیبی برساند، برای همه ما حرام ملی و شرعی است.»\n\nمجتبی خامنه‌ای پیش‌تر بر پرهیز از «سخن ناامیدکننده» و «دوگانه‌سازی‌های موهوم» تاکید کرده و گفته بود ارتکاب هر اقدامی که به انسجام اجتماعی آسیب بزند، ممنوع است.\nhttps://iranintl.com/202608287312",
       "shamsi_date": "1405/06/07",
-      "tehran_time": "02:39:59",
-      "gregorian_utc": "2026-08-28T23:09:59+00:00",
-      "media_type": "video",
-      "media_size_bytes": 4572568,
-      "media_size_human": "4.36 MB",
+      "tehran_time": "03:14:01",
+      "gregorian_utc": "2026-08-28T23:44:01+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 154804,
+      "media_size_human": "151.18 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354714_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354714_video.mp4",
+      "media_local_path": "media/IranintlTV_354715_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354715_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T00:40:24.754592+00:00"
+      "archived_at": "2026-08-29T00:50:29.279101+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -433,7 +433,7 @@
       "media_local_path": "media/satlastnews_76364_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76364_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T00:40:25.205049+00:00"
+      "archived_at": "2026-08-29T00:50:29.605933+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -451,7 +451,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-29T00:40:25.462439+00:00"
+      "archived_at": "2026-08-29T00:50:29.870428+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -469,25 +469,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-29T00:40:24.337575+00:00"
+      "archived_at": "2026-08-29T00:50:29.036219+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354713,
-      "message_link": "https://t.me/IranintlTV/354713",
-      "text": "کمپین حقوق بشر ایران اعلام کرد مقام‌های جمهوری اسلامی از زمان آغاز جنگ، سرکوب داخلی را به‌طور قابل‌توجهی تشدید کرده و رسیدگی قضایی به پرونده‌های سیاسی را سرعت بخشیده‌اند.\n\nاین سازمان حقوق بشری افزود احکام طولانی‌مدت زندان و اعدام در محاکمه‌های «با انگیزه سیاسی» و بدون دادرسی عادلانه صادر می‌شوند و متهمان در مواردی بر اساس اعترافات اجباری گرفته‌شده تحت شکنجه و فشار محکوم شده‌اند.\n\nکمپین حقوق بشر ایران همچنین اعلام کرد اتهامات مبهم مرتبط با «امنیت ملی» به‌طور فزاینده‌ای برای جرم‌انگاری مخالفت‌ها و صدور احکامی که می‌توانند مجازات اعدام در پی داشته باشند، به کار گرفته می‌شوند.\nhttps://iranintl.com/202608283542",
+      "message_id": 354714,
+      "message_link": "https://t.me/IranintlTV/354714",
+      "text": "حسین قاضیان، جامعه‌شناس، گفت کمبود معلم در ایران به افزایش تراکم کلاس‌ها و افت کیفیت آموزش منجر شده است. او افزود استفاده از آمارهای متفاوت، از ۱۲۰ هزار تا ۱۷۶ هزار کمبود معلم، نشان می‌دهد نظام آموزشی با کسری قابل‌توجه نیروی انسانی روبه‌رو است.\n\nاو همچنین گفت اتکا به معلمان بازنشسته، سربازمعلم‌ها و اضافه‌تدریس، نتیجه دو دهه سیاست‌گذاری نادرست بوده و به افت کیفیت آموزش دامن زده است. به گفته قاضیان، این روند در کنار افزایش ترک تحصیل و نتایج ضعیف آزمون‌های آموزشی، آثار خود را بر نظام آموزشی ایران گذاشته است.\n@iranintltv",
       "shamsi_date": "1405/06/07",
-      "tehran_time": "02:39:55",
-      "gregorian_utc": "2026-08-28T23:09:55+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 131050,
-      "media_size_human": "127.98 KB",
+      "tehran_time": "02:39:59",
+      "gregorian_utc": "2026-08-28T23:09:59+00:00",
+      "media_type": "video",
+      "media_size_bytes": 4572568,
+      "media_size_human": "4.36 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354713_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354713_photo.jpg",
+      "media_local_path": "media/IranintlTV_354714_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354714_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T00:40:24.754685+00:00"
+      "archived_at": "2026-08-29T00:50:29.279199+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -505,7 +505,7 @@
       "media_local_path": "media/satlastnews_76363_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76363_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T00:40:25.205096+00:00"
+      "archived_at": "2026-08-29T00:50:29.605978+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -523,7 +523,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-29T00:40:25.462460+00:00"
+      "archived_at": "2026-08-29T00:50:29.870450+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -541,25 +541,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-29T00:40:24.337613+00:00"
+      "archived_at": "2026-08-29T00:50:29.036258+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354712,
-      "message_link": "https://t.me/IranintlTV/354712",
-      "text": "میثم مهرانی، تحلیل‌گر سیاسی، گفت جمهوری اسلامی همچنان تلاش می‌کند از تنگه هرمز به‌عنوان اهرم فشار در مذاکرات استفاده کند، اما آمریکا راهبردی برای کاهش تاثیر این اهرم در پیش گرفته و هزینه استفاده از آن را افزایش داده است. او افزود تنگه هرمز دیگر به‌تنهایی نمی‌تواند امتیاز بزرگی برای جمهوری اسلامی در مذاکرات ایجاد کند.\n\nاو همچنین گفت کشورهای منطقه به‌دنبال کاهش تنش هستند، زیرا تداوم درگیری به زیان اقتصاد آنهاست. به گفته مهرانی، تا زمانی که آمریکا تصمیمی برای پایان دادن به حکومت جمهوری اسلامی نگیرد، این کشورها به تلاش برای میانجی‌گری و بازگرداندن ثبات منطقه ادامه خواهند داد.\n@iranintltv",
+      "message_id": 354713,
+      "message_link": "https://t.me/IranintlTV/354713",
+      "text": "کمپین حقوق بشر ایران اعلام کرد مقام‌های جمهوری اسلامی از زمان آغاز جنگ، سرکوب داخلی را به‌طور قابل‌توجهی تشدید کرده و رسیدگی قضایی به پرونده‌های سیاسی را سرعت بخشیده‌اند.\n\nاین سازمان حقوق بشری افزود احکام طولانی‌مدت زندان و اعدام در محاکمه‌های «با انگیزه سیاسی» و بدون دادرسی عادلانه صادر می‌شوند و متهمان در مواردی بر اساس اعترافات اجباری گرفته‌شده تحت شکنجه و فشار محکوم شده‌اند.\n\nکمپین حقوق بشر ایران همچنین اعلام کرد اتهامات مبهم مرتبط با «امنیت ملی» به‌طور فزاینده‌ای برای جرم‌انگاری مخالفت‌ها و صدور احکامی که می‌توانند مجازات اعدام در پی داشته باشند، به کار گرفته می‌شوند.\nhttps://iranintl.com/202608283542",
       "shamsi_date": "1405/06/07",
-      "tehran_time": "02:31:55",
-      "gregorian_utc": "2026-08-28T23:01:55+00:00",
-      "media_type": "video",
-      "media_size_bytes": 4038465,
-      "media_size_human": "3.85 MB",
+      "tehran_time": "02:39:55",
+      "gregorian_utc": "2026-08-28T23:09:55+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 131050,
+      "media_size_human": "127.98 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354712_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354712_video.mp4",
+      "media_local_path": "media/IranintlTV_354713_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354713_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T00:40:24.754781+00:00"
+      "archived_at": "2026-08-29T00:50:29.279301+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -577,7 +577,7 @@
       "media_local_path": "media/satlastnews_76362_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76362_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T00:40:25.205125+00:00"
+      "archived_at": "2026-08-29T00:50:29.606005+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -595,7 +595,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-29T00:40:25.462493+00:00"
+      "archived_at": "2026-08-29T00:50:29.870482+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -613,25 +613,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-29T00:40:24.337638+00:00"
+      "archived_at": "2026-08-29T00:50:29.036282+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354711,
-      "message_link": "https://t.me/IranintlTV/354711",
-      "text": "🔻استقلال در دیدار با فولاد خوزستان در هفته چهارم لیگ برتر به تساوی بدون گل رسید. با تساوی دو تیم تراکتور به تنهایی صدرنشین شد و استقلال در جایگاه دوم قرار گرفت.\n\n🔹توضیحات مزدک میرزایی، ایران‌اینترنشنال در برنامه هت‌تریک\n\n🔹تماشای نسخه کامل هت‌تریک؛👇\nhttps://youtu.be/oubA98AxIRE\n\n@iranintltvsport",
+      "message_id": 354712,
+      "message_link": "https://t.me/IranintlTV/354712",
+      "text": "میثم مهرانی، تحلیل‌گر سیاسی، گفت جمهوری اسلامی همچنان تلاش می‌کند از تنگه هرمز به‌عنوان اهرم فشار در مذاکرات استفاده کند، اما آمریکا راهبردی برای کاهش تاثیر این اهرم در پیش گرفته و هزینه استفاده از آن را افزایش داده است. او افزود تنگه هرمز دیگر به‌تنهایی نمی‌تواند امتیاز بزرگی برای جمهوری اسلامی در مذاکرات ایجاد کند.\n\nاو همچنین گفت کشورهای منطقه به‌دنبال کاهش تنش هستند، زیرا تداوم درگیری به زیان اقتصاد آنهاست. به گفته مهرانی، تا زمانی که آمریکا تصمیمی برای پایان دادن به حکومت جمهوری اسلامی نگیرد، این کشورها به تلاش برای میانجی‌گری و بازگرداندن ثبات منطقه ادامه خواهند داد.\n@iranintltv",
       "shamsi_date": "1405/06/07",
-      "tehran_time": "02:25:21",
-      "gregorian_utc": "2026-08-28T22:55:21+00:00",
+      "tehran_time": "02:31:55",
+      "gregorian_utc": "2026-08-28T23:01:55+00:00",
       "media_type": "video",
-      "media_size_bytes": 534954,
-      "media_size_human": "522.42 KB",
+      "media_size_bytes": 4038465,
+      "media_size_human": "3.85 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354711_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354711_video.mp4",
+      "media_local_path": "media/IranintlTV_354712_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354712_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T00:40:24.858407+00:00"
+      "archived_at": "2026-08-29T00:50:29.279395+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -649,7 +649,7 @@
       "media_local_path": "media/satlastnews_76361_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76361_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T00:40:25.205275+00:00"
+      "archived_at": "2026-08-29T00:50:29.606151+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -667,7 +667,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-08-29T00:40:25.462558+00:00"
+      "archived_at": "2026-08-29T00:50:29.870548+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -685,25 +685,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-29T00:40:24.337660+00:00"
+      "archived_at": "2026-08-29T00:50:29.036304+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354710,
-      "message_link": "https://t.me/IranintlTV/354710",
-      "text": "اسرائیل هیوم در گزارشی تحلیلی نوشت شش ماه پس از آغاز جنگ، حملات آمریکا و اسرائیل خسارت سنگینی به توان نظامی جمهوری اسلامی وارد کرده، اما به سرنگونی حکومت یا ایجاد شکاف در ساختار قدرت منجر نشده است.\n\nبه نوشته این رسانه، جمهوری اسلامی بخشی از توان موشکی خود را احیا کرده، به پایگاه‌های آمریکا و متحدان واشینگتن حمله کرده و بر تردد در تنگه هرمز تاثیر گذاشته است. سانام وکیل، مدیر برنامه خاورمیانه و شمال آفریقای چتم هاوس، گفت جنگ نتوانسته اهداف آمریکا را محقق کند.\n\nاسرائیل هیوم نوشت دولت دونالد ترامپ اکنون با «عملیات طرد اقتصادی» می‌کوشد جمهوری اسلامی را منزوی کند، اما تحلیلگران درباره امکان وادار کردن تهران به تسلیم از طریق تحریم‌ها تردید دارند.\n\nاین رسانه هدف نهایی واشینگتن را نیز مبهم دانست و نوشت مشخص نیست آمریکا به‌دنبال سرنگونی جمهوری اسلامی، بازگشایی تنگه هرمز یا بازگرداندن تهران به مذاکرات است.\n\nاسرائیل هیوم وضعیت کنونی را «بن‌بست» توصیف کرد و نوشت شکست فشار اقتصادی می‌تواند آمریکا را به تشدید نظامی بازگرداند و موفقیت آن نیز ممکن است جمهوری اسلامی را برای شکستن محاصره دریایی به تشدید تنش سوق دهد.\n\nhttps://i",
+      "message_id": 354711,
+      "message_link": "https://t.me/IranintlTV/354711",
+      "text": "🔻استقلال در دیدار با فولاد خوزستان در هفته چهارم لیگ برتر به تساوی بدون گل رسید. با تساوی دو تیم تراکتور به تنهایی صدرنشین شد و استقلال در جایگاه دوم قرار گرفت.\n\n🔹توضیحات مزدک میرزایی، ایران‌اینترنشنال در برنامه هت‌تریک\n\n🔹تماشای نسخه کامل هت‌تریک؛👇\nhttps://youtu.be/oubA98AxIRE\n\n@iranintltvsport",
       "shamsi_date": "1405/06/07",
-      "tehran_time": "02:24:26",
-      "gregorian_utc": "2026-08-28T22:54:26+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 189147,
-      "media_size_human": "184.71 KB",
+      "tehran_time": "02:25:21",
+      "gregorian_utc": "2026-08-28T22:55:21+00:00",
+      "media_type": "video",
+      "media_size_bytes": 534954,
+      "media_size_human": "522.42 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354710_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354710_photo.jpg",
+      "media_local_path": "media/IranintlTV_354711_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354711_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T00:40:24.858536+00:00"
+      "archived_at": "2026-08-29T00:50:29.305441+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -721,7 +721,7 @@
       "media_local_path": "media/satlastnews_76358_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76358_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T00:40:25.205336+00:00"
+      "archived_at": "2026-08-29T00:50:29.606211+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -739,7 +739,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-29T00:40:25.462594+00:00"
+      "archived_at": "2026-08-29T00:50:29.870582+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -757,25 +757,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-29T00:40:24.337681+00:00"
+      "archived_at": "2026-08-29T00:50:29.036325+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354709,
-      "message_link": "https://t.me/IranintlTV/354709",
-      "text": "وزارت خزانه‌داری آمریکا دسترسی شعبه بانک مصر در امارات به موسسات مالی ایالات متحده را لغو کرد. این وزارتخانه اعلام کرد شعبه بانک مصر در امارات یکی از مسیرهای اصلی دسترسی جمهوری اسلامی به دلار بوده و برخی مشتریان آن، شرکت‌های پوششی مورد استفاده وزارت دفاع جمهوری اسلامی و سپاه پاسداران هستند.\n\nگزارش اردوان روزبه، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 354710,
+      "message_link": "https://t.me/IranintlTV/354710",
+      "text": "اسرائیل هیوم در گزارشی تحلیلی نوشت شش ماه پس از آغاز جنگ، حملات آمریکا و اسرائیل خسارت سنگینی به توان نظامی جمهوری اسلامی وارد کرده، اما به سرنگونی حکومت یا ایجاد شکاف در ساختار قدرت منجر نشده است.\n\nبه نوشته این رسانه، جمهوری اسلامی بخشی از توان موشکی خود را احیا کرده، به پایگاه‌های آمریکا و متحدان واشینگتن حمله کرده و بر تردد در تنگه هرمز تاثیر گذاشته است. سانام وکیل، مدیر برنامه خاورمیانه و شمال آفریقای چتم هاوس، گفت جنگ نتوانسته اهداف آمریکا را محقق کند.\n\nاسرائیل هیوم نوشت دولت دونالد ترامپ اکنون با «عملیات طرد اقتصادی» می‌کوشد جمهوری اسلامی را منزوی کند، اما تحلیلگران درباره امکان وادار کردن تهران به تسلیم از طریق تحریم‌ها تردید دارند.\n\nاین رسانه هدف نهایی واشینگتن را نیز مبهم دانست و نوشت مشخص نیست آمریکا به‌دنبال سرنگونی جمهوری اسلامی، بازگشایی تنگه هرمز یا بازگرداندن تهران به مذاکرات است.\n\nاسرائیل هیوم وضعیت کنونی را «بن‌بست» توصیف کرد و نوشت شکست فشار اقتصادی می‌تواند آمریکا را به تشدید نظامی بازگرداند و موفقیت آن نیز ممکن است جمهوری اسلامی را برای شکستن محاصره دریایی به تشدید تنش سوق دهد.\n\nhttps://i",
       "shamsi_date": "1405/06/07",
-      "tehran_time": "02:24:16",
-      "gregorian_utc": "2026-08-28T22:54:16+00:00",
-      "media_type": "video",
-      "media_size_bytes": 2565314,
-      "media_size_human": "2.45 MB",
+      "tehran_time": "02:24:26",
+      "gregorian_utc": "2026-08-28T22:54:26+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 189147,
+      "media_size_human": "184.71 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354709_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354709_video.mp4",
+      "media_local_path": "media/IranintlTV_354710_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354710_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T00:40:24.858630+00:00"
+      "archived_at": "2026-08-29T00:50:29.305531+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -793,7 +793,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-29T00:40:25.205358+00:00"
+      "archived_at": "2026-08-29T00:50:29.606234+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -811,7 +811,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-08-29T00:40:25.462640+00:00"
+      "archived_at": "2026-08-29T00:50:29.870630+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -829,25 +829,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-29T00:40:24.337702+00:00"
+      "archived_at": "2026-08-29T00:50:29.036346+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354708,
-      "message_link": "https://t.me/IranintlTV/354708",
-      "text": "محمد ماشین‌چیان، عضو تحریریه ایران‌اینترنشنال، گفت از میان ۶۶ میلیون ایرانی در سن کار، تنها حدود ۲۴ میلیون نفر شاغل هستند و آمار رسمی بیکاری، تصویر واقعی بازار کار را منعکس نمی‌کند. او افزود همین آمار مبنای سیاست‌گذاری قرار می‌گیرد و باعث می‌شود تصمیم‌های اقتصادی با واقعیت‌های بازار کار همخوانی نداشته باشد.\n\nاو همچنین گفت از دست رفتن شمار زیادی از مشاغل در ماه‌های اخیر و تشدید فشارهای اقتصادی، به‌ویژه در استان‌های محروم، اقتصاد غیررسمی را گسترش خواهد داد و بحران معیشتی را عمیق‌تر می‌کند.\n@iranintltv",
+      "message_id": 354709,
+      "message_link": "https://t.me/IranintlTV/354709",
+      "text": "وزارت خزانه‌داری آمریکا دسترسی شعبه بانک مصر در امارات به موسسات مالی ایالات متحده را لغو کرد. این وزارتخانه اعلام کرد شعبه بانک مصر در امارات یکی از مسیرهای اصلی دسترسی جمهوری اسلامی به دلار بوده و برخی مشتریان آن، شرکت‌های پوششی مورد استفاده وزارت دفاع جمهوری اسلامی و سپاه پاسداران هستند.\n\nگزارش اردوان روزبه، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/06/07",
-      "tehran_time": "02:06:02",
-      "gregorian_utc": "2026-08-28T22:36:02+00:00",
+      "tehran_time": "02:24:16",
+      "gregorian_utc": "2026-08-28T22:54:16+00:00",
       "media_type": "video",
-      "media_size_bytes": 3654480,
-      "media_size_human": "3.49 MB",
+      "media_size_bytes": 2565314,
+      "media_size_human": "2.45 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354708_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354708_video.mp4",
+      "media_local_path": "media/IranintlTV_354709_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354709_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T00:40:24.858726+00:00"
+      "archived_at": "2026-08-29T00:50:29.305617+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -865,7 +865,7 @@
       "media_local_path": "media/satlastnews_76353_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76353_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T00:40:25.205424+00:00"
+      "archived_at": "2026-08-29T00:50:29.606281+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -883,7 +883,7 @@
       "media_local_path": "media/Mellig_120353_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120353_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T00:40:25.462671+00:00"
+      "archived_at": "2026-08-29T00:50:29.870660+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -901,25 +901,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-29T00:40:24.337722+00:00"
+      "archived_at": "2026-08-29T00:50:29.036365+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354707,
-      "message_link": "https://t.me/IranintlTV/354707",
-      "text": "جمشید برزگر، روزنامه‌نگار و تحلیل‌گر سیاسی، گفت ادامه ابهام درباره وضعیت مجتبی خامنه‌ای و نبود هرگونه تصویر یا پیام قابل راستی‌آزمایی از او، بر بحران جانشینی و خلا قدرت در جمهوری اسلامی افزوده است. او افزود هرچه این وضعیت طولانی‌تر شود، هزینه‌های سیاسی آن برای حکومت بیشتر خواهد شد.\n\nاو همچنین گفت در غیاب مجتبی خامنه‌ای، ساختار تصمیم‌گیری جمهوری اسلامی به سمت نوعی رهبری چندلایه حرکت کرده و جریان‌های مختلف قدرت می‌کوشند تصمیم‌ها و مواضع خود را به او نسبت دهند؛ موضوعی که به گفته برزگر، اختلافات در راس حکومت را آشکارتر کرده است.\n@iranintltv",
+      "message_id": 354708,
+      "message_link": "https://t.me/IranintlTV/354708",
+      "text": "محمد ماشین‌چیان، عضو تحریریه ایران‌اینترنشنال، گفت از میان ۶۶ میلیون ایرانی در سن کار، تنها حدود ۲۴ میلیون نفر شاغل هستند و آمار رسمی بیکاری، تصویر واقعی بازار کار را منعکس نمی‌کند. او افزود همین آمار مبنای سیاست‌گذاری قرار می‌گیرد و باعث می‌شود تصمیم‌های اقتصادی با واقعیت‌های بازار کار همخوانی نداشته باشد.\n\nاو همچنین گفت از دست رفتن شمار زیادی از مشاغل در ماه‌های اخیر و تشدید فشارهای اقتصادی، به‌ویژه در استان‌های محروم، اقتصاد غیررسمی را گسترش خواهد داد و بحران معیشتی را عمیق‌تر می‌کند.\n@iranintltv",
       "shamsi_date": "1405/06/07",
-      "tehran_time": "02:01:07",
-      "gregorian_utc": "2026-08-28T22:31:07+00:00",
+      "tehran_time": "02:06:02",
+      "gregorian_utc": "2026-08-28T22:36:02+00:00",
       "media_type": "video",
-      "media_size_bytes": 5003765,
-      "media_size_human": "4.77 MB",
+      "media_size_bytes": 3654480,
+      "media_size_human": "3.49 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354707_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354707_video.mp4",
+      "media_local_path": "media/IranintlTV_354708_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354708_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T00:40:24.858812+00:00"
+      "archived_at": "2026-08-29T00:50:29.305704+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -937,7 +937,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-29T00:40:25.205448+00:00"
+      "archived_at": "2026-08-29T00:50:29.606302+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -955,7 +955,7 @@
       "media_local_path": "media/Mellig_120352_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120352_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T00:40:25.462698+00:00"
+      "archived_at": "2026-08-29T00:50:29.870689+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -973,25 +973,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-29T00:40:24.337741+00:00"
+      "archived_at": "2026-08-29T00:50:29.036385+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354706,
-      "message_link": "https://t.me/IranintlTV/354706",
-      "text": "محسن رضایی، دبیر شورای عالی امنیت ملی جمهوری اسلامی، با اشاره به تاکید مجتبی خامنه‌ای، رهبر جمهوری اسلامی، بر پرهیز از «سخن ناامیدکننده»، «دوگانه‌سازی‌های موهوم» و اقداماتی که به انسجام اجتماعی آسیب می‌زند، نوشت این موضع برای همه «یک راهبرد روشن و غیرقابل تفسیر» است.\n\nپیش‌تر، مجتبی خامنه‌ای، رهبر جمهوری اسلامی، ششم شهریور در پیامی به مناسبت هفته دولت گفته بود هر اقدامی که به انسجام اجتماعی آسیب بزند، «ممنوع» است.\nhttps://iranintl.com/202608288195",
+      "message_id": 354707,
+      "message_link": "https://t.me/IranintlTV/354707",
+      "text": "جمشید برزگر، روزنامه‌نگار و تحلیل‌گر سیاسی، گفت ادامه ابهام درباره وضعیت مجتبی خامنه‌ای و نبود هرگونه تصویر یا پیام قابل راستی‌آزمایی از او، بر بحران جانشینی و خلا قدرت در جمهوری اسلامی افزوده است. او افزود هرچه این وضعیت طولانی‌تر شود، هزینه‌های سیاسی آن برای حکومت بیشتر خواهد شد.\n\nاو همچنین گفت در غیاب مجتبی خامنه‌ای، ساختار تصمیم‌گیری جمهوری اسلامی به سمت نوعی رهبری چندلایه حرکت کرده و جریان‌های مختلف قدرت می‌کوشند تصمیم‌ها و مواضع خود را به او نسبت دهند؛ موضوعی که به گفته برزگر، اختلافات در راس حکومت را آشکارتر کرده است.\n@iranintltv",
       "shamsi_date": "1405/06/07",
-      "tehran_time": "01:43:15",
-      "gregorian_utc": "2026-08-28T22:13:15+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 144382,
-      "media_size_human": "141.00 KB",
+      "tehran_time": "02:01:07",
+      "gregorian_utc": "2026-08-28T22:31:07+00:00",
+      "media_type": "video",
+      "media_size_bytes": 5003765,
+      "media_size_human": "4.77 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354706_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354706_photo.jpg",
+      "media_local_path": "media/IranintlTV_354707_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354707_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T00:40:24.858896+00:00"
+      "archived_at": "2026-08-29T00:50:29.305842+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1009,7 +1009,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-29T00:40:25.205740+00:00"
+      "archived_at": "2026-08-29T00:50:29.606595+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1027,7 +1027,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-29T00:40:25.462718+00:00"
+      "archived_at": "2026-08-29T00:50:29.870709+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1045,25 +1045,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-29T00:40:24.337761+00:00"
+      "archived_at": "2026-08-29T00:50:29.036404+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354705,
-      "message_link": "https://t.me/IranintlTV/354705",
-      "text": "🔻تیم فوتبال تراکتور در هفته چهارم لیگ برتر چادرملو را در اردکان با نتیجه دو بر صفر شکست داد. تراکتوری‌ها چهارمین برد و کلین‌شیت پیاپی خود را در حالی کسب کردند که با توجه به تساوی استقلال برابر فولاد، صدرنشین لیگ برتر شدند.\n\n🔹گفتگوی مزدک میرزایی با محمد تقوی و رها پوربخش در برنامه هت‌تریک\n\n🔹تماشای نسخه کامل هت‌تریک؛👇\nhttps://youtu.be/oubA98AxIRE\n\n@iranintltvsport",
+      "message_id": 354706,
+      "message_link": "https://t.me/IranintlTV/354706",
+      "text": "محسن رضایی، دبیر شورای عالی امنیت ملی جمهوری اسلامی، با اشاره به تاکید مجتبی خامنه‌ای، رهبر جمهوری اسلامی، بر پرهیز از «سخن ناامیدکننده»، «دوگانه‌سازی‌های موهوم» و اقداماتی که به انسجام اجتماعی آسیب می‌زند، نوشت این موضع برای همه «یک راهبرد روشن و غیرقابل تفسیر» است.\n\nپیش‌تر، مجتبی خامنه‌ای، رهبر جمهوری اسلامی، ششم شهریور در پیامی به مناسبت هفته دولت گفته بود هر اقدامی که به انسجام اجتماعی آسیب بزند، «ممنوع» است.\nhttps://iranintl.com/202608288195",
       "shamsi_date": "1405/06/07",
-      "tehran_time": "01:22:40",
-      "gregorian_utc": "2026-08-28T21:52:40+00:00",
-      "media_type": "video",
-      "media_size_bytes": 5216687,
-      "media_size_human": "4.98 MB",
+      "tehran_time": "01:43:15",
+      "gregorian_utc": "2026-08-28T22:13:15+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 144382,
+      "media_size_human": "141.00 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354705_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354705_video.mp4",
+      "media_local_path": "media/IranintlTV_354706_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354706_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T00:40:24.858976+00:00"
+      "archived_at": "2026-08-29T00:50:29.305925+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1081,7 +1081,7 @@
       "media_local_path": "media/satlastnews_76348_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76348_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T00:40:25.205916+00:00"
+      "archived_at": "2026-08-29T00:50:29.606771+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1099,7 +1099,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-29T00:40:25.462738+00:00"
+      "archived_at": "2026-08-29T00:50:29.870743+00:00"
     }
   ]
 }
