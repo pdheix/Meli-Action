@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-29T12:24:20.552615+00:00",
-  "shamsi_generated": "1405/06/07 12:24:20 تهران",
+  "generated_at": "2026-08-29T12:34:40.947451+00:00",
+  "shamsi_generated": "1405/06/07 12:34:40 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -24,12 +24,12 @@
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12257,
-      "message_link": "https://t.me/zedTV/12257",
-      "text": "بحران معیشتی: تورم افسارگسیخته، نایاب شدن دارو و جهش ۷۰ درصدی شهریه دانشگاه‌ها.\nفروپاشی زیرساخت‌ها: قطعی گسترده برق در سراسر کشور و اختلال شدید در سرعت اینترنت.\nفساد سیستماتیک: اخاذی اجباری در مدارس و هزینه‌های نجومی درمان در سایه بی‌کفایتی مسئولان.",
+      "message_id": 12259,
+      "message_link": "https://t.me/zedTV/12259",
+      "text": "تداوم مسیر کمپین یک میلیون امضا برای لغو قوانین تبعیض‌آمیز؛\nتأکید بر عدم دستیابی به برابری و آزادی در چارچوب جمهوری اسلامی؛\nضرورت تغییر بنیادین و عبور از نظام برای تحقق حقوق برابر و رهایی.",
       "shamsi_date": "1405/06/07",
-      "tehran_time": "15:35:19",
-      "gregorian_utc": "2026-08-29T12:05:19+00:00",
+      "tehran_time": "15:51:16",
+      "gregorian_utc": "2026-08-29T12:21:16+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -37,25 +37,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-29T12:20:31.404321+00:00"
+      "archived_at": "2026-08-29T12:30:38.147551+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354769,
-      "message_link": "https://t.me/IranintlTV/354769",
-      "text": "یکی از شرکت‌کنندگان در تجمع ایرانیان در استکهلم که در آستانه نهمین ماه پیاپی در اعتراض به اعدام‌ها و سرکوب شهروندان در ایران برگزار شد، به مهران عباسیان، خبرنگار ایران‌اینترنشنال، گفت تجمع‌کنندگان با گرامی‌داشت روز کوروش، بر «اتحاد ایرانیان» و «حمایت از شاهزاده رضا پهلوی برای دوران گذار» تاکید دارند.\n\nاو پیام این تجمع را ایستادگی متحدانه با «قدرت، امید و ایمان» برای دستیابی به ایرانی آزاد و باکرامت عنوان کرد.\n@iranintltv",
+      "message_id": 354772,
+      "message_link": "https://t.me/IranintlTV/354772",
+      "text": "به گزارش خبرگزاری دانشجو، یدالله جوانی، معاون سیاسی سپاه پاسداران، گفت: «آمریکا بر عکس جمهوری اسلامی هیچ برگ نظامی برای رو کردن ندارد.»\nمعاون سیاسی سپاه پاسداران افزود: «کسانی که می‌گویند اگر غنی‌سازی را متوقف می‌کردیم جنگ رخ نمی‌داد، یا اطلاعات دقیق تاریخی ندارند یا از تحلیل درست بی‌بهره‌اند.»\nhttps://iranintl.com/202608299993",
       "shamsi_date": "1405/06/07",
-      "tehran_time": "15:49:04",
-      "gregorian_utc": "2026-08-29T12:19:04+00:00",
-      "media_type": "video",
-      "media_size_bytes": 4187028,
-      "media_size_human": "3.99 MB",
+      "tehran_time": "15:59:52",
+      "gregorian_utc": "2026-08-29T12:29:52+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 180435,
+      "media_size_human": "176.21 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354769_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354769_video.mp4",
+      "media_local_path": "media/IranintlTV_354772_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354772_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T12:20:31.705141+00:00"
+      "archived_at": "2026-08-29T12:30:38.432441+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -73,7 +73,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-29T12:20:32.045702+00:00"
+      "archived_at": "2026-08-29T12:30:38.777854+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -91,17 +91,17 @@
       "media_local_path": "media/Mellig_120376_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120376_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T12:20:32.426499+00:00"
+      "archived_at": "2026-08-29T12:30:39.139588+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12256,
-      "message_link": "https://t.me/zedTV/12256",
-      "text": "عبور نرخ دلار از مرز نجومی ۲۰۶ هزار تومان؛ فلج شدن کامل اقتصاد رژیم.\nاعتراف به سقوط ۳۵ درصدی تجارت خارجی در پی محاصره دریایی و عملیات «انزوای اقتصادی».\nخفگی مالی جمهوری اسلامی در سایه ضربات سنگین به بدنه حاکمیت.",
+      "message_id": 12258,
+      "message_link": "https://t.me/zedTV/12258",
+      "text": "قیمت دلار از مرز ۲۰۶ هزار تومان عبور کرد.\nسقوط تاریخی ارزش پول ملی در سایه ناکارآمدی رژیم.\nتشدید بحران معیشتی و فشار اقتصادی بر شهروندان.",
       "shamsi_date": "1405/06/07",
-      "tehran_time": "15:21:18",
-      "gregorian_utc": "2026-08-29T11:51:18+00:00",
+      "tehran_time": "15:51:16",
+      "gregorian_utc": "2026-08-29T12:21:16+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -109,25 +109,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-29T12:20:31.404368+00:00"
+      "archived_at": "2026-08-29T12:30:38.147597+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354768,
-      "message_link": "https://t.me/IranintlTV/354768",
-      "text": "**🗣روایت شما: وضعیت زندگی در سایه سرکوب سیاسی و تنش‌های نظامی - شنبه ۷ شهریور**\n\n🔹وضعیت تورم به‌شدت فجیع و وحشتناک هستش. در تأمین نیازهای اولیه‌ی خود، از جمله دارو و مواد غذایی، هم مشکل داریم\n\n🔹شهریه متغیر کارشناسی دانشگاه آزاد شصت‌وپنج درصد اضافه شده. با این وضعیت ادامه تحصیل غیرممکن است\n\n🔹اینترنت دوباره برای برنامه‌های داخلی و خارجی خیلی ضعیفه؛ پاینده ایران، جاوید شاه\n\n🔹گوجه‌فرنگی در تهرانپارس دانه‌ای ۱۵ هزار تومان\n\n🔹۲ عدد بلبرینگ کوچک و ساده برای پنکه خانه خریدم به قیمت تمام‌شده ۳۰۰ هزار تومان\n\n🔹زمان ثبت‌نام مدیر مدرسه دستگاه پوز گذاشت جلوم، گفت کارت بکش. گفتم وزیر گفته غیرقانونیه، گفت باشه، خودشون گفتند پول بگیرید. تناقض گفتار و رفتار و نفاق مسئولین مملکت رو ببینید تا چه حد و اندازه است\n\n🔹من به‌دلیل مشمول‌بودن به خدمت سربازی، بیمه تأمین اجتماعی ندارم و ۲۲ سالم هستش. هزینه چکاپ کامل برای من ۴ میلیون تومان می‌شود\n\n🔹در محله اقدسیه تهران، هر ۲ روز یک‌بار برق به مدت ۲ ساعت می‌رود؛ در محله‌ها و شهرهای دیگر، روزانه برق می‌رود. این یعنی چه؟\n\n🔹شهریه دانشگاه‌های آزاد نسبت به سال گذشته ۷۰ درصد افزایش یافته، در حالی که کیفیت آموزش افتضاح است و کلاس‌های مجازی عملاً بازدهی نداشته‌اند. با این شرایط، بسیاری از دانشجویان توان ادامه تحصیل را نداشته و مجبور به انصراف می‌شوند",
+      "message_id": 354771,
+      "message_link": "https://t.me/IranintlTV/354771",
+      "text": "شمار جان‌باختگان سیل نپال و تبت به ۶۳۳ نفر رسیده و دو هزار و ۹۸۰ نفر همچنان مفقودند. در نپال بیش از ۴۶۰ مجروح ثبت شده و ۱۰۱ نفر هنوز در بیمارستان‌ به سر می‌برند. باران و مه عملیات جست‌وجو را مختل کرده است.\n\nبر اساس تازه‌ترین گزارش رویترز در شنبه هفتم شهریور، در نپال ۶۲۶ نفر جان باخته و دو هزار و ۴۲۶ نفر مفقود شده‌اند. مقام‌های چینی نیز در شهرستان گیرونگ در تبت، مرگ هفت نفر و مفقود شدن ۵۵۴ نفر را تایید کرده‌اند.\n\nآمار جامع و به‌روز مجروحان دو سوی مرز منتشر نشده است. آسوشیتدپرس پنجم شهریور شمار مجروحان ثبت‌شده در نپال را بیش از ۴۶۰ نفر اعلام کرد. تازه‌ترین آمار نپال نشان می‌دهد ۱۰۱ مجروح همچنان در بیمارستان‌ها تحت درمان‌اند. \n@iranintltv",
       "shamsi_date": "1405/06/07",
-      "tehran_time": "15:29:38",
-      "gregorian_utc": "2026-08-29T11:59:38+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-29T12:20:31.717639+00:00"
+      "tehran_time": "15:56:20",
+      "gregorian_utc": "2026-08-29T12:26:20+00:00",
+      "media_type": "video",
+      "media_size_bytes": 902079,
+      "media_size_human": "880.94 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/IranintlTV_354771_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354771_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-08-29T12:30:38.432582+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -145,7 +145,7 @@
       "media_local_path": "media/satlastnews_76369_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76369_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T12:20:32.045852+00:00"
+      "archived_at": "2026-08-29T12:30:38.778001+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -163,17 +163,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-29T12:20:32.426791+00:00"
+      "archived_at": "2026-08-29T12:30:39.139888+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12255,
-      "message_link": "https://t.me/zedTV/12255",
-      "text": "بازگشت ابهام‌آمیز ۳ ملوان ناو «لاوان» به کشور پس از ۶ ماه غیبت.\nرسانه‌های حکومتی بدون ذکر جزئیات از «اسارت» این افراد خبر می‌دهند.\nتداوم سردرگمی در بدنه نظامی رژیم و بی‌اطلاعی از سرنوشت نیروها.",
+      "message_id": 12257,
+      "message_link": "https://t.me/zedTV/12257",
+      "text": "بحران معیشتی: تورم افسارگسیخته، نایاب شدن دارو و جهش ۷۰ درصدی شهریه دانشگاه‌ها.\nفروپاشی زیرساخت‌ها: قطعی گسترده برق در سراسر کشور و اختلال شدید در سرعت اینترنت.\nفساد سیستماتیک: اخاذی اجباری در مدارس و هزینه‌های نجومی درمان در سایه بی‌کفایتی مسئولان.",
       "shamsi_date": "1405/06/07",
-      "tehran_time": "15:21:17",
-      "gregorian_utc": "2026-08-29T11:51:17+00:00",
+      "tehran_time": "15:35:19",
+      "gregorian_utc": "2026-08-29T12:05:19+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -181,25 +181,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-29T12:20:31.404419+00:00"
+      "archived_at": "2026-08-29T12:30:38.147632+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354767,
-      "message_link": "https://t.me/IranintlTV/354767",
-      "text": "🎧نسخه صوتی اخبار نیمروزی | شنبه ۷ شهریور\n@iranintlTV",
+      "message_id": 354770,
+      "message_link": "https://t.me/IranintlTV/354770",
+      "text": "ابراهیم عزیزی، رییس کمیسیون امنیت ملی مجلس، در مراسمی در شهر شیراز گفت: «ترامپ اعتراف می‌کند که در ایران با کاری بسیار دشوار مواجه است که تمرکز آن بر تنگه هرمز و باز کردن این تنگه قرار گرفته است. امروز دشمن صرفا از بازگشایی تنگه هرمز سخن می‌گوید که به این هدف نخواهد رسید و تاکنون هم نرسیده است.»\n\nعزیزی ادامه داد: «اگر می‌دانستید نیروهای مسلح ما هر شب چه اقدامات پرافتخار و اقتدارآفرینی در تنگه هرمز انجام می‌دهند، آمریکایی‌ها از بیان اینکه نمی‌توانند کاری انجام دهند، خجالت می‌کشیدند.»\n\nرییس کمیسیون امنیت ملی مجلس افزود: «امروز اگر از دهانه خلیج فارس و تنگه هرمز تا دهانه فاو و ام‌القصر را جست‌وجو کنید، حتی یک فروند شناور آمریکایی پیدا نمی‌کنید.»\nhttps://iranintl.com/202608294316",
       "shamsi_date": "1405/06/07",
-      "tehran_time": "15:24:29",
-      "gregorian_utc": "2026-08-29T11:54:29+00:00",
-      "media_type": "audio",
-      "media_size_bytes": 30256799,
-      "media_size_human": "28.86 MB",
+      "tehran_time": "15:56:08",
+      "gregorian_utc": "2026-08-29T12:26:08+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 147246,
+      "media_size_human": "143.79 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354767_audio.mp3",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354767_audio.mp3",
+      "media_local_path": "media/IranintlTV_354770_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354770_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T12:20:31.717756+00:00"
+      "archived_at": "2026-08-29T12:30:38.432700+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -217,7 +217,7 @@
       "media_local_path": "media/satlastnews_76368_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76368_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T12:20:32.045920+00:00"
+      "archived_at": "2026-08-29T12:30:38.778060+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -235,17 +235,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-29T12:20:32.426885+00:00"
+      "archived_at": "2026-08-29T12:30:39.139979+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12254,
-      "message_link": "https://t.me/zedTV/12254",
-      "text": "مسدودسازی شبکه‌های مخفی ارزی سپاه در دبی و شرکت‌های صوری در هنگ‌کنگ توسط خزانه‌داری آمریکا.\nقطع دسترسی رژیم به ۴ میلیارد دلار منابع مالی و انسداد کامل شریان‌های حیاتی بانک مرکزی.\nفلج شدن مسیرهای تأمین مالی تروریسم در پی گسترش عملیات خفقان اقتصادی واشینگتن.",
+      "message_id": 12256,
+      "message_link": "https://t.me/zedTV/12256",
+      "text": "عبور نرخ دلار از مرز نجومی ۲۰۶ هزار تومان؛ فلج شدن کامل اقتصاد رژیم.\nاعتراف به سقوط ۳۵ درصدی تجارت خارجی در پی محاصره دریایی و عملیات «انزوای اقتصادی».\nخفگی مالی جمهوری اسلامی در سایه ضربات سنگین به بدنه حاکمیت.",
       "shamsi_date": "1405/06/07",
-      "tehran_time": "15:20:58",
-      "gregorian_utc": "2026-08-29T11:50:58+00:00",
+      "tehran_time": "15:21:18",
+      "gregorian_utc": "2026-08-29T11:51:18+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -253,25 +253,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-29T12:20:31.404454+00:00"
+      "archived_at": "2026-08-29T12:30:38.147665+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354766,
-      "message_link": "https://t.me/IranintlTV/354766",
-      "text": "🔻مهدی رحمتی، سرمربی گل گلهر در نشست خبری پس از بازی با سپاهان، گفت: «فوتبال ایران یک مشکل کلی دارد و آن هم فدراسیون فوتبال است؛ یک سری تصمیماتی که گرفته می‌شود در هیچ جای دنیا نیست.»\n\n🔹او همچنین گفت: «ما از خیلی چیزها خبر داریم. اگر درباره اتفاقاتی که در فدراسیون فوتبال می‌افتد، حرفی بزنیم، باید برویم در خیلی از جاها جواب بدهیم و دچار حواشی می‌شویم.»\n\n@iranintltvsport",
+      "message_id": 354769,
+      "message_link": "https://t.me/IranintlTV/354769",
+      "text": "یکی از شرکت‌کنندگان در تجمع ایرانیان در استکهلم که در آستانه نهمین ماه پیاپی در اعتراض به اعدام‌ها و سرکوب شهروندان در ایران برگزار شد، به مهران عباسیان، خبرنگار ایران‌اینترنشنال، گفت تجمع‌کنندگان با گرامی‌داشت روز کوروش، بر «اتحاد ایرانیان» و «حمایت از شاهزاده رضا پهلوی برای دوران گذار» تاکید دارند.\n\nاو پیام این تجمع را ایستادگی متحدانه با «قدرت، امید و ایمان» برای دستیابی به ایرانی آزاد و باکرامت عنوان کرد.\n@iranintltv",
       "shamsi_date": "1405/06/07",
-      "tehran_time": "15:09:45",
-      "gregorian_utc": "2026-08-29T11:39:45+00:00",
+      "tehran_time": "15:49:04",
+      "gregorian_utc": "2026-08-29T12:19:04+00:00",
       "media_type": "video",
-      "media_size_bytes": 3849412,
-      "media_size_human": "3.67 MB",
+      "media_size_bytes": 4187028,
+      "media_size_human": "3.99 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354766_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354766_video.mp4",
+      "media_local_path": "media/IranintlTV_354769_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354769_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T12:20:31.717856+00:00"
+      "archived_at": "2026-08-29T12:30:38.432783+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -289,7 +289,7 @@
       "media_local_path": "media/satlastnews_76367_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76367_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T12:20:32.046047+00:00"
+      "archived_at": "2026-08-29T12:30:38.778202+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -307,17 +307,17 @@
       "media_local_path": "media/Mellig_120373_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120373_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T12:20:32.426977+00:00"
+      "archived_at": "2026-08-29T12:30:39.140068+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12253,
-      "message_link": "https://t.me/zedTV/12253",
-      "text": "پاکسازی بیش از ۲۰۰ شیء مشکوک به مین از مسیر اصلی کشتیرانی در تنگه هرمز.\nگزارش آکسیوس: تنها ۱۱ مورد از اشیاء کشف شده مین واقعی و دارای قابلیت عملکرد بودند.\nتلاش ایالات متحده برای تامین امنیت عبور و مرور کشتی‌های تجاری در آبراه بین‌المللی.",
+      "message_id": 12255,
+      "message_link": "https://t.me/zedTV/12255",
+      "text": "بازگشت ابهام‌آمیز ۳ ملوان ناو «لاوان» به کشور پس از ۶ ماه غیبت.\nرسانه‌های حکومتی بدون ذکر جزئیات از «اسارت» این افراد خبر می‌دهند.\nتداوم سردرگمی در بدنه نظامی رژیم و بی‌اطلاعی از سرنوشت نیروها.",
       "shamsi_date": "1405/06/07",
-      "tehran_time": "13:19:45",
-      "gregorian_utc": "2026-08-29T09:49:45+00:00",
+      "tehran_time": "15:21:17",
+      "gregorian_utc": "2026-08-29T11:51:17+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -325,25 +325,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-29T12:20:31.404481+00:00"
+      "archived_at": "2026-08-29T12:30:38.147690+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354765,
-      "message_link": "https://t.me/IranintlTV/354765",
-      "text": "به گزارش خبرگزاری دانشجو، یدالله جوانی، معاون سیاسی سپاه پاسداران، گفت: «آمریکا بر عکس جمهوری اسلامی هیچ برگ نظامی برای رو کردن ندارد.»\nمعاون سیاسی سپاه پاسداران افزود: «کسانی که می‌گویند اگر غنی‌سازی را متوقف می‌کردیم جنگ رخ نمی‌داد، یا اطلاعات دقیق تاریخی ندارند یا از تحلیل درست بی‌بهره‌اند.»\nhttps://iranintl.com/202608299993",
+      "message_id": 354768,
+      "message_link": "https://t.me/IranintlTV/354768",
+      "text": "**🗣روایت شما: وضعیت زندگی در سایه سرکوب سیاسی و تنش‌های نظامی - شنبه ۷ شهریور**\n\n🔹وضعیت تورم به‌شدت فجیع و وحشتناک هستش. در تأمین نیازهای اولیه‌ی خود، از جمله دارو و مواد غذایی، هم مشکل داریم\n\n🔹شهریه متغیر کارشناسی دانشگاه آزاد شصت‌وپنج درصد اضافه شده. با این وضعیت ادامه تحصیل غیرممکن است\n\n🔹اینترنت دوباره برای برنامه‌های داخلی و خارجی خیلی ضعیفه؛ پاینده ایران، جاوید شاه\n\n🔹گوجه‌فرنگی در تهرانپارس دانه‌ای ۱۵ هزار تومان\n\n🔹۲ عدد بلبرینگ کوچک و ساده برای پنکه خانه خریدم به قیمت تمام‌شده ۳۰۰ هزار تومان\n\n🔹زمان ثبت‌نام مدیر مدرسه دستگاه پوز گذاشت جلوم، گفت کارت بکش. گفتم وزیر گفته غیرقانونیه، گفت باشه، خودشون گفتند پول بگیرید. تناقض گفتار و رفتار و نفاق مسئولین مملکت رو ببینید تا چه حد و اندازه است\n\n🔹من به‌دلیل مشمول‌بودن به خدمت سربازی، بیمه تأمین اجتماعی ندارم و ۲۲ سالم هستش. هزینه چکاپ کامل برای من ۴ میلیون تومان می‌شود\n\n🔹در محله اقدسیه تهران، هر ۲ روز یک‌بار برق به مدت ۲ ساعت می‌رود؛ در محله‌ها و شهرهای دیگر، روزانه برق می‌رود. این یعنی چه؟\n\n🔹شهریه دانشگاه‌های آزاد نسبت به سال گذشته ۷۰ درصد افزایش یافته، در حالی که کیفیت آموزش افتضاح است و کلاس‌های مجازی عملاً بازدهی نداشته‌اند. با این شرایط، بسیاری از دانشجویان توان ادامه تحصیل را نداشته و مجبور به انصراف می‌شوند",
       "shamsi_date": "1405/06/07",
-      "tehran_time": "15:01:49",
-      "gregorian_utc": "2026-08-29T11:31:49+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 172639,
-      "media_size_human": "168.59 KB",
-      "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354765_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354765_photo.jpg",
-      "no_media_reason": null,
-      "archived_at": "2026-08-29T12:20:31.717948+00:00"
+      "tehran_time": "15:29:38",
+      "gregorian_utc": "2026-08-29T11:59:38+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-08-29T12:30:38.449968+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -361,7 +361,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-29T12:20:32.046109+00:00"
+      "archived_at": "2026-08-29T12:30:38.778267+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -379,17 +379,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-29T12:20:32.427022+00:00"
+      "archived_at": "2026-08-29T12:30:39.140113+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12252,
-      "message_link": "https://t.me/zedTV/12252",
-      "text": "دلار ۲۰۴ هزار و یورو ۲۳۶ هزار تومان؛ سقوط بی‌سابقه ارزش پول ملی.\nسکه امامی ۲۱۷ میلیون و طلا ۲۱.۸ میلیون تومان؛ تشدید بحران اقتصادی.\nتداوم آشفتگی در بازار ارز و طلا در پی ناکارآمدی ساختاری رژیم.",
+      "message_id": 12254,
+      "message_link": "https://t.me/zedTV/12254",
+      "text": "مسدودسازی شبکه‌های مخفی ارزی سپاه در دبی و شرکت‌های صوری در هنگ‌کنگ توسط خزانه‌داری آمریکا.\nقطع دسترسی رژیم به ۴ میلیارد دلار منابع مالی و انسداد کامل شریان‌های حیاتی بانک مرکزی.\nفلج شدن مسیرهای تأمین مالی تروریسم در پی گسترش عملیات خفقان اقتصادی واشینگتن.",
       "shamsi_date": "1405/06/07",
-      "tehran_time": "13:05:36",
-      "gregorian_utc": "2026-08-29T09:35:36+00:00",
+      "tehran_time": "15:20:58",
+      "gregorian_utc": "2026-08-29T11:50:58+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -397,25 +397,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-29T12:20:31.404515+00:00"
+      "archived_at": "2026-08-29T12:30:38.147721+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354764,
-      "message_link": "https://t.me/IranintlTV/354764",
-      "text": "مروری بر روزنامه‌های ایران، شنبه ۷ شهریور با مجتبی هاشمی، روزنامه‌نگار\n@iranintltv",
+      "message_id": 354767,
+      "message_link": "https://t.me/IranintlTV/354767",
+      "text": "🎧نسخه صوتی اخبار نیمروزی | شنبه ۷ شهریور\n@iranintlTV",
       "shamsi_date": "1405/06/07",
-      "tehran_time": "14:55:11",
-      "gregorian_utc": "2026-08-29T11:25:11+00:00",
-      "media_type": "video",
-      "media_size_bytes": 4722976,
-      "media_size_human": "4.50 MB",
+      "tehran_time": "15:24:29",
+      "gregorian_utc": "2026-08-29T11:54:29+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 30256799,
+      "media_size_human": "28.86 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354764_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354764_video.mp4",
+      "media_local_path": "media/IranintlTV_354767_audio.mp3",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354767_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T12:20:31.717999+00:00"
+      "archived_at": "2026-08-29T12:30:38.450070+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -433,7 +433,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-29T12:20:32.046230+00:00"
+      "archived_at": "2026-08-29T12:30:38.778388+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -451,17 +451,17 @@
       "media_local_path": "media/Mellig_120371_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120371_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T12:20:32.427070+00:00"
+      "archived_at": "2026-08-29T12:30:39.140175+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12251,
-      "message_link": "https://t.me/zedTV/12251",
-      "text": "دستور مجتبی خامنه‌ای برای کتمان ضعف‌ها؛ همزمان پزشکیان از ورشکستگی دولت خبر داد.\nبنزین به ۱۰ هزار تومان می‌رسد؛ هشدار رئیس‌جمهور نسبت به جهش بی‌سابقه نرخ دلار.\nاعتراف به سقوط تجارت و ناتوانی در تامین بودجه در پی خسارات گسترده جنگی.",
+      "message_id": 12253,
+      "message_link": "https://t.me/zedTV/12253",
+      "text": "پاکسازی بیش از ۲۰۰ شیء مشکوک به مین از مسیر اصلی کشتیرانی در تنگه هرمز.\nگزارش آکسیوس: تنها ۱۱ مورد از اشیاء کشف شده مین واقعی و دارای قابلیت عملکرد بودند.\nتلاش ایالات متحده برای تامین امنیت عبور و مرور کشتی‌های تجاری در آبراه بین‌المللی.",
       "shamsi_date": "1405/06/07",
-      "tehran_time": "12:06:01",
-      "gregorian_utc": "2026-08-29T08:36:01+00:00",
+      "tehran_time": "13:19:45",
+      "gregorian_utc": "2026-08-29T09:49:45+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -469,25 +469,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-29T12:20:31.404540+00:00"
+      "archived_at": "2026-08-29T12:30:38.147749+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354763,
-      "message_link": "https://t.me/IranintlTV/354763",
-      "text": "سه روز پس وقوع سیل مرگبار در مناطق مرزی نپال و تبت، مقام‌های نپال اعلام کردند شمار جان‌باختگان این حادثه به بیش از ۶۰۰ نفر رسیده و حدود سه هزار نفر همچنان مفقود هستند.\n\nجزئیات بیشتر در گزارش ساجده شریفی، خبرنگار ایرا‌ن‌اینترنشنال \n@iranintltv",
+      "message_id": 354766,
+      "message_link": "https://t.me/IranintlTV/354766",
+      "text": "🔻مهدی رحمتی، سرمربی گل گلهر در نشست خبری پس از بازی با سپاهان، گفت: «فوتبال ایران یک مشکل کلی دارد و آن هم فدراسیون فوتبال است؛ یک سری تصمیماتی که گرفته می‌شود در هیچ جای دنیا نیست.»\n\n🔹او همچنین گفت: «ما از خیلی چیزها خبر داریم. اگر درباره اتفاقاتی که در فدراسیون فوتبال می‌افتد، حرفی بزنیم، باید برویم در خیلی از جاها جواب بدهیم و دچار حواشی می‌شویم.»\n\n@iranintltvsport",
       "shamsi_date": "1405/06/07",
-      "tehran_time": "14:46:51",
-      "gregorian_utc": "2026-08-29T11:16:51+00:00",
+      "tehran_time": "15:09:45",
+      "gregorian_utc": "2026-08-29T11:39:45+00:00",
       "media_type": "video",
-      "media_size_bytes": 2488917,
-      "media_size_human": "2.37 MB",
+      "media_size_bytes": 3849412,
+      "media_size_human": "3.67 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354763_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354763_video.mp4",
+      "media_local_path": "media/IranintlTV_354766_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354766_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T12:20:31.718061+00:00"
+      "archived_at": "2026-08-29T12:30:38.450188+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -505,7 +505,7 @@
       "media_local_path": "media/satlastnews_76364_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76364_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T12:20:32.046283+00:00"
+      "archived_at": "2026-08-29T12:30:38.778442+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -523,17 +523,17 @@
       "media_local_path": "media/Mellig_120370_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120370_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T12:20:32.427107+00:00"
+      "archived_at": "2026-08-29T12:30:39.140219+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12250,
-      "message_link": "https://t.me/zedTV/12250",
-      "text": "مجتبی خامنه‌ای: بیان ضعف‌های نظام و مشکلات معیشتی ممنوع و «کمک به دشمن» است.\nتلاش برای پنهان‌کاری در پی اعتراف مقامات به توقف فروش نفت و بحران گرسنگی.\nتداوم شکاف در راس قدرت؛ هشدار قالیباف نسبت به ناتوانی نظامی در برابر فقر عمومی.",
+      "message_id": 12252,
+      "message_link": "https://t.me/zedTV/12252",
+      "text": "دلار ۲۰۴ هزار و یورو ۲۳۶ هزار تومان؛ سقوط بی‌سابقه ارزش پول ملی.\nسکه امامی ۲۱۷ میلیون و طلا ۲۱.۸ میلیون تومان؛ تشدید بحران اقتصادی.\nتداوم آشفتگی در بازار ارز و طلا در پی ناکارآمدی ساختاری رژیم.",
       "shamsi_date": "1405/06/07",
-      "tehran_time": "11:20:52",
-      "gregorian_utc": "2026-08-29T07:50:52+00:00",
+      "tehran_time": "13:05:36",
+      "gregorian_utc": "2026-08-29T09:35:36+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -541,25 +541,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-29T12:20:31.404579+00:00"
+      "archived_at": "2026-08-29T12:30:38.147788+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354762,
-      "message_link": "https://t.me/IranintlTV/354762",
-      "text": "آرش آزرمی، دبیر بخش اقتصادی ایران‌اینترنشنال، گفت: «بر اساس گزارش وزارت خزانه‌داری آمریکا، یکی از شعب بانک مصر در امارات، عملیات دلاری برای جمهوری اسلامی انجام می‌داده و بخشی از بانکداری سایه حکومت ایران بوده است. این بانک پس از تحریم‌های اعلام‌شده اعلام کرد که با دولت ایالات متحده همکاری خواهد کرد.»\n@iranintltv",
+      "message_id": 354764,
+      "message_link": "https://t.me/IranintlTV/354764",
+      "text": "مروری بر روزنامه‌های ایران، شنبه ۷ شهریور با مجتبی هاشمی، روزنامه‌نگار\n@iranintltv",
       "shamsi_date": "1405/06/07",
-      "tehran_time": "14:43:44",
-      "gregorian_utc": "2026-08-29T11:13:44+00:00",
+      "tehran_time": "14:55:11",
+      "gregorian_utc": "2026-08-29T11:25:11+00:00",
       "media_type": "video",
-      "media_size_bytes": 4377330,
-      "media_size_human": "4.17 MB",
+      "media_size_bytes": 4722976,
+      "media_size_human": "4.50 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354762_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354762_video.mp4",
+      "media_local_path": "media/IranintlTV_354764_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354764_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T12:20:31.718134+00:00"
+      "archived_at": "2026-08-29T12:30:38.450247+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -577,7 +577,7 @@
       "media_local_path": "media/satlastnews_76363_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76363_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T12:20:32.046328+00:00"
+      "archived_at": "2026-08-29T12:30:38.778487+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -595,17 +595,17 @@
       "media_local_path": "media/Mellig_120369_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120369_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T12:20:32.427134+00:00"
+      "archived_at": "2026-08-29T12:30:39.140249+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12249,
-      "message_link": "https://t.me/zedTV/12249",
-      "text": "دلار ۲۰۴ هزار و یورو ۲۳۶ هزار تومان؛ رکوردشکنی سقوط ریال در سایه ناکارآمدی رژیم.\nسکه امامی ۲۱۷ میلیون و طلا ۲۱.۸ میلیون تومان؛ تداوم فروپاشی معیشت شهروندان.\nبحران بی‌سابقه در بازار ارز و طلا؛ نابودی دارایی‌های مردم توسط جمهوری اسلامی.",
+      "message_id": 12251,
+      "message_link": "https://t.me/zedTV/12251",
+      "text": "دستور مجتبی خامنه‌ای برای کتمان ضعف‌ها؛ همزمان پزشکیان از ورشکستگی دولت خبر داد.\nبنزین به ۱۰ هزار تومان می‌رسد؛ هشدار رئیس‌جمهور نسبت به جهش بی‌سابقه نرخ دلار.\nاعتراف به سقوط تجارت و ناتوانی در تامین بودجه در پی خسارات گسترده جنگی.",
       "shamsi_date": "1405/06/07",
-      "tehran_time": "11:20:44",
-      "gregorian_utc": "2026-08-29T07:50:44+00:00",
+      "tehran_time": "12:06:01",
+      "gregorian_utc": "2026-08-29T08:36:01+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -613,25 +613,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-29T12:20:31.404604+00:00"
+      "archived_at": "2026-08-29T12:30:38.147813+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354761,
-      "message_link": "https://t.me/IranintlTV/354761",
-      "text": "🔻پرسپولیس در هفته چهارم لیگ برتر در حالی در تهران میزبان ملوان است که پس از شکست این تیم برابر تراکتور در هفته سوم، موج انتقادها به سوی مهدی تارتار سرمربی سرخپوشان روانه شد.\n\n🔹گفتگوی مزدک میرزایی با محمد تقوی و رها پوربخش در برنامه هت‌تریک\n\n🔹تماشای نسخه کامل هت‌تریک؛👇\nhttps://youtu.be/oubA98AxIRE\n\n@iranintltvsport",
+      "message_id": 354763,
+      "message_link": "https://t.me/IranintlTV/354763",
+      "text": "سه روز پس وقوع سیل مرگبار در مناطق مرزی نپال و تبت، مقام‌های نپال اعلام کردند شمار جان‌باختگان این حادثه به بیش از ۶۰۰ نفر رسیده و حدود سه هزار نفر همچنان مفقود هستند.\n\nجزئیات بیشتر در گزارش ساجده شریفی، خبرنگار ایرا‌ن‌اینترنشنال \n@iranintltv",
       "shamsi_date": "1405/06/07",
-      "tehran_time": "14:11:37",
-      "gregorian_utc": "2026-08-29T10:41:37+00:00",
+      "tehran_time": "14:46:51",
+      "gregorian_utc": "2026-08-29T11:16:51+00:00",
       "media_type": "video",
-      "media_size_bytes": 2356279,
-      "media_size_human": "2.25 MB",
+      "media_size_bytes": 2488917,
+      "media_size_human": "2.37 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354761_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354761_video.mp4",
+      "media_local_path": "media/IranintlTV_354763_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354763_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T12:20:31.718211+00:00"
+      "archived_at": "2026-08-29T12:30:38.450308+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -649,7 +649,7 @@
       "media_local_path": "media/satlastnews_76362_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76362_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T12:20:32.046355+00:00"
+      "archived_at": "2026-08-29T12:30:38.778516+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -667,17 +667,17 @@
       "media_local_path": "media/Mellig_120368_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120368_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T12:20:32.427182+00:00"
+      "archived_at": "2026-08-29T12:30:39.140300+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12248,
-      "message_link": "https://t.me/zedTV/12248",
-      "text": "تداوم بلاتکلیفی فاطمه غلامی‌مقدم در زندان وکیل‌آباد مشهد؛\nارجاع پرونده به شعبه اول دادگاه انقلاب بدون برگزاری جلسه دادرسی؛\nتداوم بازداشت و وضعیت نامشخص حقوقی این شهروند در بند «آرامش».",
+      "message_id": 12250,
+      "message_link": "https://t.me/zedTV/12250",
+      "text": "مجتبی خامنه‌ای: بیان ضعف‌های نظام و مشکلات معیشتی ممنوع و «کمک به دشمن» است.\nتلاش برای پنهان‌کاری در پی اعتراف مقامات به توقف فروش نفت و بحران گرسنگی.\nتداوم شکاف در راس قدرت؛ هشدار قالیباف نسبت به ناتوانی نظامی در برابر فقر عمومی.",
       "shamsi_date": "1405/06/07",
-      "tehran_time": "11:06:11",
-      "gregorian_utc": "2026-08-29T07:36:11+00:00",
+      "tehran_time": "11:20:52",
+      "gregorian_utc": "2026-08-29T07:50:52+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -685,25 +685,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-29T12:20:31.404627+00:00"
+      "archived_at": "2026-08-29T12:30:38.147836+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354760,
-      "message_link": "https://t.me/IranintlTV/354760",
-      "text": "بابک خطی، پزشک و متخصص کودکان، با اشاره به اعلام دولت پزشکیان برای افزودن نیم درصد متانول به بنزین پایه به دلیل کمبود بنزین گفت میزان خطرناک بودن این موضوع به غلظت و میزان مواجهه افراد با بنزین بستگی دارد، اما متانول می‌تواند به عصب بینایی و کبد آسیب برساند و در موارد شدید موجب نابینایی دائمی شود.\n\nاو گفت افرادی که مستقیما با بخارات متانول و سوخت در تماس‌اند، بیشتر در معرض خطر قرار دارند و استفاده از متانول می‌تواند عوارض چشمی، سرگیجه، اختلال هوشیاری و مشکلات تنفسی از جمله تشدید آسم و برونشیت ایجاد کند.\n@iranintltv",
+      "message_id": 354762,
+      "message_link": "https://t.me/IranintlTV/354762",
+      "text": "آرش آزرمی، دبیر بخش اقتصادی ایران‌اینترنشنال، گفت: «بر اساس گزارش وزارت خزانه‌داری آمریکا، یکی از شعب بانک مصر در امارات، عملیات دلاری برای جمهوری اسلامی انجام می‌داده و بخشی از بانکداری سایه حکومت ایران بوده است. این بانک پس از تحریم‌های اعلام‌شده اعلام کرد که با دولت ایالات متحده همکاری خواهد کرد.»\n@iranintltv",
       "shamsi_date": "1405/06/07",
-      "tehran_time": "13:53:07",
-      "gregorian_utc": "2026-08-29T10:23:07+00:00",
+      "tehran_time": "14:43:44",
+      "gregorian_utc": "2026-08-29T11:13:44+00:00",
       "media_type": "video",
-      "media_size_bytes": 2800735,
-      "media_size_human": "2.67 MB",
+      "media_size_bytes": 4377330,
+      "media_size_human": "4.17 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354760_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354760_video.mp4",
+      "media_local_path": "media/IranintlTV_354762_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354762_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T12:20:31.718294+00:00"
+      "archived_at": "2026-08-29T12:30:38.450377+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -721,7 +721,7 @@
       "media_local_path": "media/satlastnews_76361_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76361_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T12:20:32.046518+00:00"
+      "archived_at": "2026-08-29T12:30:38.778660+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -739,17 +739,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-29T12:20:32.427203+00:00"
+      "archived_at": "2026-08-29T12:30:39.140323+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12247,
-      "message_link": "https://t.me/zedTV/12247",
-      "text": "کاهش بهای نفت در بازارهای جهانی در پی احتمال بازگشایی تنگه هرمز؛ نفت برنت به ۸۶ دلار رسید.\nپرزیدنت ترامپ: نیروی دریایی آمریکا تمامی مین‌های رژیم در تنگه هرمز را جمع‌آوری یا منهدم کرده است.\nتحلیلگران: بازگشت ثبات مشروط به پایان محاصره بنادر رژیم و تداوم تاثیر تحریم‌های ایالات متحده است.",
+      "message_id": 12249,
+      "message_link": "https://t.me/zedTV/12249",
+      "text": "دلار ۲۰۴ هزار و یورو ۲۳۶ هزار تومان؛ رکوردشکنی سقوط ریال در سایه ناکارآمدی رژیم.\nسکه امامی ۲۱۷ میلیون و طلا ۲۱.۸ میلیون تومان؛ تداوم فروپاشی معیشت شهروندان.\nبحران بی‌سابقه در بازار ارز و طلا؛ نابودی دارایی‌های مردم توسط جمهوری اسلامی.",
       "shamsi_date": "1405/06/07",
-      "tehran_time": "11:06:11",
-      "gregorian_utc": "2026-08-29T07:36:11+00:00",
+      "tehran_time": "11:20:44",
+      "gregorian_utc": "2026-08-29T07:50:44+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -757,25 +757,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-29T12:20:31.404649+00:00"
+      "archived_at": "2026-08-29T12:30:38.147858+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354759,
-      "message_link": "https://t.me/IranintlTV/354759",
-      "text": "زندانیان سیاسی پادشاهی‌خواه و خانواده‌های دادخواه در ایران با صدور بیانیه‌ای مشترک ضمن تأکید بر اینکه «خط قرمز ما، ایران و شاهزاده رضا پهلوی است»، اعلام کردند که با وجود فشار سنگین تورم، گرانی، فقر و بحران‌های ساخته جمهوری اسلامی، هدف اصلی همچنان پایان دادن به عمر ر حاکم و ساختن آینده‌ای آزاد و دموکراتیک است. \n\nامضاکنندگان این بیانیه با اشاره به ۴۷ سال مخالفت جریان‌های وابسته با خاندان پهلوی، تصریح کردند که نام پهلوی همچنان در قلب بخش بزرگی از مردم زنده است و امید به آینده‌ای آباد با نام ایران گره خورده است.\n\nاین زندانیان سیاسی و مبارزان داخل ایران که هزینه سنگین مبارزه را با از دست دادن آزادی و امنیت خود پرداخته‌اند، حمایت قاطع و خدشه‌ناپذیر خود را از رهبری خیزش ملی، یعنی شاهزاده رضا پهلوی و دفتر و تیم او، اعلام کردند. \n\nآنان تأکید کردند که برای عبور از تاریکی کنونی به همبستگی، سازماندهی و اعتماد ملی نیاز است و ضمن محکوم کردن هرگونه تخریب، توهین و ایجاد شکاف میان «شاه و ملت»، افزودند که انتخاب مشاوران و اعضای تیم در اختیار خود او بوده و تخریب این افراد با شایعات بدون سند پذیرفتنی نیست.\nhttps://iranintl.com/",
+      "message_id": 354761,
+      "message_link": "https://t.me/IranintlTV/354761",
+      "text": "🔻پرسپولیس در هفته چهارم لیگ برتر در حالی در تهران میزبان ملوان است که پس از شکست این تیم برابر تراکتور در هفته سوم، موج انتقادها به سوی مهدی تارتار سرمربی سرخپوشان روانه شد.\n\n🔹گفتگوی مزدک میرزایی با محمد تقوی و رها پوربخش در برنامه هت‌تریک\n\n🔹تماشای نسخه کامل هت‌تریک؛👇\nhttps://youtu.be/oubA98AxIRE\n\n@iranintltvsport",
       "shamsi_date": "1405/06/07",
-      "tehran_time": "13:47:57",
-      "gregorian_utc": "2026-08-29T10:17:57+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 140764,
-      "media_size_human": "137.46 KB",
+      "tehran_time": "14:11:37",
+      "gregorian_utc": "2026-08-29T10:41:37+00:00",
+      "media_type": "video",
+      "media_size_bytes": 2356279,
+      "media_size_human": "2.25 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354759_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354759_photo.jpg",
+      "media_local_path": "media/IranintlTV_354761_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354761_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T12:20:31.718446+00:00"
+      "archived_at": "2026-08-29T12:30:38.450450+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -793,7 +793,7 @@
       "media_local_path": "media/satlastnews_76358_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76358_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T12:20:32.046579+00:00"
+      "archived_at": "2026-08-29T12:30:38.778718+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -811,17 +811,17 @@
       "media_local_path": "media/Mellig_120366_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120366_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T12:20:32.427229+00:00"
+      "archived_at": "2026-08-29T12:30:39.140349+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12246,
-      "message_link": "https://t.me/zedTV/12246",
-      "text": "دلار ۲۰۵ هزار تومانی و تورم ۳۴۰ درصدی؛ سقوط آزاد ارزش پول ملی و بحران معیشت.\nجهش قیمت بنزین به ۱۰ هزار تومان و تورم بالای ۱۰۰ درصد در ۹ استان کشور.\nگسترش بیکاری و موج بازداشت‌ها در پی فروپاشی اقتصادی و بی‌کفایتی رژیم.",
+      "message_id": 12248,
+      "message_link": "https://t.me/zedTV/12248",
+      "text": "تداوم بلاتکلیفی فاطمه غلامی‌مقدم در زندان وکیل‌آباد مشهد؛\nارجاع پرونده به شعبه اول دادگاه انقلاب بدون برگزاری جلسه دادرسی؛\nتداوم بازداشت و وضعیت نامشخص حقوقی این شهروند در بند «آرامش».",
       "shamsi_date": "1405/06/07",
-      "tehran_time": "10:51:54",
-      "gregorian_utc": "2026-08-29T07:21:54+00:00",
+      "tehran_time": "11:06:11",
+      "gregorian_utc": "2026-08-29T07:36:11+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -829,25 +829,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-29T12:20:31.404671+00:00"
+      "archived_at": "2026-08-29T12:30:38.147879+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354758,
-      "message_link": "https://t.me/IranintlTV/354758",
-      "text": "🔻حجت کریمی، مدیرعامل تراکتور شب گذشته در گفتگویی با صدا و سیمای جمهوری اسلامی درباره وضعیت سربازی علیرضا بیرانوند، گلر ملی‌پوش این تیم گفت: «هرچه قانون تصمیم بگیرد، مطیع هستیم و همان اتفاق خواهد افتاد. فعلا که زمان قانونی نگذشته است و مهلت داریم. تا آخر مهر فرصت داریم.»\n\n🔹او گفت: «بیرانوند فعلا با ما فسخ نکرده و با ما هست. فعلا سرباز نیست، از این ستون به آن ستون فرج است. ما پیگیر کار بیرانوند هستیم.»\n\n🔹مدیرعامل تراکتور گفت: «خیلی از بازیکنان و مدیران لیگ سرباز هستند. بروید بررسی کنید که دیگر بازیکنان چطور معافیت‌ گرفته‌اند و در لیگ بازی می‌کنند.» \n\n🔹او گفت: «اما درست موقعی که بازی با پرسپولیس داریم، این خبرها بیرون می‌آید تا به تراکتور ضربه بزنند. مهلت داریم. بیرانوند دل مردم ما را شاد کرده، چرا حاشیه برایش درست می‌کنند؟»\n\n@iranintltvsport",
+      "message_id": 354760,
+      "message_link": "https://t.me/IranintlTV/354760",
+      "text": "بابک خطی، پزشک و متخصص کودکان، با اشاره به اعلام دولت پزشکیان برای افزودن نیم درصد متانول به بنزین پایه به دلیل کمبود بنزین گفت میزان خطرناک بودن این موضوع به غلظت و میزان مواجهه افراد با بنزین بستگی دارد، اما متانول می‌تواند به عصب بینایی و کبد آسیب برساند و در موارد شدید موجب نابینایی دائمی شود.\n\nاو گفت افرادی که مستقیما با بخارات متانول و سوخت در تماس‌اند، بیشتر در معرض خطر قرار دارند و استفاده از متانول می‌تواند عوارض چشمی، سرگیجه، اختلال هوشیاری و مشکلات تنفسی از جمله تشدید آسم و برونشیت ایجاد کند.\n@iranintltv",
       "shamsi_date": "1405/06/07",
-      "tehran_time": "13:35:23",
-      "gregorian_utc": "2026-08-29T10:05:23+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 216229,
-      "media_size_human": "211.16 KB",
+      "tehran_time": "13:53:07",
+      "gregorian_utc": "2026-08-29T10:23:07+00:00",
+      "media_type": "video",
+      "media_size_bytes": 2800735,
+      "media_size_human": "2.67 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354758_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354758_photo.jpg",
+      "media_local_path": "media/IranintlTV_354760_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354760_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T12:20:31.718564+00:00"
+      "archived_at": "2026-08-29T12:30:38.450552+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -865,7 +865,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-29T12:20:32.046601+00:00"
+      "archived_at": "2026-08-29T12:30:38.778740+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -883,43 +883,43 @@
       "media_local_path": "media/Mellig_120365_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120365_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T12:20:32.427380+00:00"
+      "archived_at": "2026-08-29T12:30:39.140395+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12245,
-      "message_link": "https://t.me/zedTV/12245",
-      "text": "برای دانلود: \nwww.zemzeme.app/download.html\n\n\nبرای ارتباط با بات زمزمه اینجا را کلیک کنید: \n\nhttps://t.me/Zemzeme_app_bot?start=3",
+      "message_id": 12247,
+      "message_link": "https://t.me/zedTV/12247",
+      "text": "کاهش بهای نفت در بازارهای جهانی در پی احتمال بازگشایی تنگه هرمز؛ نفت برنت به ۸۶ دلار رسید.\nپرزیدنت ترامپ: نیروی دریایی آمریکا تمامی مین‌های رژیم در تنگه هرمز را جمع‌آوری یا منهدم کرده است.\nتحلیلگران: بازگشت ثبات مشروط به پایان محاصره بنادر رژیم و تداوم تاثیر تحریم‌های ایالات متحده است.",
       "shamsi_date": "1405/06/07",
-      "tehran_time": "10:29:37",
-      "gregorian_utc": "2026-08-29T06:59:37+00:00",
-      "media_type": "video",
-      "media_size_bytes": 18999023,
-      "media_size_human": "18.12 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/zedTV_12245_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_12245_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-08-29T12:20:31.404776+00:00"
+      "tehran_time": "11:06:11",
+      "gregorian_utc": "2026-08-29T07:36:11+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-08-29T12:30:38.147900+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354757,
-      "message_link": "https://t.me/IranintlTV/354757",
-      "text": "روزنامه فایننشال تایمز گزارش داد برخی کسب‌وکارهای ایرانی در دبی تعطیل شده‌اند، اما بانک‌های ملی و صادرات همچنان در امارات متحده عربی فعال‌اند. این در حالی است که بانک مصر پس از قطع دسترسی شعبه این بانک در امارات به نظام مالی آمریکا، اعلام کرد که همچنان به کار خود ادامه می‌دهد.\n\nجزئیات بیشتر در گزارش احمد صمدی، خبرنگار ایرا‌ن‌اینترنشنال\n@iranintltv",
+      "message_id": 354759,
+      "message_link": "https://t.me/IranintlTV/354759",
+      "text": "زندانیان سیاسی پادشاهی‌خواه و خانواده‌های دادخواه در ایران با صدور بیانیه‌ای مشترک ضمن تأکید بر اینکه «خط قرمز ما، ایران و شاهزاده رضا پهلوی است»، اعلام کردند که با وجود فشار سنگین تورم، گرانی، فقر و بحران‌های ساخته جمهوری اسلامی، هدف اصلی همچنان پایان دادن به عمر ر حاکم و ساختن آینده‌ای آزاد و دموکراتیک است. \n\nامضاکنندگان این بیانیه با اشاره به ۴۷ سال مخالفت جریان‌های وابسته با خاندان پهلوی، تصریح کردند که نام پهلوی همچنان در قلب بخش بزرگی از مردم زنده است و امید به آینده‌ای آباد با نام ایران گره خورده است.\n\nاین زندانیان سیاسی و مبارزان داخل ایران که هزینه سنگین مبارزه را با از دست دادن آزادی و امنیت خود پرداخته‌اند، حمایت قاطع و خدشه‌ناپذیر خود را از رهبری خیزش ملی، یعنی شاهزاده رضا پهلوی و دفتر و تیم او، اعلام کردند. \n\nآنان تأکید کردند که برای عبور از تاریکی کنونی به همبستگی، سازماندهی و اعتماد ملی نیاز است و ضمن محکوم کردن هرگونه تخریب، توهین و ایجاد شکاف میان «شاه و ملت»، افزودند که انتخاب مشاوران و اعضای تیم در اختیار خود او بوده و تخریب این افراد با شایعات بدون سند پذیرفتنی نیست.\nhttps://iranintl.com/",
       "shamsi_date": "1405/06/07",
-      "tehran_time": "13:29:46",
-      "gregorian_utc": "2026-08-29T09:59:46+00:00",
-      "media_type": "video",
-      "media_size_bytes": 2873979,
-      "media_size_human": "2.74 MB",
+      "tehran_time": "13:47:57",
+      "gregorian_utc": "2026-08-29T10:17:57+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 140764,
+      "media_size_human": "137.46 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354757_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354757_video.mp4",
+      "media_local_path": "media/IranintlTV_354759_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354759_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T12:20:31.718632+00:00"
+      "archived_at": "2026-08-29T12:30:38.450725+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -937,7 +937,7 @@
       "media_local_path": "media/satlastnews_76353_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76353_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T12:20:32.046645+00:00"
+      "archived_at": "2026-08-29T12:30:38.778784+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -955,17 +955,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-29T12:20:32.427444+00:00"
+      "archived_at": "2026-08-29T12:30:39.140439+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12244,
-      "message_link": "https://t.me/zedTV/12244",
-      "text": "کاخ سفید و سنتکام: تنگه هرمز در کنترل کامل آمریکا؛ نفوذ رژیم در آبراه بین‌المللی پایان یافت.\nعبور ایمن ۷۵۰ میلیون بشکه نفت تحت حفاظت ایالات متحده؛ صادرات نفت جمهوری اسلامی به صفر رسید.\nتداوم عملیات اخراج اقتصادی؛ انسداد مسیرهای حیاتی رژیم برای تامین منابع مالی ادامه دارد.",
+      "message_id": 12246,
+      "message_link": "https://t.me/zedTV/12246",
+      "text": "دلار ۲۰۵ هزار تومانی و تورم ۳۴۰ درصدی؛ سقوط آزاد ارزش پول ملی و بحران معیشت.\nجهش قیمت بنزین به ۱۰ هزار تومان و تورم بالای ۱۰۰ درصد در ۹ استان کشور.\nگسترش بیکاری و موج بازداشت‌ها در پی فروپاشی اقتصادی و بی‌کفایتی رژیم.",
       "shamsi_date": "1405/06/07",
-      "tehran_time": "10:06:02",
-      "gregorian_utc": "2026-08-29T06:36:02+00:00",
+      "tehran_time": "10:51:54",
+      "gregorian_utc": "2026-08-29T07:21:54+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -973,25 +973,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-29T12:20:31.404803+00:00"
+      "archived_at": "2026-08-29T12:30:38.147920+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354756,
-      "message_link": "https://t.me/IranintlTV/354756",
-      "text": "سرخط خبرهای شنبه ۷ شهریور\n@iranintltv",
+      "message_id": 354758,
+      "message_link": "https://t.me/IranintlTV/354758",
+      "text": "🔻حجت کریمی، مدیرعامل تراکتور شب گذشته در گفتگویی با صدا و سیمای جمهوری اسلامی درباره وضعیت سربازی علیرضا بیرانوند، گلر ملی‌پوش این تیم گفت: «هرچه قانون تصمیم بگیرد، مطیع هستیم و همان اتفاق خواهد افتاد. فعلا که زمان قانونی نگذشته است و مهلت داریم. تا آخر مهر فرصت داریم.»\n\n🔹او گفت: «بیرانوند فعلا با ما فسخ نکرده و با ما هست. فعلا سرباز نیست، از این ستون به آن ستون فرج است. ما پیگیر کار بیرانوند هستیم.»\n\n🔹مدیرعامل تراکتور گفت: «خیلی از بازیکنان و مدیران لیگ سرباز هستند. بروید بررسی کنید که دیگر بازیکنان چطور معافیت‌ گرفته‌اند و در لیگ بازی می‌کنند.» \n\n🔹او گفت: «اما درست موقعی که بازی با پرسپولیس داریم، این خبرها بیرون می‌آید تا به تراکتور ضربه بزنند. مهلت داریم. بیرانوند دل مردم ما را شاد کرده، چرا حاشیه برایش درست می‌کنند؟»\n\n@iranintltvsport",
       "shamsi_date": "1405/06/07",
-      "tehran_time": "13:12:42",
-      "gregorian_utc": "2026-08-29T09:42:42+00:00",
-      "media_type": "video",
-      "media_size_bytes": 989964,
-      "media_size_human": "966.76 KB",
+      "tehran_time": "13:35:23",
+      "gregorian_utc": "2026-08-29T10:05:23+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 216229,
+      "media_size_human": "211.16 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354756_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354756_video.mp4",
+      "media_local_path": "media/IranintlTV_354758_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354758_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T12:20:31.718678+00:00"
+      "archived_at": "2026-08-29T12:30:38.450853+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1009,7 +1009,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-29T12:20:32.046666+00:00"
+      "archived_at": "2026-08-29T12:30:38.778804+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1027,43 +1027,43 @@
       "media_local_path": "media/Mellig_120363_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120363_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T12:20:32.427486+00:00"
+      "archived_at": "2026-08-29T12:30:39.140475+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12243,
-      "message_link": "https://t.me/zedTV/12243",
-      "text": "وال‌استریت ژورنال: تسریع انتقال مهمات و تجهیزات نظامی آمریکا به منطقه؛ فرود هواپیماهای ترابری سنگین در امارات.\nدولت ترامپ بازگشت به توافق هسته‌ای با جمهوری اسلامی را رد کرد؛ بن‌بست در مسیر مذاکرات دیپلماتیک.\nکاهش امیدها به توافق و افزایش بهای نفت در پی تقویت حضور نظامی ایالات متحده در خلیج فارس.",
+      "message_id": 12245,
+      "message_link": "https://t.me/zedTV/12245",
+      "text": "برای دانلود: \nwww.zemzeme.app/download.html\n\n\nبرای ارتباط با بات زمزمه اینجا را کلیک کنید: \n\nhttps://t.me/Zemzeme_app_bot?start=3",
       "shamsi_date": "1405/06/07",
-      "tehran_time": "10:05:53",
-      "gregorian_utc": "2026-08-29T06:35:53+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-29T12:20:31.404827+00:00"
+      "tehran_time": "10:29:37",
+      "gregorian_utc": "2026-08-29T06:59:37+00:00",
+      "media_type": "video",
+      "media_size_bytes": 18999023,
+      "media_size_human": "18.12 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/zedTV_12245_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_12245_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-08-29T12:30:38.148020+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354755,
-      "message_link": "https://t.me/IranintlTV/354755",
-      "text": "ویدیوی رسیده به ایران اینترنشنال لحظه فرونشست زمین در خیابان نشاط اصفهان در ظهر هفتم شهریور را نشان می‌دهد.\n\nمدیرکل مدیریت بحران استانداری اصفهان علت این فرونشست را «شکستگی خط انتقال فاضلاب» عنوان کرد.",
+      "message_id": 354757,
+      "message_link": "https://t.me/IranintlTV/354757",
+      "text": "روزنامه فایننشال تایمز گزارش داد برخی کسب‌وکارهای ایرانی در دبی تعطیل شده‌اند، اما بانک‌های ملی و صادرات همچنان در امارات متحده عربی فعال‌اند. این در حالی است که بانک مصر پس از قطع دسترسی شعبه این بانک در امارات به نظام مالی آمریکا، اعلام کرد که همچنان به کار خود ادامه می‌دهد.\n\nجزئیات بیشتر در گزارش احمد صمدی، خبرنگار ایرا‌ن‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/06/07",
-      "tehran_time": "13:02:16",
-      "gregorian_utc": "2026-08-29T09:32:16+00:00",
+      "tehran_time": "13:29:46",
+      "gregorian_utc": "2026-08-29T09:59:46+00:00",
       "media_type": "video",
-      "media_size_bytes": 5845329,
-      "media_size_human": "5.57 MB",
+      "media_size_bytes": 2873979,
+      "media_size_human": "2.74 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354755_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354755_video.mp4",
+      "media_local_path": "media/IranintlTV_354757_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354757_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T12:20:31.718705+00:00"
+      "archived_at": "2026-08-29T12:30:38.450924+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1081,7 +1081,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-29T12:20:32.046945+00:00"
+      "archived_at": "2026-08-29T12:30:38.779077+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1099,7 +1099,7 @@
       "media_local_path": "media/Mellig_120362_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120362_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-29T12:20:32.427517+00:00"
+      "archived_at": "2026-08-29T12:30:39.140504+00:00"
     }
   ]
 }
