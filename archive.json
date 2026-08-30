@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-30T13:43:46.496738+00:00",
-  "shamsi_generated": "1405/06/08 13:43:46 تهران",
+  "generated_at": "2026-08-30T13:52:17.813286+00:00",
+  "shamsi_generated": "1405/06/08 13:52:17 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -23,7 +23,7 @@
       "name": "کانال رسمی خبر سرا (یوتیوب)"
     }
   ],
-  "total_messages": 57,
+  "total_messages": 58,
   "messages": [
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -41,7 +41,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T13:40:34.153504+00:00"
+      "archived_at": "2026-08-30T13:50:28.053841+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -59,7 +59,7 @@
       "media_local_path": "media/IranintlTV_354913_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354913_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T13:40:34.584369+00:00"
+      "archived_at": "2026-08-30T13:50:28.324937+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -77,43 +77,43 @@
       "media_local_path": "media/satlastnews_76374_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76374_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T13:40:35.037224+00:00"
+      "archived_at": "2026-08-30T13:50:28.647693+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120416,
-      "message_link": "https://t.me/Mellig/120416",
-      "text": "🚨**بهرام یوسفی: مذاکرات پشت‌پرده به بن‌بست رسیده!\n\nبهرام یوسفی، فعال اقتصادی نزدیک به دولت، مدعی شده مذاکرات پشت‌پرده در همون گام‌های اول به بن‌بست خورده.\n\nبه گفته او، ترامپ به میانجی‌ها اعلام کرده محاصره تا تسلیم کامل تهران ادامه پیدا می‌کنه**",
+      "message_id": 120417,
+      "message_link": "https://t.me/Mellig/120417",
+      "text": "📖 به بهانه معرفی کتاب «هرگز نخواهیم بخشید»\n\n🕊️ سمینار دادخواهی\n\nروایت‌ها را زنده نگه می‌داریم؛\nنام‌ها را فراموش نمی‌کنیم؛\nو در برابر فراموشی می‌ایستیم.\n\nبا ما همراه شوید تا روایت‌های جاویدنامان راه میهن را بازگو کنیم و از دادخواهی، حقیقت و حافظه تاریخی‌مان بگوییم.\n\n📍 وعده دیدار ما:\nLöfströms Allé 7\nSundbyberg\n\n🎙 با میزبانی اعضای تحریریه\n«هرگز نخواهیم بخشید»\n\nبا ما همراه شوید؛\nبرای یادآوری، برای دادخواهی،\nبرای اینکه هرگز فراموش نکنیم. 🕊️",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "17:00:19",
-      "gregorian_utc": "2026-08-30T13:30:19+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T13:40:35.625034+00:00"
+      "tehran_time": "17:14:08",
+      "gregorian_utc": "2026-08-30T13:44:08+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 526533,
+      "media_size_human": "514.19 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_120417_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120417_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-08-30T13:50:29.009568+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
       "channel_username": "khabarsara53",
-      "message_id": 9,
-      "message_link": "https://t.me/khabarsara53/9",
-      "text": "فعلا این دو تا هست : \nکوچه\nایران اینترنشنال (گزارش روز با مجتبی پورمحسن)",
-      "shamsi_date": "1405/06/07",
-      "tehran_time": "23:11:33",
-      "gregorian_utc": "2026-08-29T19:41:33+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T13:40:36.924351+00:00"
+      "message_id": 10,
+      "message_link": "https://t.me/khabarsara53/10",
+      "text": "به زودی در خبر سرا 👆\nماجرا های عجیب محسن نامجو و همسرش ، علی کریمی و مصیبتی که همان بر سر جمهوری اسلامی آورد !!!\n\nکانال کوچه",
+      "shamsi_date": "1405/06/08",
+      "tehran_time": "17:17:56",
+      "gregorian_utc": "2026-08-30T13:47:56+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 133832,
+      "media_size_human": "130.70 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/khabarsara53_10_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_10_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-08-30T13:50:29.338998+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -131,7 +131,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T13:40:34.153554+00:00"
+      "archived_at": "2026-08-30T13:50:28.053887+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -149,7 +149,7 @@
       "media_local_path": "media/IranintlTV_354912_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354912_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T13:40:34.584548+00:00"
+      "archived_at": "2026-08-30T13:50:28.325112+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -167,17 +167,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T13:40:35.037594+00:00"
+      "archived_at": "2026-08-30T13:50:28.648085+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120415,
-      "message_link": "https://t.me/Mellig/120415",
-      "text": "🚨**رویترز:\n\n اسکات بسنت، وزیر خزانه‌داری آمریکا، قصد داره کشورهای عضو گروه ۲۰ رو برای تشدید فشار بر تهران، از جمله قطع روابط تجاری با جمهوری اسلامی، تحت فشار قرار بده**.",
+      "message_id": 120416,
+      "message_link": "https://t.me/Mellig/120416",
+      "text": "🚨**بهرام یوسفی: مذاکرات پشت‌پرده به بن‌بست رسیده!\n\nبهرام یوسفی، فعال اقتصادی نزدیک به دولت، مدعی شده مذاکرات پشت‌پرده در همون گام‌های اول به بن‌بست خورده.\n\nبه گفته او، ترامپ به میانجی‌ها اعلام کرده محاصره تا تسلیم کامل تهران ادامه پیدا می‌کنه**",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "16:41:01",
-      "gregorian_utc": "2026-08-30T13:11:01+00:00",
+      "tehran_time": "17:00:19",
+      "gregorian_utc": "2026-08-30T13:30:19+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -185,17 +185,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T13:40:35.625110+00:00"
+      "archived_at": "2026-08-30T13:50:29.009662+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
       "channel_username": "khabarsara53",
-      "message_id": 8,
-      "message_link": "https://t.me/khabarsara53/8",
-      "text": "به زودی پلیر و بخش نظرات هم اضافه میشه که بتونین کانال های یوتیوبی مد نظرتون رو بهمون بگین اضافه کنیم .",
+      "message_id": 9,
+      "message_link": "https://t.me/khabarsara53/9",
+      "text": "فعلا این دو تا هست : \nکوچه\nایران اینترنشنال (گزارش روز با مجتبی پورمحسن)",
       "shamsi_date": "1405/06/07",
-      "tehran_time": "23:11:11",
-      "gregorian_utc": "2026-08-29T19:41:11+00:00",
+      "tehran_time": "23:11:33",
+      "gregorian_utc": "2026-08-29T19:41:33+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -203,7 +203,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T13:40:36.924386+00:00"
+      "archived_at": "2026-08-30T13:50:29.339032+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -221,7 +221,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T13:40:34.153589+00:00"
+      "archived_at": "2026-08-30T13:50:28.053922+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -239,7 +239,7 @@
       "media_local_path": "media/IranintlTV_354911_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354911_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T13:40:34.584662+00:00"
+      "archived_at": "2026-08-30T13:50:28.325218+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -257,35 +257,17 @@
       "media_local_path": "media/satlastnews_76369_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76369_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T13:40:35.037719+00:00"
+      "archived_at": "2026-08-30T13:50:28.648209+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120414,
-      "message_link": "https://t.me/Mellig/120414",
-      "text": "میدونستین اگه اسد بره این جولانی اینا خیلی تندرو و خطرناکن اینا اصلا قوانین داعشی میارن تو سوریه؟\n\nMellig.net",
+      "message_id": 120415,
+      "message_link": "https://t.me/Mellig/120415",
+      "text": "🚨**رویترز:\n\n اسکات بسنت، وزیر خزانه‌داری آمریکا، قصد داره کشورهای عضو گروه ۲۰ رو برای تشدید فشار بر تهران، از جمله قطع روابط تجاری با جمهوری اسلامی، تحت فشار قرار بده**.",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "16:01:15",
-      "gregorian_utc": "2026-08-30T12:31:15+00:00",
-      "media_type": "video",
-      "media_size_bytes": 8003624,
-      "media_size_human": "7.63 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/Mellig_120414_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120414_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-08-30T13:40:35.625184+00:00"
-    },
-    {
-      "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
-      "channel_username": "khabarsara53",
-      "message_id": 7,
-      "message_link": "https://t.me/khabarsara53/7",
-      "text": "پس منتظر بمونین چون به زودی ویدیو میزاریم .",
-      "shamsi_date": "1405/06/07",
-      "tehran_time": "23:07:22",
-      "gregorian_utc": "2026-08-29T19:37:22+00:00",
+      "tehran_time": "16:41:01",
+      "gregorian_utc": "2026-08-30T13:11:01+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -293,7 +275,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T13:40:36.924413+00:00"
+      "archived_at": "2026-08-30T13:50:29.009721+00:00"
+    },
+    {
+      "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
+      "channel_username": "khabarsara53",
+      "message_id": 8,
+      "message_link": "https://t.me/khabarsara53/8",
+      "text": "به زودی پلیر و بخش نظرات هم اضافه میشه که بتونین کانال های یوتیوبی مد نظرتون رو بهمون بگین اضافه کنیم .",
+      "shamsi_date": "1405/06/07",
+      "tehran_time": "23:11:11",
+      "gregorian_utc": "2026-08-29T19:41:11+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-08-30T13:50:29.339056+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -311,7 +311,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T13:40:34.153630+00:00"
+      "archived_at": "2026-08-30T13:50:28.053954+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -329,7 +329,7 @@
       "media_local_path": "media/IranintlTV_354910_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354910_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T13:40:34.584708+00:00"
+      "archived_at": "2026-08-30T13:50:28.325258+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -347,35 +347,35 @@
       "media_local_path": "media/satlastnews_76368_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76368_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T13:40:35.037783+00:00"
+      "archived_at": "2026-08-30T13:50:28.648265+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120413,
-      "message_link": "https://t.me/Mellig/120413",
-      "text": "این حرف‌ها بسیار درست است.\nاما نکته مهم این قاب و این ویدئو،\nفراتر از خود این سخنان، رفتار فردی است که در کنار گوینده ایستاده؛\nکسی که دور میچرخد و گویی با حرکات و واکنش‌هایش تلاش می‌کند مانع بیان کامل دردها و مشکلات شود و اجازه ندهد سخنان او به‌راحتی مطرح شود…\n\nMellig.net",
+      "message_id": 120414,
+      "message_link": "https://t.me/Mellig/120414",
+      "text": "میدونستین اگه اسد بره این جولانی اینا خیلی تندرو و خطرناکن اینا اصلا قوانین داعشی میارن تو سوریه؟\n\nMellig.net",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "15:45:23",
-      "gregorian_utc": "2026-08-30T12:15:23+00:00",
+      "tehran_time": "16:01:15",
+      "gregorian_utc": "2026-08-30T12:31:15+00:00",
       "media_type": "video",
-      "media_size_bytes": 12644651,
-      "media_size_human": "12.06 MB",
+      "media_size_bytes": 8003624,
+      "media_size_human": "7.63 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120413_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120413_video.mp4",
+      "media_local_path": "media/Mellig_120414_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120414_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T13:40:35.625254+00:00"
+      "archived_at": "2026-08-30T13:50:29.009774+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
       "channel_username": "khabarsara53",
-      "message_id": 6,
-      "message_link": "https://t.me/khabarsara53/6",
-      "text": "توی این کانال قراره ویدیو های یوتیوبی سیاسی قرار بگیره",
+      "message_id": 7,
+      "message_link": "https://t.me/khabarsara53/7",
+      "text": "پس منتظر بمونین چون به زودی ویدیو میزاریم .",
       "shamsi_date": "1405/06/07",
-      "tehran_time": "23:07:07",
-      "gregorian_utc": "2026-08-29T19:37:07+00:00",
+      "tehran_time": "23:07:22",
+      "gregorian_utc": "2026-08-29T19:37:22+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -383,7 +383,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T13:40:36.924438+00:00"
+      "archived_at": "2026-08-30T13:50:29.339079+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -401,7 +401,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T13:40:34.153660+00:00"
+      "archived_at": "2026-08-30T13:50:28.053980+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -419,7 +419,7 @@
       "media_local_path": "media/IranintlTV_354909_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354909_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T13:40:34.584791+00:00"
+      "archived_at": "2026-08-30T13:50:28.325332+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -437,35 +437,35 @@
       "media_local_path": "media/satlastnews_76367_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76367_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T13:40:35.037909+00:00"
+      "archived_at": "2026-08-30T13:50:28.648389+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120412,
-      "message_link": "https://t.me/Mellig/120412",
-      "text": "صادق الحسینی، اقتصاددان، مدعی شد: کیفیت بنزین به حدی پایین آمده است که موتور خودروها تا ۳ یا ۴ ماه آینده خراب می‌شود!\n\nMellig.net",
+      "message_id": 120413,
+      "message_link": "https://t.me/Mellig/120413",
+      "text": "این حرف‌ها بسیار درست است.\nاما نکته مهم این قاب و این ویدئو،\nفراتر از خود این سخنان، رفتار فردی است که در کنار گوینده ایستاده؛\nکسی که دور میچرخد و گویی با حرکات و واکنش‌هایش تلاش می‌کند مانع بیان کامل دردها و مشکلات شود و اجازه ندهد سخنان او به‌راحتی مطرح شود…\n\nMellig.net",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "15:33:36",
-      "gregorian_utc": "2026-08-30T12:03:36+00:00",
+      "tehran_time": "15:45:23",
+      "gregorian_utc": "2026-08-30T12:15:23+00:00",
       "media_type": "video",
-      "media_size_bytes": 6119272,
-      "media_size_human": "5.84 MB",
+      "media_size_bytes": 12644651,
+      "media_size_human": "12.06 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120412_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120412_video.mp4",
+      "media_local_path": "media/Mellig_120413_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120413_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T13:40:35.625310+00:00"
+      "archived_at": "2026-08-30T13:50:29.009836+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
       "channel_username": "khabarsara53",
-      "message_id": 5,
-      "message_link": "https://t.me/khabarsara53/5",
-      "text": "این چند تا پیام هم برای اینه که اپلیکیشن خبر سرا ، سهمیه ما رو به کانال های دیگه اختصاص نده .",
+      "message_id": 6,
+      "message_link": "https://t.me/khabarsara53/6",
+      "text": "توی این کانال قراره ویدیو های یوتیوبی سیاسی قرار بگیره",
       "shamsi_date": "1405/06/07",
-      "tehran_time": "23:06:47",
-      "gregorian_utc": "2026-08-29T19:36:47+00:00",
+      "tehran_time": "23:07:07",
+      "gregorian_utc": "2026-08-29T19:37:07+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -473,7 +473,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T13:40:36.924462+00:00"
+      "archived_at": "2026-08-30T13:50:29.339101+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -491,7 +491,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T13:40:34.153696+00:00"
+      "archived_at": "2026-08-30T13:50:28.054016+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -509,7 +509,7 @@
       "media_local_path": "media/IranintlTV_354908_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354908_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T13:40:34.584865+00:00"
+      "archived_at": "2026-08-30T13:50:28.325398+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -527,35 +527,35 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T13:40:35.037999+00:00"
+      "archived_at": "2026-08-30T13:50:28.648465+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120411,
-      "message_link": "https://t.me/Mellig/120411",
-      "text": "",
+      "message_id": 120412,
+      "message_link": "https://t.me/Mellig/120412",
+      "text": "صادق الحسینی، اقتصاددان، مدعی شد: کیفیت بنزین به حدی پایین آمده است که موتور خودروها تا ۳ یا ۴ ماه آینده خراب می‌شود!\n\nMellig.net",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "15:11:28",
-      "gregorian_utc": "2026-08-30T11:41:28+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 86203,
-      "media_size_human": "84.18 KB",
+      "tehran_time": "15:33:36",
+      "gregorian_utc": "2026-08-30T12:03:36+00:00",
+      "media_type": "video",
+      "media_size_bytes": 6119272,
+      "media_size_human": "5.84 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120411_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120411_photo.jpg",
+      "media_local_path": "media/Mellig_120412_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120412_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T13:40:35.625356+00:00"
+      "archived_at": "2026-08-30T13:50:29.009884+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
       "channel_username": "khabarsara53",
-      "message_id": 4,
-      "message_link": "https://t.me/khabarsara53/4",
-      "text": "همانطور که میدونین همه ی تمرکز ما ، آزادی در خبر رسانی و انتقال حقیقت هست",
+      "message_id": 5,
+      "message_link": "https://t.me/khabarsara53/5",
+      "text": "این چند تا پیام هم برای اینه که اپلیکیشن خبر سرا ، سهمیه ما رو به کانال های دیگه اختصاص نده .",
       "shamsi_date": "1405/06/07",
-      "tehran_time": "23:06:12",
-      "gregorian_utc": "2026-08-29T19:36:12+00:00",
+      "tehran_time": "23:06:47",
+      "gregorian_utc": "2026-08-29T19:36:47+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -563,7 +563,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T13:40:36.924485+00:00"
+      "archived_at": "2026-08-30T13:50:29.339122+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -581,7 +581,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T13:40:34.153726+00:00"
+      "archived_at": "2026-08-30T13:50:28.054040+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -599,7 +599,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T13:40:34.598541+00:00"
+      "archived_at": "2026-08-30T13:50:28.341587+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -617,35 +617,35 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T13:40:35.038124+00:00"
+      "archived_at": "2026-08-30T13:50:28.648584+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120410,
-      "message_link": "https://t.me/Mellig/120410",
-      "text": "لیلی بازرگان؛ همسر سابق شاهین نجفی:\n\nشاهین نجفی درحالیکه با من تو رابطه بود با «آزاده اخلاقی» رابطه جنـسی داشت. بعد که اخلاقی زن نامجو شد خوشحال شد که من رسما زن محسن نامجو رو.....\n\nMellig.net",
+      "message_id": 120411,
+      "message_link": "https://t.me/Mellig/120411",
+      "text": "",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "15:11:27",
-      "gregorian_utc": "2026-08-30T11:41:27+00:00",
+      "tehran_time": "15:11:28",
+      "gregorian_utc": "2026-08-30T11:41:28+00:00",
       "media_type": "photo",
-      "media_size_bytes": 135655,
-      "media_size_human": "132.48 KB",
+      "media_size_bytes": 86203,
+      "media_size_human": "84.18 KB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120410_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120410_photo.jpg",
+      "media_local_path": "media/Mellig_120411_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120411_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T13:40:35.625419+00:00"
+      "archived_at": "2026-08-30T13:50:29.009918+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
       "channel_username": "khabarsara53",
-      "message_id": 3,
-      "message_link": "https://t.me/khabarsara53/3",
-      "text": "به کانال خبر سرا ، حوزه یوتیوب خوش اومدید",
+      "message_id": 4,
+      "message_link": "https://t.me/khabarsara53/4",
+      "text": "همانطور که میدونین همه ی تمرکز ما ، آزادی در خبر رسانی و انتقال حقیقت هست",
       "shamsi_date": "1405/06/07",
-      "tehran_time": "23:05:44",
-      "gregorian_utc": "2026-08-29T19:35:44+00:00",
+      "tehran_time": "23:06:12",
+      "gregorian_utc": "2026-08-29T19:36:12+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -653,7 +653,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T13:40:36.924511+00:00"
+      "archived_at": "2026-08-30T13:50:29.339145+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -671,7 +671,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T13:40:34.153768+00:00"
+      "archived_at": "2026-08-30T13:50:28.054079+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -689,7 +689,7 @@
       "media_local_path": "media/IranintlTV_354906_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354906_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T13:40:34.598703+00:00"
+      "archived_at": "2026-08-30T13:50:28.341731+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -707,35 +707,35 @@
       "media_local_path": "media/satlastnews_76364_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76364_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T13:40:35.038189+00:00"
+      "archived_at": "2026-08-30T13:50:28.648639+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120409,
-      "message_link": "https://t.me/Mellig/120409",
-      "text": "لیلی بازرگان، همسر سابق شاهین نجفی:\n\nشاهین نجفی عضو بسیج بوده و ۳ سال پیش که دوماد سرخونه‌ی خونواده‌ی ما بود، برای بابام **قرآن رو با صوت** میخوند.\n\nMellig.net",
+      "message_id": 120410,
+      "message_link": "https://t.me/Mellig/120410",
+      "text": "لیلی بازرگان؛ همسر سابق شاهین نجفی:\n\nشاهین نجفی درحالیکه با من تو رابطه بود با «آزاده اخلاقی» رابطه جنـسی داشت. بعد که اخلاقی زن نامجو شد خوشحال شد که من رسما زن محسن نامجو رو.....\n\nMellig.net",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "14:53:34",
-      "gregorian_utc": "2026-08-30T11:23:34+00:00",
+      "tehran_time": "15:11:27",
+      "gregorian_utc": "2026-08-30T11:41:27+00:00",
       "media_type": "photo",
-      "media_size_bytes": 55700,
-      "media_size_human": "54.39 KB",
+      "media_size_bytes": 135655,
+      "media_size_human": "132.48 KB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120409_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120409_photo.jpg",
+      "media_local_path": "media/Mellig_120410_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120410_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T13:40:35.625482+00:00"
+      "archived_at": "2026-08-30T13:50:29.009971+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
       "channel_username": "khabarsara53",
-      "message_id": 2,
-      "message_link": "https://t.me/khabarsara53/2",
-      "text": "با سلام دوستان",
+      "message_id": 3,
+      "message_link": "https://t.me/khabarsara53/3",
+      "text": "به کانال خبر سرا ، حوزه یوتیوب خوش اومدید",
       "shamsi_date": "1405/06/07",
-      "tehran_time": "23:05:35",
-      "gregorian_utc": "2026-08-29T19:35:35+00:00",
+      "tehran_time": "23:05:44",
+      "gregorian_utc": "2026-08-29T19:35:44+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -743,7 +743,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T13:40:36.924535+00:00"
+      "archived_at": "2026-08-30T13:50:29.339166+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -761,7 +761,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T13:40:34.153798+00:00"
+      "archived_at": "2026-08-30T13:50:28.054105+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -779,7 +779,7 @@
       "media_local_path": "media/IranintlTV_354905_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354905_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T13:40:34.598828+00:00"
+      "archived_at": "2026-08-30T13:50:28.341847+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -797,35 +797,35 @@
       "media_local_path": "media/satlastnews_76363_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76363_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T13:40:35.038245+00:00"
+      "archived_at": "2026-08-30T13:50:28.648685+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120408,
-      "message_link": "https://t.me/Mellig/120408",
-      "text": "مرگ ناگهانی، هنگام سخنرانی شبانه!\n\nنعمت‌ الهامی از چهره‌های شناخته شده منطقه مغان و کاندیدای دوازدهمین دوره انتخابات  طویله شورای اسلامی از حوزه انتخابیه پارس‌آباد حین سخنرانی شبانه سقط شد.",
+      "message_id": 120409,
+      "message_link": "https://t.me/Mellig/120409",
+      "text": "لیلی بازرگان، همسر سابق شاهین نجفی:\n\nشاهین نجفی عضو بسیج بوده و ۳ سال پیش که دوماد سرخونه‌ی خونواده‌ی ما بود، برای بابام **قرآن رو با صوت** میخوند.\n\nMellig.net",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "11:28:28",
-      "gregorian_utc": "2026-08-30T07:58:28+00:00",
-      "media_type": "video",
-      "media_size_bytes": 4414510,
-      "media_size_human": "4.21 MB",
+      "tehran_time": "14:53:34",
+      "gregorian_utc": "2026-08-30T11:23:34+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 55700,
+      "media_size_human": "54.39 KB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120408_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120408_video.mp4",
+      "media_local_path": "media/Mellig_120409_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120409_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T13:40:35.625520+00:00"
+      "archived_at": "2026-08-30T13:50:29.010022+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
       "channel_username": "khabarsara53",
-      "message_id": 1,
-      "message_link": "https://t.me/khabarsara53/1",
-      "text": "",
+      "message_id": 2,
+      "message_link": "https://t.me/khabarsara53/2",
+      "text": "با سلام دوستان",
       "shamsi_date": "1405/06/07",
-      "tehran_time": "23:04:51",
-      "gregorian_utc": "2026-08-29T19:34:51+00:00",
+      "tehran_time": "23:05:35",
+      "gregorian_utc": "2026-08-29T19:35:35+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -833,7 +833,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T13:40:36.924568+00:00"
+      "archived_at": "2026-08-30T13:50:29.339186+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -851,7 +851,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T13:40:34.153824+00:00"
+      "archived_at": "2026-08-30T13:50:28.054127+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -869,7 +869,7 @@
       "media_local_path": "media/IranintlTV_354904_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354904_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T13:40:34.598936+00:00"
+      "archived_at": "2026-08-30T13:50:28.341945+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -887,25 +887,43 @@
       "media_local_path": "media/satlastnews_76362_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76362_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T13:40:35.038293+00:00"
+      "archived_at": "2026-08-30T13:50:28.648717+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120407,
-      "message_link": "https://t.me/Mellig/120407",
-      "text": "واقعی و جدی!\n\nمقام‌های مراغه یک چاه فاضلاب را برای شادی روح  علی خامنه‌ای و سلامتی مجتبی خامنه‌ای افتتاح کردند\n\nMellig.net",
+      "message_id": 120408,
+      "message_link": "https://t.me/Mellig/120408",
+      "text": "مرگ ناگهانی، هنگام سخنرانی شبانه!\n\nنعمت‌ الهامی از چهره‌های شناخته شده منطقه مغان و کاندیدای دوازدهمین دوره انتخابات  طویله شورای اسلامی از حوزه انتخابیه پارس‌آباد حین سخنرانی شبانه سقط شد.",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "10:54:50",
-      "gregorian_utc": "2026-08-30T07:24:50+00:00",
+      "tehran_time": "11:28:28",
+      "gregorian_utc": "2026-08-30T07:58:28+00:00",
       "media_type": "video",
-      "media_size_bytes": 1707772,
-      "media_size_human": "1.63 MB",
+      "media_size_bytes": 4414510,
+      "media_size_human": "4.21 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120407_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120407_video.mp4",
+      "media_local_path": "media/Mellig_120408_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120408_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T13:40:35.625571+00:00"
+      "archived_at": "2026-08-30T13:50:29.010051+00:00"
+    },
+    {
+      "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
+      "channel_username": "khabarsara53",
+      "message_id": 1,
+      "message_link": "https://t.me/khabarsara53/1",
+      "text": "",
+      "shamsi_date": "1405/06/07",
+      "tehran_time": "23:04:51",
+      "gregorian_utc": "2026-08-29T19:34:51+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-08-30T13:50:29.339207+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -923,7 +941,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T13:40:34.153853+00:00"
+      "archived_at": "2026-08-30T13:50:28.054151+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -941,7 +959,7 @@
       "media_local_path": "media/IranintlTV_354903_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354903_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T13:40:34.599012+00:00"
+      "archived_at": "2026-08-30T13:50:28.341982+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -959,25 +977,25 @@
       "media_local_path": "media/satlastnews_76361_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76361_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T13:40:35.038467+00:00"
+      "archived_at": "2026-08-30T13:50:28.648867+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120406,
-      "message_link": "https://t.me/Mellig/120406",
-      "text": "🚨گزارش سنتکام میگه اینا یه مشت آشغال ریخته بودن(۲۰۰ شئ مین شکل) تو تنگه میگفتن مین‌گذاری کردیم ولی کلا ۱۱ تا مین انداختن تو آب، که ازون ۱۱ تا ۵ تاش درست انجام شده بوده.",
+      "message_id": 120407,
+      "message_link": "https://t.me/Mellig/120407",
+      "text": "واقعی و جدی!\n\nمقام‌های مراغه یک چاه فاضلاب را برای شادی روح  علی خامنه‌ای و سلامتی مجتبی خامنه‌ای افتتاح کردند\n\nMellig.net",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "03:55:55",
-      "gregorian_utc": "2026-08-30T00:25:55+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 60367,
-      "media_size_human": "58.95 KB",
+      "tehran_time": "10:54:50",
+      "gregorian_utc": "2026-08-30T07:24:50+00:00",
+      "media_type": "video",
+      "media_size_bytes": 1707772,
+      "media_size_human": "1.63 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120406_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120406_photo.jpg",
+      "media_local_path": "media/Mellig_120407_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120407_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T13:40:35.625610+00:00"
+      "archived_at": "2026-08-30T13:50:29.010091+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -995,7 +1013,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T13:40:34.153880+00:00"
+      "archived_at": "2026-08-30T13:50:28.054172+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -1013,7 +1031,7 @@
       "media_local_path": "media/IranintlTV_354902_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354902_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T13:40:34.599083+00:00"
+      "archived_at": "2026-08-30T13:50:28.342041+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1031,25 +1049,25 @@
       "media_local_path": "media/satlastnews_76358_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76358_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T13:40:35.038540+00:00"
+      "archived_at": "2026-08-30T13:50:28.648925+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120405,
-      "message_link": "https://t.me/Mellig/120405",
-      "text": "چطور یک کار افرین ایرانی یک کار افرین امریکایی شد؟\nگفتگو با جناب سیاوش الف 7 شهریور 2585🖥😀\n\nMellig.net\n\n⚠️ پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 133.91 MB)",
+      "message_id": 120406,
+      "message_link": "https://t.me/Mellig/120406",
+      "text": "🚨گزارش سنتکام میگه اینا یه مشت آشغال ریخته بودن(۲۰۰ شئ مین شکل) تو تنگه میگفتن مین‌گذاری کردیم ولی کلا ۱۱ تا مین انداختن تو آب، که ازون ۱۱ تا ۵ تاش درست انجام شده بوده.",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "03:37:47",
-      "gregorian_utc": "2026-08-30T00:07:47+00:00",
-      "media_type": "audio",
-      "media_size_bytes": 140411643,
-      "media_size_human": "133.91 MB",
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 133.91 MB)",
-      "archived_at": "2026-08-30T13:40:35.625676+00:00"
+      "tehran_time": "03:55:55",
+      "gregorian_utc": "2026-08-30T00:25:55+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 60367,
+      "media_size_human": "58.95 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_120406_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120406_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-08-30T13:50:29.010118+00:00"
     }
   ]
 }
