@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-30T11:22:25.078399+00:00",
-  "shamsi_generated": "1405/06/08 11:22:25 تهران",
+  "generated_at": "2026-08-30T11:32:17.831104+00:00",
+  "shamsi_generated": "1405/06/08 11:32:17 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -41,25 +41,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T11:20:35.112046+00:00"
+      "archived_at": "2026-08-30T11:30:34.900056+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354885,
-      "message_link": "https://t.me/IranintlTV/354885",
-      "text": "اطلاعات رسیده به ایران‌اینترنشنال از جان باختن علی هاشمی، از بازداشت‌شدگان اعتراضات دی‌ماه، در زندان دستگرد اصفهان حکایت دارد. خانواده او که حدود یک هفته از علی هاشمی بی‌خبر بودند، سرانجام از بستری شدن او به‌دلیل ایست قلبی مطلع شدند، اما با مراجعه به بیمارستان با پیکر بی‌جان او مواجه شدند.\n\nهم‌زمان، خانواده عرفان اسفندیاری، معترض اعدام‌شده، در مراسم چهلم این جاویدنام به سوگ او نشستند.\n\nجزییات بیشتر در گفت‌وگو با فرنوش فرجی، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 354888,
+      "message_link": "https://t.me/IranintlTV/354888",
+      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال می‌گوید برق شهر آنها در استان گیلان تا روزی شش ساعت هم قطع می‌شود. او می‌گوید: «برگشته‌ایم به عصر حجر»",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "14:43:53",
-      "gregorian_utc": "2026-08-30T11:13:53+00:00",
+      "tehran_time": "14:59:56",
+      "gregorian_utc": "2026-08-30T11:29:56+00:00",
       "media_type": "video",
-      "media_size_bytes": 2666192,
-      "media_size_human": "2.54 MB",
+      "media_size_bytes": 3372556,
+      "media_size_human": "3.22 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354885_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354885_video.mp4",
+      "media_local_path": "media/IranintlTV_354888_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354888_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T11:20:35.408459+00:00"
+      "archived_at": "2026-08-30T11:30:35.162058+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -77,25 +77,25 @@
       "media_local_path": "media/satlastnews_76374_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76374_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T11:20:35.737275+00:00"
+      "archived_at": "2026-08-30T11:30:35.520438+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120408,
-      "message_link": "https://t.me/Mellig/120408",
-      "text": "مرگ ناگهانی، هنگام سخنرانی شبانه!\n\nنعمت‌ الهامی از چهره‌های شناخته شده منطقه مغان و کاندیدای دوازدهمین دوره انتخابات  طویله شورای اسلامی از حوزه انتخابیه پارس‌آباد حین سخنرانی شبانه سقط شد.",
+      "message_id": 120409,
+      "message_link": "https://t.me/Mellig/120409",
+      "text": "لیلی بازرگان، همسر سابق شاهین نجفی:\n\nشاهین نجفی عضو بسیج بوده و 3 سال پیش که دوماد سرخونه‌ی خونواده‌ی ما بود، برای بابام **قرآن رو با صوت** میخوند.\n\nMellig.net",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "11:28:28",
-      "gregorian_utc": "2026-08-30T07:58:28+00:00",
-      "media_type": "video",
-      "media_size_bytes": 4414510,
-      "media_size_human": "4.21 MB",
+      "tehran_time": "14:53:34",
+      "gregorian_utc": "2026-08-30T11:23:34+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 55700,
+      "media_size_human": "54.39 KB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120408_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120408_video.mp4",
+      "media_local_path": "media/Mellig_120409_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120409_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T11:20:36.037588+00:00"
+      "archived_at": "2026-08-30T11:30:35.825103+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -113,7 +113,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T11:20:36.288047+00:00"
+      "archived_at": "2026-08-30T11:30:36.038441+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -131,25 +131,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T11:20:35.112077+00:00"
+      "archived_at": "2026-08-30T11:30:34.900104+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354884,
-      "message_link": "https://t.me/IranintlTV/354884",
-      "text": "🔻مریم یکتایی، دروازه‌بان تیم ملی فوتبال زنان ایران، با امضای قراردادی یک‌ساله به استقلال پیوست تا یکی از مهم‌ترین خریدهای این تیم در بازار تابستانی لقب بگیرد.\n\n🔹یکتایی سابقه بازی در بشیکتاش ترکیه را در کارنامه دارد و همراه این تیم در لیگ قهرمانان زنان اروپا نیز به میدان رفته است.\n\n🔹استقلال در نقل‌وانتقالات تابستانی همچنین هاجر دباغی، رقیه جلال‌نسب، فاطمه مخدومی، شقایق روزبهان، فاطمه متولی، کوثر کمالی و زهره جلالی را به خدمت گرفته است تا با ترکیبی تقویت‌شده در رقابت‌های فصل جدید فوتبال زنان ایران حضور پیدا کند.\n\n@iranintltvsport",
+      "message_id": 354887,
+      "message_link": "https://t.me/IranintlTV/354887",
+      "text": "🎧نسخه صوتی اخبار نیم‌روزی | یک‌شنبه ۸ شهریور\n@iranintlTV",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "14:34:24",
-      "gregorian_utc": "2026-08-30T11:04:24+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 132305,
-      "media_size_human": "129.20 KB",
+      "tehran_time": "14:59:39",
+      "gregorian_utc": "2026-08-30T11:29:39+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 30306072,
+      "media_size_human": "28.90 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354884_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354884_photo.jpg",
+      "media_local_path": "media/IranintlTV_354887_audio.mp3",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354887_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T11:20:35.420368+00:00"
+      "archived_at": "2026-08-30T11:30:35.163845+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -167,25 +167,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T11:20:35.737530+00:00"
+      "archived_at": "2026-08-30T11:30:35.520832+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120407,
-      "message_link": "https://t.me/Mellig/120407",
-      "text": "واقعی و جدی!\n\nمقام‌های مراغه یک چاه فاضلاب را برای شادی روح  علی خامنه‌ای و سلامتی مجتبی خامنه‌ای افتتاح کردند\n\nMellig.net",
+      "message_id": 120408,
+      "message_link": "https://t.me/Mellig/120408",
+      "text": "مرگ ناگهانی، هنگام سخنرانی شبانه!\n\nنعمت‌ الهامی از چهره‌های شناخته شده منطقه مغان و کاندیدای دوازدهمین دوره انتخابات  طویله شورای اسلامی از حوزه انتخابیه پارس‌آباد حین سخنرانی شبانه سقط شد.",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "10:54:50",
-      "gregorian_utc": "2026-08-30T07:24:50+00:00",
+      "tehran_time": "11:28:28",
+      "gregorian_utc": "2026-08-30T07:58:28+00:00",
       "media_type": "video",
-      "media_size_bytes": 1707772,
-      "media_size_human": "1.63 MB",
+      "media_size_bytes": 4414510,
+      "media_size_human": "4.21 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120407_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120407_video.mp4",
+      "media_local_path": "media/Mellig_120408_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120408_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T11:20:36.037648+00:00"
+      "archived_at": "2026-08-30T11:30:35.825174+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -203,7 +203,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T11:20:36.288068+00:00"
+      "archived_at": "2026-08-30T11:30:36.038475+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -221,25 +221,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T11:20:35.112097+00:00"
+      "archived_at": "2026-08-30T11:30:34.900147+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354883,
-      "message_link": "https://t.me/IranintlTV/354883",
-      "text": "آرش آزرمی، دبیر بخش اقتصادی ایران‌اینترنشنال، با اشاره به اظهارات معاون مسعود پزشکیان درباره نقش هر دو جناح حکومت در قاچاق سازمان‌یافته سوخت گفت قاچاق روزانه ۲۰ تا ۳۰ میلیون لیتر بنزین و گازوئیل نمی‌تواند به‌صورت خرد انجام شود و شواهدی مانند کشف خطوط لوله و اسکله‌های مخفی، از سازمان‌یافته بودن آن حکایت دارد.\n\nاو گفت قاچاق سوخت سالانه پنج تا هشت میلیارد دلار درآمد ایجاد می‌کند و این نمونه‌ای از «دزدسالاری» و غارت منابع نفتی کشور است.\n@iranintltv",
+      "message_id": 354886,
+      "message_link": "https://t.me/IranintlTV/354886",
+      "text": "محسن مهدیان، کارشناس حکومتی، گفت: «تقلیل دشمنی آمریکا با جمهوری اسلامی به موضوع هسته‌ای و غنی‌سازی، ساده‌انگارانه و یک شوخی مبتذل است؛ غنی‌سازی نماد دشمنی است، نه اصل دشمنی.» \n@iranintltv",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "14:34:12",
-      "gregorian_utc": "2026-08-30T11:04:12+00:00",
+      "tehran_time": "14:52:29",
+      "gregorian_utc": "2026-08-30T11:22:29+00:00",
       "media_type": "video",
-      "media_size_bytes": 3864601,
-      "media_size_human": "3.69 MB",
+      "media_size_bytes": 423140,
+      "media_size_human": "413.22 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354883_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354883_video.mp4",
+      "media_local_path": "media/IranintlTV_354886_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354886_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T11:20:35.420493+00:00"
+      "archived_at": "2026-08-30T11:30:35.163943+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -257,25 +257,25 @@
       "media_local_path": "media/satlastnews_76369_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76369_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T11:20:35.737606+00:00"
+      "archived_at": "2026-08-30T11:30:35.520954+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120406,
-      "message_link": "https://t.me/Mellig/120406",
-      "text": "🚨گزارش سنتکام میگه اینا یه مشت آشغال ریخته بودن(۲۰۰ شئ مین شکل) تو تنگه میگفتن مین‌گذاری کردیم ولی کلا ۱۱ تا مین انداختن تو آب، که ازون ۱۱ تا ۵ تاش درست انجام شده بوده.",
+      "message_id": 120407,
+      "message_link": "https://t.me/Mellig/120407",
+      "text": "واقعی و جدی!\n\nمقام‌های مراغه یک چاه فاضلاب را برای شادی روح  علی خامنه‌ای و سلامتی مجتبی خامنه‌ای افتتاح کردند\n\nMellig.net",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "03:55:55",
-      "gregorian_utc": "2026-08-30T00:25:55+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 60367,
-      "media_size_human": "58.95 KB",
+      "tehran_time": "10:54:50",
+      "gregorian_utc": "2026-08-30T07:24:50+00:00",
+      "media_type": "video",
+      "media_size_bytes": 1707772,
+      "media_size_human": "1.63 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120406_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120406_photo.jpg",
+      "media_local_path": "media/Mellig_120407_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120407_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T11:20:36.037679+00:00"
+      "archived_at": "2026-08-30T11:30:35.825237+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -293,7 +293,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T11:20:36.288084+00:00"
+      "archived_at": "2026-08-30T11:30:36.038499+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -311,25 +311,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T11:20:35.112119+00:00"
+      "archived_at": "2026-08-30T11:30:34.900183+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354882,
-      "message_link": "https://t.me/IranintlTV/354882",
-      "text": "پلیس اسرائیل اعلام کرد دو نوجوان ۱۴ و ۱۶ ساله را به اتهام جاسوسی و انجام ماموریت برای حکومت ایران تحت پیگرد قانونی قرار داده است. این دو نوجوان در ماه خرداد از طریق پیام‌رسان تلگرام جذب شدند و در ازای دریافت پول، برای فردی که خود را مرتبط با جمهوری اسلامی معرفی کرده بود، ماموریت‌هایی انجام داده‌اند.\n\nجزییات بیشتر در گفت‌وگو با بابک اسحاقی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 354884,
+      "message_link": "https://t.me/IranintlTV/354884",
+      "text": "🔻مریم یکتایی، دروازه‌بان تیم ملی فوتبال زنان ایران، با امضای قراردادی یک‌ساله به استقلال پیوست تا یکی از مهم‌ترین خریدهای این تیم در بازار تابستانی لقب بگیرد.\n\n🔹یکتایی سابقه بازی در بشیکتاش ترکیه را در کارنامه دارد و همراه این تیم در لیگ قهرمانان زنان اروپا نیز به میدان رفته است.\n\n🔹استقلال در نقل‌وانتقالات تابستانی همچنین هاجر دباغی، رقیه جلال‌نسب، فاطمه مخدومی، شقایق روزبهان، فاطمه متولی، کوثر کمالی و زهره جلالی را به خدمت گرفته است تا با ترکیبی تقویت‌شده در رقابت‌های فصل جدید فوتبال زنان ایران حضور پیدا کند.\n\n@iranintltvsport",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "14:32:54",
-      "gregorian_utc": "2026-08-30T11:02:54+00:00",
-      "media_type": "video",
-      "media_size_bytes": 2234942,
-      "media_size_human": "2.13 MB",
+      "tehran_time": "14:34:24",
+      "gregorian_utc": "2026-08-30T11:04:24+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 132305,
+      "media_size_human": "129.20 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354882_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354882_video.mp4",
+      "media_local_path": "media/IranintlTV_354884_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354884_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T11:20:35.420554+00:00"
+      "archived_at": "2026-08-30T11:30:35.164096+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -347,25 +347,25 @@
       "media_local_path": "media/satlastnews_76368_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76368_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T11:20:35.737646+00:00"
+      "archived_at": "2026-08-30T11:30:35.521013+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120405,
-      "message_link": "https://t.me/Mellig/120405",
-      "text": "چطور یک کار افرین ایرانی یک کار افرین امریکایی شد؟\nگفتگو با جناب سیاوش الف 7 شهریور 2585🖥😀\n\nMellig.net\n\n⚠️ پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 133.91 MB)",
+      "message_id": 120406,
+      "message_link": "https://t.me/Mellig/120406",
+      "text": "🚨گزارش سنتکام میگه اینا یه مشت آشغال ریخته بودن(۲۰۰ شئ مین شکل) تو تنگه میگفتن مین‌گذاری کردیم ولی کلا ۱۱ تا مین انداختن تو آب، که ازون ۱۱ تا ۵ تاش درست انجام شده بوده.",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "03:37:47",
-      "gregorian_utc": "2026-08-30T00:07:47+00:00",
-      "media_type": "audio",
-      "media_size_bytes": 140411643,
-      "media_size_human": "133.91 MB",
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 133.91 MB)",
-      "archived_at": "2026-08-30T11:20:36.037733+00:00"
+      "tehran_time": "03:55:55",
+      "gregorian_utc": "2026-08-30T00:25:55+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 60367,
+      "media_size_human": "58.95 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_120406_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120406_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-08-30T11:30:35.825275+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -383,7 +383,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T11:20:36.288098+00:00"
+      "archived_at": "2026-08-30T11:30:36.038520+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -401,25 +401,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T11:20:35.112140+00:00"
+      "archived_at": "2026-08-30T11:30:34.900208+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354881,
-      "message_link": "https://t.me/IranintlTV/354881",
-      "text": "ویدیوی رسیده به ایران‌اینترنشنال نشان می‌دهد گروهی از زنان و مردان شامگاه جمعه ششم شهریور با گرفتن دست‌های هم در پارک قیطریه تهران رقص محلی اجرا می‌کنند.",
+      "message_id": 354883,
+      "message_link": "https://t.me/IranintlTV/354883",
+      "text": "آرش آزرمی، دبیر بخش اقتصادی ایران‌اینترنشنال، با اشاره به اظهارات معاون مسعود پزشکیان درباره نقش هر دو جناح حکومت در قاچاق سازمان‌یافته سوخت گفت قاچاق روزانه ۲۰ تا ۳۰ میلیون لیتر بنزین و گازوئیل نمی‌تواند به‌صورت خرد انجام شود و شواهدی مانند کشف خطوط لوله و اسکله‌های مخفی، از سازمان‌یافته بودن آن حکایت دارد.\n\nاو گفت قاچاق سوخت سالانه پنج تا هشت میلیارد دلار درآمد ایجاد می‌کند و این نمونه‌ای از «دزدسالاری» و غارت منابع نفتی کشور است.\n@iranintltv",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "14:29:56",
-      "gregorian_utc": "2026-08-30T10:59:56+00:00",
+      "tehran_time": "14:34:12",
+      "gregorian_utc": "2026-08-30T11:04:12+00:00",
       "media_type": "video",
-      "media_size_bytes": 4422209,
-      "media_size_human": "4.22 MB",
+      "media_size_bytes": 3864601,
+      "media_size_human": "3.69 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354881_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354881_video.mp4",
+      "media_local_path": "media/IranintlTV_354883_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354883_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T11:20:35.420578+00:00"
+      "archived_at": "2026-08-30T11:30:35.164185+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -437,25 +437,25 @@
       "media_local_path": "media/satlastnews_76367_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76367_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T11:20:35.737720+00:00"
+      "archived_at": "2026-08-30T11:30:35.521140+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120404,
-      "message_link": "https://t.me/Mellig/120404",
-      "text": "‏از درگذشت اعلیحضرت هارالد پنجم، پادشاه نروژ، عمیقاً متأثر و اندوهگین شدم.\n\n‏پادشاه هارالد بیش از سه دهه با احساس مسئولیتی عمیق، وقار و تعهدی خدشه‌ناپذیر به مردم نروژ و به کشور خود خدمت کرد. او چه در لحظات شادی و جشن و چه در روزهای اندوه عمیق ملی، حضوری پایدار و وحدت‌بخش داشت و نمادی از تداوم و خدمتگزاری به ملت بود.\n\n‏مراتب تسلیت صمیمانه خود را به اعلیحضرت هاکون هشتم، علیاحضرت ملکه سونیا، خانواده پادشاهی و مردم نروژ که در سوگ پادشاه محبوب خود نشسته‌اند، ابراز می‌دارم.\n\n‏مِهر، انسان‌دوستی و یک عمر خدمت پادشاه هارالد به ملت خود، میراثی ماندگار از او به یادگار خواهد گذاشت. نام و یاد او برای نسل‌های آینده گرامی خواهد بود.\n\n‏رضا پهلوی\n\n@OfficialRezaPahlavi",
+      "message_id": 120405,
+      "message_link": "https://t.me/Mellig/120405",
+      "text": "چطور یک کار افرین ایرانی یک کار افرین امریکایی شد؟\nگفتگو با جناب سیاوش الف 7 شهریور 2585🖥😀\n\nMellig.net\n\n⚠️ پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 133.91 MB)",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "03:26:02",
-      "gregorian_utc": "2026-08-29T23:56:02+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 88114,
-      "media_size_human": "86.05 KB",
-      "media_downloaded": true,
-      "media_local_path": "media/Mellig_120404_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120404_photo.jpg",
-      "no_media_reason": null,
-      "archived_at": "2026-08-30T11:20:36.037805+00:00"
+      "tehran_time": "03:37:47",
+      "gregorian_utc": "2026-08-30T00:07:47+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 140411643,
+      "media_size_human": "133.91 MB",
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 133.91 MB)",
+      "archived_at": "2026-08-30T11:30:35.825360+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -473,7 +473,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T11:20:36.288111+00:00"
+      "archived_at": "2026-08-30T11:30:36.038541+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -491,25 +491,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T11:20:35.112160+00:00"
+      "archived_at": "2026-08-30T11:30:34.900241+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354880,
-      "message_link": "https://t.me/IranintlTV/354880",
-      "text": "دادستانی اسرائیل، از صدور کیفرخواست برای دو نوجوان ۱۴ و ۱۶ ساله ساکن کریات موتزکین در نزدیکی حیفا، به اتهام همکاری با جمهوری اسلامی و اقداماتی چون «عکاسی و انتقال اطلاعات» خبر داد.\n\nبه گزارش دادستانی، این کیفرخواست به دادگاه جوانان ناحیه حیفا ارائه شده و این دو نوجوان همچنین متهم هستند که برای «جذب افراد زیر سن قانونی دیگر» برای انجام ماموریت‌های جمهوری اسلامی تلاش می‌کردند.\nhttps://iranintl.com/202608308726",
+      "message_id": 354882,
+      "message_link": "https://t.me/IranintlTV/354882",
+      "text": "پلیس اسرائیل اعلام کرد دو نوجوان ۱۴ و ۱۶ ساله را به اتهام جاسوسی و انجام ماموریت برای حکومت ایران تحت پیگرد قانونی قرار داده است. این دو نوجوان در ماه خرداد از طریق پیام‌رسان تلگرام جذب شدند و در ازای دریافت پول، برای فردی که خود را مرتبط با جمهوری اسلامی معرفی کرده بود، ماموریت‌هایی انجام داده‌اند.\n\nجزییات بیشتر در گفت‌وگو با بابک اسحاقی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "14:09:03",
-      "gregorian_utc": "2026-08-30T10:39:03+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 209104,
-      "media_size_human": "204.20 KB",
+      "tehran_time": "14:32:54",
+      "gregorian_utc": "2026-08-30T11:02:54+00:00",
+      "media_type": "video",
+      "media_size_bytes": 2234942,
+      "media_size_human": "2.13 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354880_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354880_photo.jpg",
+      "media_local_path": "media/IranintlTV_354882_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354882_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T11:20:35.420647+00:00"
+      "archived_at": "2026-08-30T11:30:35.164261+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -527,25 +527,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T11:20:35.737761+00:00"
+      "archived_at": "2026-08-30T11:30:35.521203+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120403,
-      "message_link": "https://t.me/Mellig/120403",
-      "text": "🔴 #خبر_فوری\nهم اکنون گزارش ها از انفجار های متعدد در مسکو،\nحملات پهپادی گسترده اوکراین به مسکو در جریان است.",
+      "message_id": 120404,
+      "message_link": "https://t.me/Mellig/120404",
+      "text": "‏از درگذشت اعلیحضرت هارالد پنجم، پادشاه نروژ، عمیقاً متأثر و اندوهگین شدم.\n\n‏پادشاه هارالد بیش از سه دهه با احساس مسئولیتی عمیق، وقار و تعهدی خدشه‌ناپذیر به مردم نروژ و به کشور خود خدمت کرد. او چه در لحظات شادی و جشن و چه در روزهای اندوه عمیق ملی، حضوری پایدار و وحدت‌بخش داشت و نمادی از تداوم و خدمتگزاری به ملت بود.\n\n‏مراتب تسلیت صمیمانه خود را به اعلیحضرت هاکون هشتم، علیاحضرت ملکه سونیا، خانواده پادشاهی و مردم نروژ که در سوگ پادشاه محبوب خود نشسته‌اند، ابراز می‌دارم.\n\n‏مِهر، انسان‌دوستی و یک عمر خدمت پادشاه هارالد به ملت خود، میراثی ماندگار از او به یادگار خواهد گذاشت. نام و یاد او برای نسل‌های آینده گرامی خواهد بود.\n\n‏رضا پهلوی\n\n@OfficialRezaPahlavi",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "03:04:42",
-      "gregorian_utc": "2026-08-29T23:34:42+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T11:20:36.037836+00:00"
+      "tehran_time": "03:26:02",
+      "gregorian_utc": "2026-08-29T23:56:02+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 88114,
+      "media_size_human": "86.05 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_120404_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120404_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-08-30T11:30:35.825463+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -563,7 +563,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T11:20:36.288124+00:00"
+      "archived_at": "2026-08-30T11:30:36.038563+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -581,25 +581,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T11:20:35.112177+00:00"
+      "archived_at": "2026-08-30T11:30:34.900266+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354879,
-      "message_link": "https://t.me/IranintlTV/354879",
-      "text": "یک دانشجو با ارسال ویدیویی به ایران‌اینترنشنال به گرانی‌های روزافزون در ایران اشاره می‌کند و آن را «دسته گل شاهکار جمهوری اسلامی» می‌نامد.",
+      "message_id": 354881,
+      "message_link": "https://t.me/IranintlTV/354881",
+      "text": "ویدیوی رسیده به ایران‌اینترنشنال نشان می‌دهد گروهی از زنان و مردان شامگاه جمعه ششم شهریور با گرفتن دست‌های هم در پارک قیطریه تهران رقص محلی اجرا می‌کنند.",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "13:59:57",
-      "gregorian_utc": "2026-08-30T10:29:57+00:00",
+      "tehran_time": "14:29:56",
+      "gregorian_utc": "2026-08-30T10:59:56+00:00",
       "media_type": "video",
-      "media_size_bytes": 5563275,
-      "media_size_human": "5.31 MB",
+      "media_size_bytes": 4422209,
+      "media_size_human": "4.22 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354879_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354879_video.mp4",
+      "media_local_path": "media/IranintlTV_354881_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354881_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T11:20:35.420674+00:00"
+      "archived_at": "2026-08-30T11:30:35.164334+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -617,25 +617,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T11:20:35.737836+00:00"
+      "archived_at": "2026-08-30T11:30:35.521341+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120402,
-      "message_link": "https://t.me/Mellig/120402",
-      "text": "جاویدنام سید جواد طباطبایی\n۳۳ ساله | مشهد\n\nجاویدنام سید جواد طباطبایی، ۳۳ ساله و متولد مشهد، شامگاه ۲۰ دی‌ماه ۱۴۰۴، در جریان انقلاب شیروخورشید و فراخوان شاهزاده رضا پهلوی، در بلوار معلم مشهد با اصابت ۸ گلوله توسط نیروهای سرکوب‌گر رژیم جمهوری اسلامی به‌شدت مجروح شد.\n\nاو دارای مدرک لیسانس حسابداری بود، اما مانند بسیاری از جوانان، به‌دلیل شرایط اقتصادی در کارخانه به‌عنوان کارگر مشغول بود و ماهانه حدود ۱۵ میلیون تومان درآمد داشت. سید جواد اصالتاً از کوی امیر بود و در سال‌های اخیر در جاده قدیم، شهرک نوید زندگی می‌کرد.\n\nپس از مجروح‌شدن، دو روز بعد یکی از نگهبانان بیمارستان فارابی برای تهیه خون مورد نیازش کمک کرد. سپس به بیمارستان ولایت منتقل شد. شدت جراحات بسیار سنگین بود؛ کبد، کلیه، مثانه، روده‌ها و هر دو پایش آسیب جدی دید و لگنش نیز شکسته بود.\n\nسید جواد حدود ۸ ماه تحت عمل‌های جراحی متعدد و سنگین قرار گرفت. با وجود تمام این دردها، در یکی از آخرین دیدارها گفته بود: «نمی‌تونم راه برم، وگرنه بازم می‌اومدم کف 🙏خیابون.»\n\nاو صدایی دلنشین داشت و عاشق موسیقی بود. سرانجام بامداد ۷ شهریور ۱۴۰۵، ساعت ۵، بر اثر جراحی درگذشت",
+      "message_id": 120403,
+      "message_link": "https://t.me/Mellig/120403",
+      "text": "🔴 #خبر_فوری\nهم اکنون گزارش ها از انفجار های متعدد در مسکو،\nحملات پهپادی گسترده اوکراین به مسکو در جریان است.",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "02:22:41",
-      "gregorian_utc": "2026-08-29T22:52:41+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 173371,
-      "media_size_human": "169.31 KB",
-      "media_downloaded": true,
-      "media_local_path": "media/Mellig_120402_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120402_photo.jpg",
-      "no_media_reason": null,
-      "archived_at": "2026-08-30T11:20:36.037926+00:00"
+      "tehran_time": "03:04:42",
+      "gregorian_utc": "2026-08-29T23:34:42+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-08-30T11:30:35.825506+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -653,7 +653,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T11:20:36.288140+00:00"
+      "archived_at": "2026-08-30T11:30:36.038588+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -671,25 +671,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T11:20:35.112204+00:00"
+      "archived_at": "2026-08-30T11:30:34.900320+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354878,
-      "message_link": "https://t.me/IranintlTV/354878",
-      "text": "ایمان آقایاری، تحلیل‌گر سیاسی، درباره پیام مجتبی خامنه‌ای به کشورهای مسلمان به مناسبت تولد پیامبر اسلام گفت: «پدر رهبر غایب جمهوری اسلامی، زمانی که درآمدهای میلیارد دلاری نفت در اختیارش بود و هنوز جنگ و شکاف‌های امروز به وجود نیامده بود، نتوانست خود را به‌عنوان رهبر مسلمانان جهان مطرح کند. حتی در مراسم تشییع او، شمار کمی از رهبران کشورهای مسلمان حضور داشتند. بنابراین، خطاب قرار دادن رهبران کشورهای مسلمان از سوی مجتبی خامنه‌ای چیزی جز توهم نیست.»\n@iranintltv",
+      "message_id": 354880,
+      "message_link": "https://t.me/IranintlTV/354880",
+      "text": "دادستانی اسرائیل، از صدور کیفرخواست برای دو نوجوان ۱۴ و ۱۶ ساله ساکن کریات موتزکین در نزدیکی حیفا، به اتهام همکاری با جمهوری اسلامی و اقداماتی چون «عکاسی و انتقال اطلاعات» خبر داد.\n\nبه گزارش دادستانی، این کیفرخواست به دادگاه جوانان ناحیه حیفا ارائه شده و این دو نوجوان همچنین متهم هستند که برای «جذب افراد زیر سن قانونی دیگر» برای انجام ماموریت‌های جمهوری اسلامی تلاش می‌کردند.\nhttps://iranintl.com/202608308726",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "13:57:21",
-      "gregorian_utc": "2026-08-30T10:27:21+00:00",
-      "media_type": "video",
-      "media_size_bytes": 3642748,
-      "media_size_human": "3.47 MB",
+      "tehran_time": "14:09:03",
+      "gregorian_utc": "2026-08-30T10:39:03+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 209104,
+      "media_size_human": "204.20 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354878_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354878_video.mp4",
+      "media_local_path": "media/IranintlTV_354880_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354880_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T11:20:35.420730+00:00"
+      "archived_at": "2026-08-30T11:30:35.164428+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -707,25 +707,25 @@
       "media_local_path": "media/satlastnews_76364_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76364_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T11:20:35.737878+00:00"
+      "archived_at": "2026-08-30T11:30:35.521401+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120401,
-      "message_link": "https://t.me/Mellig/120401",
-      "text": "آکسیوس: بیش از ۲۰۰ شیء مشکوک به مین که گفته می‌شود ایران در تنگه هرمز کار گذاشته بود، از مسیر اصلی کشتیرانی پاکسازی شده‌اند.\n\nمقام‌های آمریکایی می‌گویند تنها ۱۱ مورد واقعاً مین بوده‌اند و از میان این ۱۱ مین نیز فقط تعداد کمی به‌درستی کار گذاشته شده بودند.",
+      "message_id": 120402,
+      "message_link": "https://t.me/Mellig/120402",
+      "text": "جاویدنام سید جواد طباطبایی\n۳۳ ساله | مشهد\n\nجاویدنام سید جواد طباطبایی، ۳۳ ساله و متولد مشهد، شامگاه ۲۰ دی‌ماه ۱۴۰۴، در جریان انقلاب شیروخورشید و فراخوان شاهزاده رضا پهلوی، در بلوار معلم مشهد با اصابت ۸ گلوله توسط نیروهای سرکوب‌گر رژیم جمهوری اسلامی به‌شدت مجروح شد.\n\nاو دارای مدرک لیسانس حسابداری بود، اما مانند بسیاری از جوانان، به‌دلیل شرایط اقتصادی در کارخانه به‌عنوان کارگر مشغول بود و ماهانه حدود ۱۵ میلیون تومان درآمد داشت. سید جواد اصالتاً از کوی امیر بود و در سال‌های اخیر در جاده قدیم، شهرک نوید زندگی می‌کرد.\n\nپس از مجروح‌شدن، دو روز بعد یکی از نگهبانان بیمارستان فارابی برای تهیه خون مورد نیازش کمک کرد. سپس به بیمارستان ولایت منتقل شد. شدت جراحات بسیار سنگین بود؛ کبد، کلیه، مثانه، روده‌ها و هر دو پایش آسیب جدی دید و لگنش نیز شکسته بود.\n\nسید جواد حدود ۸ ماه تحت عمل‌های جراحی متعدد و سنگین قرار گرفت. با وجود تمام این دردها، در یکی از آخرین دیدارها گفته بود: «نمی‌تونم راه برم، وگرنه بازم می‌اومدم کف 🙏خیابون.»\n\nاو صدایی دلنشین داشت و عاشق موسیقی بود. سرانجام بامداد ۷ شهریور ۱۴۰۵، ساعت ۵، بر اثر جراحی درگذشت",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "01:49:07",
-      "gregorian_utc": "2026-08-29T22:19:07+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T11:20:36.037942+00:00"
+      "tehran_time": "02:22:41",
+      "gregorian_utc": "2026-08-29T22:52:41+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 173371,
+      "media_size_human": "169.31 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_120402_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120402_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-08-30T11:30:35.825643+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -743,7 +743,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T11:20:36.288153+00:00"
+      "archived_at": "2026-08-30T11:30:36.038609+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -761,25 +761,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T11:20:35.112232+00:00"
+      "archived_at": "2026-08-30T11:30:34.900346+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354877,
-      "message_link": "https://t.me/IranintlTV/354877",
-      "text": "🔻تیم ملی والیبال زنان ایران با شکست برابر ژاپن در دیدار رده‌بندی مسابقات قهرمانی آسیا ۲۰۲۶، در جایگاه چهارم این رقابت‌ها قرار گرفت.\n\n🔹شاگردان علیرضا طلوع‌کیان در این بازی در سه ست پیاپی مغلوب ژاپن شدند. ایران در ست نخست با نتیجه ۲۵ بر ۲۱، در ست دوم ۲۵ بر ۱۶ و در ست سوم با نتیجه نزدیک ۲۶ بر ۲۴ شکست خورد تا از رسیدن به مدال باز بماند و ژاپن روی سکوی سوم آسیا قرار بگیرد.\n\n🔹با وجود این شکست، تیم ملی زنان ایران با صعود به مرحله نیمه‌نهایی برای نخستین بار در تاریخ، موفق شد در جمع چهار تیم برتر آسیا قرار بگیرد.\n\n🔹ملی‌پوشان ایران در مسیر این رقابت‌ها مقابل چین‌تایپه، عراق و اندونزی به پیروزی رسیدند و دو بار برابر چین و یک بار مقابل ژاپن شکست خوردند تا در نهایت با کسب عنوان چهارمی به کار خود در این دوره از مسابقات پایان دهند.\n\n@iranintltvsport",
+      "message_id": 354879,
+      "message_link": "https://t.me/IranintlTV/354879",
+      "text": "یک دانشجو با ارسال ویدیویی به ایران‌اینترنشنال به گرانی‌های روزافزون در ایران اشاره می‌کند و آن را «دسته گل شاهکار جمهوری اسلامی» می‌نامد.",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "13:53:31",
-      "gregorian_utc": "2026-08-30T10:23:31+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 198693,
-      "media_size_human": "194.04 KB",
+      "tehran_time": "13:59:57",
+      "gregorian_utc": "2026-08-30T10:29:57+00:00",
+      "media_type": "video",
+      "media_size_bytes": 5563275,
+      "media_size_human": "5.31 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354877_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354877_photo.jpg",
+      "media_local_path": "media/IranintlTV_354879_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354879_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T11:20:35.420815+00:00"
+      "archived_at": "2026-08-30T11:30:35.164462+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -797,25 +797,25 @@
       "media_local_path": "media/satlastnews_76363_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76363_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T11:20:35.737909+00:00"
+      "archived_at": "2026-08-30T11:30:35.521446+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120400,
-      "message_link": "https://t.me/Mellig/120400",
-      "text": "🔴🔴مجوز عمومی G لغو شد که نتیجه‌اش لغو آزمون های زبان هست!\n\n🔹اگر مجوز عمومی D-1 هم لغو بشه همه سرویس های رایگان اینترنتی مثل ایمیل و چت و غیره هم برای ایرانی ها مسدود میشن. \n\n🔹بهتره از همه داده هاتون به صورت آفلاین پشتیبان تهیه کنید.",
+      "message_id": 120401,
+      "message_link": "https://t.me/Mellig/120401",
+      "text": "آکسیوس: بیش از ۲۰۰ شیء مشکوک به مین که گفته می‌شود ایران در تنگه هرمز کار گذاشته بود، از مسیر اصلی کشتیرانی پاکسازی شده‌اند.\n\nمقام‌های آمریکایی می‌گویند تنها ۱۱ مورد واقعاً مین بوده‌اند و از میان این ۱۱ مین نیز فقط تعداد کمی به‌درستی کار گذاشته شده بودند.",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "01:38:06",
-      "gregorian_utc": "2026-08-29T22:08:06+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 111948,
-      "media_size_human": "109.32 KB",
-      "media_downloaded": true,
-      "media_local_path": "media/Mellig_120400_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120400_photo.jpg",
-      "no_media_reason": null,
-      "archived_at": "2026-08-30T11:20:36.037963+00:00"
+      "tehran_time": "01:49:07",
+      "gregorian_utc": "2026-08-29T22:19:07+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-08-30T11:30:35.825668+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -833,7 +833,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T11:20:36.288166+00:00"
+      "archived_at": "2026-08-30T11:30:36.038632+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -851,25 +851,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T11:20:35.112250+00:00"
+      "archived_at": "2026-08-30T11:30:34.900369+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354876,
-      "message_link": "https://t.me/IranintlTV/354876",
-      "text": "🔻باشگاه استقلال در واکنش به اتفاقات رخ‌داده در دیدار مقابل فولاد خوزستان، از شکایت رسمی به ارکان قضایی فدراسیون فوتبال خبر داد.\n\n🔹باشگاه استقلال در بیانیه‌ای اعلام کرد: «در دیدار جمعه‌شب میان استقلال و فولاد در اهواز، اتفاقاتی پیش از آغاز مسابقه، در جریان بازی و پس از پایان آن رخ داد که موجب نگرانی و ناراحتی هواداران، اعضای تیم و مجموعه باشگاه استقلال شد.»\n\n🔹این باشگاه با تاکید بر احترام خود به مردم خوزستان و هواداران استقلال در این استان، افزود: «حساب مردم شریف، اصیل و مهمان‌نواز خوزستان و همچنین هواداران پرشمار استقلال در این استان، از عده‌ای تماشاگرنما که با رفتارهای خود فضای ورزشگاه و اطراف آن را متشنج کردند، کاملا جداست.»\n\n🔹استقلال همچنین مدعی شد که پیش از مسابقه تهدیدهایی علیه هواداران این تیم در فضای مجازی مطرح شده و در جریان بازی نیز «شعارهای توهین‌آمیز علیه بازیکنان و هواداران استقلال» سر داده شده است. این باشگاه همچنین از پرتاب بطری و مواد محترقه به داخل زمین خبر داد و اعلام کرد این اتفاقات در مواردی سلامت بازیکنان استقلال را به خطر انداخته است.\n\n🔹[**جزییات بیشتر**](https://iranintl.com/202608305322) را در سایت بخوانید\n\n@iranintltvsport",
+      "message_id": 354878,
+      "message_link": "https://t.me/IranintlTV/354878",
+      "text": "ایمان آقایاری، تحلیل‌گر سیاسی، درباره پیام مجتبی خامنه‌ای به کشورهای مسلمان به مناسبت تولد پیامبر اسلام گفت: «پدر رهبر غایب جمهوری اسلامی، زمانی که درآمدهای میلیارد دلاری نفت در اختیارش بود و هنوز جنگ و شکاف‌های امروز به وجود نیامده بود، نتوانست خود را به‌عنوان رهبر مسلمانان جهان مطرح کند. حتی در مراسم تشییع او، شمار کمی از رهبران کشورهای مسلمان حضور داشتند. بنابراین، خطاب قرار دادن رهبران کشورهای مسلمان از سوی مجتبی خامنه‌ای چیزی جز توهم نیست.»\n@iranintltv",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "13:53:31",
-      "gregorian_utc": "2026-08-30T10:23:31+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 165202,
-      "media_size_human": "161.33 KB",
+      "tehran_time": "13:57:21",
+      "gregorian_utc": "2026-08-30T10:27:21+00:00",
+      "media_type": "video",
+      "media_size_bytes": 3642748,
+      "media_size_human": "3.47 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354876_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354876_photo.jpg",
+      "media_local_path": "media/IranintlTV_354878_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354878_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T11:20:35.420925+00:00"
+      "archived_at": "2026-08-30T11:30:35.164545+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -887,25 +887,25 @@
       "media_local_path": "media/satlastnews_76362_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76362_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T11:20:35.737930+00:00"
+      "archived_at": "2026-08-30T11:30:35.521478+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120399,
-      "message_link": "https://t.me/Mellig/120399",
-      "text": "🔴 پهپادهای جت‌موتور Geran-4 روسیه در حال حمله به کی‌یف، پایتخت اوکراین هستند. آتش‌سوزی بزرگی در پایتخت مشاهده شده است.",
+      "message_id": 120400,
+      "message_link": "https://t.me/Mellig/120400",
+      "text": "🔴🔴مجوز عمومی G لغو شد که نتیجه‌اش لغو آزمون های زبان هست!\n\n🔹اگر مجوز عمومی D-1 هم لغو بشه همه سرویس های رایگان اینترنتی مثل ایمیل و چت و غیره هم برای ایرانی ها مسدود میشن. \n\n🔹بهتره از همه داده هاتون به صورت آفلاین پشتیبان تهیه کنید.",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "01:32:38",
-      "gregorian_utc": "2026-08-29T22:02:38+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T11:20:36.037976+00:00"
+      "tehran_time": "01:38:06",
+      "gregorian_utc": "2026-08-29T22:08:06+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 111948,
+      "media_size_human": "109.32 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_120400_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120400_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-08-30T11:30:35.825698+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -923,25 +923,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T11:20:35.112265+00:00"
+      "archived_at": "2026-08-30T11:30:34.900391+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354875,
-      "message_link": "https://t.me/IranintlTV/354875",
-      "text": "بر اساس گزارش رسانه‌های ایران، قیمت برخی انواع نوار بهداشتی طی یک سال گذشته با جهشی بی‌سابقه، بیش از پنج برابر شده است.\n\nقیمت برند مای‌لیدی با ۳۳۰ درصد افزایش به ۱۶۵ هزار تومان و تافته با ۴۳۰ درصد رشد به ۱۱۲ هزار تومان رسیده است.\n\nبرندهای وارداتی هم تا ۶۰۰ هزار تومان فروخته می‌شوند. این افزایش شدید قیمت، هزینه سالانه خرید محصولات بهداشتی زنان را به سه میلیون تومان و محصولات خارجی را به بیش از ۱۴ میلیون تومان رسانده است.\n\nگفت‌وگو با کیانا کثیری، متخصص پزشک خانواده\n@iranintltv",
+      "message_id": 354877,
+      "message_link": "https://t.me/IranintlTV/354877",
+      "text": "🔻تیم ملی والیبال زنان ایران با شکست برابر ژاپن در دیدار رده‌بندی مسابقات قهرمانی آسیا ۲۰۲۶، در جایگاه چهارم این رقابت‌ها قرار گرفت.\n\n🔹شاگردان علیرضا طلوع‌کیان در این بازی در سه ست پیاپی مغلوب ژاپن شدند. ایران در ست نخست با نتیجه ۲۵ بر ۲۱، در ست دوم ۲۵ بر ۱۶ و در ست سوم با نتیجه نزدیک ۲۶ بر ۲۴ شکست خورد تا از رسیدن به مدال باز بماند و ژاپن روی سکوی سوم آسیا قرار بگیرد.\n\n🔹با وجود این شکست، تیم ملی زنان ایران با صعود به مرحله نیمه‌نهایی برای نخستین بار در تاریخ، موفق شد در جمع چهار تیم برتر آسیا قرار بگیرد.\n\n🔹ملی‌پوشان ایران در مسیر این رقابت‌ها مقابل چین‌تایپه، عراق و اندونزی به پیروزی رسیدند و دو بار برابر چین و یک بار مقابل ژاپن شکست خوردند تا در نهایت با کسب عنوان چهارمی به کار خود در این دوره از مسابقات پایان دهند.\n\n@iranintltvsport",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "13:49:54",
-      "gregorian_utc": "2026-08-30T10:19:54+00:00",
-      "media_type": "video",
-      "media_size_bytes": 3226906,
-      "media_size_human": "3.08 MB",
+      "tehran_time": "13:53:31",
+      "gregorian_utc": "2026-08-30T10:23:31+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 198693,
+      "media_size_human": "194.04 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354875_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354875_video.mp4",
+      "media_local_path": "media/IranintlTV_354877_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354877_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T11:20:35.420978+00:00"
+      "archived_at": "2026-08-30T11:30:35.164678+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -959,17 +959,17 @@
       "media_local_path": "media/satlastnews_76361_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76361_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T11:20:35.738027+00:00"
+      "archived_at": "2026-08-30T11:30:35.521627+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120398,
-      "message_link": "https://t.me/Mellig/120398",
-      "text": "🔹بانک مرکزی امارات فقط ۹ ساعت پس از اقدام آمریکا در تحریم یک بانک مصری، از آغاز بازرسی از فعالیت شعبه بانک مصر در این کشور خبر داد.\n🔹وزارت خزانه‌داری آمریکا پیشتر مدعی شده شعبه امارات بانک مصر از ژانویه ۲۰۲۴ تا ژوئن ۲۰۲۶ حدود ۱.۸ میلیارد دلار تراکنش برای ۱۰۳ شرکت پردازش کرده که احتمال ارتباط آن‌ها با شبکه‌های مالی ایران وجود دارد.",
+      "message_id": 120399,
+      "message_link": "https://t.me/Mellig/120399",
+      "text": "🔴 پهپادهای جت‌موتور Geran-4 روسیه در حال حمله به کی‌یف، پایتخت اوکراین هستند. آتش‌سوزی بزرگی در پایتخت مشاهده شده است.",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "01:30:30",
-      "gregorian_utc": "2026-08-29T22:00:30+00:00",
+      "tehran_time": "01:32:38",
+      "gregorian_utc": "2026-08-29T22:02:38+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -977,7 +977,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T11:20:36.037988+00:00"
+      "archived_at": "2026-08-30T11:30:35.825720+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -995,25 +995,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T11:20:35.112279+00:00"
+      "archived_at": "2026-08-30T11:30:34.900412+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354874,
-      "message_link": "https://t.me/IranintlTV/354874",
-      "text": "ویدیوی ارسال‌شده به ایران‌اینترنشنال، صف طولانی خودروها را برای دریافت بنزین مقابل جایگاه سوختی در خیابان فدائیان اسلام مشهد نشان می‌دهد.",
+      "message_id": 354876,
+      "message_link": "https://t.me/IranintlTV/354876",
+      "text": "🔻باشگاه استقلال در واکنش به اتفاقات رخ‌داده در دیدار مقابل فولاد خوزستان، از شکایت رسمی به ارکان قضایی فدراسیون فوتبال خبر داد.\n\n🔹باشگاه استقلال در بیانیه‌ای اعلام کرد: «در دیدار جمعه‌شب میان استقلال و فولاد در اهواز، اتفاقاتی پیش از آغاز مسابقه، در جریان بازی و پس از پایان آن رخ داد که موجب نگرانی و ناراحتی هواداران، اعضای تیم و مجموعه باشگاه استقلال شد.»\n\n🔹این باشگاه با تاکید بر احترام خود به مردم خوزستان و هواداران استقلال در این استان، افزود: «حساب مردم شریف، اصیل و مهمان‌نواز خوزستان و همچنین هواداران پرشمار استقلال در این استان، از عده‌ای تماشاگرنما که با رفتارهای خود فضای ورزشگاه و اطراف آن را متشنج کردند، کاملا جداست.»\n\n🔹استقلال همچنین مدعی شد که پیش از مسابقه تهدیدهایی علیه هواداران این تیم در فضای مجازی مطرح شده و در جریان بازی نیز «شعارهای توهین‌آمیز علیه بازیکنان و هواداران استقلال» سر داده شده است. این باشگاه همچنین از پرتاب بطری و مواد محترقه به داخل زمین خبر داد و اعلام کرد این اتفاقات در مواردی سلامت بازیکنان استقلال را به خطر انداخته است.\n\n🔹[**جزییات بیشتر**](https://iranintl.com/202608305322) را در سایت بخوانید\n\n@iranintltvsport",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "13:29:57",
-      "gregorian_utc": "2026-08-30T09:59:57+00:00",
-      "media_type": "video",
-      "media_size_bytes": 14263912,
-      "media_size_human": "13.60 MB",
+      "tehran_time": "13:53:31",
+      "gregorian_utc": "2026-08-30T10:23:31+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 165202,
+      "media_size_human": "161.33 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354874_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354874_video.mp4",
+      "media_local_path": "media/IranintlTV_354876_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354876_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T11:20:35.421000+00:00"
+      "archived_at": "2026-08-30T11:30:35.164844+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1031,25 +1031,25 @@
       "media_local_path": "media/satlastnews_76358_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76358_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T11:20:35.738064+00:00"
+      "archived_at": "2026-08-30T11:30:35.521684+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120397,
-      "message_link": "https://t.me/Mellig/120397",
-      "text": "صحبت‌های آزاده اخلاقی همسر محسن نامجو. نامجو ایشون رو قال گذاشتن.\n\n@Mellig",
+      "message_id": 120398,
+      "message_link": "https://t.me/Mellig/120398",
+      "text": "🔹بانک مرکزی امارات فقط ۹ ساعت پس از اقدام آمریکا در تحریم یک بانک مصری، از آغاز بازرسی از فعالیت شعبه بانک مصر در این کشور خبر داد.\n🔹وزارت خزانه‌داری آمریکا پیشتر مدعی شده شعبه امارات بانک مصر از ژانویه ۲۰۲۴ تا ژوئن ۲۰۲۶ حدود ۱.۸ میلیارد دلار تراکنش برای ۱۰۳ شرکت پردازش کرده که احتمال ارتباط آن‌ها با شبکه‌های مالی ایران وجود دارد.",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "00:55:01",
-      "gregorian_utc": "2026-08-29T21:25:01+00:00",
-      "media_type": "video",
-      "media_size_bytes": 14515095,
-      "media_size_human": "13.84 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/Mellig_120397_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120397_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-08-30T11:20:36.038015+00:00"
+      "tehran_time": "01:30:30",
+      "gregorian_utc": "2026-08-29T22:00:30+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-08-30T11:30:35.825740+00:00"
     }
   ]
 }
