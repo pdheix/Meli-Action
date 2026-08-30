@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-30T14:13:03.062116+00:00",
-  "shamsi_generated": "1405/06/08 14:13:03 تهران",
+  "generated_at": "2026-08-30T14:23:44.042142+00:00",
+  "shamsi_generated": "1405/06/08 14:23:44 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -41,25 +41,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T14:10:32.826337+00:00"
+      "archived_at": "2026-08-30T14:20:33.851716+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354918,
-      "message_link": "https://t.me/IranintlTV/354918",
-      "text": "🔻 تیم فوتبال ملوان در حالی در هفته چهارم لیگ برتر با نتیجه ۳-۰ برابر پرسپولیس شکست خورد اما هواداران این تیم آنها را در ورزشگاه قلعه‌حسن‌خان تنها نگذاشتند و این تیم را تشویق کردند. هواداران زن ملوان مثل تمام بازی‌های این تیم، قوی سپید انزلی را تشویق کردند.\n\n@iranintltvsport",
+      "message_id": 354919,
+      "message_link": "https://t.me/IranintlTV/354919",
+      "text": "ایرانیان مقیم برلین با برگزاری تجمع اعتراضی، برافراشتن پرچم شیر و خورشید و در دست داشتن تصاویر جان‌باختگان اعتراضات، بر زنده نگه داشتن یاد آنان تاکید کردند. معترضان همچنین خواستار اخراج دیپلمات‌های جمهوری اسلامی از آلمان شدند.\n\nگزارش علی حسن‌پور، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "17:31:49",
-      "gregorian_utc": "2026-08-30T14:01:49+00:00",
+      "tehran_time": "17:45:12",
+      "gregorian_utc": "2026-08-30T14:15:12+00:00",
       "media_type": "video",
-      "media_size_bytes": 3868106,
-      "media_size_human": "3.69 MB",
+      "media_size_bytes": 2546089,
+      "media_size_human": "2.43 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354918_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354918_video.mp4",
+      "media_local_path": "media/IranintlTV_354919_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354919_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T14:10:33.192093+00:00"
+      "archived_at": "2026-08-30T14:20:34.239591+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -77,25 +77,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T14:10:33.550057+00:00"
+      "archived_at": "2026-08-30T14:20:34.635040+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120419,
-      "message_link": "https://t.me/Mellig/120419",
-      "text": "محسن نامجو در کنسرت نیویورک، ۱۶ شهریور ۱۳۹۲\n\nچقدر این هنر به جمهوری اسلامی میاد\n\nMellig.net",
+      "message_id": 120421,
+      "message_link": "https://t.me/Mellig/120421",
+      "text": "جنگ اقتصادی ترامپ فقط چند روز هست که شروع شده است و رژیم قافیه را باخته است",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "17:37:01",
-      "gregorian_utc": "2026-08-30T14:07:01+00:00",
+      "tehran_time": "17:44:16",
+      "gregorian_utc": "2026-08-30T14:14:16+00:00",
       "media_type": "video",
-      "media_size_bytes": 764410,
-      "media_size_human": "746.49 KB",
+      "media_size_bytes": 16715167,
+      "media_size_human": "15.94 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120419_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120419_video.mp4",
+      "media_local_path": "media/Mellig_120421_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120421_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T14:10:33.895174+00:00"
+      "archived_at": "2026-08-30T14:20:35.013608+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -113,7 +113,7 @@
       "media_local_path": "media/khabarsara53_11_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_11_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T14:10:34.221934+00:00"
+      "archived_at": "2026-08-30T14:20:35.374386+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -131,25 +131,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T14:10:32.826379+00:00"
+      "archived_at": "2026-08-30T14:20:33.851765+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354917,
-      "message_link": "https://t.me/IranintlTV/354917",
-      "text": "ویدیوهای رسیده به ایران‌اینترنشنال نشان می‌دهد گروهی از ایرانیان مقیم اسپانیا یکشنبه هشتم شهریور در بارسلون تجمع کردند و با خواندن نام جاویدنامان انقلاب ملی، یاد آنها را گرامی داشتند.",
+      "message_id": 354918,
+      "message_link": "https://t.me/IranintlTV/354918",
+      "text": "🔻 تیم فوتبال ملوان در حالی در هفته چهارم لیگ برتر با نتیجه ۳-۰ برابر پرسپولیس شکست خورد اما هواداران این تیم آنها را در ورزشگاه قلعه‌حسن‌خان تنها نگذاشتند و این تیم را تشویق کردند. هواداران زن ملوان مثل تمام بازی‌های این تیم، قوی سپید انزلی را تشویق کردند.\n\n@iranintltvsport",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "17:29:57",
-      "gregorian_utc": "2026-08-30T13:59:57+00:00",
+      "tehran_time": "17:31:49",
+      "gregorian_utc": "2026-08-30T14:01:49+00:00",
       "media_type": "video",
-      "media_size_bytes": 10146322,
-      "media_size_human": "9.68 MB",
+      "media_size_bytes": 3868106,
+      "media_size_human": "3.69 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354917_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354917_video.mp4",
+      "media_local_path": "media/IranintlTV_354918_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354918_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T14:10:33.192199+00:00"
+      "archived_at": "2026-08-30T14:20:34.256589+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -167,17 +167,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T14:10:33.550115+00:00"
+      "archived_at": "2026-08-30T14:20:34.635106+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120418,
-      "message_link": "https://t.me/Mellig/120418",
-      "text": "استارلینک در امارات فعال شد؛ اینترنت ماهواره‌ای به کاربران خانگی رسید.",
+      "message_id": 120420,
+      "message_link": "https://t.me/Mellig/120420",
+      "text": "🔴 #خبر_فوری\nجنگ در اروپا در آستانه تشدید دیوانه وار،\nاوکراین از برنامه ریزی روسیه برای بسیج سراسری 500 هزار نیرو و حمله زمینی مستقیم به پایتخت این کشور خبر داد.",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "17:29:12",
-      "gregorian_utc": "2026-08-30T13:59:12+00:00",
+      "tehran_time": "17:43:01",
+      "gregorian_utc": "2026-08-30T14:13:01+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -185,7 +185,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T14:10:33.895207+00:00"
+      "archived_at": "2026-08-30T14:20:35.013689+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -203,7 +203,7 @@
       "media_local_path": "media/khabarsara53_10_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_10_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T14:10:34.221995+00:00"
+      "archived_at": "2026-08-30T14:20:35.374459+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -221,25 +221,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T14:10:32.826406+00:00"
+      "archived_at": "2026-08-30T14:20:33.851801+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354916,
-      "message_link": "https://t.me/IranintlTV/354916",
-      "text": "ویدیوی ارسال‌شده به ایران‌اینترنشنال در یکشنبه هشتم شهریور وقوع طوفان گرد و خاک را در حوالی شهر جوانرود در استان کرمانشاه نشان می‌دهد.",
+      "message_id": 354917,
+      "message_link": "https://t.me/IranintlTV/354917",
+      "text": "ویدیوهای رسیده به ایران‌اینترنشنال نشان می‌دهد گروهی از ایرانیان مقیم اسپانیا یکشنبه هشتم شهریور در بارسلون تجمع کردند و با خواندن نام جاویدنامان انقلاب ملی، یاد آنها را گرامی داشتند.",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "17:23:52",
-      "gregorian_utc": "2026-08-30T13:53:52+00:00",
+      "tehran_time": "17:29:57",
+      "gregorian_utc": "2026-08-30T13:59:57+00:00",
       "media_type": "video",
-      "media_size_bytes": 5471196,
-      "media_size_human": "5.22 MB",
+      "media_size_bytes": 10146322,
+      "media_size_human": "9.68 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354916_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354916_video.mp4",
+      "media_local_path": "media/IranintlTV_354917_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354917_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T14:10:33.192238+00:00"
+      "archived_at": "2026-08-30T14:20:34.256725+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -257,25 +257,25 @@
       "media_local_path": "media/satlastnews_76374_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76374_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T14:10:33.550215+00:00"
+      "archived_at": "2026-08-30T14:20:34.635206+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120417,
-      "message_link": "https://t.me/Mellig/120417",
-      "text": "📖 به بهانه معرفی کتاب «هرگز نخواهیم بخشید»\n\n🕊️ سمینار دادخواهی\n\nروایت‌ها را زنده نگه می‌داریم؛\nنام‌ها را فراموش نمی‌کنیم؛\nو در برابر فراموشی می‌ایستیم.\n\nبا ما همراه شوید تا روایت‌های جاویدنامان راه میهن را بازگو کنیم و از دادخواهی، حقیقت و حافظه تاریخی‌مان بگوییم.\n\n📍 وعده دیدار ما:\nLöfströms Allé 7\nSundbyberg\n\n🎙 با میزبانی اعضای تحریریه\n«هرگز نخواهیم بخشید»\n\nبا ما همراه شوید؛\nبرای یادآوری، برای دادخواهی،\nبرای اینکه هرگز فراموش نکنیم. 🕊️",
+      "message_id": 120419,
+      "message_link": "https://t.me/Mellig/120419",
+      "text": "محسن نامجو در کنسرت نیویورک، ۱۶ شهریور ۱۳۹۲\n\nچقدر این هنر به جمهوری اسلامی میاد\n\nMellig.net",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "17:14:08",
-      "gregorian_utc": "2026-08-30T13:44:08+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 526533,
-      "media_size_human": "514.19 KB",
+      "tehran_time": "17:37:01",
+      "gregorian_utc": "2026-08-30T14:07:01+00:00",
+      "media_type": "video",
+      "media_size_bytes": 764410,
+      "media_size_human": "746.49 KB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120417_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120417_photo.jpg",
+      "media_local_path": "media/Mellig_120419_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120419_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T14:10:33.895248+00:00"
+      "archived_at": "2026-08-30T14:20:35.013751+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -293,7 +293,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T14:10:34.222019+00:00"
+      "archived_at": "2026-08-30T14:20:35.374491+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -311,25 +311,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T14:10:32.826438+00:00"
+      "archived_at": "2026-08-30T14:20:33.851844+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354915,
-      "message_link": "https://t.me/IranintlTV/354915",
-      "text": "محمد جمالو، رییس سازمان ثبت احوال کشور، اعلام کرد که کارت ملی هوشمند ۶ میلیون شهروند ایرانی همچنان صادر و تحویل نشده است.\n\nاو افزود: «به دلایل مختلف، از جمله تورم قوانین و تعدد دستگاه‌هایی که در این حوزه مسئولیت دارند، باعث شده این اتفاق‌ها بیفتد؛ کارت ملی یک کارت عادی نیست؛ ویژگی‌های این کارت قابلیت احراز هویت دقیق را فراهم می‌کند و تا پایان پاییز امسال بسیار امید داریم که این بدهکاری‌ها تمام شود.»\n\nجمالو درباره عکس افراد روی کارت ملی نیز با اشاره به اینکه یکی از مهم‌ترین دغدغه‌ها عکس افراد است، گفت: «در کل دنیا عکس روی کارت شناسایی، با عکس‌های آتلیه‌ای متفاوت است. حتما یک مقدار دوباره نارضایتی‌هایی هم داریم، ولی قطعا بهبود جدی خواهیم داشت.»\nhttps://iranintl.com/202608305439",
+      "message_id": 354916,
+      "message_link": "https://t.me/IranintlTV/354916",
+      "text": "ویدیوی ارسال‌شده به ایران‌اینترنشنال در یکشنبه هشتم شهریور وقوع طوفان گرد و خاک را در حوالی شهر جوانرود در استان کرمانشاه نشان می‌دهد.",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "17:22:56",
-      "gregorian_utc": "2026-08-30T13:52:56+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 119084,
-      "media_size_human": "116.29 KB",
+      "tehran_time": "17:23:52",
+      "gregorian_utc": "2026-08-30T13:53:52+00:00",
+      "media_type": "video",
+      "media_size_bytes": 5471196,
+      "media_size_human": "5.22 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354915_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354915_photo.jpg",
+      "media_local_path": "media/IranintlTV_354916_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354916_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T14:10:33.192378+00:00"
+      "archived_at": "2026-08-30T14:20:34.256776+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -347,17 +347,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T14:10:33.550606+00:00"
+      "archived_at": "2026-08-30T14:20:34.635599+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120416,
-      "message_link": "https://t.me/Mellig/120416",
-      "text": "🚨**بهرام یوسفی: مذاکرات پشت‌پرده به بن‌بست رسیده!\n\nبهرام یوسفی، فعال اقتصادی نزدیک به دولت، مدعی شده مذاکرات پشت‌پرده در همون گام‌های اول به بن‌بست خورده.\n\nبه گفته او، ترامپ به میانجی‌ها اعلام کرده محاصره تا تسلیم کامل تهران ادامه پیدا می‌کنه**",
+      "message_id": 120418,
+      "message_link": "https://t.me/Mellig/120418",
+      "text": "استارلینک در امارات فعال شد؛ اینترنت ماهواره‌ای به کاربران خانگی رسید.",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "17:00:19",
-      "gregorian_utc": "2026-08-30T13:30:19+00:00",
+      "tehran_time": "17:29:12",
+      "gregorian_utc": "2026-08-30T13:59:12+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -365,7 +365,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T14:10:33.895321+00:00"
+      "archived_at": "2026-08-30T14:20:35.013782+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -383,7 +383,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T14:10:34.222040+00:00"
+      "archived_at": "2026-08-30T14:20:35.374549+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -401,25 +401,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T14:10:32.826463+00:00"
+      "archived_at": "2026-08-30T14:20:33.851876+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354914,
-      "message_link": "https://t.me/IranintlTV/354914",
-      "text": "🔻پوریا شهرآبادی، دانیال ایری و پوریا لطیفی‌فر سه بازیکن تیم فوتبال پرسپولیس به اردوی تیم فوتبال امید اضافه شدند. این در حالی است که پرسپولیس چهارشنبه ۱۱ شهریور باید در دربی ۱۰۷ تهران به مصاف استقلال برود.\n\n🔹اردوی تیم فوتبال امید برای شرکت در مسابقات آسیایی آغاز شده و این تیم باید در تاریخ ۲۵ شهریورماه در اولین مسابقه خود در ناگویا به مصاف امارات برود.\n\n🔹تیم فوتبال امید در مرحله گروهی مسابقات آسیایی با تیم‌های امارات،‌کره شمالی و چین هم‌گروه است.\n\n@iranintltvsport",
+      "message_id": 354915,
+      "message_link": "https://t.me/IranintlTV/354915",
+      "text": "محمد جمالو، رییس سازمان ثبت احوال کشور، اعلام کرد که کارت ملی هوشمند ۶ میلیون شهروند ایرانی همچنان صادر و تحویل نشده است.\n\nاو افزود: «به دلایل مختلف، از جمله تورم قوانین و تعدد دستگاه‌هایی که در این حوزه مسئولیت دارند، باعث شده این اتفاق‌ها بیفتد؛ کارت ملی یک کارت عادی نیست؛ ویژگی‌های این کارت قابلیت احراز هویت دقیق را فراهم می‌کند و تا پایان پاییز امسال بسیار امید داریم که این بدهکاری‌ها تمام شود.»\n\nجمالو درباره عکس افراد روی کارت ملی نیز با اشاره به اینکه یکی از مهم‌ترین دغدغه‌ها عکس افراد است، گفت: «در کل دنیا عکس روی کارت شناسایی، با عکس‌های آتلیه‌ای متفاوت است. حتما یک مقدار دوباره نارضایتی‌هایی هم داریم، ولی قطعا بهبود جدی خواهیم داشت.»\nhttps://iranintl.com/202608305439",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "17:21:30",
-      "gregorian_utc": "2026-08-30T13:51:30+00:00",
+      "tehran_time": "17:22:56",
+      "gregorian_utc": "2026-08-30T13:52:56+00:00",
       "media_type": "photo",
-      "media_size_bytes": 190759,
-      "media_size_human": "186.29 KB",
+      "media_size_bytes": 119084,
+      "media_size_human": "116.29 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354914_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354914_photo.jpg",
+      "media_local_path": "media/IranintlTV_354915_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354915_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T14:10:33.192478+00:00"
+      "archived_at": "2026-08-30T14:20:34.256938+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -437,25 +437,25 @@
       "media_local_path": "media/satlastnews_76369_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76369_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T14:10:33.550707+00:00"
+      "archived_at": "2026-08-30T14:20:34.635725+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120415,
-      "message_link": "https://t.me/Mellig/120415",
-      "text": "🚨**رویترز:\n\n اسکات بسنت، وزیر خزانه‌داری آمریکا، قصد داره کشورهای عضو گروه ۲۰ رو برای تشدید فشار بر تهران، از جمله قطع روابط تجاری با جمهوری اسلامی، تحت فشار قرار بده**.",
+      "message_id": 120417,
+      "message_link": "https://t.me/Mellig/120417",
+      "text": "📖 به بهانه معرفی کتاب «هرگز نخواهیم بخشید»\n\n🕊️ سمینار دادخواهی\n\nروایت‌ها را زنده نگه می‌داریم؛\nنام‌ها را فراموش نمی‌کنیم؛\nو در برابر فراموشی می‌ایستیم.\n\nبا ما همراه شوید تا روایت‌های جاویدنامان راه میهن را بازگو کنیم و از دادخواهی، حقیقت و حافظه تاریخی‌مان بگوییم.\n\n📍 وعده دیدار ما:\nLöfströms Allé 7\nSundbyberg\n\n🎙 با میزبانی اعضای تحریریه\n«هرگز نخواهیم بخشید»\n\nبا ما همراه شوید؛\nبرای یادآوری، برای دادخواهی،\nبرای اینکه هرگز فراموش نکنیم. 🕊️",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "16:41:01",
-      "gregorian_utc": "2026-08-30T13:11:01+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T14:10:33.895368+00:00"
+      "tehran_time": "17:14:08",
+      "gregorian_utc": "2026-08-30T13:44:08+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 526533,
+      "media_size_human": "514.19 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_120417_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120417_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-08-30T14:20:35.013829+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -473,7 +473,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T14:10:34.222059+00:00"
+      "archived_at": "2026-08-30T14:20:35.374579+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -491,25 +491,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T14:10:32.826490+00:00"
+      "archived_at": "2026-08-30T14:20:33.851925+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354913,
-      "message_link": "https://t.me/IranintlTV/354913",
-      "text": "سرخط خبرهای یکشنبه ۸ شهریور\n@iranintltv",
+      "message_id": 354914,
+      "message_link": "https://t.me/IranintlTV/354914",
+      "text": "🔻پوریا شهرآبادی، دانیال ایری و پوریا لطیفی‌فر سه بازیکن تیم فوتبال پرسپولیس به اردوی تیم فوتبال امید اضافه شدند. این در حالی است که پرسپولیس چهارشنبه ۱۱ شهریور باید در دربی ۱۰۷ تهران به مصاف استقلال برود.\n\n🔹اردوی تیم فوتبال امید برای شرکت در مسابقات آسیایی آغاز شده و این تیم باید در تاریخ ۲۵ شهریورماه در اولین مسابقه خود در ناگویا به مصاف امارات برود.\n\n🔹تیم فوتبال امید در مرحله گروهی مسابقات آسیایی با تیم‌های امارات،‌کره شمالی و چین هم‌گروه است.\n\n@iranintltvsport",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "17:10:33",
-      "gregorian_utc": "2026-08-30T13:40:33+00:00",
-      "media_type": "video",
-      "media_size_bytes": 1383340,
-      "media_size_human": "1.32 MB",
+      "tehran_time": "17:21:30",
+      "gregorian_utc": "2026-08-30T13:51:30+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 190759,
+      "media_size_human": "186.29 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354913_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354913_video.mp4",
+      "media_local_path": "media/IranintlTV_354914_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354914_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T14:10:33.192524+00:00"
+      "archived_at": "2026-08-30T14:20:34.257053+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -527,25 +527,25 @@
       "media_local_path": "media/satlastnews_76368_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76368_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T14:10:33.550759+00:00"
+      "archived_at": "2026-08-30T14:20:34.635790+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120414,
-      "message_link": "https://t.me/Mellig/120414",
-      "text": "میدونستین اگه اسد بره این جولانی اینا خیلی تندرو و خطرناکن اینا اصلا قوانین داعشی میارن تو سوریه؟\n\nMellig.net",
+      "message_id": 120416,
+      "message_link": "https://t.me/Mellig/120416",
+      "text": "🚨**بهرام یوسفی: مذاکرات پشت‌پرده به بن‌بست رسیده!\n\nبهرام یوسفی، فعال اقتصادی نزدیک به دولت، مدعی شده مذاکرات پشت‌پرده در همون گام‌های اول به بن‌بست خورده.\n\nبه گفته او، ترامپ به میانجی‌ها اعلام کرده محاصره تا تسلیم کامل تهران ادامه پیدا می‌کنه**",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "16:01:15",
-      "gregorian_utc": "2026-08-30T12:31:15+00:00",
-      "media_type": "video",
-      "media_size_bytes": 8003624,
-      "media_size_human": "7.63 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/Mellig_120414_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120414_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-08-30T14:10:33.895414+00:00"
+      "tehran_time": "17:00:19",
+      "gregorian_utc": "2026-08-30T13:30:19+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-08-30T14:20:35.013899+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -563,7 +563,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T14:10:34.222080+00:00"
+      "archived_at": "2026-08-30T14:20:35.374604+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -581,25 +581,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T14:10:32.826511+00:00"
+      "archived_at": "2026-08-30T14:20:33.851956+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354912,
-      "message_link": "https://t.me/IranintlTV/354912",
-      "text": "واشینگتن‌پست به نقل از افراد آگاه گزارش داد که چند مقام ارشد نظامی آمریکا به پیت هگست، وزیر جنگ آمریکا، هشدار داده‌اند که ادامه عملیات گسترده علیه جمهوری اسلامی پایدار نیست و توان ارتش آمریکا را برای مقابله با تهدیدهای دیگر، از جمله دفاع از خاک آمریکا، تضعیف می‌کند.\n\nبه گفته این افراد، این هشدارها که روسای ارتش، نیروی دریایی و نیروی هوایی آمریکا، همراه با فرماندهان چهارستاره مسئول عملیات نظامی آمریکا در اروپا، آسیا و آمریکای لاتین، در نسخه ۲۳ مرداد «کتاب دستورات وزیر جنگ» به هگست ارائه کرده‌اند، بخشی از یک سند محرمانه است.\n\nبه گفته این منابع، فرماندهان ارشد فرماندهی اروپا، فرماندهی اقیانوس آرام و فرماندهی جنوبی آمریکا، همراه با فرمانده ارشد نیروی دریایی، در این سند نظر «عدم موافقت» ثبت کرده‌اند؛ به این معنا که با دستور وزیر جنگ برای تمدید استقرار نیروهایشان موافق نیستند، اما آن را اجرا خواهند کرد.\n\nجزئیات بیشتر را [اینجا](https://www.iranintl.com/202608305606) بخوانید.\n\n@IranintlTV",
+      "message_id": 354913,
+      "message_link": "https://t.me/IranintlTV/354913",
+      "text": "سرخط خبرهای یکشنبه ۸ شهریور\n@iranintltv",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "17:07:59",
-      "gregorian_utc": "2026-08-30T13:37:59+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 157627,
-      "media_size_human": "153.93 KB",
+      "tehran_time": "17:10:33",
+      "gregorian_utc": "2026-08-30T13:40:33+00:00",
+      "media_type": "video",
+      "media_size_bytes": 1383340,
+      "media_size_human": "1.32 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354912_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354912_photo.jpg",
+      "media_local_path": "media/IranintlTV_354913_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354913_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T14:10:33.192655+00:00"
+      "archived_at": "2026-08-30T14:20:34.257112+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -617,25 +617,25 @@
       "media_local_path": "media/satlastnews_76367_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76367_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T14:10:33.550881+00:00"
+      "archived_at": "2026-08-30T14:20:34.635917+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120413,
-      "message_link": "https://t.me/Mellig/120413",
-      "text": "این حرف‌ها بسیار درست است.\nاما نکته مهم این قاب و این ویدئو،\nفراتر از خود این سخنان، رفتار فردی است که در کنار گوینده ایستاده؛\nکسی که دور میچرخد و گویی با حرکات و واکنش‌هایش تلاش می‌کند مانع بیان کامل دردها و مشکلات شود و اجازه ندهد سخنان او به‌راحتی مطرح شود…\n\nMellig.net",
+      "message_id": 120415,
+      "message_link": "https://t.me/Mellig/120415",
+      "text": "🚨**رویترز:\n\n اسکات بسنت، وزیر خزانه‌داری آمریکا، قصد داره کشورهای عضو گروه ۲۰ رو برای تشدید فشار بر تهران، از جمله قطع روابط تجاری با جمهوری اسلامی، تحت فشار قرار بده**.",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "15:45:23",
-      "gregorian_utc": "2026-08-30T12:15:23+00:00",
-      "media_type": "video",
-      "media_size_bytes": 12644651,
-      "media_size_human": "12.06 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/Mellig_120413_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120413_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-08-30T14:10:33.895469+00:00"
+      "tehran_time": "16:41:01",
+      "gregorian_utc": "2026-08-30T13:11:01+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-08-30T14:20:35.013960+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -653,7 +653,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T14:10:34.222100+00:00"
+      "archived_at": "2026-08-30T14:20:35.374634+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -671,25 +671,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T14:10:32.826549+00:00"
+      "archived_at": "2026-08-30T14:20:33.851998+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354911,
-      "message_link": "https://t.me/IranintlTV/354911",
-      "text": "مارک فایفل، مشاور پیشین امنیت ملی آمریکا، در گفت‌وگو با الجزیره گفت چین واردات روزانه نفت از ایران را از یک میلیون و ۵۰۰ هزار بشکه به ۵۰۰ هزار بشکه کاهش داده و برای تامین نفت مورد نیاز خود به خرید از برزیل، عراق و روسیه روی آورده است.\n\nفایفل گفت چین آزمونی واقعی برای دونالد ترامپ، رییس‌جمهوری آمریکا، در آغاز یک جنگ اقتصادی تمام‌عیار علیه جمهوری اسلامی است.\n\nاو گفت: «واشینگتن در شرایط فعلی قطعا قصد ندارد خریداران نفت ایران در چین را هدف تحریم‌های ثانویه قرار دهد. با این حال، اعمال تحریم‌های مستقیم و گسترده علیه خریداران چینی همچنان یکی از گزینه‌های آمریکا است.»\nhttps://iranintl.com/202608303241",
+      "message_id": 354912,
+      "message_link": "https://t.me/IranintlTV/354912",
+      "text": "واشینگتن‌پست به نقل از افراد آگاه گزارش داد که چند مقام ارشد نظامی آمریکا به پیت هگست، وزیر جنگ آمریکا، هشدار داده‌اند که ادامه عملیات گسترده علیه جمهوری اسلامی پایدار نیست و توان ارتش آمریکا را برای مقابله با تهدیدهای دیگر، از جمله دفاع از خاک آمریکا، تضعیف می‌کند.\n\nبه گفته این افراد، این هشدارها که روسای ارتش، نیروی دریایی و نیروی هوایی آمریکا، همراه با فرماندهان چهارستاره مسئول عملیات نظامی آمریکا در اروپا، آسیا و آمریکای لاتین، در نسخه ۲۳ مرداد «کتاب دستورات وزیر جنگ» به هگست ارائه کرده‌اند، بخشی از یک سند محرمانه است.\n\nبه گفته این منابع، فرماندهان ارشد فرماندهی اروپا، فرماندهی اقیانوس آرام و فرماندهی جنوبی آمریکا، همراه با فرمانده ارشد نیروی دریایی، در این سند نظر «عدم موافقت» ثبت کرده‌اند؛ به این معنا که با دستور وزیر جنگ برای تمدید استقرار نیروهایشان موافق نیستند، اما آن را اجرا خواهند کرد.\n\nجزئیات بیشتر را [اینجا](https://www.iranintl.com/202608305606) بخوانید.\n\n@IranintlTV",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "17:02:54",
-      "gregorian_utc": "2026-08-30T13:32:54+00:00",
+      "tehran_time": "17:07:59",
+      "gregorian_utc": "2026-08-30T13:37:59+00:00",
       "media_type": "photo",
-      "media_size_bytes": 217343,
-      "media_size_human": "212.25 KB",
+      "media_size_bytes": 157627,
+      "media_size_human": "153.93 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354911_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354911_photo.jpg",
+      "media_local_path": "media/IranintlTV_354912_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354912_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T14:10:33.192754+00:00"
+      "archived_at": "2026-08-30T14:20:34.257270+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -707,25 +707,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T14:10:33.550941+00:00"
+      "archived_at": "2026-08-30T14:20:34.635983+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120412,
-      "message_link": "https://t.me/Mellig/120412",
-      "text": "صادق الحسینی، اقتصاددان، مدعی شد: کیفیت بنزین به حدی پایین آمده است که موتور خودروها تا ۳ یا ۴ ماه آینده خراب می‌شود!\n\nMellig.net",
+      "message_id": 120414,
+      "message_link": "https://t.me/Mellig/120414",
+      "text": "میدونستین اگه اسد بره این جولانی اینا خیلی تندرو و خطرناکن اینا اصلا قوانین داعشی میارن تو سوریه؟\n\nMellig.net",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "15:33:36",
-      "gregorian_utc": "2026-08-30T12:03:36+00:00",
+      "tehran_time": "16:01:15",
+      "gregorian_utc": "2026-08-30T12:31:15+00:00",
       "media_type": "video",
-      "media_size_bytes": 6119272,
-      "media_size_human": "5.84 MB",
+      "media_size_bytes": 8003624,
+      "media_size_human": "7.63 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120412_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120412_video.mp4",
+      "media_local_path": "media/Mellig_120414_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120414_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T14:10:33.895510+00:00"
+      "archived_at": "2026-08-30T14:20:35.014016+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -743,7 +743,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T14:10:34.222119+00:00"
+      "archived_at": "2026-08-30T14:20:35.374660+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -761,25 +761,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T14:10:32.826572+00:00"
+      "archived_at": "2026-08-30T14:20:33.852026+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354910,
-      "message_link": "https://t.me/IranintlTV/354910",
-      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال، در خصوص گرانی‌های روزافزون در ایران می‌گوید: «وضعیت امروز فرقی با قحطی ندارد. در قحطی اجناس نایاب هستند، امروز هم مردم توان خرید هیچ‌چیز را ندارند.»",
+      "message_id": 354911,
+      "message_link": "https://t.me/IranintlTV/354911",
+      "text": "مارک فایفل، مشاور پیشین امنیت ملی آمریکا، در گفت‌وگو با الجزیره گفت چین واردات روزانه نفت از ایران را از یک میلیون و ۵۰۰ هزار بشکه به ۵۰۰ هزار بشکه کاهش داده و برای تامین نفت مورد نیاز خود به خرید از برزیل، عراق و روسیه روی آورده است.\n\nفایفل گفت چین آزمونی واقعی برای دونالد ترامپ، رییس‌جمهوری آمریکا، در آغاز یک جنگ اقتصادی تمام‌عیار علیه جمهوری اسلامی است.\n\nاو گفت: «واشینگتن در شرایط فعلی قطعا قصد ندارد خریداران نفت ایران در چین را هدف تحریم‌های ثانویه قرار دهد. با این حال، اعمال تحریم‌های مستقیم و گسترده علیه خریداران چینی همچنان یکی از گزینه‌های آمریکا است.»\nhttps://iranintl.com/202608303241",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "16:59:57",
-      "gregorian_utc": "2026-08-30T13:29:57+00:00",
-      "media_type": "video",
-      "media_size_bytes": 9463318,
-      "media_size_human": "9.02 MB",
+      "tehran_time": "17:02:54",
+      "gregorian_utc": "2026-08-30T13:32:54+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 217343,
+      "media_size_human": "212.25 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354910_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354910_video.mp4",
+      "media_local_path": "media/IranintlTV_354911_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354911_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T14:10:33.192789+00:00"
+      "archived_at": "2026-08-30T14:20:34.257374+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -797,25 +797,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T14:10:33.551044+00:00"
+      "archived_at": "2026-08-30T14:20:34.636100+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120411,
-      "message_link": "https://t.me/Mellig/120411",
-      "text": "",
+      "message_id": 120413,
+      "message_link": "https://t.me/Mellig/120413",
+      "text": "این حرف‌ها بسیار درست است.\nاما نکته مهم این قاب و این ویدئو،\nفراتر از خود این سخنان، رفتار فردی است که در کنار گوینده ایستاده؛\nکسی که دور میچرخد و گویی با حرکات و واکنش‌هایش تلاش می‌کند مانع بیان کامل دردها و مشکلات شود و اجازه ندهد سخنان او به‌راحتی مطرح شود…\n\nMellig.net",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "15:11:28",
-      "gregorian_utc": "2026-08-30T11:41:28+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 86203,
-      "media_size_human": "84.18 KB",
+      "tehran_time": "15:45:23",
+      "gregorian_utc": "2026-08-30T12:15:23+00:00",
+      "media_type": "video",
+      "media_size_bytes": 12644651,
+      "media_size_human": "12.06 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120411_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120411_photo.jpg",
+      "media_local_path": "media/Mellig_120413_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120413_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T14:10:33.895543+00:00"
+      "archived_at": "2026-08-30T14:20:35.014084+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -833,7 +833,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T14:10:34.222137+00:00"
+      "archived_at": "2026-08-30T14:20:35.374684+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -851,25 +851,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T14:10:32.826592+00:00"
+      "archived_at": "2026-08-30T14:20:33.852052+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354909,
-      "message_link": "https://t.me/IranintlTV/354909",
-      "text": "کانون صنفی معلمان بوشهر اعلام کرد اصغر حاجب، عضو هیئت‌مدیره این تشکل، بار دیگر به دادگاه انقلاب احضار شده است.\n\nاسماعیل عبدی، فعال صنفی معلمان، گفت حاجب که از بیماری قلبی رنج می‌برد، اردیبهشت‌ماه توسط نیروهای امنیتی بازداشت و پس از مدتی با وثیقه هفت میلیارد تومانی آزاد شد.\n\nبه گفته عبدی، اتهام او «تبلیغ علیه نظام» عنوان شده و این فعال صنفی باید دهم شهریور برای ادامه رسیدگی به پرونده خود در دادگاه حاضر شود.\n@iranintltv",
+      "message_id": 354910,
+      "message_link": "https://t.me/IranintlTV/354910",
+      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال، در خصوص گرانی‌های روزافزون در ایران می‌گوید: «وضعیت امروز فرقی با قحطی ندارد. در قحطی اجناس نایاب هستند، امروز هم مردم توان خرید هیچ‌چیز را ندارند.»",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "16:51:40",
-      "gregorian_utc": "2026-08-30T13:21:40+00:00",
+      "tehran_time": "16:59:57",
+      "gregorian_utc": "2026-08-30T13:29:57+00:00",
       "media_type": "video",
-      "media_size_bytes": 3922015,
-      "media_size_human": "3.74 MB",
+      "media_size_bytes": 9463318,
+      "media_size_human": "9.02 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354909_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354909_video.mp4",
+      "media_local_path": "media/IranintlTV_354910_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354910_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T14:10:33.192892+00:00"
+      "archived_at": "2026-08-30T14:20:34.257417+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -887,25 +887,25 @@
       "media_local_path": "media/satlastnews_76364_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76364_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T14:10:33.551099+00:00"
+      "archived_at": "2026-08-30T14:20:34.636164+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120410,
-      "message_link": "https://t.me/Mellig/120410",
-      "text": "لیلی بازرگان؛ همسر سابق شاهین نجفی:\n\nشاهین نجفی درحالیکه با من تو رابطه بود با «آزاده اخلاقی» رابطه جنـسی داشت. بعد که اخلاقی زن نامجو شد خوشحال شد که من رسما زن محسن نامجو رو.....\n\nMellig.net",
+      "message_id": 120412,
+      "message_link": "https://t.me/Mellig/120412",
+      "text": "صادق الحسینی، اقتصاددان، مدعی شد: کیفیت بنزین به حدی پایین آمده است که موتور خودروها تا ۳ یا ۴ ماه آینده خراب می‌شود!\n\nMellig.net",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "15:11:27",
-      "gregorian_utc": "2026-08-30T11:41:27+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 135655,
-      "media_size_human": "132.48 KB",
+      "tehran_time": "15:33:36",
+      "gregorian_utc": "2026-08-30T12:03:36+00:00",
+      "media_type": "video",
+      "media_size_bytes": 6119272,
+      "media_size_human": "5.84 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120410_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120410_photo.jpg",
+      "media_local_path": "media/Mellig_120412_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120412_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T14:10:33.895593+00:00"
+      "archived_at": "2026-08-30T14:20:35.014138+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -923,7 +923,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T14:10:34.222154+00:00"
+      "archived_at": "2026-08-30T14:20:35.374707+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -941,25 +941,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T14:10:32.826611+00:00"
+      "archived_at": "2026-08-30T14:20:33.852077+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354908,
-      "message_link": "https://t.me/IranintlTV/354908",
-      "text": "تصاویر ارسالی به ایران‌اینترنشنال وضعیت نابسامان و بحرانی زندانیان را در زندان مرکزی اصفهان نشان می‌دهد. به گفته مخاطبان، دست‌کم ۴۰۰ نفر از بازداشت‌شدگان انقلاب ملی ایرانیان، بدون دسترسی به وکیل و محروم از ملاقات با خانواده، در این زندان محبوس هستند.\n\nجزییات بیشتر در گفت‌وگو با فرنوش فرجی، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 354909,
+      "message_link": "https://t.me/IranintlTV/354909",
+      "text": "کانون صنفی معلمان بوشهر اعلام کرد اصغر حاجب، عضو هیئت‌مدیره این تشکل، بار دیگر به دادگاه انقلاب احضار شده است.\n\nاسماعیل عبدی، فعال صنفی معلمان، گفت حاجب که از بیماری قلبی رنج می‌برد، اردیبهشت‌ماه توسط نیروهای امنیتی بازداشت و پس از مدتی با وثیقه هفت میلیارد تومانی آزاد شد.\n\nبه گفته عبدی، اتهام او «تبلیغ علیه نظام» عنوان شده و این فعال صنفی باید دهم شهریور برای ادامه رسیدگی به پرونده خود در دادگاه حاضر شود.\n@iranintltv",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "16:51:29",
-      "gregorian_utc": "2026-08-30T13:21:29+00:00",
+      "tehran_time": "16:51:40",
+      "gregorian_utc": "2026-08-30T13:21:40+00:00",
       "media_type": "video",
-      "media_size_bytes": 3263455,
-      "media_size_human": "3.11 MB",
+      "media_size_bytes": 3922015,
+      "media_size_human": "3.74 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354908_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354908_video.mp4",
+      "media_local_path": "media/IranintlTV_354909_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354909_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T14:10:33.192959+00:00"
+      "archived_at": "2026-08-30T14:20:34.257499+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -977,25 +977,25 @@
       "media_local_path": "media/satlastnews_76363_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76363_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T14:10:33.551148+00:00"
+      "archived_at": "2026-08-30T14:20:34.636218+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120409,
-      "message_link": "https://t.me/Mellig/120409",
-      "text": "لیلی بازرگان، همسر سابق شاهین نجفی:\n\nشاهین نجفی عضو بسیج بوده و ۳ سال پیش که دوماد سرخونه‌ی خونواده‌ی ما بود، برای بابام **قرآن رو با صوت** میخوند.\n\nMellig.net",
+      "message_id": 120411,
+      "message_link": "https://t.me/Mellig/120411",
+      "text": "",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "14:53:34",
-      "gregorian_utc": "2026-08-30T11:23:34+00:00",
+      "tehran_time": "15:11:28",
+      "gregorian_utc": "2026-08-30T11:41:28+00:00",
       "media_type": "photo",
-      "media_size_bytes": 55700,
-      "media_size_human": "54.39 KB",
+      "media_size_bytes": 86203,
+      "media_size_human": "84.18 KB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120409_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120409_photo.jpg",
+      "media_local_path": "media/Mellig_120411_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120411_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T14:10:33.895642+00:00"
+      "archived_at": "2026-08-30T14:20:35.014179+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -1013,7 +1013,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T14:10:34.222175+00:00"
+      "archived_at": "2026-08-30T14:20:35.374733+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1031,25 +1031,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T14:10:32.826630+00:00"
+      "archived_at": "2026-08-30T14:20:33.852101+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354907,
-      "message_link": "https://t.me/IranintlTV/354907",
-      "text": "**🗣روایت شما: وضعیت زندگی در سایه سرکوب سیاسی و تنش‌های نظامی - یکشنبه ۸ شهریور**\n\n🔹با نهایت ناامیدی می‌نویسم، من ۸ سال زبان خوندم و از علاقه‌ام زدم تا در رشته‌ای تحصیل کنم که حداقل بشه مهاجرت کرد؛ متأسفانه همه‌ی تلاشم به‌خاطر سیاست‌هایی که فقط مردم عادی رو هدف گرفته، بیهوده شد.\n\n🔹ما در ایران آب و برق نداریم، گرانی بیداد می‌کند و همه دارن بیکار می‌شن، خیلی از مردم دیگه توان پرداخت کرایه‌خانه یا هزینه‌های زندگی رو ندارن. بعد حکومت می‌گه ما با قدرت در این جنگ اقتصادی مثل جنگ نظامی پیروز می‌شیم. به خدا دیگه خسته شدیم.\n\n🔹از دزفول: من یک بازنشسته هستم و این ماه بیشتر از ۱۵ میلیون تومان خرج دکتر و دارو کرده‌ام. چگونه باید زیر این تورم ویرانی دوام بیاوریم؟ خدا ریشه‌تون را دربیاره.\n\n🔹از آبادان: هیچ جای دنیا ۲ الی ۳ بار در هفته بسته اینترنت ۶ گیگ یک‌ماهه نمی‌گیری، فقط در ایران این اتفاق می‌افته.\n\n🔹کاشان: در گرمای بالای ۵۰ درجه، روزی ۲ بار برق را قطع می‌کنن. به اول و آخرتون لعنت.\n\n🔹۷ شهریورماه، ساعت ۷ صبح اطلاع دادیم که لوله آب جلوی خونه ترکیده؛ ۹ شب برگشتیم و همون وضع بوده. دوباره زنگ زدیم، گفتن فردا صبح میایم درست می‌کنیم و الان راحت ۴۰ ساعته که آب داره هدر می‌ره و هیچ خبری از آقایون مسئول نیست. فقط برای مدیریت مصرف، رأس ساعت آب و برق رو قطع کنن.",
+      "message_id": 354908,
+      "message_link": "https://t.me/IranintlTV/354908",
+      "text": "تصاویر ارسالی به ایران‌اینترنشنال وضعیت نابسامان و بحرانی زندانیان را در زندان مرکزی اصفهان نشان می‌دهد. به گفته مخاطبان، دست‌کم ۴۰۰ نفر از بازداشت‌شدگان انقلاب ملی ایرانیان، بدون دسترسی به وکیل و محروم از ملاقات با خانواده، در این زندان محبوس هستند.\n\nجزییات بیشتر در گفت‌وگو با فرنوش فرجی، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "16:41:34",
-      "gregorian_utc": "2026-08-30T13:11:34+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T14:10:33.193109+00:00"
+      "tehran_time": "16:51:29",
+      "gregorian_utc": "2026-08-30T13:21:29+00:00",
+      "media_type": "video",
+      "media_size_bytes": 3263455,
+      "media_size_human": "3.11 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/IranintlTV_354908_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354908_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-08-30T14:20:34.257604+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1067,25 +1067,25 @@
       "media_local_path": "media/satlastnews_76362_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76362_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T14:10:33.551177+00:00"
+      "archived_at": "2026-08-30T14:20:34.636255+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120408,
-      "message_link": "https://t.me/Mellig/120408",
-      "text": "مرگ ناگهانی، هنگام سخنرانی شبانه!\n\nنعمت‌ الهامی از چهره‌های شناخته شده منطقه مغان و کاندیدای دوازدهمین دوره انتخابات  طویله شورای اسلامی از حوزه انتخابیه پارس‌آباد حین سخنرانی شبانه سقط شد.",
+      "message_id": 120410,
+      "message_link": "https://t.me/Mellig/120410",
+      "text": "لیلی بازرگان؛ همسر سابق شاهین نجفی:\n\nشاهین نجفی درحالیکه با من تو رابطه بود با «آزاده اخلاقی» رابطه جنـسی داشت. بعد که اخلاقی زن نامجو شد خوشحال شد که من رسما زن محسن نامجو رو.....\n\nMellig.net",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "11:28:28",
-      "gregorian_utc": "2026-08-30T07:58:28+00:00",
-      "media_type": "video",
-      "media_size_bytes": 4414510,
-      "media_size_human": "4.21 MB",
+      "tehran_time": "15:11:27",
+      "gregorian_utc": "2026-08-30T11:41:27+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 135655,
+      "media_size_human": "132.48 KB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120408_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120408_video.mp4",
+      "media_local_path": "media/Mellig_120410_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120410_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T14:10:33.895672+00:00"
+      "archived_at": "2026-08-30T14:20:35.014240+00:00"
     }
   ]
 }
