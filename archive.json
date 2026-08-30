@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-30T04:41:28.783563+00:00",
-  "shamsi_generated": "1405/06/08 04:41:28 تهران",
+  "generated_at": "2026-08-30T04:51:11.447187+00:00",
+  "shamsi_generated": "1405/06/08 04:51:11 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -41,25 +41,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T04:40:26.085318+00:00"
+      "archived_at": "2026-08-30T04:50:23.932716+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354840,
-      "message_link": "https://t.me/IranintlTV/354840",
-      "text": "سرخط خبرهای یک‌شنبه ۸ شهریور\n@iranintltv",
+      "message_id": 354841,
+      "message_link": "https://t.me/IranintlTV/354841",
+      "text": "حسین صمصامی، عضو کمیسیون اقتصادی مجلس، به خبرگزاری ایلنا گفت: «اقتصاد ما هنوز متاثر از نرخ ارز ۱۸۰ هزار تومان که در یکی، دو ماه گذشته داشته‌ایم، نشده و باید انتظار موج تورمی شدیدتری هم داشته باشیم و این فاجعه در اقتصاد ما در حال شکل‌گیری است.»\n\nاین نماینده مجلس اضافه کرد: «معامله میان صادرکننده و واردکننده و آزاد گذاشتن این تفاوت، در واقع به معنای آزاد گذاشتن دلار قاچاق است.»\n\nصمصامی افزود: «با توجه به اینکه بانک مرکزی اجازه داده صادرکننده و واردکننده با هم توافق کنند، لذا نرخ ۲۰۴ الی ۲۰۵ در سفره مردم قرار می‌گیرد و بعد این نرخ بالاتر می‌رود و این تورم در سفره مردم دائمی می‌شود.»\nhttps://iranintl.com/202608304206",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "07:53:25",
-      "gregorian_utc": "2026-08-30T04:23:25+00:00",
-      "media_type": "video",
-      "media_size_bytes": 888709,
-      "media_size_human": "867.88 KB",
+      "tehran_time": "08:14:34",
+      "gregorian_utc": "2026-08-30T04:44:34+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 151408,
+      "media_size_human": "147.86 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354840_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354840_video.mp4",
+      "media_local_path": "media/IranintlTV_354841_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354841_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T04:40:26.368699+00:00"
+      "archived_at": "2026-08-30T04:50:24.172963+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -77,7 +77,7 @@
       "media_local_path": "media/satlastnews_76374_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76374_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T04:40:26.665303+00:00"
+      "archived_at": "2026-08-30T04:50:24.437260+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -95,7 +95,7 @@
       "media_local_path": "media/Mellig_120406_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120406_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T04:40:26.964557+00:00"
+      "archived_at": "2026-08-30T04:50:24.714528+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -113,7 +113,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T04:40:27.241885+00:00"
+      "archived_at": "2026-08-30T04:50:24.940066+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -131,25 +131,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T04:40:26.085355+00:00"
+      "archived_at": "2026-08-30T04:50:23.932790+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354839,
-      "message_link": "https://t.me/IranintlTV/354839",
-      "text": "حسن بیگدلی، نماینده رهبر جمهوری اسلامی در سپاه استان زنجان، در تجمع حامیان حکومت در این شهر گفت: «اینکه کشور در شرایط جنگ، تحریم و فشار قرار دارد، واقعیتی است که باید مردم از آن آگاه باشند و در چنین شرایطی باید درباره ضرورت صرفه‌جویی، همکاری و هماهنگی صحبت کرد، اما نباید به گونه‌ای سخن گفت که جامعه دچار احساس ضعف و ناتوانی شود.»\n\nاو ادامه داد: «ممکن است مشکلات و ضعف‌هایی وجود داشته باشد و بیان مشکلات برای اصلاح آن‌ها ضروری است، اما روایت ضعف نباید جای روایت قدرت را بگیرد؛ ملت ایران باید توانمندی‌های خود را بشناسد و با تکیه بر ظرفیت‌های داخلی، میدان را مدیریت کند.»\n\nبیگدلی افزود: «توانمندی‌های نظامی، اقتصادی، تولید نفت و گاز، مدیریت صنعت انرژی، پزشکی، کشاورزی، صنعت و سایر ظرفیت‌های کشور، بخشی از داشته‌های جمهوری اسلامی هستند و اگر این توانمندی‌ها را بیان نکنیم، در حق مردم و انقلاب جفا کرده‌ایم.»\nhttps://iranintl.com/202608309238",
+      "message_id": 354840,
+      "message_link": "https://t.me/IranintlTV/354840",
+      "text": "سرخط خبرهای یک‌شنبه ۸ شهریور\n@iranintltv",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "07:52:00",
-      "gregorian_utc": "2026-08-30T04:22:00+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 133111,
-      "media_size_human": "129.99 KB",
+      "tehran_time": "07:53:25",
+      "gregorian_utc": "2026-08-30T04:23:25+00:00",
+      "media_type": "video",
+      "media_size_bytes": 888709,
+      "media_size_human": "867.88 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354839_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354839_photo.jpg",
+      "media_local_path": "media/IranintlTV_354840_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354840_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T04:40:26.368831+00:00"
+      "archived_at": "2026-08-30T04:50:24.173036+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -167,7 +167,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T04:40:26.665627+00:00"
+      "archived_at": "2026-08-30T04:50:24.437635+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -185,7 +185,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 133.91 MB)",
-      "archived_at": "2026-08-30T04:40:26.964640+00:00"
+      "archived_at": "2026-08-30T04:50:24.714628+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -203,7 +203,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T04:40:27.241909+00:00"
+      "archived_at": "2026-08-30T04:50:24.940101+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -221,25 +221,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T04:40:26.085381+00:00"
+      "archived_at": "2026-08-30T04:50:23.932831+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354838,
-      "message_link": "https://t.me/IranintlTV/354838",
-      "text": "تانکر ترکرز گزارش داد میانگین روزانه صادرات نفت خام از طریق تنگه هرمز در هفت روز گذشته ۳.۸ میلیون بشکه در روز بود. این رقم در دوره تفاهم‌نامه جمهوری اسلامی و آمریکا که در عمل تنها ۲۵ روز ادامه داشت، ۹.۸ میلیون بشکه در روز بود.\nhttps://iranintl.com/202608306885",
+      "message_id": 354839,
+      "message_link": "https://t.me/IranintlTV/354839",
+      "text": "حسن بیگدلی، نماینده رهبر جمهوری اسلامی در سپاه استان زنجان، در تجمع حامیان حکومت در این شهر گفت: «اینکه کشور در شرایط جنگ، تحریم و فشار قرار دارد، واقعیتی است که باید مردم از آن آگاه باشند و در چنین شرایطی باید درباره ضرورت صرفه‌جویی، همکاری و هماهنگی صحبت کرد، اما نباید به گونه‌ای سخن گفت که جامعه دچار احساس ضعف و ناتوانی شود.»\n\nاو ادامه داد: «ممکن است مشکلات و ضعف‌هایی وجود داشته باشد و بیان مشکلات برای اصلاح آن‌ها ضروری است، اما روایت ضعف نباید جای روایت قدرت را بگیرد؛ ملت ایران باید توانمندی‌های خود را بشناسد و با تکیه بر ظرفیت‌های داخلی، میدان را مدیریت کند.»\n\nبیگدلی افزود: «توانمندی‌های نظامی، اقتصادی، تولید نفت و گاز، مدیریت صنعت انرژی، پزشکی، کشاورزی، صنعت و سایر ظرفیت‌های کشور، بخشی از داشته‌های جمهوری اسلامی هستند و اگر این توانمندی‌ها را بیان نکنیم، در حق مردم و انقلاب جفا کرده‌ایم.»\nhttps://iranintl.com/202608309238",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "07:05:10",
-      "gregorian_utc": "2026-08-30T03:35:10+00:00",
+      "tehran_time": "07:52:00",
+      "gregorian_utc": "2026-08-30T04:22:00+00:00",
       "media_type": "photo",
-      "media_size_bytes": 174678,
-      "media_size_human": "170.58 KB",
+      "media_size_bytes": 133111,
+      "media_size_human": "129.99 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354838_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354838_photo.jpg",
+      "media_local_path": "media/IranintlTV_354839_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354839_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T04:40:26.368888+00:00"
+      "archived_at": "2026-08-30T04:50:24.173175+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -257,7 +257,7 @@
       "media_local_path": "media/satlastnews_76369_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76369_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T04:40:26.665722+00:00"
+      "archived_at": "2026-08-30T04:50:24.437784+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -275,7 +275,7 @@
       "media_local_path": "media/Mellig_120404_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120404_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T04:40:26.964729+00:00"
+      "archived_at": "2026-08-30T04:50:24.714764+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -293,7 +293,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T04:40:27.241927+00:00"
+      "archived_at": "2026-08-30T04:50:24.940128+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -311,25 +311,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T04:40:26.085406+00:00"
+      "archived_at": "2026-08-30T04:50:23.932868+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354837,
-      "message_link": "https://t.me/IranintlTV/354837",
-      "text": "دلسی رودریگز، رییس‌جمهوری موقت ونزوئلا، شنبه گفت توافق انرژی با آمریکا برای ۲۵ سال معتبر خواهد بود و هدف آن افزایش تولید نفت خام به روزانه ۱.۵ میلیون بشکه و حفظ حاکمیت ونزوئلا بر منابع طبیعی این کشور است.\nرودریگز در سخنرانی خود در ساعات پایانی شب، این توافق را «تاریخی» خواند و گفت این توافق به احیای اقتصاد کشور و افزایش درآمدهای دولت کمک خواهد کرد و در شکل‌گیری آینده ونزوئلا نقش خواهد داشت.\n\nhttps://iranintl.com/202608301351",
+      "message_id": 354838,
+      "message_link": "https://t.me/IranintlTV/354838",
+      "text": "تانکر ترکرز گزارش داد میانگین روزانه صادرات نفت خام از طریق تنگه هرمز در هفت روز گذشته ۳.۸ میلیون بشکه در روز بود. این رقم در دوره تفاهم‌نامه جمهوری اسلامی و آمریکا که در عمل تنها ۲۵ روز ادامه داشت، ۹.۸ میلیون بشکه در روز بود.\nhttps://iranintl.com/202608306885",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "06:14:19",
-      "gregorian_utc": "2026-08-30T02:44:19+00:00",
+      "tehran_time": "07:05:10",
+      "gregorian_utc": "2026-08-30T03:35:10+00:00",
       "media_type": "photo",
-      "media_size_bytes": 193264,
-      "media_size_human": "188.73 KB",
+      "media_size_bytes": 174678,
+      "media_size_human": "170.58 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354837_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354837_photo.jpg",
+      "media_local_path": "media/IranintlTV_354838_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354838_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T04:40:26.368950+00:00"
+      "archived_at": "2026-08-30T04:50:24.173253+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -347,7 +347,7 @@
       "media_local_path": "media/satlastnews_76368_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76368_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T04:40:26.665766+00:00"
+      "archived_at": "2026-08-30T04:50:24.437853+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -365,7 +365,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T04:40:26.964764+00:00"
+      "archived_at": "2026-08-30T04:50:24.714824+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -383,7 +383,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T04:40:27.241944+00:00"
+      "archived_at": "2026-08-30T04:50:24.940153+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -401,25 +401,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T04:40:26.085440+00:00"
+      "archived_at": "2026-08-30T04:50:23.932904+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354836,
-      "message_link": "https://t.me/IranintlTV/354836",
-      "text": "مریم سعیدپور، عکاس ایرانی، برای مجموعه دوران جنگ خود با عنوان «آغوش دردناک» در جوایز بین‌المللی عکاسی ۲۰۲۶ به عنوان عکاس هنرهای زیبای سال انتخاب شد و در جمع نامزدهای نهایی جایزه اصلی بخش حرفه‌ای این رقابت قرار گرفت.\nجوایز بین‌المللی عکاسی در بیانیه‌ای اعلام کرد «آغوش دردناک» «تصویری عمیقا شخصی است که در دوران جنگ در تهران ثبت شده و از طریق حرکت ساده یک آغوش، ترس، محافظت و اشتیاق برای صلح را بیان می‌کند.»\nسعیدپور گفت که روزهای جنگ را روی پشت‌بام گذراند و می‌خواست «تهران را در آغوش بگیرد» و از آن در برابر آسیب محافظت کند. او افزود که آرزو داشت رهبران جهان یکدیگر را در آغوش بگیرند تا دیگر جنگی وجود نداشته باشد.\nسعیدپور به عنوان برنده یکی از بخش‌های حرفه‌ای، جایزه‌ای هزار دلاری دریافت می‌کند و برای کسب عنوان «عکاس بین‌المللی سال» و جایزه ۱۰ هزار دلاری آن رقابت خواهد کرد.\n\nhttps://iranintl.com/202608307567",
+      "message_id": 354837,
+      "message_link": "https://t.me/IranintlTV/354837",
+      "text": "دلسی رودریگز، رییس‌جمهوری موقت ونزوئلا، شنبه گفت توافق انرژی با آمریکا برای ۲۵ سال معتبر خواهد بود و هدف آن افزایش تولید نفت خام به روزانه ۱.۵ میلیون بشکه و حفظ حاکمیت ونزوئلا بر منابع طبیعی این کشور است.\nرودریگز در سخنرانی خود در ساعات پایانی شب، این توافق را «تاریخی» خواند و گفت این توافق به احیای اقتصاد کشور و افزایش درآمدهای دولت کمک خواهد کرد و در شکل‌گیری آینده ونزوئلا نقش خواهد داشت.\n\nhttps://iranintl.com/202608301351",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "05:27:25",
-      "gregorian_utc": "2026-08-30T01:57:25+00:00",
+      "tehran_time": "06:14:19",
+      "gregorian_utc": "2026-08-30T02:44:19+00:00",
       "media_type": "photo",
-      "media_size_bytes": 186217,
-      "media_size_human": "181.85 KB",
+      "media_size_bytes": 193264,
+      "media_size_human": "188.73 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354836_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354836_photo.jpg",
+      "media_local_path": "media/IranintlTV_354837_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354837_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T04:40:26.369037+00:00"
+      "archived_at": "2026-08-30T04:50:24.173337+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -437,7 +437,7 @@
       "media_local_path": "media/satlastnews_76367_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76367_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T04:40:26.665859+00:00"
+      "archived_at": "2026-08-30T04:50:24.437983+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -455,7 +455,7 @@
       "media_local_path": "media/Mellig_120402_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120402_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T04:40:26.964868+00:00"
+      "archived_at": "2026-08-30T04:50:24.714971+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -473,7 +473,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T04:40:27.241960+00:00"
+      "archived_at": "2026-08-30T04:50:24.940176+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -491,25 +491,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T04:40:26.085465+00:00"
+      "archived_at": "2026-08-30T04:50:23.932944+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354835,
-      "message_link": "https://t.me/IranintlTV/354835",
-      "text": "تصمیم تازه دولت آمریکا برای تشدید تحریم‌های جمهوری اسلامی، موجب می‌شود دانشجویان ایرانی که برای ورود به دانشگاه یا دریافت مدارک علمی و حرفه‌ای به آزمون‌های بین‌المللی مانند تاقل یا جی‌آر‌ای نیاز دارند، نتوانند در این آزمون‌ها شرکت کنند.\n\nدفتر کنترل دارایی‌های خارجی وزارت خزانه‌داری آمریکا، OFAC، دوم شهریور اعلام کرد مجوز عمومی جی که از سال ۲۰۱۴ امکان ارائه مجموعه‌ای از خدمات آموزشی و دانشگاهی به ایرانیان را فراهم می‌کرد، از همین تاریخ «به‌طور نامحدود» تعلیق شده است.\n\nاین تعلیق موجب می‌شود پوشش حقوقی عمومی‌ که شرکت‌های آمریکایی برای ارائه چنین خدماتی به ایرانیان به آن اتکا می‌کردند، دیگر قابل استفاده نباشد.\n\nبند چهارم بخش خدمات آموزشی این مجوز صراحتا به «آزمون‌های گواهی حرفه‌ای و آزمون‌های ورودی دانشگاه، از جمله آزمون‌های استاندارد چندگزینه‌ای» اشاره می‌کند.\n\nطبق آن، اشخاص آمریکایی در هر نقطه جهان اجازه داشتند این آزمون‌ها و همچنین خدمات لازم برای پذیرش در دانشگاه‌های آمریکا را به افرادی که در ایران هستند یا در خارج از ایران زندگی می‌کنند اما «به‌طور معمول مقیم ایران» محسوب می‌شوند، ارائه کنند.\nhttps://iranin",
+      "message_id": 354836,
+      "message_link": "https://t.me/IranintlTV/354836",
+      "text": "مریم سعیدپور، عکاس ایرانی، برای مجموعه دوران جنگ خود با عنوان «آغوش دردناک» در جوایز بین‌المللی عکاسی ۲۰۲۶ به عنوان عکاس هنرهای زیبای سال انتخاب شد و در جمع نامزدهای نهایی جایزه اصلی بخش حرفه‌ای این رقابت قرار گرفت.\nجوایز بین‌المللی عکاسی در بیانیه‌ای اعلام کرد «آغوش دردناک» «تصویری عمیقا شخصی است که در دوران جنگ در تهران ثبت شده و از طریق حرکت ساده یک آغوش، ترس، محافظت و اشتیاق برای صلح را بیان می‌کند.»\nسعیدپور گفت که روزهای جنگ را روی پشت‌بام گذراند و می‌خواست «تهران را در آغوش بگیرد» و از آن در برابر آسیب محافظت کند. او افزود که آرزو داشت رهبران جهان یکدیگر را در آغوش بگیرند تا دیگر جنگی وجود نداشته باشد.\nسعیدپور به عنوان برنده یکی از بخش‌های حرفه‌ای، جایزه‌ای هزار دلاری دریافت می‌کند و برای کسب عنوان «عکاس بین‌المللی سال» و جایزه ۱۰ هزار دلاری آن رقابت خواهد کرد.\n\nhttps://iranintl.com/202608307567",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "05:01:36",
-      "gregorian_utc": "2026-08-30T01:31:36+00:00",
+      "tehran_time": "05:27:25",
+      "gregorian_utc": "2026-08-30T01:57:25+00:00",
       "media_type": "photo",
-      "media_size_bytes": 185458,
-      "media_size_human": "181.11 KB",
+      "media_size_bytes": 186217,
+      "media_size_human": "181.85 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354835_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354835_photo.jpg",
+      "media_local_path": "media/IranintlTV_354836_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354836_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T04:40:26.369063+00:00"
+      "archived_at": "2026-08-30T04:50:24.173459+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -527,7 +527,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T04:40:26.665906+00:00"
+      "archived_at": "2026-08-30T04:50:24.438053+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -545,7 +545,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T04:40:26.964889+00:00"
+      "archived_at": "2026-08-30T04:50:24.715004+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -563,7 +563,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T04:40:27.241976+00:00"
+      "archived_at": "2026-08-30T04:50:24.940200+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -581,25 +581,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T04:40:26.085487+00:00"
+      "archived_at": "2026-08-30T04:50:23.932975+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354834,
-      "message_link": "https://t.me/IranintlTV/354834",
-      "text": "اویل‌پرایس به نقل از مرکز پژوهش درباره انرژی و هوای پاک گزارش داد جنگ میان ایران، آمریکا و اسرائیل در شش ماه مارس تا اوت حدود ۳۳۰ میلیارد دلار هزینه اضافی بر واردات انرژی جهان تحمیل کرده است.\n\nنفت خام با ۱۶۴.۱ میلیارد دلار تقریبا نیمی از این افزایش را تشکیل می‌دهد و اتحادیه اروپا با ۷۸ میلیارد دلار، چین با ۳۵ میلیارد دلار و هند با ۲۲ میلیارد دلار بیشترین افزایش هزینه را متحمل شده‌اند.\n\nبر اساس این گزارش، اختلال در خلیج فارس اقتصادهای وابسته به واردات انرژی را بیش از دیگر کشورها تحت فشار قرار داده است.\n\nچین با کاهش واردات و استفاده از ذخایر نفتی خود بخشی از این فشار را مهار کرد، اما وابستگی هند به نفت وارداتی و اتحادیه اروپا به منابع خارجی انرژی، آسیب‌پذیری آنها را در برابر افزایش قیمت‌ها بیشتر کرد.\n\nاویل‌پرایس نوشت فشار بر بازار انرژی ممکن است حتی پس از پایان جنگ با حکومت ایران ادامه یابد. آسیب به ظرفیت پالایشگاهی خاورمیانه و روسیه، محدودیت عرضه سوخت و بالا ماندن قیمت گاز طبیعی مایع در آسیا و اروپا می‌تواند هزینه واردات انرژی را برای مدتی در سطح بالا نگه دارد.\nhttps://iranintl.com/202608292790",
+      "message_id": 354835,
+      "message_link": "https://t.me/IranintlTV/354835",
+      "text": "تصمیم تازه دولت آمریکا برای تشدید تحریم‌های جمهوری اسلامی، موجب می‌شود دانشجویان ایرانی که برای ورود به دانشگاه یا دریافت مدارک علمی و حرفه‌ای به آزمون‌های بین‌المللی مانند تاقل یا جی‌آر‌ای نیاز دارند، نتوانند در این آزمون‌ها شرکت کنند.\n\nدفتر کنترل دارایی‌های خارجی وزارت خزانه‌داری آمریکا، OFAC، دوم شهریور اعلام کرد مجوز عمومی جی که از سال ۲۰۱۴ امکان ارائه مجموعه‌ای از خدمات آموزشی و دانشگاهی به ایرانیان را فراهم می‌کرد، از همین تاریخ «به‌طور نامحدود» تعلیق شده است.\n\nاین تعلیق موجب می‌شود پوشش حقوقی عمومی‌ که شرکت‌های آمریکایی برای ارائه چنین خدماتی به ایرانیان به آن اتکا می‌کردند، دیگر قابل استفاده نباشد.\n\nبند چهارم بخش خدمات آموزشی این مجوز صراحتا به «آزمون‌های گواهی حرفه‌ای و آزمون‌های ورودی دانشگاه، از جمله آزمون‌های استاندارد چندگزینه‌ای» اشاره می‌کند.\n\nطبق آن، اشخاص آمریکایی در هر نقطه جهان اجازه داشتند این آزمون‌ها و همچنین خدمات لازم برای پذیرش در دانشگاه‌های آمریکا را به افرادی که در ایران هستند یا در خارج از ایران زندگی می‌کنند اما «به‌طور معمول مقیم ایران» محسوب می‌شوند، ارائه کنند.\nhttps://iranin",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "04:00:10",
-      "gregorian_utc": "2026-08-30T00:30:10+00:00",
+      "tehran_time": "05:01:36",
+      "gregorian_utc": "2026-08-30T01:31:36+00:00",
       "media_type": "photo",
-      "media_size_bytes": 171732,
-      "media_size_human": "167.71 KB",
+      "media_size_bytes": 185458,
+      "media_size_human": "181.11 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354834_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354834_photo.jpg",
+      "media_local_path": "media/IranintlTV_354835_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354835_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T04:40:26.369161+00:00"
+      "archived_at": "2026-08-30T04:50:24.173503+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -617,7 +617,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T04:40:26.665994+00:00"
+      "archived_at": "2026-08-30T04:50:24.438174+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -635,7 +635,7 @@
       "media_local_path": "media/Mellig_120400_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120400_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T04:40:26.964914+00:00"
+      "archived_at": "2026-08-30T04:50:24.715044+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -653,7 +653,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T04:40:27.241992+00:00"
+      "archived_at": "2026-08-30T04:50:24.940224+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -671,25 +671,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T04:40:26.085520+00:00"
+      "archived_at": "2026-08-30T04:50:23.933017+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354833,
-      "message_link": "https://t.me/IranintlTV/354833",
-      "text": "شاهزاده رضا پهلوی با قدردانی از بیانیه ده‌ها تن از زندانیان سیاسی پادشاهی‌خواه و مبارزان داخل کشور درباره لزوم همبستگی، بر ضرورت اتحاد و پرهیز از اختلاف‌نظرهای حاشیه‌ای برای نجات ایران تاکید کرد.\nشاهزاده رضا پهلوی در ایکس نوشت: «از صمیم قلب از ۱۶۰ زندانی سیاسی و خانواده‌های دادخواه داخل ایران که با وجود هزینه‌ها و خطرات سنگینی که متحمل شده‌اند، چنین شجاعانه صدای خود را بلند کرده‌اند، سپاسگزارم. ایستادگی شما برای من و برای هر ایرانی آزادی‌خواه و میهن‌پرست، مایه احترام و دلگرمی است.»\nاو افزود: «همان‌طور که شما در پیام خود تاکید کرده‌اید، ما امروز بیش از همیشه به اتحاد در چارچوب اصول مشترک‌مان، انضباط، مسئولیت‌پذیری، و تمرکز بر نجات ایران نیاز داریم، و هیچ اختلاف‌نظر یا حاشیه‌ای نباید ما را از این هدف مهم دور کند.»\n\nhttps://iranintl.com/202608296412",
+      "message_id": 354834,
+      "message_link": "https://t.me/IranintlTV/354834",
+      "text": "اویل‌پرایس به نقل از مرکز پژوهش درباره انرژی و هوای پاک گزارش داد جنگ میان ایران، آمریکا و اسرائیل در شش ماه مارس تا اوت حدود ۳۳۰ میلیارد دلار هزینه اضافی بر واردات انرژی جهان تحمیل کرده است.\n\nنفت خام با ۱۶۴.۱ میلیارد دلار تقریبا نیمی از این افزایش را تشکیل می‌دهد و اتحادیه اروپا با ۷۸ میلیارد دلار، چین با ۳۵ میلیارد دلار و هند با ۲۲ میلیارد دلار بیشترین افزایش هزینه را متحمل شده‌اند.\n\nبر اساس این گزارش، اختلال در خلیج فارس اقتصادهای وابسته به واردات انرژی را بیش از دیگر کشورها تحت فشار قرار داده است.\n\nچین با کاهش واردات و استفاده از ذخایر نفتی خود بخشی از این فشار را مهار کرد، اما وابستگی هند به نفت وارداتی و اتحادیه اروپا به منابع خارجی انرژی، آسیب‌پذیری آنها را در برابر افزایش قیمت‌ها بیشتر کرد.\n\nاویل‌پرایس نوشت فشار بر بازار انرژی ممکن است حتی پس از پایان جنگ با حکومت ایران ادامه یابد. آسیب به ظرفیت پالایشگاهی خاورمیانه و روسیه، محدودیت عرضه سوخت و بالا ماندن قیمت گاز طبیعی مایع در آسیا و اروپا می‌تواند هزینه واردات انرژی را برای مدتی در سطح بالا نگه دارد.\nhttps://iranintl.com/202608292790",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "03:10:59",
-      "gregorian_utc": "2026-08-29T23:40:59+00:00",
+      "tehran_time": "04:00:10",
+      "gregorian_utc": "2026-08-30T00:30:10+00:00",
       "media_type": "photo",
-      "media_size_bytes": 168085,
-      "media_size_human": "164.15 KB",
+      "media_size_bytes": 171732,
+      "media_size_human": "167.71 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354833_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354833_photo.jpg",
+      "media_local_path": "media/IranintlTV_354834_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354834_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T04:40:26.369244+00:00"
+      "archived_at": "2026-08-30T04:50:24.173647+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -707,7 +707,7 @@
       "media_local_path": "media/satlastnews_76364_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76364_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T04:40:26.666037+00:00"
+      "archived_at": "2026-08-30T04:50:24.438239+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -725,7 +725,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T04:40:26.964930+00:00"
+      "archived_at": "2026-08-30T04:50:24.715071+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -743,7 +743,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T04:40:27.242007+00:00"
+      "archived_at": "2026-08-30T04:50:24.940249+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -761,25 +761,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T04:40:26.085540+00:00"
+      "archived_at": "2026-08-30T04:50:23.933045+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354832,
-      "message_link": "https://t.me/IranintlTV/354832",
-      "text": "مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «بازگشت برخی چهره‌های منتقد و مخالف به ایران، صرفا در چارچوب حق بازگشت قابل بررسی نیست، این روند، پروژه‌ای هدایت‌شده از سوی نهادهای اطلاعاتی جمهوری اسلامی است. فرش قرمزی که حکومت پهن کرده از آن خون می‌چکد و به خون ده‌ها هزار قربانی، از جمله کشته‌شدگان خیزش دی‌ماه، آغشته است.»\n@iranintltv",
+      "message_id": 354833,
+      "message_link": "https://t.me/IranintlTV/354833",
+      "text": "شاهزاده رضا پهلوی با قدردانی از بیانیه ده‌ها تن از زندانیان سیاسی پادشاهی‌خواه و مبارزان داخل کشور درباره لزوم همبستگی، بر ضرورت اتحاد و پرهیز از اختلاف‌نظرهای حاشیه‌ای برای نجات ایران تاکید کرد.\nشاهزاده رضا پهلوی در ایکس نوشت: «از صمیم قلب از ۱۶۰ زندانی سیاسی و خانواده‌های دادخواه داخل ایران که با وجود هزینه‌ها و خطرات سنگینی که متحمل شده‌اند، چنین شجاعانه صدای خود را بلند کرده‌اند، سپاسگزارم. ایستادگی شما برای من و برای هر ایرانی آزادی‌خواه و میهن‌پرست، مایه احترام و دلگرمی است.»\nاو افزود: «همان‌طور که شما در پیام خود تاکید کرده‌اید، ما امروز بیش از همیشه به اتحاد در چارچوب اصول مشترک‌مان، انضباط، مسئولیت‌پذیری، و تمرکز بر نجات ایران نیاز داریم، و هیچ اختلاف‌نظر یا حاشیه‌ای نباید ما را از این هدف مهم دور کند.»\n\nhttps://iranintl.com/202608296412",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "02:41:08",
-      "gregorian_utc": "2026-08-29T23:11:08+00:00",
-      "media_type": "video",
-      "media_size_bytes": 703718,
-      "media_size_human": "687.22 KB",
+      "tehran_time": "03:10:59",
+      "gregorian_utc": "2026-08-29T23:40:59+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 168085,
+      "media_size_human": "164.15 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354832_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354832_video.mp4",
+      "media_local_path": "media/IranintlTV_354833_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354833_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T04:40:26.369298+00:00"
+      "archived_at": "2026-08-30T04:50:24.173781+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -797,7 +797,7 @@
       "media_local_path": "media/satlastnews_76363_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76363_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T04:40:26.666073+00:00"
+      "archived_at": "2026-08-30T04:50:24.438295+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -815,7 +815,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T04:40:26.964946+00:00"
+      "archived_at": "2026-08-30T04:50:24.715096+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -833,7 +833,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T04:40:27.242024+00:00"
+      "archived_at": "2026-08-30T04:50:24.940275+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -851,25 +851,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T04:40:26.085558+00:00"
+      "archived_at": "2026-08-30T04:50:23.933071+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354831,
-      "message_link": "https://t.me/IranintlTV/354831",
-      "text": "مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «ایران از \"قحطی مدرن\"، یعنی وجود مواد غذایی و ناتوانی بخش بزرگی از مردم در خرید آن، آرام‌آرام به سمت \"قحطی کلاسیک\" و کمبود واقعی کالاهای اساسی پیش می‌رود. کارشناسان هشدار می‌دهند کمبود بنزین ممکن است به مواد غذایی هم سرایت کند؛ بحرانی که نتیجه بی‌کفایتی، فساد و غارتگری مقامات جمهوری اسلامی است.»\n@iranintltv",
+      "message_id": 354832,
+      "message_link": "https://t.me/IranintlTV/354832",
+      "text": "مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «بازگشت برخی چهره‌های منتقد و مخالف به ایران، صرفا در چارچوب حق بازگشت قابل بررسی نیست، این روند، پروژه‌ای هدایت‌شده از سوی نهادهای اطلاعاتی جمهوری اسلامی است. فرش قرمزی که حکومت پهن کرده از آن خون می‌چکد و به خون ده‌ها هزار قربانی، از جمله کشته‌شدگان خیزش دی‌ماه، آغشته است.»\n@iranintltv",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "02:09:55",
-      "gregorian_utc": "2026-08-29T22:39:55+00:00",
+      "tehran_time": "02:41:08",
+      "gregorian_utc": "2026-08-29T23:11:08+00:00",
       "media_type": "video",
-      "media_size_bytes": 724781,
-      "media_size_human": "707.79 KB",
+      "media_size_bytes": 703718,
+      "media_size_human": "687.22 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354831_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354831_video.mp4",
+      "media_local_path": "media/IranintlTV_354832_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354832_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T04:40:26.369349+00:00"
+      "archived_at": "2026-08-30T04:50:24.173863+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -887,7 +887,7 @@
       "media_local_path": "media/satlastnews_76362_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76362_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T04:40:26.666099+00:00"
+      "archived_at": "2026-08-30T04:50:24.438335+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -905,7 +905,7 @@
       "media_local_path": "media/Mellig_120397_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120397_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T04:40:26.964980+00:00"
+      "archived_at": "2026-08-30T04:50:24.715247+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -923,25 +923,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T04:40:26.085576+00:00"
+      "archived_at": "2026-08-30T04:50:23.933096+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354830,
-      "message_link": "https://t.me/IranintlTV/354830",
-      "text": "مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «نشانه‌های در پیش بودن زمستانی سخت و خطر قحطی، هر دو به روایت مقام‌های حکومت و اقتصاددانان کشور دیده می‌شود. اقتصاددانان برجسته می‌گویند اگر وضعیت به همین شکل ادامه پیدا کند، خطر قحطی وجود دارد. مصاحبه مسعود پزشکیان با صداوسیما، در واقع گزارش ورشکستگی دولت و جمهوری اسلامی بود. او به مردم گفت گرانی و تورم را تحمل کنند، چون قرار بوده قحطی شود و همین که قحطی نشده، باید خدا را شکر کرد.»\n@iranintltv",
+      "message_id": 354831,
+      "message_link": "https://t.me/IranintlTV/354831",
+      "text": "مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «ایران از \"قحطی مدرن\"، یعنی وجود مواد غذایی و ناتوانی بخش بزرگی از مردم در خرید آن، آرام‌آرام به سمت \"قحطی کلاسیک\" و کمبود واقعی کالاهای اساسی پیش می‌رود. کارشناسان هشدار می‌دهند کمبود بنزین ممکن است به مواد غذایی هم سرایت کند؛ بحرانی که نتیجه بی‌کفایتی، فساد و غارتگری مقامات جمهوری اسلامی است.»\n@iranintltv",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "01:55:53",
-      "gregorian_utc": "2026-08-29T22:25:53+00:00",
+      "tehran_time": "02:09:55",
+      "gregorian_utc": "2026-08-29T22:39:55+00:00",
       "media_type": "video",
-      "media_size_bytes": 756588,
-      "media_size_human": "738.86 KB",
+      "media_size_bytes": 724781,
+      "media_size_human": "707.79 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354830_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354830_video.mp4",
+      "media_local_path": "media/IranintlTV_354831_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354831_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T04:40:26.369403+00:00"
+      "archived_at": "2026-08-30T04:50:24.173939+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -959,7 +959,7 @@
       "media_local_path": "media/satlastnews_76361_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76361_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T04:40:26.672496+00:00"
+      "archived_at": "2026-08-30T04:50:24.454431+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -977,7 +977,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-08-30T04:40:26.965106+00:00"
+      "archived_at": "2026-08-30T04:50:24.715315+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -995,25 +995,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T04:40:26.085593+00:00"
+      "archived_at": "2026-08-30T04:50:23.933121+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354829,
-      "message_link": "https://t.me/IranintlTV/354829",
-      "text": "نوید محبی، تحلیل‌گر سیاسی، گفت تاکید شاهزاده رضا پهلوی بر اتحاد، انضباط و مسئولیت‌پذیری، پاسخی به اختلافات و حاشیه‌هایی است که در ماه‌های اخیر فضای اپوزیسیون را تحت تاثیر قرار داده است. او افزود هیچ جنبش سیاسی موفقی نباید اجازه دهد اختلافات شخصی یا سازمانی، هدف اصلی مبارزه را به حاشیه ببرد.\n\nاو همچنین گفت بیانیه زندانیان سیاسی پادشاهی‌خواه و خانواده‌های دادخواه نشان می‌دهد جریان‌های مخالف جمهوری اسلامی، با وجود سرکوب، همچنان بر اصول مشترک برای همگرایی تاکید دارند و به گفته او، تمرکز کنونی باید بر آزادی ایران باشد، نه رقابت‌های سیاسی آینده.\n@iranintltv",
+      "message_id": 354830,
+      "message_link": "https://t.me/IranintlTV/354830",
+      "text": "مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «نشانه‌های در پیش بودن زمستانی سخت و خطر قحطی، هر دو به روایت مقام‌های حکومت و اقتصاددانان کشور دیده می‌شود. اقتصاددانان برجسته می‌گویند اگر وضعیت به همین شکل ادامه پیدا کند، خطر قحطی وجود دارد. مصاحبه مسعود پزشکیان با صداوسیما، در واقع گزارش ورشکستگی دولت و جمهوری اسلامی بود. او به مردم گفت گرانی و تورم را تحمل کنند، چون قرار بوده قحطی شود و همین که قحطی نشده، باید خدا را شکر کرد.»\n@iranintltv",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "01:53:08",
-      "gregorian_utc": "2026-08-29T22:23:08+00:00",
+      "tehran_time": "01:55:53",
+      "gregorian_utc": "2026-08-29T22:25:53+00:00",
       "media_type": "video",
-      "media_size_bytes": 3832906,
-      "media_size_human": "3.66 MB",
+      "media_size_bytes": 756588,
+      "media_size_human": "738.86 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354829_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354829_video.mp4",
+      "media_local_path": "media/IranintlTV_354830_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354830_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T04:40:26.369477+00:00"
+      "archived_at": "2026-08-30T04:50:24.174020+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1031,7 +1031,7 @@
       "media_local_path": "media/satlastnews_76358_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76358_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T04:40:26.672586+00:00"
+      "archived_at": "2026-08-30T04:50:24.454564+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1049,7 +1049,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T04:40:26.965144+00:00"
+      "archived_at": "2026-08-30T04:50:24.715368+00:00"
     }
   ]
 }
