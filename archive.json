@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-30T17:42:34.458884+00:00",
-  "shamsi_generated": "1405/06/08 17:42:34 تهران",
+  "generated_at": "2026-08-30T17:53:36.165628+00:00",
+  "shamsi_generated": "1405/06/08 17:53:36 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -41,25 +41,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T17:40:34.775933+00:00"
+      "archived_at": "2026-08-30T17:50:32.174566+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354944,
-      "message_link": "https://t.me/IranintlTV/354944",
-      "text": "تد کروز، سناتور جمهوری‌خواه، در گفت‌وگو با ان‌بی‌سی‌نیوز با تاکید بر اینکه آمریکا وظیفه ندارد تعیین کند چه کسی در حکومت ایران باشد، گفت: «اما وظیفه ما این است که بگوییم حکومت ایران نباید یک حکومت دینی افراطی باشد که از آمریکا متنفر است و تلاش می‌کند آمریکایی‌ها را بکشد.»\n\nکروز همچنین در بخشی از این مصاحبه از شخص ترامپ و دولت آمریکا خواست معترضان ایرانی و کردها را مسلح کنند و اجازه دهند «معترضان ایران» و نه سربازان آمریکایی حکومت ایران را کنار بزنند.\nhttps://iranintl.com/202608306144",
+      "message_id": 354947,
+      "message_link": "https://t.me/IranintlTV/354947",
+      "text": "رمزگشایی از مسیر مخفی آمریکا در قلب تنگه هرمز\n@iranintltv",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "21:02:44",
-      "gregorian_utc": "2026-08-30T17:32:44+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 199121,
-      "media_size_human": "194.45 KB",
+      "tehran_time": "21:18:42",
+      "gregorian_utc": "2026-08-30T17:48:42+00:00",
+      "media_type": "video",
+      "media_size_bytes": 6083786,
+      "media_size_human": "5.80 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354944_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354944_photo.jpg",
+      "media_local_path": "media/IranintlTV_354947_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354947_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T17:40:35.079757+00:00"
+      "archived_at": "2026-08-30T17:50:32.670887+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -77,7 +77,7 @@
       "media_local_path": "media/satlastnews_76381_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76381_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T17:40:35.409541+00:00"
+      "archived_at": "2026-08-30T17:50:33.055568+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -95,7 +95,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T17:40:35.760343+00:00"
+      "archived_at": "2026-08-30T17:50:33.519741+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -113,7 +113,7 @@
       "media_local_path": "media/khabarsara53_11_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_11_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T17:40:36.016217+00:00"
+      "archived_at": "2026-08-30T17:50:33.883715+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -131,25 +131,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T17:40:34.775967+00:00"
+      "archived_at": "2026-08-30T17:50:32.174620+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354943,
-      "message_link": "https://t.me/IranintlTV/354943",
-      "text": "میعاد ملکی، رئیس پیشین دفتر هدف‌گذاری تحریم‌های وزارت خزانه‌داری آمریکا، گفت هدف حذف معافیت آموزشی، دانشجویان ایرانی نیست، بلکه بستن مسیری است که به گفته او، سپاه پاسداران و نهادهای وابسته به جمهوری اسلامی از آن برای کسب درآمد یا دسترسی به اطلاعات استفاده می‌کردند.\n\nاو افزود این تصمیم به معنای توقف دائمی خدمات آموزشی نیست و شرکت‌ها همچنان می‌توانند با دریافت مجوز موردی از وزارت خزانه‌داری آمریکا، فعالیت خود را ادامه دهند. به گفته ملکی، این سازوکار برای جلوگیری از سوءاستفاده جمهوری اسلامی و در عین حال حفظ امکان ارائه خدمات آموزشی طراحی شده است.\n@iranintltv",
+      "message_id": 354946,
+      "message_link": "https://t.me/IranintlTV/354946",
+      "text": "وزارت امور خارجه جمهوری اسلامی امروز بار دیگر تاکید کرد تا زمانی که آمریکا به تعهداتش عمل نکند، تنگه هرمز بسته خواهد بود. آمریکا می‌گوید تنگه هرمز برای آمریکا باز و تنها برای ایران، با توجه به محاصره، بسته است داده‌های موجود کدام روایت را تایید می‌کنند؟\n\nگفت‌وگو با مسعود کاظمی، روزنامه‌نگار\n@iranintltv",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "20:54:13",
-      "gregorian_utc": "2026-08-30T17:24:13+00:00",
+      "tehran_time": "21:13:11",
+      "gregorian_utc": "2026-08-30T17:43:11+00:00",
       "media_type": "video",
-      "media_size_bytes": 3939981,
-      "media_size_human": "3.76 MB",
+      "media_size_bytes": 18782096,
+      "media_size_human": "17.91 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354943_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354943_video.mp4",
+      "media_local_path": "media/IranintlTV_354946_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354946_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T17:40:35.079836+00:00"
+      "archived_at": "2026-08-30T17:50:32.671008+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -167,7 +167,7 @@
       "media_local_path": "media/satlastnews_76380_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76380_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T17:40:35.409572+00:00"
+      "archived_at": "2026-08-30T17:50:33.055615+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -185,7 +185,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T17:40:35.760365+00:00"
+      "archived_at": "2026-08-30T17:50:33.519776+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -203,7 +203,7 @@
       "media_local_path": "media/khabarsara53_10_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_10_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T17:40:36.016260+00:00"
+      "archived_at": "2026-08-30T17:50:33.883786+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -221,25 +221,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T17:40:34.775987+00:00"
+      "archived_at": "2026-08-30T17:50:32.174656+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354942,
-      "message_link": "https://t.me/IranintlTV/354942",
-      "text": "مراد ویسی، تحلیلگر ارشد ایران‌اینترنشنال، با اشاره به تشدید اختلافات در سطوح عالی سپاه گفت این اختلاف‌ها نه بر سر منافع ملی ایران، بلکه بر سر منافع باندهای قدرت و نحوه حفظ جمهوری اسلامی است.\n\nویسی دو جریان «تفاهم‌گرا» به رهبری قالیباف و «تقابل‌گرا» با محوریت محسن رضایی، احمد وحیدی و حسین طائب را از جریان‌های اصلی در این اختلافات معرفی می‌کند و معتقد است با تضعیف موقعیت قالیباف، کفه قدرت فعلا به سود جریان تقابل‌گرا سنگین‌تر شده است.\n@iranintltv",
+      "message_id": 354945,
+      "message_link": "https://t.me/IranintlTV/354945",
+      "text": "ویدیوی منتشرشده از مراسم افتتاح یکی از طرح‌های فاضلاب در مراغه نشان می‌دهد مقام‌های حاضر در این مراسم از علی خامنه‌ای، رهبر پیشین جمهوری اسلامی، و مجتبی خامنه‌ای، رهبر جدید، یاد کردند.\n\nخبرگزاری دولتی ایرنا گزارش داد این مراسم در چارچوب برنامه‌های هفته دولت و افتتاح یا کلنگ‌زنی هفت طرح آب و فاضلاب با بودجه اعلام‌شده بیش از ۱۳۰ میلیارد تومان (حدود ۶۳۰ هزار دلار بر پایه نرخ بازار آزاد) برگزار شد. به گفته ایرنا، این طرح‌ها شامل خطوط انتقال و شبکه فاضلاب و ساخت مخازن آب روستایی است و ده‌ها هزار نفر را پوشش خواهد داد.\n@iranintltv",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "20:42:41",
-      "gregorian_utc": "2026-08-30T17:12:41+00:00",
+      "tehran_time": "21:12:30",
+      "gregorian_utc": "2026-08-30T17:42:30+00:00",
       "media_type": "video",
-      "media_size_bytes": 5442434,
-      "media_size_human": "5.19 MB",
+      "media_size_bytes": 260876,
+      "media_size_human": "254.76 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354942_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354942_video.mp4",
+      "media_local_path": "media/IranintlTV_354945_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354945_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T17:40:35.079892+00:00"
+      "archived_at": "2026-08-30T17:50:32.671119+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -257,7 +257,7 @@
       "media_local_path": "media/satlastnews_76379_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76379_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T17:40:35.409593+00:00"
+      "archived_at": "2026-08-30T17:50:33.055654+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -275,7 +275,7 @@
       "media_local_path": "media/Mellig_120425_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120425_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T17:40:35.760410+00:00"
+      "archived_at": "2026-08-30T17:50:33.519831+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -293,7 +293,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T17:40:36.016277+00:00"
+      "archived_at": "2026-08-30T17:50:33.883819+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -311,25 +311,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T17:40:34.776007+00:00"
+      "archived_at": "2026-08-30T17:50:32.174692+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354941,
-      "message_link": "https://t.me/IranintlTV/354941",
-      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال رها کردن بادکنک‌های سفیدی را نشان می‌دهد که نام پزشکان جاویدنام آیدا رستمی، مهسا دزفولیان و آناهیتا شیراوند روی آنها نوشته شده است. او می‌گوید: «یاد پزشکانی را که در انقلاب ملی کشته شدند، گرامی بداریم و به یاد پزشکانی باشیم که به دلیل کمک به مردم در بازداشت هستند.»",
+      "message_id": 354944,
+      "message_link": "https://t.me/IranintlTV/354944",
+      "text": "تد کروز، سناتور جمهوری‌خواه، در گفت‌وگو با ان‌بی‌سی‌نیوز با تاکید بر اینکه آمریکا وظیفه ندارد تعیین کند چه کسی در حکومت ایران باشد، گفت: «اما وظیفه ما این است که بگوییم حکومت ایران نباید یک حکومت دینی افراطی باشد که از آمریکا متنفر است و تلاش می‌کند آمریکایی‌ها را بکشد.»\n\nکروز همچنین در بخشی از این مصاحبه از شخص ترامپ و دولت آمریکا خواست معترضان ایرانی و کردها را مسلح کنند و اجازه دهند «معترضان ایران» و نه سربازان آمریکایی حکومت ایران را کنار بزنند.\nhttps://iranintl.com/202608306144",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "20:29:56",
-      "gregorian_utc": "2026-08-30T16:59:56+00:00",
-      "media_type": "video",
-      "media_size_bytes": 7044890,
-      "media_size_human": "6.72 MB",
+      "tehran_time": "21:02:44",
+      "gregorian_utc": "2026-08-30T17:32:44+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 199121,
+      "media_size_human": "194.45 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354941_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354941_video.mp4",
+      "media_local_path": "media/IranintlTV_354944_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354944_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T17:40:35.079915+00:00"
+      "archived_at": "2026-08-30T17:50:32.671229+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -347,7 +347,7 @@
       "media_local_path": "media/satlastnews_76378_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76378_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T17:40:35.409611+00:00"
+      "archived_at": "2026-08-30T17:50:33.055692+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -365,7 +365,7 @@
       "media_local_path": "media/Mellig_120424_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120424_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T17:40:35.760480+00:00"
+      "archived_at": "2026-08-30T17:50:33.536114+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -383,7 +383,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T17:40:36.016292+00:00"
+      "archived_at": "2026-08-30T17:50:33.883845+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -401,25 +401,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T17:40:34.776022+00:00"
+      "archived_at": "2026-08-30T17:50:32.174722+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354940,
-      "message_link": "https://t.me/IranintlTV/354940",
-      "text": "سازمان عملیات تجارت دریایی بریتانیا یک‌شنبه، هشتم شهریور، اعلام کرد یک نفتکش روز شنبه هفتم شهریور، هنگام حرکت به سوی تنگه هرمز، هدف یک پرتابه ناشناس قرار گرفته است.\n\nاین سازمان اعلام کرد این حادثه در حدود ۱۲ مایل دریایی شمال خصب عمان رخ داده و گزارشی از تلفات جانی یا پیامدهای زیست‌محیطی دریافت نشده است.\n\nبر اساس این اطلاعیه، مقام‌ها در حال بررسی حادثه‌اند. سازمان عملیات تجارت دریایی بریتانیا از کشتی‌های عبوری خواست با احتیاط حرکت کنند و هرگونه فعالیت مشکوک را گزارش دهند. \nhttps://iranintl.com/202608301846",
+      "message_id": 354943,
+      "message_link": "https://t.me/IranintlTV/354943",
+      "text": "میعاد ملکی، رئیس پیشین دفتر هدف‌گذاری تحریم‌های وزارت خزانه‌داری آمریکا، گفت هدف حذف معافیت آموزشی، دانشجویان ایرانی نیست، بلکه بستن مسیری است که به گفته او، سپاه پاسداران و نهادهای وابسته به جمهوری اسلامی از آن برای کسب درآمد یا دسترسی به اطلاعات استفاده می‌کردند.\n\nاو افزود این تصمیم به معنای توقف دائمی خدمات آموزشی نیست و شرکت‌ها همچنان می‌توانند با دریافت مجوز موردی از وزارت خزانه‌داری آمریکا، فعالیت خود را ادامه دهند. به گفته ملکی، این سازوکار برای جلوگیری از سوءاستفاده جمهوری اسلامی و در عین حال حفظ امکان ارائه خدمات آموزشی طراحی شده است.\n@iranintltv",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "20:13:37",
-      "gregorian_utc": "2026-08-30T16:43:37+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 135934,
-      "media_size_human": "132.75 KB",
+      "tehran_time": "20:54:13",
+      "gregorian_utc": "2026-08-30T17:24:13+00:00",
+      "media_type": "video",
+      "media_size_bytes": 3939981,
+      "media_size_human": "3.76 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354940_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354940_photo.jpg",
+      "media_local_path": "media/IranintlTV_354943_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354943_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T17:40:35.079978+00:00"
+      "archived_at": "2026-08-30T17:50:32.671343+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -437,7 +437,7 @@
       "media_local_path": "media/satlastnews_76377_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76377_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T17:40:35.409654+00:00"
+      "archived_at": "2026-08-30T17:50:33.055762+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -455,7 +455,7 @@
       "media_local_path": "media/Mellig_120423_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120423_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T17:40:35.760507+00:00"
+      "archived_at": "2026-08-30T17:50:33.536195+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -473,7 +473,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T17:40:36.016306+00:00"
+      "archived_at": "2026-08-30T17:50:33.883869+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -491,25 +491,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T17:40:34.776042+00:00"
+      "archived_at": "2026-08-30T17:50:32.174758+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354939,
-      "message_link": "https://t.me/IranintlTV/354939",
-      "text": "تیتر اول با نیوشا صارمی، یکشنبه ۸ شهریور\n@iranintltv",
+      "message_id": 354942,
+      "message_link": "https://t.me/IranintlTV/354942",
+      "text": "مراد ویسی، تحلیلگر ارشد ایران‌اینترنشنال، با اشاره به تشدید اختلافات در سطوح عالی سپاه گفت این اختلاف‌ها نه بر سر منافع ملی ایران، بلکه بر سر منافع باندهای قدرت و نحوه حفظ جمهوری اسلامی است.\n\nویسی دو جریان «تفاهم‌گرا» به رهبری قالیباف و «تقابل‌گرا» با محوریت محسن رضایی، احمد وحیدی و حسین طائب را از جریان‌های اصلی در این اختلافات معرفی می‌کند و معتقد است با تضعیف موقعیت قالیباف، کفه قدرت فعلا به سود جریان تقابل‌گرا سنگین‌تر شده است.\n@iranintltv",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "20:10:51",
-      "gregorian_utc": "2026-08-30T16:40:51+00:00",
+      "tehran_time": "20:42:41",
+      "gregorian_utc": "2026-08-30T17:12:41+00:00",
       "media_type": "video",
-      "media_size_bytes": 797686,
-      "media_size_human": "778.99 KB",
+      "media_size_bytes": 5442434,
+      "media_size_human": "5.19 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354939_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354939_video.mp4",
+      "media_local_path": "media/IranintlTV_354942_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354942_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T17:40:35.080006+00:00"
+      "archived_at": "2026-08-30T17:50:32.671435+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -527,7 +527,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T17:40:35.409693+00:00"
+      "archived_at": "2026-08-30T17:50:33.055829+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -545,7 +545,7 @@
       "media_local_path": "media/Mellig_120422_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120422_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T17:40:35.760528+00:00"
+      "archived_at": "2026-08-30T17:50:33.536249+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -563,7 +563,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T17:40:36.016319+00:00"
+      "archived_at": "2026-08-30T17:50:33.883892+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -581,25 +581,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T17:40:34.776057+00:00"
+      "archived_at": "2026-08-30T17:50:32.174791+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354938,
-      "message_link": "https://t.me/IranintlTV/354938",
-      "text": "دفتر رسانه‌ای شاهزاده رضا پهلوی در واکنش به خبر صدور حکم اعدام برای ۱۰ شهروند معترض در اصفهان، نوشت که صدور این احکام بی‌رحمانه و ناعادلانه، نشان‌دهنده تشدید سرکوب و کارزار خشونت حکومت است و جهان نمی‌تواند در برابر این جنایت‌ها سکوت کند.\n\nدر این بیانیه آمده است: «این احکام با وجود نقض گسترده حقوق بشر، محروم کردن متهمان از دسترسی به وکیل و شکنجه شدید، از جمله خشونت جنسی علیه زنان بازداشت‌شده، برای گرفتن اعتراف اجباری صادر شده‌اند.»\n\nدفتر شاهزاده پهلوی نوشت که حکومت جمهوری اسلامی با صدور احکام اعدام تلاش می‌کند با ایجاد رعب و وحشت، خشم عمومی را سرکوب و از ناآرامی‌های آینده جلوگیری کند.\nhttps://iranintl.com/202608306485",
+      "message_id": 354941,
+      "message_link": "https://t.me/IranintlTV/354941",
+      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال رها کردن بادکنک‌های سفیدی را نشان می‌دهد که نام پزشکان جاویدنام آیدا رستمی، مهسا دزفولیان و آناهیتا شیراوند روی آنها نوشته شده است. او می‌گوید: «یاد پزشکانی را که در انقلاب ملی کشته شدند، گرامی بداریم و به یاد پزشکانی باشیم که به دلیل کمک به مردم در بازداشت هستند.»",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "20:05:38",
-      "gregorian_utc": "2026-08-30T16:35:38+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 141824,
-      "media_size_human": "138.50 KB",
+      "tehran_time": "20:29:56",
+      "gregorian_utc": "2026-08-30T16:59:56+00:00",
+      "media_type": "video",
+      "media_size_bytes": 7044890,
+      "media_size_human": "6.72 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354938_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354938_photo.jpg",
+      "media_local_path": "media/IranintlTV_354941_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354941_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T17:40:35.080083+00:00"
+      "archived_at": "2026-08-30T17:50:32.671475+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -617,7 +617,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T17:40:35.409726+00:00"
+      "archived_at": "2026-08-30T17:50:33.055886+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -635,7 +635,7 @@
       "media_local_path": "media/Mellig_120421_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120421_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T17:40:35.760547+00:00"
+      "archived_at": "2026-08-30T17:50:33.536295+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -653,7 +653,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T17:40:36.016334+00:00"
+      "archived_at": "2026-08-30T17:50:33.883914+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -671,25 +671,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T17:40:34.776098+00:00"
+      "archived_at": "2026-08-30T17:50:32.174834+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354937,
-      "message_link": "https://t.me/IranintlTV/354937",
-      "text": "شایان سمیعی، کارشناس امنیت ملی، درباره تلاش آمریکا برای همراه کردن کشورهای گروه بیست در فشار اقتصادی بر جمهوری اسلامی به ایران‌اینترنشنال گفت نقطه تعیین‌کننده، تصمیم بانک‌ها، شرکت‌های کشتیرانی و بیمه جهانی برای ادامه یا توقف همکاری با تهران است؛ چرا که همکاری با جمهوری اسلامی می‌تواند دسترسی آنها به نظام مالی آمریکا را به خطر بیندازد.\n@iranintltv",
+      "message_id": 354940,
+      "message_link": "https://t.me/IranintlTV/354940",
+      "text": "سازمان عملیات تجارت دریایی بریتانیا یک‌شنبه، هشتم شهریور، اعلام کرد یک نفتکش روز شنبه هفتم شهریور، هنگام حرکت به سوی تنگه هرمز، هدف یک پرتابه ناشناس قرار گرفته است.\n\nاین سازمان اعلام کرد این حادثه در حدود ۱۲ مایل دریایی شمال خصب عمان رخ داده و گزارشی از تلفات جانی یا پیامدهای زیست‌محیطی دریافت نشده است.\n\nبر اساس این اطلاعیه، مقام‌ها در حال بررسی حادثه‌اند. سازمان عملیات تجارت دریایی بریتانیا از کشتی‌های عبوری خواست با احتیاط حرکت کنند و هرگونه فعالیت مشکوک را گزارش دهند. \nhttps://iranintl.com/202608301846",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "19:46:48",
-      "gregorian_utc": "2026-08-30T16:16:48+00:00",
-      "media_type": "video",
-      "media_size_bytes": 2968845,
-      "media_size_human": "2.83 MB",
+      "tehran_time": "20:13:37",
+      "gregorian_utc": "2026-08-30T16:43:37+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 135934,
+      "media_size_human": "132.75 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354937_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354937_video.mp4",
+      "media_local_path": "media/IranintlTV_354940_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354940_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T17:40:35.080134+00:00"
+      "archived_at": "2026-08-30T17:50:32.671578+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -707,7 +707,7 @@
       "media_local_path": "media/satlastnews_76374_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76374_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T17:40:35.409791+00:00"
+      "archived_at": "2026-08-30T17:50:33.055987+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -725,7 +725,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T17:40:35.760579+00:00"
+      "archived_at": "2026-08-30T17:50:33.536368+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -743,7 +743,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T17:40:36.016348+00:00"
+      "archived_at": "2026-08-30T17:50:33.883939+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -761,25 +761,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T17:40:34.776116+00:00"
+      "archived_at": "2026-08-30T17:50:32.174863+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354936,
-      "message_link": "https://t.me/IranintlTV/354936",
-      "text": "مهدی مصلحی، کارشناس بازار نفت، گفت آمریکا با محدود کردن صادرات نفت جمهوری اسلامی و هم‌زمان حفاظت از مسیر عبور نفتکش‌های کشورهای عربی، در حال اجرای یک راهبرد بلندمدت است. او افزود جمهوری اسلامی نه‌تنها بخش بزرگی از بازار نفت خود را از دست داده، بلکه اهرم فشار خود بر تنگه هرمز را نیز تا حد زیادی از دست داده است.\n\nاو همچنین گفت آرامش نسبی بازار نفت نشان می‌دهد معامله‌گران انتظار توقف کامل صادرات نفت منطقه را ندارند. به گفته مصلحی، توافق نفتی آمریکا و ونزوئلا نیز می‌تواند در بلندمدت بر بازار جهانی نفت و امنیت عرضه انرژی تاثیر بگذارد.\n@iranintltv",
+      "message_id": 354939,
+      "message_link": "https://t.me/IranintlTV/354939",
+      "text": "تیتر اول با نیوشا صارمی، یکشنبه ۸ شهریور\n@iranintltv",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "19:41:20",
-      "gregorian_utc": "2026-08-30T16:11:20+00:00",
+      "tehran_time": "20:10:51",
+      "gregorian_utc": "2026-08-30T16:40:51+00:00",
       "media_type": "video",
-      "media_size_bytes": 3953188,
-      "media_size_human": "3.77 MB",
+      "media_size_bytes": 797686,
+      "media_size_human": "778.99 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354936_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354936_video.mp4",
+      "media_local_path": "media/IranintlTV_354939_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354939_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T17:40:35.080188+00:00"
+      "archived_at": "2026-08-30T17:50:32.671640+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -797,7 +797,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T17:40:35.410047+00:00"
+      "archived_at": "2026-08-30T17:50:33.056377+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -815,7 +815,7 @@
       "media_local_path": "media/Mellig_120419_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120419_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T17:40:35.760609+00:00"
+      "archived_at": "2026-08-30T17:50:33.536437+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -833,7 +833,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T17:40:36.016360+00:00"
+      "archived_at": "2026-08-30T17:50:33.883986+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -851,25 +851,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T17:40:34.776130+00:00"
+      "archived_at": "2026-08-30T17:50:32.174889+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354935,
-      "message_link": "https://t.me/IranintlTV/354935",
-      "text": "وزارت خارجه لبنان اعلام کرد جمهوری اسلامی باید روابط خود با لبنان را از مسیر نهادهای رسمی و قانونی این کشور دنبال کند و نباید با دور زدن دولت، به‌طور مستقل با احزاب و گروه‌های داخلی تعامل داشته باشد.\n\nاین وزارتخانه یک‌شنبه هشتم شهریور در واکنش به اظهارات عباس عراقچی، وزیر خارجه جمهوری اسلامی، اعلام کرد از تمایل تهران برای حفظ روابط خوب با دولت لبنان استقبال می‌کند و بیروت نیز خواهان روابط خوب با همه کشورها، از جمله ایران، است.\n\nوزارت خارجه لبنان افزود همان‌طور که جمهوری اسلامی نمی‌پذیرد سفیر لبنان نهادهای رسمی آن را دور بزند و به‌طور مستقل با احزاب و گروه‌ها تعامل کند، لبنان نیز چنین رفتاری را نمی‌پذیرد.\n\nدر این بیانیه آمده است روابط میان کشورها باید از طریق دولت‌ها شکل بگیرد و احترام به حاکمیت کشورها اصلی متقابل است که اجازه دور زدن نهادهای رسمی را نمی‌دهد.\nhttps://iranintl.com/202608307138",
+      "message_id": 354938,
+      "message_link": "https://t.me/IranintlTV/354938",
+      "text": "دفتر رسانه‌ای شاهزاده رضا پهلوی در واکنش به خبر صدور حکم اعدام برای ۱۰ شهروند معترض در اصفهان، نوشت که صدور این احکام بی‌رحمانه و ناعادلانه، نشان‌دهنده تشدید سرکوب و کارزار خشونت حکومت است و جهان نمی‌تواند در برابر این جنایت‌ها سکوت کند.\n\nدر این بیانیه آمده است: «این احکام با وجود نقض گسترده حقوق بشر، محروم کردن متهمان از دسترسی به وکیل و شکنجه شدید، از جمله خشونت جنسی علیه زنان بازداشت‌شده، برای گرفتن اعتراف اجباری صادر شده‌اند.»\n\nدفتر شاهزاده پهلوی نوشت که حکومت جمهوری اسلامی با صدور احکام اعدام تلاش می‌کند با ایجاد رعب و وحشت، خشم عمومی را سرکوب و از ناآرامی‌های آینده جلوگیری کند.\nhttps://iranintl.com/202608306485",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "19:30:05",
-      "gregorian_utc": "2026-08-30T16:00:05+00:00",
+      "tehran_time": "20:05:38",
+      "gregorian_utc": "2026-08-30T16:35:38+00:00",
       "media_type": "photo",
-      "media_size_bytes": 149466,
-      "media_size_human": "145.96 KB",
+      "media_size_bytes": 141824,
+      "media_size_human": "138.50 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354935_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354935_photo.jpg",
+      "media_local_path": "media/IranintlTV_354938_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354938_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T17:40:35.080273+00:00"
+      "archived_at": "2026-08-30T17:50:32.671746+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -887,7 +887,7 @@
       "media_local_path": "media/satlastnews_76369_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76369_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T17:40:35.410137+00:00"
+      "archived_at": "2026-08-30T17:50:33.056502+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -905,7 +905,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T17:40:35.760624+00:00"
+      "archived_at": "2026-08-30T17:50:33.536466+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -923,7 +923,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T17:40:36.016374+00:00"
+      "archived_at": "2026-08-30T17:50:33.884014+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -941,25 +941,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T17:40:34.776144+00:00"
+      "archived_at": "2026-08-30T17:50:32.174914+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354934,
-      "message_link": "https://t.me/IranintlTV/354934",
-      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال می‌گوید: «برای مغازه فست‌فود خودم، قارچ بی‌کیفیت و درجه دو را کیلویی ۴۵۰ هزار تومان خریدم. حالا پیتزای آن را چند بفروشم به مردم؟»",
+      "message_id": 354937,
+      "message_link": "https://t.me/IranintlTV/354937",
+      "text": "شایان سمیعی، کارشناس امنیت ملی، درباره تلاش آمریکا برای همراه کردن کشورهای گروه بیست در فشار اقتصادی بر جمهوری اسلامی به ایران‌اینترنشنال گفت نقطه تعیین‌کننده، تصمیم بانک‌ها، شرکت‌های کشتیرانی و بیمه جهانی برای ادامه یا توقف همکاری با تهران است؛ چرا که همکاری با جمهوری اسلامی می‌تواند دسترسی آنها به نظام مالی آمریکا را به خطر بیندازد.\n@iranintltv",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "19:29:56",
-      "gregorian_utc": "2026-08-30T15:59:56+00:00",
+      "tehran_time": "19:46:48",
+      "gregorian_utc": "2026-08-30T16:16:48+00:00",
       "media_type": "video",
-      "media_size_bytes": 5637929,
-      "media_size_human": "5.38 MB",
+      "media_size_bytes": 2968845,
+      "media_size_human": "2.83 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354934_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354934_video.mp4",
+      "media_local_path": "media/IranintlTV_354937_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354937_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T17:40:35.080293+00:00"
+      "archived_at": "2026-08-30T17:50:32.671821+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -977,7 +977,7 @@
       "media_local_path": "media/satlastnews_76368_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76368_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T17:40:35.410170+00:00"
+      "archived_at": "2026-08-30T17:50:33.056559+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -995,7 +995,7 @@
       "media_local_path": "media/Mellig_120417_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120417_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T17:40:35.760645+00:00"
+      "archived_at": "2026-08-30T17:50:33.536507+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -1013,7 +1013,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T17:40:36.016388+00:00"
+      "archived_at": "2026-08-30T17:50:33.884040+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1031,25 +1031,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T17:40:34.776157+00:00"
+      "archived_at": "2026-08-30T17:50:32.174940+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354933,
-      "message_link": "https://t.me/IranintlTV/354933",
-      "text": "🔻رقابت‌های قهرمانی پرورش‌اندام ایران با ادای احترام حاضران به جاویدنام مسعود ذات‌پرور، قهرمان پیشین فیزیک کلاسیک جهان، آغاز شد. حاضران پس از شنیدن نام او ایستادند و با تشویق، یادش را گرامی داشتند.\n\n🔹مسعود ذات‌پرور، قهرمان دو دوره فیزیک کلاسیک جهان و مربی شناخته‌شده پرورش‌اندام، شامگاه ۱۸ دی‌ماه ۱۴۰۴ در جریان انقلاب ملی ایرانیان، در رشت به‌دست نیروی سرکوب کشته شد.\n\n🔹گفت‌وگو با مهدی رستم‌پور، روزنامه‌نگار ورزشی\n\n@iranintltvsport",
+      "message_id": 354936,
+      "message_link": "https://t.me/IranintlTV/354936",
+      "text": "مهدی مصلحی، کارشناس بازار نفت، گفت آمریکا با محدود کردن صادرات نفت جمهوری اسلامی و هم‌زمان حفاظت از مسیر عبور نفتکش‌های کشورهای عربی، در حال اجرای یک راهبرد بلندمدت است. او افزود جمهوری اسلامی نه‌تنها بخش بزرگی از بازار نفت خود را از دست داده، بلکه اهرم فشار خود بر تنگه هرمز را نیز تا حد زیادی از دست داده است.\n\nاو همچنین گفت آرامش نسبی بازار نفت نشان می‌دهد معامله‌گران انتظار توقف کامل صادرات نفت منطقه را ندارند. به گفته مصلحی، توافق نفتی آمریکا و ونزوئلا نیز می‌تواند در بلندمدت بر بازار جهانی نفت و امنیت عرضه انرژی تاثیر بگذارد.\n@iranintltv",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "19:11:52",
-      "gregorian_utc": "2026-08-30T15:41:52+00:00",
+      "tehran_time": "19:41:20",
+      "gregorian_utc": "2026-08-30T16:11:20+00:00",
       "media_type": "video",
-      "media_size_bytes": 2274100,
-      "media_size_human": "2.17 MB",
+      "media_size_bytes": 3953188,
+      "media_size_human": "3.77 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354933_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354933_video.mp4",
+      "media_local_path": "media/IranintlTV_354936_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354936_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T17:40:35.109458+00:00"
+      "archived_at": "2026-08-30T17:50:32.671909+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1067,7 +1067,7 @@
       "media_local_path": "media/satlastnews_76367_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76367_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T17:40:35.410247+00:00"
+      "archived_at": "2026-08-30T17:50:33.056684+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1085,7 +1085,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T17:40:35.760687+00:00"
+      "archived_at": "2026-08-30T17:50:33.536578+00:00"
     }
   ]
 }
