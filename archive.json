@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-30T20:41:42.838067+00:00",
-  "shamsi_generated": "1405/06/08 20:41:42 تهران",
+  "generated_at": "2026-08-30T20:51:44.739850+00:00",
+  "shamsi_generated": "1405/06/08 20:51:44 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -28,12 +28,12 @@
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12335,
-      "message_link": "https://t.me/zedTV/12335",
-      "text": "آمادگی کامل نیروهای نظامی آمریکا در خاورمیانه برای مقابله با تحرکات سپاه.\nگزارش آکسیوس از وضعیت هشدار حداکثری ارتش ایالات متحده در منطقه.\nنیروهای آمریکایی آماده پاسخ به هرگونه اقدام احتمالی جمهوری اسلامی.",
-      "shamsi_date": "1405/06/08",
-      "tehran_time": "23:59:05",
-      "gregorian_utc": "2026-08-30T20:29:05+00:00",
+      "message_id": 12340,
+      "message_link": "https://t.me/zedTV/12340",
+      "text": "♦️ هشدار پرزیدنت ترامپ: حمله به کشورهای منطقه با تلفات سنگین همراه خواهد بود.\n♦️ واشینگتن: رژیم ایران در صورت هرگونه تعرض منطقه‌ای بهای بسیار سنگینی پرداخت خواهد کرد.",
+      "shamsi_date": "1405/06/09",
+      "tehran_time": "00:15:36",
+      "gregorian_utc": "2026-08-30T20:45:36+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -41,7 +41,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T20:40:26.548359+00:00"
+      "archived_at": "2026-08-30T20:50:29.131349+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -59,7 +59,7 @@
       "media_local_path": "media/IranintlTV_354966_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354966_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T20:40:26.792516+00:00"
+      "archived_at": "2026-08-30T20:50:29.439535+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -77,7 +77,7 @@
       "media_local_path": "media/satlastnews_76381_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76381_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T20:40:27.107766+00:00"
+      "archived_at": "2026-08-30T20:50:29.721120+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -95,7 +95,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T20:40:27.366554+00:00"
+      "archived_at": "2026-08-30T20:50:29.976672+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -113,17 +113,17 @@
       "media_local_path": "media/khabarsara53_11_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_11_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T20:40:27.596998+00:00"
+      "archived_at": "2026-08-30T20:50:30.241862+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12334,
-      "message_link": "https://t.me/zedTV/12334",
-      "text": "آکسیوس: تدارک رژیم ایران برای پرتاب راکت‌های مین‌گذار در تنگه هرمز.\nآمادگی جمهوری اسلامی برای مین‌گذاری در آبراه بین‌المللی.",
-      "shamsi_date": "1405/06/08",
-      "tehran_time": "23:58:59",
-      "gregorian_utc": "2026-08-30T20:28:59+00:00",
+      "message_id": 12339,
+      "message_link": "https://t.me/zedTV/12339",
+      "text": "گزارش‌ها از شلیک موشک از مناطق مرکزی ایران؛\nرصد تداوم فعالیت‌های موشکی رژیم در نواحی مرکزی کشور.",
+      "shamsi_date": "1405/06/09",
+      "tehran_time": "00:15:36",
+      "gregorian_utc": "2026-08-30T20:45:36+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -131,7 +131,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T20:40:26.548408+00:00"
+      "archived_at": "2026-08-30T20:50:29.131396+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -149,7 +149,7 @@
       "media_local_path": "media/IranintlTV_354965_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354965_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T20:40:26.804718+00:00"
+      "archived_at": "2026-08-30T20:50:29.455216+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -167,7 +167,7 @@
       "media_local_path": "media/satlastnews_76380_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76380_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T20:40:27.107814+00:00"
+      "archived_at": "2026-08-30T20:50:29.721166+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -185,7 +185,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T20:40:27.366614+00:00"
+      "archived_at": "2026-08-30T20:50:29.976731+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -203,17 +203,17 @@
       "media_local_path": "media/khabarsara53_10_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_10_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T20:40:27.597064+00:00"
+      "archived_at": "2026-08-30T20:50:30.241952+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12333,
-      "message_link": "https://t.me/zedTV/12333",
-      "text": "حمله پهپادی آمریکا به مواضع سپاه پاسداران در جزیره لارک؛\nتلفات رژیم: ۲ کشته و ۲ مجروح از میان نیروهای سپاه.",
-      "shamsi_date": "1405/06/08",
-      "tehran_time": "23:47:00",
-      "gregorian_utc": "2026-08-30T20:17:00+00:00",
+      "message_id": 12338,
+      "message_link": "https://t.me/zedTV/12338",
+      "text": "گزارش‌ها از افت شدید و سراسری سرعت اینترنت در ایران.\nاختلال گسترده در دسترسی کاربران به شبکه جهانی وب.",
+      "shamsi_date": "1405/06/09",
+      "tehran_time": "00:15:27",
+      "gregorian_utc": "2026-08-30T20:45:27+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -221,7 +221,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T20:40:26.548440+00:00"
+      "archived_at": "2026-08-30T20:50:29.131426+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -239,7 +239,7 @@
       "media_local_path": "media/IranintlTV_354964_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354964_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T20:40:26.804925+00:00"
+      "archived_at": "2026-08-30T20:50:29.455353+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -257,7 +257,7 @@
       "media_local_path": "media/satlastnews_76379_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76379_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T20:40:27.107848+00:00"
+      "archived_at": "2026-08-30T20:50:29.721199+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -275,7 +275,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T20:40:27.366658+00:00"
+      "archived_at": "2026-08-30T20:50:29.976772+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -293,17 +293,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T20:40:27.597091+00:00"
+      "archived_at": "2026-08-30T20:50:30.241992+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12332,
-      "message_link": "https://t.me/zedTV/12332",
-      "text": "نرخ دلار در بازار آزاد به ۲۰۷،۱۰۰ تومان رسید.\nتداوم سقوط تاریخی ارزش پول ملی در سایه ناکارآمدی رژیم.\nتشدید فشارهای معیشتی بر شهروندان در سراسر کشور.",
-      "shamsi_date": "1405/06/08",
-      "tehran_time": "23:46:58",
-      "gregorian_utc": "2026-08-30T20:16:58+00:00",
+      "message_id": 12337,
+      "message_link": "https://t.me/zedTV/12337",
+      "text": "♦️ ترامپ: حمله به کشورهای منطقه هزینه‌ای سنگین برای رژیم خواهد داشت.\n♦️ هشدار رئیس‌جمهور آمریکا نسبت به تلفات سنگین در صورت ماجراجویی.\n♦️ واشینگتن: جمهوری اسلامی بهای بسیار گزافی پرداخت خواهد کرد.",
+      "shamsi_date": "1405/06/09",
+      "tehran_time": "00:15:18",
+      "gregorian_utc": "2026-08-30T20:45:18+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -311,7 +311,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T20:40:26.548477+00:00"
+      "archived_at": "2026-08-30T20:50:29.131462+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -329,7 +329,7 @@
       "media_local_path": "media/IranintlTV_354962_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354962_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T20:40:26.805019+00:00"
+      "archived_at": "2026-08-30T20:50:29.455441+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -347,7 +347,7 @@
       "media_local_path": "media/satlastnews_76378_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76378_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T20:40:27.107883+00:00"
+      "archived_at": "2026-08-30T20:50:29.721229+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -365,7 +365,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T20:40:27.366699+00:00"
+      "archived_at": "2026-08-30T20:50:29.976810+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -383,17 +383,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T20:40:27.597114+00:00"
+      "archived_at": "2026-08-30T20:50:30.242029+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12331,
-      "message_link": "https://t.me/zedTV/12331",
-      "text": "حمله موشکی به پایگاه دریایی سپاه در جزیره لارک.\nهلاکت ۲ تن و مجروح شدن ۲ عضو سپاه پاسداران.\nتایید خسارات جانی در پی حمله به مواضع رژیم در هرمزگان.",
-      "shamsi_date": "1405/06/08",
-      "tehran_time": "23:46:53",
-      "gregorian_utc": "2026-08-30T20:16:53+00:00",
+      "message_id": 12336,
+      "message_link": "https://t.me/zedTV/12336",
+      "text": "اعتراف سپاه پاسداران به تلفات جانی در پی حملات آمریکا؛\nتایید کشته شدن تعدادی از نیروهای نظامی رژیم در این عملیات؛\nآمار تلفات فراتر از گمانه‌زنی‌های اولیه گزارش شده است.",
+      "shamsi_date": "1405/06/09",
+      "tehran_time": "00:15:13",
+      "gregorian_utc": "2026-08-30T20:45:13+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -401,7 +401,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T20:40:26.548502+00:00"
+      "archived_at": "2026-08-30T20:50:29.131505+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -419,7 +419,7 @@
       "media_local_path": "media/IranintlTV_354961_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354961_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T20:40:26.805059+00:00"
+      "archived_at": "2026-08-30T20:50:29.455506+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -437,7 +437,7 @@
       "media_local_path": "media/satlastnews_76377_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76377_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T20:40:27.107963+00:00"
+      "archived_at": "2026-08-30T20:50:29.721290+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -455,7 +455,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-08-30T20:40:27.366772+00:00"
+      "archived_at": "2026-08-30T20:50:29.976870+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -473,17 +473,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T20:40:27.597136+00:00"
+      "archived_at": "2026-08-30T20:50:30.242066+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12330,
-      "message_link": "https://t.me/zedTV/12330",
-      "text": "شکست عملیات مخفی رژیم برای ناامن‌سازی تنگه هرمز.\nلو رفتن طرح استفاده از پرتابگرهای خمپاره یک ساعت پیش از اجرا.\nتمام تجهیزات و پرتابگرهای متعلق به نیروهای محسن رضایی منهدم شد.",
+      "message_id": 12335,
+      "message_link": "https://t.me/zedTV/12335",
+      "text": "آمادگی کامل نیروهای نظامی آمریکا در خاورمیانه برای مقابله با تحرکات سپاه.\nگزارش آکسیوس از وضعیت هشدار حداکثری ارتش ایالات متحده در منطقه.\nنیروهای آمریکایی آماده پاسخ به هرگونه اقدام احتمالی جمهوری اسلامی.",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "23:46:42",
-      "gregorian_utc": "2026-08-30T20:16:42+00:00",
+      "tehran_time": "23:59:05",
+      "gregorian_utc": "2026-08-30T20:29:05+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -491,7 +491,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T20:40:26.548533+00:00"
+      "archived_at": "2026-08-30T20:50:29.131537+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -509,7 +509,7 @@
       "media_local_path": "media/IranintlTV_354958_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354958_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T20:40:26.805133+00:00"
+      "archived_at": "2026-08-30T20:50:29.455589+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -527,7 +527,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T20:40:27.108033+00:00"
+      "archived_at": "2026-08-30T20:50:29.721351+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -545,7 +545,7 @@
       "media_local_path": "media/Mellig_120433_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120433_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T20:40:27.367000+00:00"
+      "archived_at": "2026-08-30T20:50:29.976965+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -563,17 +563,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T20:40:27.597157+00:00"
+      "archived_at": "2026-08-30T20:50:30.242101+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12329,
-      "message_link": "https://t.me/zedTV/12329",
-      "text": "واکنش سپاه پاسداران به حمله نظامی در جزیره لارک.",
+      "message_id": 12334,
+      "message_link": "https://t.me/zedTV/12334",
+      "text": "آکسیوس: تدارک رژیم ایران برای پرتاب راکت‌های مین‌گذار در تنگه هرمز.\nآمادگی جمهوری اسلامی برای مین‌گذاری در آبراه بین‌المللی.",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "23:46:37",
-      "gregorian_utc": "2026-08-30T20:16:37+00:00",
+      "tehran_time": "23:58:59",
+      "gregorian_utc": "2026-08-30T20:28:59+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -581,7 +581,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T20:40:26.548557+00:00"
+      "archived_at": "2026-08-30T20:50:29.131561+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -599,7 +599,7 @@
       "media_local_path": "media/IranintlTV_354957_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354957_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T20:40:26.805207+00:00"
+      "archived_at": "2026-08-30T20:50:29.455666+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -617,7 +617,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T20:40:27.108085+00:00"
+      "archived_at": "2026-08-30T20:50:29.721424+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -635,7 +635,7 @@
       "media_local_path": "media/Mellig_120432_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120432_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T20:40:27.367064+00:00"
+      "archived_at": "2026-08-30T20:50:29.977023+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -653,17 +653,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T20:40:27.597180+00:00"
+      "archived_at": "2026-08-30T20:50:30.242137+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12328,
-      "message_link": "https://t.me/zedTV/12328",
-      "text": "گزارش‌ها از حملات سنگین هوایی به مقر نیروی دریایی سپاه در جزیره لارک.\nهدف قرار گرفتن سکوهای پرتاب موشک سپاه توسط ارتش آمریکا.\nآماده‌باش کامل نیروهای ایالات متحده در منطقه برای پاسخ احتمالی.",
+      "message_id": 12333,
+      "message_link": "https://t.me/zedTV/12333",
+      "text": "حمله پهپادی آمریکا به مواضع سپاه پاسداران در جزیره لارک؛\nتلفات رژیم: ۲ کشته و ۲ مجروح از میان نیروهای سپاه.",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "23:46:36",
-      "gregorian_utc": "2026-08-30T20:16:36+00:00",
+      "tehran_time": "23:47:00",
+      "gregorian_utc": "2026-08-30T20:17:00+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -671,7 +671,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T20:40:26.548596+00:00"
+      "archived_at": "2026-08-30T20:50:29.131600+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -689,7 +689,7 @@
       "media_local_path": "media/IranintlTV_354956_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354956_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T20:40:26.805284+00:00"
+      "archived_at": "2026-08-30T20:50:29.455739+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -707,7 +707,7 @@
       "media_local_path": "media/satlastnews_76374_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76374_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T20:40:27.108161+00:00"
+      "archived_at": "2026-08-30T20:50:29.721516+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -725,7 +725,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T20:40:27.367090+00:00"
+      "archived_at": "2026-08-30T20:50:29.977046+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -743,17 +743,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T20:40:27.597201+00:00"
+      "archived_at": "2026-08-30T20:50:30.242170+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12327,
-      "message_link": "https://t.me/zedTV/12327",
-      "text": "آغاز دور جدید درگیری‌های نظامی در خاورمیانه.\nتشدید تنش‌ها در پی حملات گسترده آمریکا به مواضع رژیم.",
+      "message_id": 12332,
+      "message_link": "https://t.me/zedTV/12332",
+      "text": "نرخ دلار در بازار آزاد به ۲۰۷،۱۰۰ تومان رسید.\nتداوم سقوط تاریخی ارزش پول ملی در سایه ناکارآمدی رژیم.\nتشدید فشارهای معیشتی بر شهروندان در سراسر کشور.",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "23:46:36",
-      "gregorian_utc": "2026-08-30T20:16:36+00:00",
+      "tehran_time": "23:46:58",
+      "gregorian_utc": "2026-08-30T20:16:58+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -761,7 +761,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T20:40:26.548630+00:00"
+      "archived_at": "2026-08-30T20:50:29.131624+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -779,7 +779,7 @@
       "media_local_path": "media/IranintlTV_354955_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354955_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T20:40:26.805377+00:00"
+      "archived_at": "2026-08-30T20:50:29.455827+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -797,7 +797,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T20:40:27.108565+00:00"
+      "archived_at": "2026-08-30T20:50:29.721926+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -815,7 +815,7 @@
       "media_local_path": "media/Mellig_120430_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120430_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T20:40:27.367122+00:00"
+      "archived_at": "2026-08-30T20:50:29.977074+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -833,17 +833,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T20:40:27.597223+00:00"
+      "archived_at": "2026-08-30T20:50:30.242203+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12326,
-      "message_link": "https://t.me/zedTV/12326",
-      "text": "‏انهدام دو سکوی پرتاب موشک سپاه در پی حمله به جزیره لارک\nمقامات آمریکایی: تجهیزات هدف قرار گرفته آماده شلیک به کشتی‌ها بودند\nگزارش منابع رسمی از کشته و زخمی شدن تعدادی از نیروهای سپاه",
+      "message_id": 12331,
+      "message_link": "https://t.me/zedTV/12331",
+      "text": "حمله موشکی به پایگاه دریایی سپاه در جزیره لارک.\nهلاکت ۲ تن و مجروح شدن ۲ عضو سپاه پاسداران.\nتایید خسارات جانی در پی حمله به مواضع رژیم در هرمزگان.",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "23:46:36",
-      "gregorian_utc": "2026-08-30T20:16:36+00:00",
+      "tehran_time": "23:46:53",
+      "gregorian_utc": "2026-08-30T20:16:53+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -851,7 +851,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T20:40:26.548652+00:00"
+      "archived_at": "2026-08-30T20:50:29.131647+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -869,7 +869,7 @@
       "media_local_path": "media/IranintlTV_354954_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354954_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T20:40:26.805441+00:00"
+      "archived_at": "2026-08-30T20:50:29.455891+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -887,7 +887,7 @@
       "media_local_path": "media/satlastnews_76369_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76369_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T20:40:27.108686+00:00"
+      "archived_at": "2026-08-30T20:50:29.722049+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -905,7 +905,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T20:40:27.367171+00:00"
+      "archived_at": "2026-08-30T20:50:29.977116+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -923,17 +923,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T20:40:27.597245+00:00"
+      "archived_at": "2026-08-30T20:50:30.242233+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12325,
-      "message_link": "https://t.me/zedTV/12325",
-      "text": "گزارش خبرگزاری فارس از وقوع انفجارهای متعدد در جزیره لارک.\nتایید رسمی وقوع رشته‌انفجارها در این منطقه.",
+      "message_id": 12330,
+      "message_link": "https://t.me/zedTV/12330",
+      "text": "شکست عملیات مخفی رژیم برای ناامن‌سازی تنگه هرمز.\nلو رفتن طرح استفاده از پرتابگرهای خمپاره یک ساعت پیش از اجرا.\nتمام تجهیزات و پرتابگرهای متعلق به نیروهای محسن رضایی منهدم شد.",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "23:17:12",
-      "gregorian_utc": "2026-08-30T19:47:12+00:00",
+      "tehran_time": "23:46:42",
+      "gregorian_utc": "2026-08-30T20:16:42+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -941,7 +941,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T20:40:26.548673+00:00"
+      "archived_at": "2026-08-30T20:50:29.131671+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -959,7 +959,7 @@
       "media_local_path": "media/IranintlTV_354953_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354953_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T20:40:26.805535+00:00"
+      "archived_at": "2026-08-30T20:50:29.455979+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -977,7 +977,7 @@
       "media_local_path": "media/satlastnews_76368_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76368_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T20:40:27.108734+00:00"
+      "archived_at": "2026-08-30T20:50:29.722096+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -995,7 +995,7 @@
       "media_local_path": "media/Mellig_120428_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120428_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T20:40:27.367219+00:00"
+      "archived_at": "2026-08-30T20:50:29.977162+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -1013,17 +1013,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T20:40:27.597266+00:00"
+      "archived_at": "2026-08-30T20:50:30.242267+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12324,
-      "message_link": "https://t.me/zedTV/12324",
-      "text": "حمله نیروهای آمریکایی به دو سکوی پرتاب موشک سپاه در جزیره لارک؛\nتوقف عملیات شلیک موشک‌های حامل مین دریایی به سمت تنگه هرمز.",
+      "message_id": 12329,
+      "message_link": "https://t.me/zedTV/12329",
+      "text": "واکنش سپاه پاسداران به حمله نظامی در جزیره لارک.",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "23:17:08",
-      "gregorian_utc": "2026-08-30T19:47:08+00:00",
+      "tehran_time": "23:46:37",
+      "gregorian_utc": "2026-08-30T20:16:37+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -1031,7 +1031,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T20:40:26.548695+00:00"
+      "archived_at": "2026-08-30T20:50:29.131691+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -1049,7 +1049,7 @@
       "media_local_path": "media/IranintlTV_354952_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354952_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T20:40:26.805604+00:00"
+      "archived_at": "2026-08-30T20:50:29.456042+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1067,7 +1067,7 @@
       "media_local_path": "media/satlastnews_76367_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76367_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T20:40:27.108873+00:00"
+      "archived_at": "2026-08-30T20:50:29.722219+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1085,7 +1085,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T20:40:27.367241+00:00"
+      "archived_at": "2026-08-30T20:50:29.977182+00:00"
     }
   ]
 }
