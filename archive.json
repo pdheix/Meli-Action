@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-30T06:22:02.291561+00:00",
-  "shamsi_generated": "1405/06/08 06:22:02 تهران",
+  "generated_at": "2026-08-30T06:31:52.724196+00:00",
+  "shamsi_generated": "1405/06/08 06:31:52 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -41,25 +41,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T06:20:26.370641+00:00"
+      "archived_at": "2026-08-30T06:30:30.517691+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354850,
-      "message_link": "https://t.me/IranintlTV/354850",
-      "text": "روزبه بوالهری، عضو تحریریه ایران‌اینترنشنال، با اشاره به گزارش‌ها درباره افزایش اخراج کارگران پس از آغاز جنگ گفت کارگران هم‌زمان با گسترش بیکاری، با دستمزدهای پایین و افزایش شدید هزینه‌های زندگی روبه‌رو هستند. هم‌زمان شکاف میان دستمزد و هزینه زندگی نیز به‌شدت گسترش یافته است؛ به‌طوری که هزینه زندگی یک خانوار حدود ۹۰ میلیون تومان و حداقل دستمزد یک کارگر متاهل دارای یک فرزند حدود ۲۴ میلیون تومان است.\n\nاو افزود وعده‌های دولت برای افزایش کالابرگ یا دستمزدها قادر به جبران این فاصله نیست و دولت به‌عنوان یکی از بزرگ‌ترین کارفرمایان، تمایلی به افزایش واقعی دستمزدها ندارد.\n@iranintltv",
+      "message_id": 354851,
+      "message_link": "https://t.me/IranintlTV/354851",
+      "text": "حمیدرضا حاجی‌بابایی، نایب رییس مجلس، در مراسمی در شهرستان نهبندان گفت: «آنچه که در طول سالهای پس از انقلاب رخ داده مقابله استکبار در برابر خواست ملت ایران بوده و آمریکا نمی‌خواهد ملت ایران زندگی خوبی داشته باشند و دوست ندارد نه فقط در ایران در هیچ جای دنیا شهروند درجه یک وجود داشته باشد.»\n\nحاجی‌بابایی ادامه داد: «آمریکایی‌ها به این جمع‌بندی رسیده‌اند که ممکن است اگر با ایران مقابله نشود، ایران به یک ابر قدرت تبدیل شده و جهش کند.»\n\nاو افزود: «هیچ کس در ایران به دنبال جنگ نیست، اما دشمن اگر به ما حمله کرد، به آن‌ها امان نمی‌دهیم و تا آخرین لحظه دشمن را تا آن طرف دنیا تعقیب می‌کنیم.»\nhttps://iranintl.com/202608301186",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "09:45:53",
-      "gregorian_utc": "2026-08-30T06:15:53+00:00",
-      "media_type": "video",
-      "media_size_bytes": 3940321,
-      "media_size_human": "3.76 MB",
+      "tehran_time": "09:54:16",
+      "gregorian_utc": "2026-08-30T06:24:16+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 166707,
+      "media_size_human": "162.80 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354850_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354850_video.mp4",
+      "media_local_path": "media/IranintlTV_354851_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354851_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T06:20:26.724214+00:00"
+      "archived_at": "2026-08-30T06:30:30.804820+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -77,7 +77,7 @@
       "media_local_path": "media/satlastnews_76374_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76374_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T06:20:27.072288+00:00"
+      "archived_at": "2026-08-30T06:30:31.142841+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -95,7 +95,7 @@
       "media_local_path": "media/Mellig_120406_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120406_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T06:20:27.455889+00:00"
+      "archived_at": "2026-08-30T06:30:31.437937+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -113,7 +113,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T06:20:27.754668+00:00"
+      "archived_at": "2026-08-30T06:30:31.697304+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -131,25 +131,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T06:20:26.370695+00:00"
+      "archived_at": "2026-08-30T06:30:30.517721+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354849,
-      "message_link": "https://t.me/IranintlTV/354849",
-      "text": "بر اساس ویدیوهای رسیده به ایران‌اینترنشنال، گروهی از ایرانیان مقیم آلمان یکشنبه هشتم شهریور در شهرهای فرانکفورت و اشتوتگارت علیه جمهوری اسلامی تجمع برگزار کردند.",
+      "message_id": 354850,
+      "message_link": "https://t.me/IranintlTV/354850",
+      "text": "روزبه بوالهری، عضو تحریریه ایران‌اینترنشنال، با اشاره به گزارش‌ها درباره افزایش اخراج کارگران پس از آغاز جنگ گفت کارگران هم‌زمان با گسترش بیکاری، با دستمزدهای پایین و افزایش شدید هزینه‌های زندگی روبه‌رو هستند. هم‌زمان شکاف میان دستمزد و هزینه زندگی نیز به‌شدت گسترش یافته است؛ به‌طوری که هزینه زندگی یک خانوار حدود ۹۰ میلیون تومان و حداقل دستمزد یک کارگر متاهل دارای یک فرزند حدود ۲۴ میلیون تومان است.\n\nاو افزود وعده‌های دولت برای افزایش کالابرگ یا دستمزدها قادر به جبران این فاصله نیست و دولت به‌عنوان یکی از بزرگ‌ترین کارفرمایان، تمایلی به افزایش واقعی دستمزدها ندارد.\n@iranintltv",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "09:43:41",
-      "gregorian_utc": "2026-08-30T06:13:41+00:00",
+      "tehran_time": "09:45:53",
+      "gregorian_utc": "2026-08-30T06:15:53+00:00",
       "media_type": "video",
-      "media_size_bytes": 9387087,
-      "media_size_human": "8.95 MB",
+      "media_size_bytes": 3940321,
+      "media_size_human": "3.76 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354849_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354849_video.mp4",
+      "media_local_path": "media/IranintlTV_354850_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354850_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T06:20:26.724270+00:00"
+      "archived_at": "2026-08-30T06:30:30.804893+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -167,7 +167,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T06:20:27.072710+00:00"
+      "archived_at": "2026-08-30T06:30:31.143086+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -185,7 +185,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 133.91 MB)",
-      "archived_at": "2026-08-30T06:20:27.455998+00:00"
+      "archived_at": "2026-08-30T06:30:31.437997+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -203,7 +203,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T06:20:27.754704+00:00"
+      "archived_at": "2026-08-30T06:30:31.697329+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -221,25 +221,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T06:20:26.370750+00:00"
+      "archived_at": "2026-08-30T06:30:30.517741+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354848,
-      "message_link": "https://t.me/IranintlTV/354848",
-      "text": "عبدالحسین همتی، عضو هیات رییسه کمیسیون انرژی مجلس، به خبرگزاری خانه ملت گفت: «امروز بازار جهانی نفت و گاز هم‌زمان با مجموعه‌ای از مخاطرات در مسیرهای تولید، پالایش و انتقال انرژی مواجه است و کشورهای اروپایی در آستانه فصل سرما، آسیب‌پذیرتر شده‌اند.»\n\nهمتی ادامه داد: «کشورهای اروپایی با نزدیک شدن به فصل سرما، نیاز بیشتری به تکمیل ذخایر گاز و تامین محموله‌های ال‌ان‌جی دارند و هرگونه اختلال در جریان صادرات گاز از منطقه خلیج فارس یا طولانی شدن مسیرهای حمل‌ونقل دریایی، در نهایت به افزایش قیمت‌ها منجر خواهد شد.»\nhttps://iranintl.com/202608303404",
+      "message_id": 354849,
+      "message_link": "https://t.me/IranintlTV/354849",
+      "text": "بر اساس ویدیوهای رسیده به ایران‌اینترنشنال، گروهی از ایرانیان مقیم آلمان یکشنبه هشتم شهریور در شهرهای فرانکفورت و اشتوتگارت علیه جمهوری اسلامی تجمع برگزار کردند.",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "09:41:49",
-      "gregorian_utc": "2026-08-30T06:11:49+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 152588,
-      "media_size_human": "149.01 KB",
+      "tehran_time": "09:43:41",
+      "gregorian_utc": "2026-08-30T06:13:41+00:00",
+      "media_type": "video",
+      "media_size_bytes": 9387087,
+      "media_size_human": "8.95 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354848_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354848_photo.jpg",
+      "media_local_path": "media/IranintlTV_354849_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354849_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T06:20:26.724396+00:00"
+      "archived_at": "2026-08-30T06:30:30.804918+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -257,7 +257,7 @@
       "media_local_path": "media/satlastnews_76369_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76369_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T06:20:27.072871+00:00"
+      "archived_at": "2026-08-30T06:30:31.143163+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -275,7 +275,7 @@
       "media_local_path": "media/Mellig_120404_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120404_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T06:20:27.456128+00:00"
+      "archived_at": "2026-08-30T06:30:31.438068+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -293,7 +293,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T06:20:27.754751+00:00"
+      "archived_at": "2026-08-30T06:30:31.697345+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -311,25 +311,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T06:20:26.370789+00:00"
+      "archived_at": "2026-08-30T06:30:30.517762+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354847,
-      "message_link": "https://t.me/IranintlTV/354847",
-      "text": "میثم مهرانی، تحلیلگر سیاسی، با اشاره به تعهد گروه‌های مسلح عراقی برای توقف عملیات گفت هنوز برای سخن گفتن از خلع سلاح این گروه‌ها زود است و خلع سلاح واقعی تنها به تحویل سلاح محدود نمی‌شود، بلکه باید انبارهای تسلیحاتی، سلاح‌های سنگین، زنجیره فرماندهی و توان تصمیم‌گیری مستقل آنها نیز در اختیار دولت عراق قرار گیرد.\n\nاو گفت این گروه‌ها علاوه بر توان نظامی، در پارلمان، ساختار حشد شعبی، اقتصاد و سیاست عراق نفوذ دارند و شبکه‌ای از قدرت ایجاد کرده‌اند؛ به همین دلیل دولت عراق روندی تدریجی را در پیش گرفته و ابتدا بر توقف عملیات تمرکز کرده است.\n@iranintltv",
+      "message_id": 354848,
+      "message_link": "https://t.me/IranintlTV/354848",
+      "text": "عبدالحسین همتی، عضو هیات رییسه کمیسیون انرژی مجلس، به خبرگزاری خانه ملت گفت: «امروز بازار جهانی نفت و گاز هم‌زمان با مجموعه‌ای از مخاطرات در مسیرهای تولید، پالایش و انتقال انرژی مواجه است و کشورهای اروپایی در آستانه فصل سرما، آسیب‌پذیرتر شده‌اند.»\n\nهمتی ادامه داد: «کشورهای اروپایی با نزدیک شدن به فصل سرما، نیاز بیشتری به تکمیل ذخایر گاز و تامین محموله‌های ال‌ان‌جی دارند و هرگونه اختلال در جریان صادرات گاز از منطقه خلیج فارس یا طولانی شدن مسیرهای حمل‌ونقل دریایی، در نهایت به افزایش قیمت‌ها منجر خواهد شد.»\nhttps://iranintl.com/202608303404",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "09:33:20",
-      "gregorian_utc": "2026-08-30T06:03:20+00:00",
-      "media_type": "video",
-      "media_size_bytes": 2022320,
-      "media_size_human": "1.93 MB",
+      "tehran_time": "09:41:49",
+      "gregorian_utc": "2026-08-30T06:11:49+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 152588,
+      "media_size_human": "149.01 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354847_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354847_video.mp4",
+      "media_local_path": "media/IranintlTV_354848_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354848_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T06:20:26.724504+00:00"
+      "archived_at": "2026-08-30T06:30:30.804979+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -347,7 +347,7 @@
       "media_local_path": "media/satlastnews_76368_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76368_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T06:20:27.072939+00:00"
+      "archived_at": "2026-08-30T06:30:31.143198+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -365,7 +365,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T06:20:27.456185+00:00"
+      "archived_at": "2026-08-30T06:30:31.438097+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -383,7 +383,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T06:20:27.754779+00:00"
+      "archived_at": "2026-08-30T06:30:31.697358+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -401,25 +401,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T06:20:26.370824+00:00"
+      "archived_at": "2026-08-30T06:30:30.517778+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354846,
-      "message_link": "https://t.me/IranintlTV/354846",
-      "text": "[جمهوری جادو، مملکت امام زمان](https://www.iranintl.com/202608263281)\nرضا حاجی‌حسینی- جمهوری اسلامی باورهای خرافی را از حاشیه جامعه به مرکز قدرت برد و برای این باورها با پول نفت، نهاد، بودجه و دستگاه تبلیغاتی ساخت تا حاکمان در «مملکت امام زمان» مشروعیت خود را از جهان غیب بگیرند و هزینه بقایشان را بر اقتصاد و زندگی مردم تحمیل کنند.\nدر راهپیمایی حکومتی ۲۲ بهمن ۱۴۰۴، مجسمه‌ای که برگزارکنندگان «بعل» می‌خواندند، به آتش کشیده شد و «نظام»، در میانه تلاطم‌ها و بحران اقتصادی، «جشن پیروزی بر دشمنان» را در قالب آیینی خیابانی، به اجرا گذاشت.\nچند ماه بعد، سالار ولایتمدار، نماینده مجلس شورای اسلامی، گفت انتشار تصویر مجتبی خامنه‌ای به توصیه علمای قم، مشهد و نجف و مقام‌های امنیتی متوقف شده تا دشمن نتواند با «علوم غریبه» به او آسیب برساند. \nاین اظهارات نشان داد [علوم غریبه](https://www.iranintl.com/202604236654) به روایت رسمی امنیت ملی راه یافته است.\nاین دو وضعیت از دل منطق نظامی بیرون می‌آیند که سیاست را از جمله رویارویی نیروهای مرئی و نامرئی می‌بیند.\n\n(اادامه این تحلیل را در لینک زیر بخوانید)\nhttps://www.iranintl.com/202608263281",
+      "message_id": 354847,
+      "message_link": "https://t.me/IranintlTV/354847",
+      "text": "میثم مهرانی، تحلیلگر سیاسی، با اشاره به تعهد گروه‌های مسلح عراقی برای توقف عملیات گفت هنوز برای سخن گفتن از خلع سلاح این گروه‌ها زود است و خلع سلاح واقعی تنها به تحویل سلاح محدود نمی‌شود، بلکه باید انبارهای تسلیحاتی، سلاح‌های سنگین، زنجیره فرماندهی و توان تصمیم‌گیری مستقل آنها نیز در اختیار دولت عراق قرار گیرد.\n\nاو گفت این گروه‌ها علاوه بر توان نظامی، در پارلمان، ساختار حشد شعبی، اقتصاد و سیاست عراق نفوذ دارند و شبکه‌ای از قدرت ایجاد کرده‌اند؛ به همین دلیل دولت عراق روندی تدریجی را در پیش گرفته و ابتدا بر توقف عملیات تمرکز کرده است.\n@iranintltv",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "09:30:19",
-      "gregorian_utc": "2026-08-30T06:00:19+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 42691,
-      "media_size_human": "41.69 KB",
+      "tehran_time": "09:33:20",
+      "gregorian_utc": "2026-08-30T06:03:20+00:00",
+      "media_type": "video",
+      "media_size_bytes": 2022320,
+      "media_size_human": "1.93 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354846_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354846_photo.jpg",
+      "media_local_path": "media/IranintlTV_354847_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354847_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T06:20:26.724694+00:00"
+      "archived_at": "2026-08-30T06:30:30.805045+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -437,7 +437,7 @@
       "media_local_path": "media/satlastnews_76367_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76367_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T06:20:27.073078+00:00"
+      "archived_at": "2026-08-30T06:30:31.143273+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -455,7 +455,7 @@
       "media_local_path": "media/Mellig_120402_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120402_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T06:20:27.456345+00:00"
+      "archived_at": "2026-08-30T06:30:31.438182+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -473,7 +473,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T06:20:27.754805+00:00"
+      "archived_at": "2026-08-30T06:30:31.697371+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -491,25 +491,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T06:20:26.370863+00:00"
+      "archived_at": "2026-08-30T06:30:30.517798+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354845,
-      "message_link": "https://t.me/IranintlTV/354845",
-      "text": "مهرداد محمدی، روزنامه‌نگار، با اشاره به اظهارات حسین سیمایی‌صراف، وزیر علوم جمهوری اسلامی، درباره بازگشت بیش از ۴۰۰ دانشجو و ۱۰۰ استاد اخراجی به دانشگاه‌ها گفت دانشگاه‌ها در دولت‌های مختلف جمهوری اسلامی به محلی برای جابه‌جایی نیروهای نزدیک به جریان‌های سیاسی تبدیل شده‌اند و درباره اینکه افراد بازگشته همان استادان و دانشجویان اخراج‌شده به دلایل سیاسی باشند، وزارت علوم باید اسامی افراد را اعلام کند.\n@iranintltv",
+      "message_id": 354846,
+      "message_link": "https://t.me/IranintlTV/354846",
+      "text": "[جمهوری جادو، مملکت امام زمان](https://www.iranintl.com/202608263281)\nرضا حاجی‌حسینی- جمهوری اسلامی باورهای خرافی را از حاشیه جامعه به مرکز قدرت برد و برای این باورها با پول نفت، نهاد، بودجه و دستگاه تبلیغاتی ساخت تا حاکمان در «مملکت امام زمان» مشروعیت خود را از جهان غیب بگیرند و هزینه بقایشان را بر اقتصاد و زندگی مردم تحمیل کنند.\nدر راهپیمایی حکومتی ۲۲ بهمن ۱۴۰۴، مجسمه‌ای که برگزارکنندگان «بعل» می‌خواندند، به آتش کشیده شد و «نظام»، در میانه تلاطم‌ها و بحران اقتصادی، «جشن پیروزی بر دشمنان» را در قالب آیینی خیابانی، به اجرا گذاشت.\nچند ماه بعد، سالار ولایتمدار، نماینده مجلس شورای اسلامی، گفت انتشار تصویر مجتبی خامنه‌ای به توصیه علمای قم، مشهد و نجف و مقام‌های امنیتی متوقف شده تا دشمن نتواند با «علوم غریبه» به او آسیب برساند. \nاین اظهارات نشان داد [علوم غریبه](https://www.iranintl.com/202604236654) به روایت رسمی امنیت ملی راه یافته است.\nاین دو وضعیت از دل منطق نظامی بیرون می‌آیند که سیاست را از جمله رویارویی نیروهای مرئی و نامرئی می‌بیند.\n\n(اادامه این تحلیل را در لینک زیر بخوانید)\nhttps://www.iranintl.com/202608263281",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "09:24:31",
-      "gregorian_utc": "2026-08-30T05:54:31+00:00",
-      "media_type": "video",
-      "media_size_bytes": 3050714,
-      "media_size_human": "2.91 MB",
+      "tehran_time": "09:30:19",
+      "gregorian_utc": "2026-08-30T06:00:19+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 42691,
+      "media_size_human": "41.69 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354845_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354845_video.mp4",
+      "media_local_path": "media/IranintlTV_354846_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354846_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T06:20:26.724805+00:00"
+      "archived_at": "2026-08-30T06:30:30.805141+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -527,7 +527,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T06:20:27.073150+00:00"
+      "archived_at": "2026-08-30T06:30:31.143331+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -545,7 +545,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T06:20:27.456379+00:00"
+      "archived_at": "2026-08-30T06:30:31.438197+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -563,7 +563,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T06:20:27.754831+00:00"
+      "archived_at": "2026-08-30T06:30:31.697384+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -581,25 +581,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T06:20:26.370894+00:00"
+      "archived_at": "2026-08-30T06:30:30.517813+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354844,
-      "message_link": "https://t.me/IranintlTV/354844",
-      "text": "مجتبی خامنه‌ای، رهبر جمهوری اسلامی، در پیامی مکتوب به مناسبت «هفته وحدت» نوشت: «توصیه موکد و مکرر من به حکام کشورهای اسلامی خصوصا کشورهای منطقه غرب آسیا و حاشیه خلیج فارس این است که دشمن واقعی خود را بشناسید و نقشه‌اش را دریافته و با آن مقابله کنند.»\n\nاو در ادامه نوشت: «امروز روزی است که چشم‌انداز غلبه نهایی حق بر باطل، و اسلام بر کفر به‌مراتب بیش از همه ادوار گذشته به عینیت نزدیک شده است.»\n\nمجتبی خامنه‌ای افزود: «اینک اسلام و اهل آن بعد از گذر از دوران‌های سخت و پر تلاطم و طی کردن فراز و نشیب‌های متعدد، به مرحله‌ای سرنوشت‌ساز و تعیین‌کننده رسیده است.»\n\nاو همچنین نوشت: «دشمن به‌دنبال پاره‌پاره شدن امت اسلام است.»\n\nمجتبی خامنه‌ای در ادامه گفت: «حاکمان آمریکا و اسرائیل فقط دشمن جمهوری اسلامی و جبهه عظیم مقاومت اسلامی نیستند؛ بلکه با همه امت اسلام و از جمله ملت‌های غرب آسیا و شمال آفریقا دشمنی دارند.»\nhttps://iranintl.com/202608307048",
+      "message_id": 354845,
+      "message_link": "https://t.me/IranintlTV/354845",
+      "text": "مهرداد محمدی، روزنامه‌نگار، با اشاره به اظهارات حسین سیمایی‌صراف، وزیر علوم جمهوری اسلامی، درباره بازگشت بیش از ۴۰۰ دانشجو و ۱۰۰ استاد اخراجی به دانشگاه‌ها گفت دانشگاه‌ها در دولت‌های مختلف جمهوری اسلامی به محلی برای جابه‌جایی نیروهای نزدیک به جریان‌های سیاسی تبدیل شده‌اند و درباره اینکه افراد بازگشته همان استادان و دانشجویان اخراج‌شده به دلایل سیاسی باشند، وزارت علوم باید اسامی افراد را اعلام کند.\n@iranintltv",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "09:14:19",
-      "gregorian_utc": "2026-08-30T05:44:19+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 139390,
-      "media_size_human": "136.12 KB",
+      "tehran_time": "09:24:31",
+      "gregorian_utc": "2026-08-30T05:54:31+00:00",
+      "media_type": "video",
+      "media_size_bytes": 3050714,
+      "media_size_human": "2.91 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354844_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354844_photo.jpg",
+      "media_local_path": "media/IranintlTV_354845_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354845_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T06:20:26.724944+00:00"
+      "archived_at": "2026-08-30T06:30:30.805194+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -617,7 +617,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T06:20:27.073285+00:00"
+      "archived_at": "2026-08-30T06:30:31.143406+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -635,7 +635,7 @@
       "media_local_path": "media/Mellig_120400_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120400_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T06:20:27.456421+00:00"
+      "archived_at": "2026-08-30T06:30:31.438218+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -653,7 +653,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T06:20:27.754857+00:00"
+      "archived_at": "2026-08-30T06:30:31.697398+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -671,25 +671,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T06:20:26.370942+00:00"
+      "archived_at": "2026-08-30T06:30:30.517839+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354843,
-      "message_link": "https://t.me/IranintlTV/354843",
-      "text": "بر اساس اطلاعات رسیده، عباس رسولی‌فر، از فرماندهان سپاه پاسداران با سابقه حضور در سوریه، فرماندهی نیروهای سرکوب در شهرستان شهریار را در جریان انقلاب ملی بر عهده داشته است.\n\nکامیار بهرنگ، عضو تحریریه ایران‌اینترنشنال، با اشاره به هدفمند بودن انتخاب او در چارچوب انتقال تجربه سرکوب از سوریه به ایران، گفت تقسیم‌بندی مناطق شهری به حوزه‌های عملیاتی، استفاده از تک‌تیراندازها و نقاط مرتفع، ایجاد مناطق کشتار، قطع اینترنت و ارتباطات و استفاده از خودروهای مجهز به تیربار سنگین، از الگوهایی است که پیش‌تر نیروهای وابسته به سپاه قدس در جنگ سوریه به کار گرفته بودند.\n@iranintltv",
+      "message_id": 354844,
+      "message_link": "https://t.me/IranintlTV/354844",
+      "text": "مجتبی خامنه‌ای، رهبر جمهوری اسلامی، در پیامی مکتوب به مناسبت «هفته وحدت» نوشت: «توصیه موکد و مکرر من به حکام کشورهای اسلامی خصوصا کشورهای منطقه غرب آسیا و حاشیه خلیج فارس این است که دشمن واقعی خود را بشناسید و نقشه‌اش را دریافته و با آن مقابله کنند.»\n\nاو در ادامه نوشت: «امروز روزی است که چشم‌انداز غلبه نهایی حق بر باطل، و اسلام بر کفر به‌مراتب بیش از همه ادوار گذشته به عینیت نزدیک شده است.»\n\nمجتبی خامنه‌ای افزود: «اینک اسلام و اهل آن بعد از گذر از دوران‌های سخت و پر تلاطم و طی کردن فراز و نشیب‌های متعدد، به مرحله‌ای سرنوشت‌ساز و تعیین‌کننده رسیده است.»\n\nاو همچنین نوشت: «دشمن به‌دنبال پاره‌پاره شدن امت اسلام است.»\n\nمجتبی خامنه‌ای در ادامه گفت: «حاکمان آمریکا و اسرائیل فقط دشمن جمهوری اسلامی و جبهه عظیم مقاومت اسلامی نیستند؛ بلکه با همه امت اسلام و از جمله ملت‌های غرب آسیا و شمال آفریقا دشمنی دارند.»\nhttps://iranintl.com/202608307048",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "09:04:33",
-      "gregorian_utc": "2026-08-30T05:34:33+00:00",
-      "media_type": "video",
-      "media_size_bytes": 4713458,
-      "media_size_human": "4.50 MB",
+      "tehran_time": "09:14:19",
+      "gregorian_utc": "2026-08-30T05:44:19+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 139390,
+      "media_size_human": "136.12 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354843_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354843_video.mp4",
+      "media_local_path": "media/IranintlTV_354844_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354844_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T06:20:26.725053+00:00"
+      "archived_at": "2026-08-30T06:30:30.805272+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -707,7 +707,7 @@
       "media_local_path": "media/satlastnews_76364_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76364_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T06:20:27.073353+00:00"
+      "archived_at": "2026-08-30T06:30:31.143442+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -725,7 +725,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T06:20:27.456449+00:00"
+      "archived_at": "2026-08-30T06:30:31.438231+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -743,7 +743,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T06:20:27.754882+00:00"
+      "archived_at": "2026-08-30T06:30:31.697412+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -761,25 +761,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T06:20:26.370973+00:00"
+      "archived_at": "2026-08-30T06:30:30.517855+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354842,
-      "message_link": "https://t.me/IranintlTV/354842",
-      "text": "انور قرقاش، مشاور سیاست خارجی رییس امارات متحده عربی، در حساب ایکس خود با انتشار تصویری از یک مراسم در این کشور نوشت: «امارات بر پایه موضعی ریشه‌دار در کنار آرمان عادلانه فلسطینی‌ها ایستاده و با بهره‌برداری از این مساله یا استفاده از ابعاد عاطفی آن برای دامن زدن به افراط‌گرایی و خشونت مخالفت کرده است.»\n\nقرقاش افزود: «امارات متحده عربی مدت‌هاست که پناهگاهی پذیرا است که فلسطینی‌ها را در آغوش می‌گیرد و فرصت‌هایی برای زندگی شرافتمندانه، امنیت و ثبات برای آن‌ها فراهم می‌کند.»\nhttps://iranintl.com/202608308380",
+      "message_id": 354843,
+      "message_link": "https://t.me/IranintlTV/354843",
+      "text": "بر اساس اطلاعات رسیده، عباس رسولی‌فر، از فرماندهان سپاه پاسداران با سابقه حضور در سوریه، فرماندهی نیروهای سرکوب در شهرستان شهریار را در جریان انقلاب ملی بر عهده داشته است.\n\nکامیار بهرنگ، عضو تحریریه ایران‌اینترنشنال، با اشاره به هدفمند بودن انتخاب او در چارچوب انتقال تجربه سرکوب از سوریه به ایران، گفت تقسیم‌بندی مناطق شهری به حوزه‌های عملیاتی، استفاده از تک‌تیراندازها و نقاط مرتفع، ایجاد مناطق کشتار، قطع اینترنت و ارتباطات و استفاده از خودروهای مجهز به تیربار سنگین، از الگوهایی است که پیش‌تر نیروهای وابسته به سپاه قدس در جنگ سوریه به کار گرفته بودند.\n@iranintltv",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "08:24:34",
-      "gregorian_utc": "2026-08-30T04:54:34+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 140022,
-      "media_size_human": "136.74 KB",
+      "tehran_time": "09:04:33",
+      "gregorian_utc": "2026-08-30T05:34:33+00:00",
+      "media_type": "video",
+      "media_size_bytes": 4713458,
+      "media_size_human": "4.50 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354842_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354842_photo.jpg",
+      "media_local_path": "media/IranintlTV_354843_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354843_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T06:20:26.725158+00:00"
+      "archived_at": "2026-08-30T06:30:30.805346+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -797,7 +797,7 @@
       "media_local_path": "media/satlastnews_76363_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76363_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T06:20:27.073414+00:00"
+      "archived_at": "2026-08-30T06:30:31.143472+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -815,7 +815,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T06:20:27.456475+00:00"
+      "archived_at": "2026-08-30T06:30:31.438244+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -833,7 +833,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T06:20:27.754909+00:00"
+      "archived_at": "2026-08-30T06:30:31.697427+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -851,25 +851,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T06:20:26.371001+00:00"
+      "archived_at": "2026-08-30T06:30:30.517869+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354841,
-      "message_link": "https://t.me/IranintlTV/354841",
-      "text": "حسین صمصامی، عضو کمیسیون اقتصادی مجلس، به خبرگزاری ایلنا گفت: «اقتصاد ما هنوز متاثر از نرخ ارز ۱۸۰ هزار تومان که در یکی، دو ماه گذشته داشته‌ایم، نشده و باید انتظار موج تورمی شدیدتری هم داشته باشیم و این فاجعه در اقتصاد ما در حال شکل‌گیری است.»\n\nاین نماینده مجلس اضافه کرد: «معامله میان صادرکننده و واردکننده و آزاد گذاشتن این تفاوت، در واقع به معنای آزاد گذاشتن دلار قاچاق است.»\n\nصمصامی افزود: «با توجه به اینکه بانک مرکزی اجازه داده صادرکننده و واردکننده با هم توافق کنند، لذا نرخ ۲۰۴ الی ۲۰۵ در سفره مردم قرار می‌گیرد و بعد این نرخ بالاتر می‌رود و این تورم در سفره مردم دائمی می‌شود.»\nhttps://iranintl.com/202608304206",
+      "message_id": 354842,
+      "message_link": "https://t.me/IranintlTV/354842",
+      "text": "انور قرقاش، مشاور سیاست خارجی رییس امارات متحده عربی، در حساب ایکس خود با انتشار تصویری از یک مراسم در این کشور نوشت: «امارات بر پایه موضعی ریشه‌دار در کنار آرمان عادلانه فلسطینی‌ها ایستاده و با بهره‌برداری از این مساله یا استفاده از ابعاد عاطفی آن برای دامن زدن به افراط‌گرایی و خشونت مخالفت کرده است.»\n\nقرقاش افزود: «امارات متحده عربی مدت‌هاست که پناهگاهی پذیرا است که فلسطینی‌ها را در آغوش می‌گیرد و فرصت‌هایی برای زندگی شرافتمندانه، امنیت و ثبات برای آن‌ها فراهم می‌کند.»\nhttps://iranintl.com/202608308380",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "08:14:34",
-      "gregorian_utc": "2026-08-30T04:44:34+00:00",
+      "tehran_time": "08:24:34",
+      "gregorian_utc": "2026-08-30T04:54:34+00:00",
       "media_type": "photo",
-      "media_size_bytes": 151408,
-      "media_size_human": "147.86 KB",
+      "media_size_bytes": 140022,
+      "media_size_human": "136.74 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354841_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354841_photo.jpg",
+      "media_local_path": "media/IranintlTV_354842_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354842_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T06:20:26.725266+00:00"
+      "archived_at": "2026-08-30T06:30:30.805400+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -887,7 +887,7 @@
       "media_local_path": "media/satlastnews_76362_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76362_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T06:20:27.073457+00:00"
+      "archived_at": "2026-08-30T06:30:31.143494+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -905,7 +905,7 @@
       "media_local_path": "media/Mellig_120397_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120397_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T06:20:27.456644+00:00"
+      "archived_at": "2026-08-30T06:30:31.438272+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -923,25 +923,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T06:20:26.371029+00:00"
+      "archived_at": "2026-08-30T06:30:30.517883+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354840,
-      "message_link": "https://t.me/IranintlTV/354840",
-      "text": "سرخط خبرهای یک‌شنبه ۸ شهریور\n@iranintltv",
+      "message_id": 354841,
+      "message_link": "https://t.me/IranintlTV/354841",
+      "text": "حسین صمصامی، عضو کمیسیون اقتصادی مجلس، به خبرگزاری ایلنا گفت: «اقتصاد ما هنوز متاثر از نرخ ارز ۱۸۰ هزار تومان که در یکی، دو ماه گذشته داشته‌ایم، نشده و باید انتظار موج تورمی شدیدتری هم داشته باشیم و این فاجعه در اقتصاد ما در حال شکل‌گیری است.»\n\nاین نماینده مجلس اضافه کرد: «معامله میان صادرکننده و واردکننده و آزاد گذاشتن این تفاوت، در واقع به معنای آزاد گذاشتن دلار قاچاق است.»\n\nصمصامی افزود: «با توجه به اینکه بانک مرکزی اجازه داده صادرکننده و واردکننده با هم توافق کنند، لذا نرخ ۲۰۴ الی ۲۰۵ در سفره مردم قرار می‌گیرد و بعد این نرخ بالاتر می‌رود و این تورم در سفره مردم دائمی می‌شود.»\nhttps://iranintl.com/202608304206",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "07:53:25",
-      "gregorian_utc": "2026-08-30T04:23:25+00:00",
-      "media_type": "video",
-      "media_size_bytes": 888709,
-      "media_size_human": "867.88 KB",
+      "tehran_time": "08:14:34",
+      "gregorian_utc": "2026-08-30T04:44:34+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 151408,
+      "media_size_human": "147.86 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354840_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354840_video.mp4",
+      "media_local_path": "media/IranintlTV_354841_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354841_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T06:20:26.725315+00:00"
+      "archived_at": "2026-08-30T06:30:30.805459+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -959,7 +959,7 @@
       "media_local_path": "media/satlastnews_76361_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76361_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T06:20:27.085929+00:00"
+      "archived_at": "2026-08-30T06:30:31.144901+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -977,7 +977,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-08-30T06:20:27.456734+00:00"
+      "archived_at": "2026-08-30T06:30:31.438323+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -995,25 +995,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T06:20:26.371057+00:00"
+      "archived_at": "2026-08-30T06:30:30.517896+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354839,
-      "message_link": "https://t.me/IranintlTV/354839",
-      "text": "حسن بیگدلی، نماینده رهبر جمهوری اسلامی در سپاه استان زنجان، در تجمع حامیان حکومت در این شهر گفت: «اینکه کشور در شرایط جنگ، تحریم و فشار قرار دارد، واقعیتی است که باید مردم از آن آگاه باشند و در چنین شرایطی باید درباره ضرورت صرفه‌جویی، همکاری و هماهنگی صحبت کرد، اما نباید به گونه‌ای سخن گفت که جامعه دچار احساس ضعف و ناتوانی شود.»\n\nاو ادامه داد: «ممکن است مشکلات و ضعف‌هایی وجود داشته باشد و بیان مشکلات برای اصلاح آن‌ها ضروری است، اما روایت ضعف نباید جای روایت قدرت را بگیرد؛ ملت ایران باید توانمندی‌های خود را بشناسد و با تکیه بر ظرفیت‌های داخلی، میدان را مدیریت کند.»\n\nبیگدلی افزود: «توانمندی‌های نظامی، اقتصادی، تولید نفت و گاز، مدیریت صنعت انرژی، پزشکی، کشاورزی، صنعت و سایر ظرفیت‌های کشور، بخشی از داشته‌های جمهوری اسلامی هستند و اگر این توانمندی‌ها را بیان نکنیم، در حق مردم و انقلاب جفا کرده‌ایم.»\nhttps://iranintl.com/202608309238",
+      "message_id": 354840,
+      "message_link": "https://t.me/IranintlTV/354840",
+      "text": "سرخط خبرهای یک‌شنبه ۸ شهریور\n@iranintltv",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "07:52:00",
-      "gregorian_utc": "2026-08-30T04:22:00+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 133111,
-      "media_size_human": "129.99 KB",
+      "tehran_time": "07:53:25",
+      "gregorian_utc": "2026-08-30T04:23:25+00:00",
+      "media_type": "video",
+      "media_size_bytes": 888709,
+      "media_size_human": "867.88 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354839_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354839_photo.jpg",
+      "media_local_path": "media/IranintlTV_354840_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354840_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T06:20:26.725446+00:00"
+      "archived_at": "2026-08-30T06:30:30.805484+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1031,7 +1031,7 @@
       "media_local_path": "media/satlastnews_76358_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76358_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-30T06:20:27.086076+00:00"
+      "archived_at": "2026-08-30T06:30:31.144965+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1049,7 +1049,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-30T06:20:27.456794+00:00"
+      "archived_at": "2026-08-30T06:30:31.438351+00:00"
     }
   ]
 }
