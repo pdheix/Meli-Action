@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-31T05:31:12.887273+00:00",
-  "shamsi_generated": "1405/06/09 05:31:12 تهران",
+  "generated_at": "2026-08-31T05:41:03.414904+00:00",
+  "shamsi_generated": "1405/06/09 05:41:03 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -41,25 +41,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T05:30:32.489602+00:00"
+      "archived_at": "2026-08-31T05:40:23.859730+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354998,
-      "message_link": "https://t.me/IranintlTV/354998",
-      "text": "رضا عرب، تحلیلگر سیاسی با اشاره به حمله آمریکا به دو پرتابگر متعلق به سپاه پاسداران در جزیره لارک در جنوب ایران گفت واشینگتن در ماه‌های گذشته توانسته «بازی زمانی» را به نفع خود تغییر دهد و با باز کردن مسیر تردد در تنگه هرمز و تشدید فشار اقتصادی، جمهوری اسلامی را در موقعیت دشوارتری قرار دهد.\n\nاو افزود آمریکا تحرکات سپاه پاسداران در جنوب ایران را رصد می‌کند و حمله اخیر نشان می‌دهد اقداماتی را که تهدیدی علیه امنیت و مسیر بازشده در تنگه هرمز بداند، هدف قرار خواهد داد. \n@iranintltv",
+      "message_id": 354999,
+      "message_link": "https://t.me/IranintlTV/354999",
+      "text": "مهدی کتابچی، مشاور پروژه آب، در واکنش به اظهارات سخنگوی صنعت آب، درباره قرار گرفتن ۵۸ شهر در وضعیت تنش آبی و زندگی حدود ۳۵ میلیون نفر در مناطق کم‌بارش گفت بحران آب در ایران از یک خشکسالی مقطعی فراتر رفته و کشور با «ورشکستگی مستمر آبی» روبه‌رو است.\n\nاو افزود جمهوری اسلامی برای ماندگاری خود حاضر است انسان‌ها را از بین ببرد و منابع طبیعی و آبی کشور را نیز مصرف کند، در نتیجه بدون تغییرات ساختاری در سیاست، اقتصاد و مدیریت منابع، نمی‌توان به احیای منابع آب سطحی و زیرزمینی ایران امیدوار بود.\n@iranintltv",
       "shamsi_date": "1405/06/09",
-      "tehran_time": "08:34:44",
-      "gregorian_utc": "2026-08-31T05:04:44+00:00",
+      "tehran_time": "09:09:39",
+      "gregorian_utc": "2026-08-31T05:39:39+00:00",
       "media_type": "video",
-      "media_size_bytes": 2758144,
-      "media_size_human": "2.63 MB",
+      "media_size_bytes": 4009575,
+      "media_size_human": "3.82 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354998_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354998_video.mp4",
+      "media_local_path": "media/IranintlTV_354999_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354999_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T05:30:32.835411+00:00"
+      "archived_at": "2026-08-31T05:40:24.117591+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -77,7 +77,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T05:30:33.144102+00:00"
+      "archived_at": "2026-08-31T05:40:24.356285+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -95,7 +95,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T05:30:33.481144+00:00"
+      "archived_at": "2026-08-31T05:40:24.622017+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -113,7 +113,7 @@
       "media_local_path": "media/khabarsara53_11_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_11_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T05:30:33.789222+00:00"
+      "archived_at": "2026-08-31T05:40:24.832979+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -131,25 +131,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T05:30:32.489650+00:00"
+      "archived_at": "2026-08-31T05:40:23.859778+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354997,
-      "message_link": "https://t.me/IranintlTV/354997",
-      "text": "روابط عمومی ارتش جمهوری اسلامی، دوشنبه نهم شهریور در بیانیه‌ای اعلام کرد پس از حملات آمریکا به جزیره لارک، محل استقرار بالگردها و نیروهای ارتش آمریکا در پایگاه «المنهاد» امارات متحده را با شلیک ده‌ها پهپاد، هدف قرار داده است.\n\nدر این بیانیه آمده است: «ارتش جمهوری اسلامی برای تامین امنیت پایدار و حراست از سرزمین ایران اسلامی تا رفع تهدید دشمن از منطقه، ایستاده‌اند.»\nhttps://iranintl.com/202608318908",
+      "message_id": 354998,
+      "message_link": "https://t.me/IranintlTV/354998",
+      "text": "رضا عرب، تحلیلگر سیاسی با اشاره به حمله آمریکا به دو پرتابگر متعلق به سپاه پاسداران در جزیره لارک در جنوب ایران گفت واشینگتن در ماه‌های گذشته توانسته «بازی زمانی» را به نفع خود تغییر دهد و با باز کردن مسیر تردد در تنگه هرمز و تشدید فشار اقتصادی، جمهوری اسلامی را در موقعیت دشوارتری قرار دهد.\n\nاو افزود آمریکا تحرکات سپاه پاسداران در جنوب ایران را رصد می‌کند و حمله اخیر نشان می‌دهد اقداماتی را که تهدیدی علیه امنیت و مسیر بازشده در تنگه هرمز بداند، هدف قرار خواهد داد. \n@iranintltv",
       "shamsi_date": "1405/06/09",
-      "tehran_time": "08:34:15",
-      "gregorian_utc": "2026-08-31T05:04:15+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 204606,
-      "media_size_human": "199.81 KB",
+      "tehran_time": "08:34:44",
+      "gregorian_utc": "2026-08-31T05:04:44+00:00",
+      "media_type": "video",
+      "media_size_bytes": 2758144,
+      "media_size_human": "2.63 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354997_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354997_photo.jpg",
+      "media_local_path": "media/IranintlTV_354998_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354998_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T05:30:32.835522+00:00"
+      "archived_at": "2026-08-31T05:40:24.117693+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -167,7 +167,7 @@
       "media_local_path": "media/satlastnews_76381_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76381_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T05:30:33.144167+00:00"
+      "archived_at": "2026-08-31T05:40:24.356358+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -185,7 +185,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T05:30:33.481207+00:00"
+      "archived_at": "2026-08-31T05:40:24.622078+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -203,7 +203,7 @@
       "media_local_path": "media/khabarsara53_10_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_10_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T05:30:33.789289+00:00"
+      "archived_at": "2026-08-31T05:40:24.833049+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -221,25 +221,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T05:30:32.489686+00:00"
+      "archived_at": "2026-08-31T05:40:23.859808+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354995,
-      "message_link": "https://t.me/IranintlTV/354995",
-      "text": "نیروی دریایی سپاه پاسداران، صبح دوشنبه اعلام کرد یک فروند سوپرنفتکش که قصد عبور از «مسیر غیرقانونی جنوب تنگه هرمز» را داشت، ساعاتی پیش بر اثر اصابت با دو مین دریایی دچار آتش‌سوزی شدید شده و به‌طور کامل متوقف شده است. \n\nنیروی دریایی سپاه در این بیانیه هشدار داد سرنوشت کشتی‌هایی که از مقررات امنیتی تنگه هرمز تخطی کنند، «جز این نخواهد بود» و رعایت مقررات ابلاغی این نیرو برای عبور و مرور در تنگه هرمز الزامی است. \n\nنیروی دریایی سپاه پاسداران همچنین از شرکت‌های کشتیرانی خواست «فریب تحریکات ارتش آمریکا را نخورند و جان خدمه و اموال خود را در معرض خطر قرار ندهند.»\nhttps://iranintl.com/202608310618",
+      "message_id": 354997,
+      "message_link": "https://t.me/IranintlTV/354997",
+      "text": "روابط عمومی ارتش جمهوری اسلامی، دوشنبه نهم شهریور در بیانیه‌ای اعلام کرد پس از حملات آمریکا به جزیره لارک، محل استقرار بالگردها و نیروهای ارتش آمریکا در پایگاه «المنهاد» امارات متحده را با شلیک ده‌ها پهپاد، هدف قرار داده است.\n\nدر این بیانیه آمده است: «ارتش جمهوری اسلامی برای تامین امنیت پایدار و حراست از سرزمین ایران اسلامی تا رفع تهدید دشمن از منطقه، ایستاده‌اند.»\nhttps://iranintl.com/202608318908",
       "shamsi_date": "1405/06/09",
-      "tehran_time": "08:00:39",
-      "gregorian_utc": "2026-08-31T04:30:39+00:00",
+      "tehran_time": "08:34:15",
+      "gregorian_utc": "2026-08-31T05:04:15+00:00",
       "media_type": "photo",
-      "media_size_bytes": 72384,
-      "media_size_human": "70.69 KB",
+      "media_size_bytes": 204606,
+      "media_size_human": "199.81 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354995_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354995_photo.jpg",
+      "media_local_path": "media/IranintlTV_354997_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354997_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T05:30:32.835632+00:00"
+      "archived_at": "2026-08-31T05:40:24.117794+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -257,7 +257,7 @@
       "media_local_path": "media/satlastnews_76380_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76380_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T05:30:33.144204+00:00"
+      "archived_at": "2026-08-31T05:40:24.356395+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -275,7 +275,7 @@
       "media_local_path": "media/Mellig_120446_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120446_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T05:30:33.481293+00:00"
+      "archived_at": "2026-08-31T05:40:24.622162+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -293,7 +293,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T05:30:33.789316+00:00"
+      "archived_at": "2026-08-31T05:40:24.833076+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -311,25 +311,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T05:30:32.489719+00:00"
+      "archived_at": "2026-08-31T05:40:23.859847+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354994,
-      "message_link": "https://t.me/IranintlTV/354994",
-      "text": "زمین‌لرزه‌ای به بزرگی ۳.۸ در عمق ۸ کیلومتری زمین، صبح دوشنبه پردیس در شرق تهران را لرزاند.\nبنا بر گزارش‌های مردمی، این زمین‌لرزه در نقاط زیادی از شرق تهران احساس شده است.\n\nکانال تلگرامی وحیدآنلاین گزارش داد که ساکنان مناطق زیادی در شرق تهران، از جمله پردیس، حکیمیه، دماوند، نارمک و چندین منطقه دیگر متوجه لرزش زمین شده‌اند.\nhttps://iranintl.com/202608318417",
+      "message_id": 354995,
+      "message_link": "https://t.me/IranintlTV/354995",
+      "text": "نیروی دریایی سپاه پاسداران، صبح دوشنبه اعلام کرد یک فروند سوپرنفتکش که قصد عبور از «مسیر غیرقانونی جنوب تنگه هرمز» را داشت، ساعاتی پیش بر اثر اصابت با دو مین دریایی دچار آتش‌سوزی شدید شده و به‌طور کامل متوقف شده است. \n\nنیروی دریایی سپاه در این بیانیه هشدار داد سرنوشت کشتی‌هایی که از مقررات امنیتی تنگه هرمز تخطی کنند، «جز این نخواهد بود» و رعایت مقررات ابلاغی این نیرو برای عبور و مرور در تنگه هرمز الزامی است. \n\nنیروی دریایی سپاه پاسداران همچنین از شرکت‌های کشتیرانی خواست «فریب تحریکات ارتش آمریکا را نخورند و جان خدمه و اموال خود را در معرض خطر قرار ندهند.»\nhttps://iranintl.com/202608310618",
       "shamsi_date": "1405/06/09",
-      "tehran_time": "07:44:16",
-      "gregorian_utc": "2026-08-31T04:14:16+00:00",
+      "tehran_time": "08:00:39",
+      "gregorian_utc": "2026-08-31T04:30:39+00:00",
       "media_type": "photo",
-      "media_size_bytes": 63870,
-      "media_size_human": "62.37 KB",
+      "media_size_bytes": 72384,
+      "media_size_human": "70.69 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354994_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354994_photo.jpg",
+      "media_local_path": "media/IranintlTV_354995_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354995_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T05:30:32.835710+00:00"
+      "archived_at": "2026-08-31T05:40:24.117897+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -347,7 +347,7 @@
       "media_local_path": "media/satlastnews_76379_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76379_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T05:30:33.144239+00:00"
+      "archived_at": "2026-08-31T05:40:24.356426+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -365,7 +365,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T05:30:33.481324+00:00"
+      "archived_at": "2026-08-31T05:40:24.622190+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -383,7 +383,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T05:30:33.789339+00:00"
+      "archived_at": "2026-08-31T05:40:24.833098+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -401,25 +401,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T05:30:32.489744+00:00"
+      "archived_at": "2026-08-31T05:40:23.859872+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354993,
-      "message_link": "https://t.me/IranintlTV/354993",
-      "text": "سرخط خبرهای دوشنبه ۹ شهریور\n@iranintltv",
+      "message_id": 354994,
+      "message_link": "https://t.me/IranintlTV/354994",
+      "text": "زمین‌لرزه‌ای به بزرگی ۳.۸ در عمق ۸ کیلومتری زمین، صبح دوشنبه پردیس در شرق تهران را لرزاند.\nبنا بر گزارش‌های مردمی، این زمین‌لرزه در نقاط زیادی از شرق تهران احساس شده است.\n\nکانال تلگرامی وحیدآنلاین گزارش داد که ساکنان مناطق زیادی در شرق تهران، از جمله پردیس، حکیمیه، دماوند، نارمک و چندین منطقه دیگر متوجه لرزش زمین شده‌اند.\nhttps://iranintl.com/202608318417",
       "shamsi_date": "1405/06/09",
-      "tehran_time": "07:41:47",
-      "gregorian_utc": "2026-08-31T04:11:47+00:00",
-      "media_type": "video",
-      "media_size_bytes": 991982,
-      "media_size_human": "968.73 KB",
+      "tehran_time": "07:44:16",
+      "gregorian_utc": "2026-08-31T04:14:16+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 63870,
+      "media_size_human": "62.37 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354993_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354993_video.mp4",
+      "media_local_path": "media/IranintlTV_354994_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354994_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T05:30:32.835757+00:00"
+      "archived_at": "2026-08-31T05:40:24.117988+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -437,7 +437,7 @@
       "media_local_path": "media/satlastnews_76378_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76378_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T05:30:33.144270+00:00"
+      "archived_at": "2026-08-31T05:40:24.356454+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -455,7 +455,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T05:30:33.481367+00:00"
+      "archived_at": "2026-08-31T05:40:24.622231+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -473,7 +473,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T05:30:33.789360+00:00"
+      "archived_at": "2026-08-31T05:40:24.833119+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -491,25 +491,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T05:30:32.489780+00:00"
+      "archived_at": "2026-08-31T05:40:23.859903+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354992,
-      "message_link": "https://t.me/IranintlTV/354992",
-      "text": "رویترز گزارش داد اسکات بسنت، وزیر خزانه‌داری آمریکا، گفت این وزارتخانه احتمالا هر هفته تحریم‌های ثانویه تازه‌ای برای افزایش فشار اقتصادی بر جمهوری اسلامی اعلام خواهد کرد و بانک‌ها در مرحله نخست هدف این اقدامات خواهند بود.\n\nبسنت گفت پس از اقدام آمریکا علیه شعب بانک مصری «بانک مصر» در امارات متحده عربی به دلیل ارتباطات مالی با تهران، گام بعدی می‌تواند قطع کامل دسترسی یک موسسه مالی به نظام مالی مبتنی بر دلار باشد.\n\nوزیر خزانه‌داری آمریکا پیش از نشست مقام‌های مالی گروه ۲۰ گفت واشینگتن به بانک‌ها هشدار خواهد داد نگهداری پول ایران و کمک مالی به جمهوری اسلامی قابل قبول نیست و افزود: «هر هفته شاهد موارد بسیار بیشتری از این اقدامات خواهید بود.»\n\nبسنت همچنین گفت در نشست گروه ۲۰ از وزیران دارایی و روسای بانک‌های مرکزی خواهد خواست روابط اقتصادی خود را با تهران قطع کنند و هشدار خواهد داد در غیر این صورت ممکن است با تحریم‌های ثانویه آمریکا روبه‌رو شوند. این اظهارات بخشی از کارزار تازه واشینگتن برای افزایش فشار مالی بر جمهوری اسلامی هم‌زمان با ادامه جنگ است.\nhttps://iranintl.com/202608312969",
+      "message_id": 354993,
+      "message_link": "https://t.me/IranintlTV/354993",
+      "text": "سرخط خبرهای دوشنبه ۹ شهریور\n@iranintltv",
       "shamsi_date": "1405/06/09",
-      "tehran_time": "06:02:28",
-      "gregorian_utc": "2026-08-31T02:32:28+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 179491,
-      "media_size_human": "175.28 KB",
+      "tehran_time": "07:41:47",
+      "gregorian_utc": "2026-08-31T04:11:47+00:00",
+      "media_type": "video",
+      "media_size_bytes": 991982,
+      "media_size_human": "968.73 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354992_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354992_photo.jpg",
+      "media_local_path": "media/IranintlTV_354993_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354993_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T05:30:32.835924+00:00"
+      "archived_at": "2026-08-31T05:40:24.118030+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -527,7 +527,7 @@
       "media_local_path": "media/satlastnews_76377_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76377_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T05:30:33.144322+00:00"
+      "archived_at": "2026-08-31T05:40:24.356507+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -545,7 +545,7 @@
       "media_local_path": "media/Mellig_120443_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120443_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T05:30:33.481411+00:00"
+      "archived_at": "2026-08-31T05:40:24.622273+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -563,7 +563,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T05:30:33.789381+00:00"
+      "archived_at": "2026-08-31T05:40:24.833142+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -581,25 +581,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T05:30:32.489917+00:00"
+      "archived_at": "2026-08-31T05:40:23.859927+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354991,
-      "message_link": "https://t.me/IranintlTV/354991",
-      "text": "دونالد ترامپ، رییس‌جمهوری آمریکا، در گفت‌وگو با فاکس‌نیوز گفت جمهوری اسلامی را نمی‌توان به سلاح هسته‌ای مجهز کرد و افزود ایران «هرگز» به چنین سلاحی دست نخواهد یافت. او گفت اگر جمهوری اسلامی سلاح هسته‌ای در اختیار داشت، از آن استفاده می‌کرد و اسرائیل و دیگر کشورهای منطقه با خطری جدی روبه‌رو می‌شدند.\nترامپ با اشاره به حملات جمهوری اسلامی به عربستان سعودی، قطر، امارات متحده عربی، بحرین و کویت گفت از گسترش حملات تهران به این کشورها شگفت‌زده شده است. به گفته او، این حملات باعث شده جمهوری اسلامی حمایت کشورهای منطقه را از دست بدهد.\nترامپ همچنین گفت آمریکا مین‌های موجود در مسیر کشتیرانی را پاک‌سازی کرده و اکنون «کنترل کامل یا تقریبا کامل» را در اختیار دارد. او پیش‌بینی کرد پس از پایان جنگ، بهای نفت و بنزین به‌شدت کاهش خواهد یافت. \nرییس‌جمهوری آمریکا در بخش دیگری از این گفت‌وگو از کشورهایی که به گفته او در تامین امنیتشان نقش دارد، انتقاد کرد. ترامپ کره جنوبی را نمونه آورد و گفت سئول درخواست آمریکا برای مشارکت در اقدامات مرتبط با جمهوری اسلامی را نپذیرفته و واشینگتن این موضوع را در روابط آینده خود در نظر خواهد گرفت.\nh",
+      "message_id": 354992,
+      "message_link": "https://t.me/IranintlTV/354992",
+      "text": "رویترز گزارش داد اسکات بسنت، وزیر خزانه‌داری آمریکا، گفت این وزارتخانه احتمالا هر هفته تحریم‌های ثانویه تازه‌ای برای افزایش فشار اقتصادی بر جمهوری اسلامی اعلام خواهد کرد و بانک‌ها در مرحله نخست هدف این اقدامات خواهند بود.\n\nبسنت گفت پس از اقدام آمریکا علیه شعب بانک مصری «بانک مصر» در امارات متحده عربی به دلیل ارتباطات مالی با تهران، گام بعدی می‌تواند قطع کامل دسترسی یک موسسه مالی به نظام مالی مبتنی بر دلار باشد.\n\nوزیر خزانه‌داری آمریکا پیش از نشست مقام‌های مالی گروه ۲۰ گفت واشینگتن به بانک‌ها هشدار خواهد داد نگهداری پول ایران و کمک مالی به جمهوری اسلامی قابل قبول نیست و افزود: «هر هفته شاهد موارد بسیار بیشتری از این اقدامات خواهید بود.»\n\nبسنت همچنین گفت در نشست گروه ۲۰ از وزیران دارایی و روسای بانک‌های مرکزی خواهد خواست روابط اقتصادی خود را با تهران قطع کنند و هشدار خواهد داد در غیر این صورت ممکن است با تحریم‌های ثانویه آمریکا روبه‌رو شوند. این اظهارات بخشی از کارزار تازه واشینگتن برای افزایش فشار مالی بر جمهوری اسلامی هم‌زمان با ادامه جنگ است.\nhttps://iranintl.com/202608312969",
       "shamsi_date": "1405/06/09",
-      "tehran_time": "05:53:48",
-      "gregorian_utc": "2026-08-31T02:23:48+00:00",
+      "tehran_time": "06:02:28",
+      "gregorian_utc": "2026-08-31T02:32:28+00:00",
       "media_type": "photo",
-      "media_size_bytes": 132542,
-      "media_size_human": "129.44 KB",
+      "media_size_bytes": 179491,
+      "media_size_human": "175.28 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354991_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354991_photo.jpg",
+      "media_local_path": "media/IranintlTV_354992_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354992_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T05:30:32.835965+00:00"
+      "archived_at": "2026-08-31T05:40:24.118177+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -617,7 +617,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T05:30:33.144376+00:00"
+      "archived_at": "2026-08-31T05:40:24.356568+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -635,7 +635,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T05:30:33.481454+00:00"
+      "archived_at": "2026-08-31T05:40:24.622314+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -653,7 +653,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T05:30:33.789403+00:00"
+      "archived_at": "2026-08-31T05:40:24.833164+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -671,25 +671,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T05:30:32.489965+00:00"
+      "archived_at": "2026-08-31T05:40:23.859983+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354990,
-      "message_link": "https://t.me/IranintlTV/354990",
-      "text": "فوربس در گزارشی نوشت آمریکا در چارچوب «عملیات طرد اقتصادی» می‌کوشد با تهدید بانک‌ها و شرکای تجاری جمهوری اسلامی به قطع دسترسی به نظام دلاری، فشار اقتصادی بر تهران را افزایش دهد.\n\nوزارت خزانه‌داری آمریکا در نخستین اقدام بانکی این کارزار پیشنهاد کرده است فعالیت‌های واحد اماراتی بانک مصر از نظام مالی آمریکا قطع شود. به گفته این وزارتخانه، این واحد حدود ۱.۸ میلیارد دلار برای شرکت‌هایی پردازش کرده که احتمال می‌رود بخشی از شبکه بانکداری پنهانی ایران باشند.\n\nفوربس نوشت واشینگتن در مرحله نخست نهادهای کوچک‌تر و قابل‌جایگزینی را هدف قرار داده و هنوز از اعمال تحریم‌های ثانویه علیه بانک‌ها و خریداران بزرگ چینی خودداری کرده است.\n\nهم‌زمان، اوفک دامنه محدودیت‌ها را گسترش داده و درباره پرداخت پول به نهادهای تحریم‌شده ایرانی برای عبور از تنگه هرمز هشدار داده است.\n\nبه نوشته فوربس، اهداف بعدی نشان خواهند داد آمریکا مسیر محتاطانه کنونی را ادامه می‌دهد یا آماده است با هدف قرار دادن بانک‌ها و خریداران بزرگ چینی، وارد مرحله‌ای پرهزینه‌تر از کارزار فشار اقتصادی شود.\n\nhttps://iranintl.com/202608316336",
+      "message_id": 354991,
+      "message_link": "https://t.me/IranintlTV/354991",
+      "text": "دونالد ترامپ، رییس‌جمهوری آمریکا، در گفت‌وگو با فاکس‌نیوز گفت جمهوری اسلامی را نمی‌توان به سلاح هسته‌ای مجهز کرد و افزود ایران «هرگز» به چنین سلاحی دست نخواهد یافت. او گفت اگر جمهوری اسلامی سلاح هسته‌ای در اختیار داشت، از آن استفاده می‌کرد و اسرائیل و دیگر کشورهای منطقه با خطری جدی روبه‌رو می‌شدند.\nترامپ با اشاره به حملات جمهوری اسلامی به عربستان سعودی، قطر، امارات متحده عربی، بحرین و کویت گفت از گسترش حملات تهران به این کشورها شگفت‌زده شده است. به گفته او، این حملات باعث شده جمهوری اسلامی حمایت کشورهای منطقه را از دست بدهد.\nترامپ همچنین گفت آمریکا مین‌های موجود در مسیر کشتیرانی را پاک‌سازی کرده و اکنون «کنترل کامل یا تقریبا کامل» را در اختیار دارد. او پیش‌بینی کرد پس از پایان جنگ، بهای نفت و بنزین به‌شدت کاهش خواهد یافت. \nرییس‌جمهوری آمریکا در بخش دیگری از این گفت‌وگو از کشورهایی که به گفته او در تامین امنیتشان نقش دارد، انتقاد کرد. ترامپ کره جنوبی را نمونه آورد و گفت سئول درخواست آمریکا برای مشارکت در اقدامات مرتبط با جمهوری اسلامی را نپذیرفته و واشینگتن این موضوع را در روابط آینده خود در نظر خواهد گرفت.\nh",
       "shamsi_date": "1405/06/09",
-      "tehran_time": "05:19:05",
-      "gregorian_utc": "2026-08-31T01:49:05+00:00",
+      "tehran_time": "05:53:48",
+      "gregorian_utc": "2026-08-31T02:23:48+00:00",
       "media_type": "photo",
-      "media_size_bytes": 178235,
-      "media_size_human": "174.06 KB",
+      "media_size_bytes": 132542,
+      "media_size_human": "129.44 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354990_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354990_photo.jpg",
+      "media_local_path": "media/IranintlTV_354991_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354991_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T05:30:32.836095+00:00"
+      "archived_at": "2026-08-31T05:40:24.118215+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -707,7 +707,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T05:30:33.144424+00:00"
+      "archived_at": "2026-08-31T05:40:24.356618+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -725,7 +725,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T05:30:33.481492+00:00"
+      "archived_at": "2026-08-31T05:40:24.622351+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -743,7 +743,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T05:30:33.789425+00:00"
+      "archived_at": "2026-08-31T05:40:24.833188+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -761,25 +761,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T05:30:32.489991+00:00"
+      "archived_at": "2026-08-31T05:40:23.860009+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354989,
-      "message_link": "https://t.me/IranintlTV/354989",
-      "text": "اسرائیل هیوم در گزارشی نوشت جنگ، تحریم‌ها و سوءمدیریت، بحران معیشتی در ایران را تشدید کرده و افزایش تورم، کاهش قدرت خرید و گرانی مواد غذایی و دارو، فشار بر خانوارها و طبقه متوسط را افزایش داده است.\n\nبه نوشته این رسانه، کاهش درآمدهای نفتی، محدودیت‌های تجاری، کمبود انرژی و آب و تعطیلی کارخانه‌ها نیز بر مشکلات اقتصادی افزوده‌اند. اسرائیل هیوم تحریم‌ها را تنها عامل بحران ندانست و فساد، سوءمدیریت و حضور گسترده سپاه پاسداران در اقتصاد را از دیگر عوامل برشمرد.\n\nاین گزارش افزود فشار اقتصادی اعتراض‌هایی را در میان گروه‌های مختلف برانگیخته و برخی تحلیلگران آن را عاملی برای سوق دادن جمهوری اسلامی به مذاکره می‌دانند.\n\nبا این حال، کارشناسان اسرائیلی مورد استناد این رسانه هشدار دادند افزایش فشار لزوما به عقب‌نشینی حکومت منجر نمی‌شود و ممکن است جمهوری اسلامی را به تشدید سرکوب داخلی یا اقدامات نظامی در منطقه سوق دهد. اسرائیل هیوم نتیجه گرفت افزایش نارضایتی اقتصادی الزاما به فروپاشی حکومت منجر نخواهد شد.\nhttps://iranintl.com/202608302567",
+      "message_id": 354990,
+      "message_link": "https://t.me/IranintlTV/354990",
+      "text": "فوربس در گزارشی نوشت آمریکا در چارچوب «عملیات طرد اقتصادی» می‌کوشد با تهدید بانک‌ها و شرکای تجاری جمهوری اسلامی به قطع دسترسی به نظام دلاری، فشار اقتصادی بر تهران را افزایش دهد.\n\nوزارت خزانه‌داری آمریکا در نخستین اقدام بانکی این کارزار پیشنهاد کرده است فعالیت‌های واحد اماراتی بانک مصر از نظام مالی آمریکا قطع شود. به گفته این وزارتخانه، این واحد حدود ۱.۸ میلیارد دلار برای شرکت‌هایی پردازش کرده که احتمال می‌رود بخشی از شبکه بانکداری پنهانی ایران باشند.\n\nفوربس نوشت واشینگتن در مرحله نخست نهادهای کوچک‌تر و قابل‌جایگزینی را هدف قرار داده و هنوز از اعمال تحریم‌های ثانویه علیه بانک‌ها و خریداران بزرگ چینی خودداری کرده است.\n\nهم‌زمان، اوفک دامنه محدودیت‌ها را گسترش داده و درباره پرداخت پول به نهادهای تحریم‌شده ایرانی برای عبور از تنگه هرمز هشدار داده است.\n\nبه نوشته فوربس، اهداف بعدی نشان خواهند داد آمریکا مسیر محتاطانه کنونی را ادامه می‌دهد یا آماده است با هدف قرار دادن بانک‌ها و خریداران بزرگ چینی، وارد مرحله‌ای پرهزینه‌تر از کارزار فشار اقتصادی شود.\n\nhttps://iranintl.com/202608316336",
       "shamsi_date": "1405/06/09",
-      "tehran_time": "05:15:37",
-      "gregorian_utc": "2026-08-31T01:45:37+00:00",
+      "tehran_time": "05:19:05",
+      "gregorian_utc": "2026-08-31T01:49:05+00:00",
       "media_type": "photo",
-      "media_size_bytes": 256669,
-      "media_size_human": "250.65 KB",
+      "media_size_bytes": 178235,
+      "media_size_human": "174.06 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354989_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354989_photo.jpg",
+      "media_local_path": "media/IranintlTV_354990_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354990_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T05:30:32.836216+00:00"
+      "archived_at": "2026-08-31T05:40:24.118336+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -797,7 +797,7 @@
       "media_local_path": "media/satlastnews_76374_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76374_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T05:30:33.144494+00:00"
+      "archived_at": "2026-08-31T05:40:24.356689+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -815,7 +815,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-08-31T05:30:33.481530+00:00"
+      "archived_at": "2026-08-31T05:40:24.622385+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -833,7 +833,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T05:30:33.789445+00:00"
+      "archived_at": "2026-08-31T05:40:24.833209+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -851,25 +851,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T05:30:32.490015+00:00"
+      "archived_at": "2026-08-31T05:40:23.860031+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354988,
-      "message_link": "https://t.me/IranintlTV/354988",
-      "text": "سنتکام اعلام کرد نیروهای آمریکایی برای مقابله با آنچه «تهدید قریب‌الوقوع» نیروهای مین‌گذار سپاه پاسداران در تنگه هرمز خواند، اقدامی «محدود و دقیق» انجام دادند.\n\nسنتکام در واکنش به بیانیه سپاه پاسداران که حمله آمریکا را «اقدامی تجاوزکارانه» خوانده بود، این موضع را «کاملا نادرست» دانست و گفت ایران تهدید را ایجاد کرد و ارتش آمریکا برای حفاظت از دریانوردان غیرنظامی، کشتیرانی تجاری و جریان آزاد تجارت جهانی، آن را از میان برد.\n\nاین موضع به حمله هشتم شهریور نیروهای آمریکایی به دو پرتابگر سپاه پاسداران در جزیره لارک مربوط است. مقام‌های آمریکایی گفته‌اند این پرتابگرها برای مین‌گذاری در تنگه هرمز آماده می‌شدند.\nhttps://iranintl.com/202608318384",
+      "message_id": 354989,
+      "message_link": "https://t.me/IranintlTV/354989",
+      "text": "اسرائیل هیوم در گزارشی نوشت جنگ، تحریم‌ها و سوءمدیریت، بحران معیشتی در ایران را تشدید کرده و افزایش تورم، کاهش قدرت خرید و گرانی مواد غذایی و دارو، فشار بر خانوارها و طبقه متوسط را افزایش داده است.\n\nبه نوشته این رسانه، کاهش درآمدهای نفتی، محدودیت‌های تجاری، کمبود انرژی و آب و تعطیلی کارخانه‌ها نیز بر مشکلات اقتصادی افزوده‌اند. اسرائیل هیوم تحریم‌ها را تنها عامل بحران ندانست و فساد، سوءمدیریت و حضور گسترده سپاه پاسداران در اقتصاد را از دیگر عوامل برشمرد.\n\nاین گزارش افزود فشار اقتصادی اعتراض‌هایی را در میان گروه‌های مختلف برانگیخته و برخی تحلیلگران آن را عاملی برای سوق دادن جمهوری اسلامی به مذاکره می‌دانند.\n\nبا این حال، کارشناسان اسرائیلی مورد استناد این رسانه هشدار دادند افزایش فشار لزوما به عقب‌نشینی حکومت منجر نمی‌شود و ممکن است جمهوری اسلامی را به تشدید سرکوب داخلی یا اقدامات نظامی در منطقه سوق دهد. اسرائیل هیوم نتیجه گرفت افزایش نارضایتی اقتصادی الزاما به فروپاشی حکومت منجر نخواهد شد.\nhttps://iranintl.com/202608302567",
       "shamsi_date": "1405/06/09",
-      "tehran_time": "04:57:04",
-      "gregorian_utc": "2026-08-31T01:27:04+00:00",
+      "tehran_time": "05:15:37",
+      "gregorian_utc": "2026-08-31T01:45:37+00:00",
       "media_type": "photo",
-      "media_size_bytes": 134560,
-      "media_size_human": "131.41 KB",
+      "media_size_bytes": 256669,
+      "media_size_human": "250.65 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354988_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354988_photo.jpg",
+      "media_local_path": "media/IranintlTV_354989_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354989_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T05:30:32.836312+00:00"
+      "archived_at": "2026-08-31T05:40:24.118455+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -887,7 +887,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T05:30:33.144913+00:00"
+      "archived_at": "2026-08-31T05:40:24.357132+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -905,7 +905,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T05:30:33.481573+00:00"
+      "archived_at": "2026-08-31T05:40:24.622425+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -923,7 +923,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T05:30:33.789465+00:00"
+      "archived_at": "2026-08-31T05:40:24.833229+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -941,25 +941,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T05:30:32.490036+00:00"
+      "archived_at": "2026-08-31T05:40:23.860052+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354987,
-      "message_link": "https://t.me/IranintlTV/354987",
-      "text": "ارتش اردن اعلام کرد بامداد دوشنبه ۹ شهریور هشت موشک را پس از ورود به حریم هوایی این کشور رهگیری کرده است. ارتش اردن در این گزارش درباره مبدا موشک‌ها یا خسارت و تلفات احتمالی جزییات بیشتری ارائه نکرد.\n\nاین خبر پس از آن منتشر شد که سپاه پاسداران اعلام کرد در واکنش به حمله آمریکا به جزیره لارک، پایگاه‌های هوایی ملک حسین و الازرق در اردن را با موشک‌های بالستیک و پهپاد هدف قرار داده است. پیش‌تر یک منبع آمریکایی نیز گفته بود تقریبا تمام موشک‌های شلیک‌شده ایران در این مرحله رهگیری شده‌اند.\nhttps://iranintl.com/202608303144",
+      "message_id": 354988,
+      "message_link": "https://t.me/IranintlTV/354988",
+      "text": "سنتکام اعلام کرد نیروهای آمریکایی برای مقابله با آنچه «تهدید قریب‌الوقوع» نیروهای مین‌گذار سپاه پاسداران در تنگه هرمز خواند، اقدامی «محدود و دقیق» انجام دادند.\n\nسنتکام در واکنش به بیانیه سپاه پاسداران که حمله آمریکا را «اقدامی تجاوزکارانه» خوانده بود، این موضع را «کاملا نادرست» دانست و گفت ایران تهدید را ایجاد کرد و ارتش آمریکا برای حفاظت از دریانوردان غیرنظامی، کشتیرانی تجاری و جریان آزاد تجارت جهانی، آن را از میان برد.\n\nاین موضع به حمله هشتم شهریور نیروهای آمریکایی به دو پرتابگر سپاه پاسداران در جزیره لارک مربوط است. مقام‌های آمریکایی گفته‌اند این پرتابگرها برای مین‌گذاری در تنگه هرمز آماده می‌شدند.\nhttps://iranintl.com/202608318384",
       "shamsi_date": "1405/06/09",
-      "tehran_time": "03:35:44",
-      "gregorian_utc": "2026-08-31T00:05:44+00:00",
+      "tehran_time": "04:57:04",
+      "gregorian_utc": "2026-08-31T01:27:04+00:00",
       "media_type": "photo",
-      "media_size_bytes": 127939,
-      "media_size_human": "124.94 KB",
+      "media_size_bytes": 134560,
+      "media_size_human": "131.41 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354987_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354987_photo.jpg",
+      "media_local_path": "media/IranintlTV_354988_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354988_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T05:30:32.836395+00:00"
+      "archived_at": "2026-08-31T05:40:24.118547+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -977,7 +977,7 @@
       "media_local_path": "media/satlastnews_76369_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76369_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T05:30:33.145032+00:00"
+      "archived_at": "2026-08-31T05:40:24.357257+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -995,7 +995,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T05:30:33.481607+00:00"
+      "archived_at": "2026-08-31T05:40:24.622460+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -1013,7 +1013,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T05:30:33.789487+00:00"
+      "archived_at": "2026-08-31T05:40:24.833252+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1031,25 +1031,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T05:30:32.490057+00:00"
+      "archived_at": "2026-08-31T05:40:23.860073+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 354986,
-      "message_link": "https://t.me/IranintlTV/354986",
-      "text": "رویترز گزارش داد داده‌های کشتیرانی نشان می‌دهد شمار کشتی‌های تجاری حامل کالا که عبور آنها از تنگه هرمز قابل ردیابی است، در روزهای پایانی هفته به روزانه پنج فروند کاهش یافته است. شرکت‌های کشتیرانی در پی ادامه حملات به کشتی‌ها در منطقه، با احتیاط بیشتری از این مسیر عبور می‌کنند.\n\nرویترز افزود شمار واقعی کشتی‌های عبوری از تنگه هرمز ممکن است بیشتر باشد، زیرا برخی شناورها برای کاهش خطر حمله، سامانه شناسایی خودکار خود را خاموش کرده‌اند. این کاهش تردد در شرایطی رخ داده است که تنش‌های نظامی در تنگه هرمز ادامه دارد و گزارش‌های متعددی از حمله یا تهدید علیه کشتی‌ها منتشر شده است.\nhttps://iranintl.com/202608304912",
+      "message_id": 354987,
+      "message_link": "https://t.me/IranintlTV/354987",
+      "text": "ارتش اردن اعلام کرد بامداد دوشنبه ۹ شهریور هشت موشک را پس از ورود به حریم هوایی این کشور رهگیری کرده است. ارتش اردن در این گزارش درباره مبدا موشک‌ها یا خسارت و تلفات احتمالی جزییات بیشتری ارائه نکرد.\n\nاین خبر پس از آن منتشر شد که سپاه پاسداران اعلام کرد در واکنش به حمله آمریکا به جزیره لارک، پایگاه‌های هوایی ملک حسین و الازرق در اردن را با موشک‌های بالستیک و پهپاد هدف قرار داده است. پیش‌تر یک منبع آمریکایی نیز گفته بود تقریبا تمام موشک‌های شلیک‌شده ایران در این مرحله رهگیری شده‌اند.\nhttps://iranintl.com/202608303144",
       "shamsi_date": "1405/06/09",
-      "tehran_time": "03:28:54",
-      "gregorian_utc": "2026-08-30T23:58:54+00:00",
+      "tehran_time": "03:35:44",
+      "gregorian_utc": "2026-08-31T00:05:44+00:00",
       "media_type": "photo",
-      "media_size_bytes": 108712,
-      "media_size_human": "106.16 KB",
+      "media_size_bytes": 127939,
+      "media_size_human": "124.94 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_354986_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354986_photo.jpg",
+      "media_local_path": "media/IranintlTV_354987_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_354987_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T05:30:32.836483+00:00"
+      "archived_at": "2026-08-31T05:40:24.118627+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1067,7 +1067,7 @@
       "media_local_path": "media/satlastnews_76368_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76368_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T05:30:33.145078+00:00"
+      "archived_at": "2026-08-31T05:40:24.357305+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1085,7 +1085,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T05:30:33.481643+00:00"
+      "archived_at": "2026-08-31T05:40:24.622498+00:00"
     }
   ]
 }
