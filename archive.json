@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-31T12:24:49.616948+00:00",
-  "shamsi_generated": "1405/06/09 12:24:49 تهران",
+  "generated_at": "2026-08-31T12:34:27.890050+00:00",
+  "shamsi_generated": "1405/06/09 12:34:27 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -41,25 +41,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T12:20:37.279282+00:00"
+      "archived_at": "2026-08-31T12:30:42.408792+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355055,
-      "message_link": "https://t.me/IranintlTV/355055",
-      "text": "🎧نسخه صوتی اخبار نیمروزی | دوشنبه ۹ شهریور\n@iranintlTV",
+      "message_id": 355056,
+      "message_link": "https://t.me/IranintlTV/355056",
+      "text": "دونالد ترامپ، رییس‌جمهوری آمریکا، با انتشار پستی در تروث‌سوشال نوشت: «ایران رسما یک کشور شکست‌خورده است. این کشور مرده است.»\n\nترامپ نوشت: «هیچ نیروی دریایی ندارد، هیچ نیروی هوایی ندارد، هیچ پولی ندارد، حقوق سربازان یا پلیس خود را پرداخت نمی‌کند، نرخ تورم ۳۰۰ درصد است و رهبرانش کاملا آشفته هستند و توانایی نمایندگی شایسته از کشور را ندارند.»\n\nرییس‌جمهوری آمریکا نوشت: «تنها چیزی که دارند، اخبار جعلی از آمریکا، آمادگی برای کشتن معترضان خود (اکنون بیش از ۱۰۰ هزار نفر کشته شده‌اند. آنها باید به اتهام جنایت‌های جنگی علیه بشریت محاکمه شوند.) و انبوهی از «مزخرفات» است.»\nhttps://iranintl.com/202608314205",
       "shamsi_date": "1405/06/09",
-      "tehran_time": "15:45:24",
-      "gregorian_utc": "2026-08-31T12:15:24+00:00",
-      "media_type": "audio",
-      "media_size_bytes": 30223542,
-      "media_size_human": "28.82 MB",
+      "tehran_time": "15:55:38",
+      "gregorian_utc": "2026-08-31T12:25:38+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 147419,
+      "media_size_human": "143.96 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355055_audio.mp3",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355055_audio.mp3",
+      "media_local_path": "media/IranintlTV_355056_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355056_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T12:20:37.759670+00:00"
+      "archived_at": "2026-08-31T12:30:42.774053+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -77,25 +77,25 @@
       "media_local_path": "media/satlastnews_76385_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76385_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T12:20:38.334022+00:00"
+      "archived_at": "2026-08-31T12:30:43.226231+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120453,
-      "message_link": "https://t.me/Mellig/120453",
-      "text": "خلاصه صحبتهای پرزیدنت ترامپ در گفت‌وگو با فاکس نیوز:\n\nاونا ۵۲ هزار معترض بی گناه رو کشتن و تا ۳ ماه پیش به بی گناهان تو خونه شلیک میکردن\nاونا سرسخت و باهوش و شرور هستن اگر سلاح هسته ای داشتن ما رو نابود میکردن\nمن نبودم اسرائیلی وجود نداشت\nدر زمان مناسب پیروز خواهیم شد یا اونا باید کاری انجام بدن با پیروزی مشکلی ندارم نیازی به توافق هم ندارم\nایران به امارات کویت بحرین و امارات حمله کرده و اگر سلاح هسته‌ای داشتن استفاده میکردن\nایران هسته‌ای هدفش اروپا و آمریکا هستش و در صورت پیروزی در جنگ تنگه هرمز رو بدست میگیریم\nتمامی مین های تنگه هرمز رو با کمک محدود با کشورای دیگه خنثی کردیم\nمیلیارد ها دلار صرف ناتو کردیم ولی اونا به ما کمک نکردن\nنیازی به توافق ندارم ،\nنیروی دریایی هوایی ندارن چون اساسا خیلی بد ذات هستن",
+      "message_id": 120454,
+      "message_link": "https://t.me/Mellig/120454",
+      "text": "درود، وقت شما بخیر، با آرزوی بهترین ها برای شما🙏\n\nیک سرود مارش درست کردم به نام« قیامِ دَلیران»\n\n@Mellig",
       "shamsi_date": "1405/06/09",
-      "tehran_time": "14:55:33",
-      "gregorian_utc": "2026-08-31T11:25:33+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T12:20:38.815649+00:00"
+      "tehran_time": "15:56:18",
+      "gregorian_utc": "2026-08-31T12:26:18+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 5541310,
+      "media_size_human": "5.28 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_120454_audio.mp3",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120454_audio.mp3",
+      "no_media_reason": null,
+      "archived_at": "2026-08-31T12:30:43.567762+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -113,7 +113,7 @@
       "media_local_path": "media/khabarsara53_11_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_11_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T12:20:39.208795+00:00"
+      "archived_at": "2026-08-31T12:30:43.902035+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -131,25 +131,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T12:20:37.279331+00:00"
+      "archived_at": "2026-08-31T12:30:42.408840+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355054,
-      "message_link": "https://t.me/IranintlTV/355054",
-      "text": "در ادامه روند نزولی ارزش پول ملی در ایران، قیمت دلار آمریکا دوشنبه، نهم شهریور از ۲۱۰ هزار تومان عبور کرد. \n\nهمزمان پوند بریتانیا از ۲۸۴ هزار تومان عبور کرد و یورو نیز به مرز ۲۴۳ هزار تومان رسید. قیمت هر سکه طلای طرح جدید، موسوم به «امامی» نیز از ۲۲۳ میلیون تومان فراتر رفت.\nhttps://iranintl.com/202608312746",
+      "message_id": 355055,
+      "message_link": "https://t.me/IranintlTV/355055",
+      "text": "🎧نسخه صوتی اخبار نیمروزی | دوشنبه ۹ شهریور\n@iranintlTV",
       "shamsi_date": "1405/06/09",
-      "tehran_time": "15:36:36",
-      "gregorian_utc": "2026-08-31T12:06:36+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 54149,
-      "media_size_human": "52.88 KB",
+      "tehran_time": "15:45:24",
+      "gregorian_utc": "2026-08-31T12:15:24+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 30223542,
+      "media_size_human": "28.82 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355054_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355054_photo.jpg",
+      "media_local_path": "media/IranintlTV_355055_audio.mp3",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355055_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T12:20:37.759808+00:00"
+      "archived_at": "2026-08-31T12:30:42.793323+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -167,17 +167,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T12:20:38.334108+00:00"
+      "archived_at": "2026-08-31T12:30:43.226318+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120452,
-      "message_link": "https://t.me/Mellig/120452",
-      "text": "درود اقای میرقادری ، سمت پردیس زلزله آومد ، همزمان با زلزله صدای انفجار در زیر زمین اومد ، ساعت ۷ و ۲۰ دقیقه حدودا\n\nمن مطمئن هستم زلزله طبیعی نبود ، زیره زمین چیزی منفجر شد\n\nصداش زیاد بود و خیلی هم زود تموم شد",
+      "message_id": 120453,
+      "message_link": "https://t.me/Mellig/120453",
+      "text": "خلاصه صحبتهای پرزیدنت ترامپ در گفت‌وگو با فاکس نیوز:\n\nاونا ۵۲ هزار معترض بی گناه رو کشتن و تا ۳ ماه پیش به بی گناهان تو خونه شلیک میکردن\nاونا سرسخت و باهوش و شرور هستن اگر سلاح هسته ای داشتن ما رو نابود میکردن\nمن نبودم اسرائیلی وجود نداشت\nدر زمان مناسب پیروز خواهیم شد یا اونا باید کاری انجام بدن با پیروزی مشکلی ندارم نیازی به توافق هم ندارم\nایران به امارات کویت بحرین و امارات حمله کرده و اگر سلاح هسته‌ای داشتن استفاده میکردن\nایران هسته‌ای هدفش اروپا و آمریکا هستش و در صورت پیروزی در جنگ تنگه هرمز رو بدست میگیریم\nتمامی مین های تنگه هرمز رو با کمک محدود با کشورای دیگه خنثی کردیم\nمیلیارد ها دلار صرف ناتو کردیم ولی اونا به ما کمک نکردن\nنیازی به توافق ندارم ،\nنیروی دریایی هوایی ندارن چون اساسا خیلی بد ذات هستن",
       "shamsi_date": "1405/06/09",
-      "tehran_time": "14:09:21",
-      "gregorian_utc": "2026-08-31T10:39:21+00:00",
+      "tehran_time": "14:55:33",
+      "gregorian_utc": "2026-08-31T11:25:33+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -185,7 +185,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T12:20:38.815684+00:00"
+      "archived_at": "2026-08-31T12:30:43.567799+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -203,7 +203,7 @@
       "media_local_path": "media/khabarsara53_10_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_10_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T12:20:39.208866+00:00"
+      "archived_at": "2026-08-31T12:30:43.902103+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -221,25 +221,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T12:20:37.279366+00:00"
+      "archived_at": "2026-08-31T12:30:42.408871+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355053,
-      "message_link": "https://t.me/IranintlTV/355053",
-      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال با اشاره به بالا رفتن قیمت‌ها در ایران می‌گوید: «دارو به شدت گران شده ولی جمهوری اسلامی می‌گوید در جنگ پیروز شده.»",
+      "message_id": 355054,
+      "message_link": "https://t.me/IranintlTV/355054",
+      "text": "در ادامه روند نزولی ارزش پول ملی در ایران، قیمت دلار آمریکا دوشنبه، نهم شهریور از ۲۱۰ هزار تومان عبور کرد. \n\nهمزمان پوند بریتانیا از ۲۸۴ هزار تومان عبور کرد و یورو نیز به مرز ۲۴۳ هزار تومان رسید. قیمت هر سکه طلای طرح جدید، موسوم به «امامی» نیز از ۲۲۳ میلیون تومان فراتر رفت.\nhttps://iranintl.com/202608312746",
       "shamsi_date": "1405/06/09",
-      "tehran_time": "15:30:35",
-      "gregorian_utc": "2026-08-31T12:00:35+00:00",
-      "media_type": "video",
-      "media_size_bytes": 10048297,
-      "media_size_human": "9.58 MB",
+      "tehran_time": "15:36:36",
+      "gregorian_utc": "2026-08-31T12:06:36+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 54149,
+      "media_size_human": "52.88 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355053_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355053_video.mp4",
+      "media_local_path": "media/IranintlTV_355054_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355054_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T12:20:37.759873+00:00"
+      "archived_at": "2026-08-31T12:30:42.793468+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -257,17 +257,17 @@
       "media_local_path": "media/satlastnews_76383_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76383_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T12:20:38.334163+00:00"
+      "archived_at": "2026-08-31T12:30:43.226366+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120451,
-      "message_link": "https://t.me/Mellig/120451",
-      "text": "سلام آقا مهدی کرمانشاه ساعت 13:26 صدای جنگنده اومد صداش خیلی زیاد بود",
+      "message_id": 120452,
+      "message_link": "https://t.me/Mellig/120452",
+      "text": "درود اقای میرقادری ، سمت پردیس زلزله آومد ، همزمان با زلزله صدای انفجار در زیر زمین اومد ، ساعت ۷ و ۲۰ دقیقه حدودا\n\nمن مطمئن هستم زلزله طبیعی نبود ، زیره زمین چیزی منفجر شد\n\nصداش زیاد بود و خیلی هم زود تموم شد",
       "shamsi_date": "1405/06/09",
-      "tehran_time": "14:04:11",
-      "gregorian_utc": "2026-08-31T10:34:11+00:00",
+      "tehran_time": "14:09:21",
+      "gregorian_utc": "2026-08-31T10:39:21+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -275,7 +275,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T12:20:38.815712+00:00"
+      "archived_at": "2026-08-31T12:30:43.567825+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -293,7 +293,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T12:20:39.208922+00:00"
+      "archived_at": "2026-08-31T12:30:43.902133+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -311,25 +311,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T12:20:37.279406+00:00"
+      "archived_at": "2026-08-31T12:30:42.408908+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355052,
-      "message_link": "https://t.me/IranintlTV/355052",
-      "text": "🗣**روایت شما از شرایط زندگی و بحران اقتصادی- دوشنبه ۹ شهریور:**\n\n🔹از گرگان پیام می‌دم. ما در شهرک‌های کمربندی، در روزهای عادی فقط ۸ ساعت آب داریم. یکشنبه کلاً آب قطع بود. هزینه‌ خرید تانکر آب ذخیره هم نداریم.\n\n🔹در کجای دنیا مردمانی با این سطح از فشار زندگی می‌کنند؟ از استرس آزمون‌های زبان و مهاجرت و تحصیل تا غم نان و آب و هوا و برق و بنزین و گاز و... در حالی‌که بیخ گوشمان دارند جوانان وطن را با هر اذان صبح اعدام می‌کنند.\n\n🔹واسه ۴ لیتر بنزین ۱۰ تا جایگاه رفتم، بهم ندادن. می‌گفتن از امشب کارت سوخت‌های جایگاه شارژ نمی‌شه؛ اینجا الکی نیاین.\n\n🔹مردم روستاها از نظر جمهوری اسلامی آدم نیستند. برق ما قبلا فقط روزی یکبار و سر ساعت قطع بود. الان روزی دوبار قطع می‌شه هر بار ۲ ساعت هم طول می‌کشه و هر وقت می‌خوان قطع می‌کنن. آیا بالاشهر تهران سمت خونه فرمانده‌های سپاه و مجلس هم اینجوریه؟\n\n🔹از تبریز پیام می‌دم. معاون اجرایی  کودن و نفهم پزشکیان می‌گوید «مگر می‌شود بنزین ۷۰ هزار تومانی را ۱۵۰۰ تومان فروخت؟» ما کارگران هم می‌گوییم پس چرا به کارگری که مزدش در واقع باید ۴۰۰۰ دلار باشد، ۱۰۰ دلار حقوق می‌دهید؟\n\n🔹من با ۱۰ سال سابقه تدریس در آموزش و پرورش حقوقم ۲۰ میلیون تومان است.\n\n🔹چطور می‌شه ما دلار ۷۰ ریالی آمریکا را باید بالای ۲ میلیون ریال بخریم ولی دولت نمی‌تونه بنزین ۷۰ هزار تومانی خودمان را ۱۵۰۰ تومان به خودمان بفروشه؟!\n\n🔹حجاب‌بان‌ها بازگشته‌اند و برخوردهای قهری در شهرها به‌صورت تدریجی شروع شده.",
+      "message_id": 355053,
+      "message_link": "https://t.me/IranintlTV/355053",
+      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال با اشاره به بالا رفتن قیمت‌ها در ایران می‌گوید: «دارو به شدت گران شده ولی جمهوری اسلامی می‌گوید در جنگ پیروز شده.»",
       "shamsi_date": "1405/06/09",
-      "tehran_time": "15:26:19",
-      "gregorian_utc": "2026-08-31T11:56:19+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T12:20:37.760168+00:00"
+      "tehran_time": "15:30:35",
+      "gregorian_utc": "2026-08-31T12:00:35+00:00",
+      "media_type": "video",
+      "media_size_bytes": 10048297,
+      "media_size_human": "9.58 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/IranintlTV_355053_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355053_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-08-31T12:30:42.793519+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -347,17 +347,17 @@
       "media_local_path": "media/satlastnews_76381_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76381_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T12:20:38.334202+00:00"
+      "archived_at": "2026-08-31T12:30:43.226399+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120450,
-      "message_link": "https://t.me/Mellig/120450",
-      "text": "🔴 #خبر_فوری\nترامپ ویدیویی از قصد آمریکا برای بمباران جزیره نفتی خارک را منتشر کرد،\nترامپ در حساب کاربری خود در شبکه تروث‌ سوشال ویدئویی کوتاه منتشر کرد که در آن بمباران، انفجار و آتش‌سوزی گسترده در ذخایر نفتی جزیره خارک دیده می‌شود،\nدر ادامه ویدئو، آتش به یک نفتکش در نزدیکی جزیره می‌رسد و کشتی نیز منفجر می‌شود.",
+      "message_id": 120451,
+      "message_link": "https://t.me/Mellig/120451",
+      "text": "سلام آقا مهدی کرمانشاه ساعت 13:26 صدای جنگنده اومد صداش خیلی زیاد بود",
       "shamsi_date": "1405/06/09",
-      "tehran_time": "13:55:00",
-      "gregorian_utc": "2026-08-31T10:25:00+00:00",
+      "tehran_time": "14:04:11",
+      "gregorian_utc": "2026-08-31T10:34:11+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -365,7 +365,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T12:20:38.815793+00:00"
+      "archived_at": "2026-08-31T12:30:43.567846+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -383,7 +383,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T12:20:39.208952+00:00"
+      "archived_at": "2026-08-31T12:30:43.902156+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -401,25 +401,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T12:20:37.279436+00:00"
+      "archived_at": "2026-08-31T12:30:42.408934+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355051,
-      "message_link": "https://t.me/IranintlTV/355051",
-      "text": "سعید گلسرخی، ورزشکار ۳۱ ساله اهل شاهرود، پس از مجروح شدن در انقلاب ملی ایرانیان در دی‌ماه، در یورش نیروهای امنیتی به خانه‌اش کشته شد. گلسرخی در آغوش مادرش و مقابل برادرزاده خردسالش جان باخت.\n\nجزییات بیشتر در گفت‌وگو با فرنوش فرجی، عضو تحریریه ایران‌اینترنشنال\n\n@iranintltv",
+      "message_id": 355052,
+      "message_link": "https://t.me/IranintlTV/355052",
+      "text": "🗣**روایت شما از شرایط زندگی و بحران اقتصادی- دوشنبه ۹ شهریور:**\n\n🔹از گرگان پیام می‌دم. ما در شهرک‌های کمربندی، در روزهای عادی فقط ۸ ساعت آب داریم. یکشنبه کلاً آب قطع بود. هزینه‌ خرید تانکر آب ذخیره هم نداریم.\n\n🔹در کجای دنیا مردمانی با این سطح از فشار زندگی می‌کنند؟ از استرس آزمون‌های زبان و مهاجرت و تحصیل تا غم نان و آب و هوا و برق و بنزین و گاز و... در حالی‌که بیخ گوشمان دارند جوانان وطن را با هر اذان صبح اعدام می‌کنند.\n\n🔹واسه ۴ لیتر بنزین ۱۰ تا جایگاه رفتم، بهم ندادن. می‌گفتن از امشب کارت سوخت‌های جایگاه شارژ نمی‌شه؛ اینجا الکی نیاین.\n\n🔹مردم روستاها از نظر جمهوری اسلامی آدم نیستند. برق ما قبلا فقط روزی یکبار و سر ساعت قطع بود. الان روزی دوبار قطع می‌شه هر بار ۲ ساعت هم طول می‌کشه و هر وقت می‌خوان قطع می‌کنن. آیا بالاشهر تهران سمت خونه فرمانده‌های سپاه و مجلس هم اینجوریه؟\n\n🔹از تبریز پیام می‌دم. معاون اجرایی  کودن و نفهم پزشکیان می‌گوید «مگر می‌شود بنزین ۷۰ هزار تومانی را ۱۵۰۰ تومان فروخت؟» ما کارگران هم می‌گوییم پس چرا به کارگری که مزدش در واقع باید ۴۰۰۰ دلار باشد، ۱۰۰ دلار حقوق می‌دهید؟\n\n🔹من با ۱۰ سال سابقه تدریس در آموزش و پرورش حقوقم ۲۰ میلیون تومان است.\n\n🔹چطور می‌شه ما دلار ۷۰ ریالی آمریکا را باید بالای ۲ میلیون ریال بخریم ولی دولت نمی‌تونه بنزین ۷۰ هزار تومانی خودمان را ۱۵۰۰ تومان به خودمان بفروشه؟!\n\n🔹حجاب‌بان‌ها بازگشته‌اند و برخوردهای قهری در شهرها به‌صورت تدریجی شروع شده.",
       "shamsi_date": "1405/06/09",
-      "tehran_time": "15:08:51",
-      "gregorian_utc": "2026-08-31T11:38:51+00:00",
-      "media_type": "video",
-      "media_size_bytes": 2965064,
-      "media_size_human": "2.83 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355051_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355051_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-08-31T12:20:37.760257+00:00"
+      "tehran_time": "15:26:19",
+      "gregorian_utc": "2026-08-31T11:56:19+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-08-31T12:30:42.793801+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -437,25 +437,25 @@
       "media_local_path": "media/satlastnews_76380_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76380_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T12:20:38.334238+00:00"
+      "archived_at": "2026-08-31T12:30:43.226429+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120449,
-      "message_link": "https://t.me/Mellig/120449",
-      "text": "اخرین اخبار از وضعیت تنگه هرمز و تقاضای تد کروز برای مسلح کردن مردم ایران ۸ شهریور ۲۵۸۵🖥😀\n\nMellig.net\n\n⚠️ پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 210.30 MB)",
+      "message_id": 120450,
+      "message_link": "https://t.me/Mellig/120450",
+      "text": "🔴 #خبر_فوری\nترامپ ویدیویی از قصد آمریکا برای بمباران جزیره نفتی خارک را منتشر کرد،\nترامپ در حساب کاربری خود در شبکه تروث‌ سوشال ویدئویی کوتاه منتشر کرد که در آن بمباران، انفجار و آتش‌سوزی گسترده در ذخایر نفتی جزیره خارک دیده می‌شود،\nدر ادامه ویدئو، آتش به یک نفتکش در نزدیکی جزیره می‌رسد و کشتی نیز منفجر می‌شود.",
       "shamsi_date": "1405/06/09",
-      "tehran_time": "13:51:36",
-      "gregorian_utc": "2026-08-31T10:21:36+00:00",
-      "media_type": "audio",
-      "media_size_bytes": 220516865,
-      "media_size_human": "210.30 MB",
+      "tehran_time": "13:55:00",
+      "gregorian_utc": "2026-08-31T10:25:00+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
       "media_downloaded": false,
       "media_local_path": null,
       "media_link": null,
-      "no_media_reason": "پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 210.30 MB)",
-      "archived_at": "2026-08-31T12:20:38.815912+00:00"
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-08-31T12:30:43.567910+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -473,7 +473,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T12:20:39.208977+00:00"
+      "archived_at": "2026-08-31T12:30:43.902177+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -491,25 +491,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T12:20:37.279471+00:00"
+      "archived_at": "2026-08-31T12:30:42.408965+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355050,
-      "message_link": "https://t.me/IranintlTV/355050",
-      "text": "🔻فدراسیون فوتبال ایران، هدایت ممبینی را از سمت دبیرکلی برکنار و حامد مومنی را به‌عنوان سرپرست دبیرکلی این نهاد منصوب کرد. این تغییر در حالی انجام شده که ممبینی در ماه‌های اخیر به دلیل حواشی معرفی گل‌گهر به جای چادرملو به‌عنوان نماینده سوم ایران در لیگ قهرمانان دوی آسیا، با انتقادهای گسترده روبه‌رو بود.\n\n🔹گفت‌وگو با مزدک میرزایی، خبرنگار ایران‌اینترنشنال\n\n@iranintltvsport",
+      "message_id": 355051,
+      "message_link": "https://t.me/IranintlTV/355051",
+      "text": "سعید گلسرخی، ورزشکار ۳۱ ساله اهل شاهرود، پس از مجروح شدن در انقلاب ملی ایرانیان در دی‌ماه، در یورش نیروهای امنیتی به خانه‌اش کشته شد. گلسرخی در آغوش مادرش و مقابل برادرزاده خردسالش جان باخت.\n\nجزییات بیشتر در گفت‌وگو با فرنوش فرجی، عضو تحریریه ایران‌اینترنشنال\n\n@iranintltv",
       "shamsi_date": "1405/06/09",
-      "tehran_time": "15:03:23",
-      "gregorian_utc": "2026-08-31T11:33:23+00:00",
+      "tehran_time": "15:08:51",
+      "gregorian_utc": "2026-08-31T11:38:51+00:00",
       "media_type": "video",
-      "media_size_bytes": 3317927,
-      "media_size_human": "3.16 MB",
+      "media_size_bytes": 2965064,
+      "media_size_human": "2.83 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355050_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355050_video.mp4",
+      "media_local_path": "media/IranintlTV_355051_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355051_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T12:20:37.760354+00:00"
+      "archived_at": "2026-08-31T12:30:42.793887+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -527,25 +527,25 @@
       "media_local_path": "media/satlastnews_76379_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76379_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T12:20:38.334274+00:00"
+      "archived_at": "2026-08-31T12:30:43.226457+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120448,
-      "message_link": "https://t.me/Mellig/120448",
-      "text": "🔴 #خبر_فوری\nشلیک بیش از 8 موشک بالستیک از ایران به سمت پایگاه های هوایی آمریکا در اردن،\nفاکس‌نیوز به نقل از یک مقام آمریکایی از حمله موشکی شدید ایران به مقر نظامیان آمریکایی در اردن خبر داد،\nفاکس‌نیوز گفت که اصابتی گزارش نشده و تاکنون تقریبا همه موشک‌های ایران رهگیری شده‌اند.",
+      "message_id": 120449,
+      "message_link": "https://t.me/Mellig/120449",
+      "text": "اخرین اخبار از وضعیت تنگه هرمز و تقاضای تد کروز برای مسلح کردن مردم ایران ۸ شهریور ۲۵۸۵🖥😀\n\nMellig.net\n\n⚠️ پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 210.30 MB)",
       "shamsi_date": "1405/06/09",
-      "tehran_time": "04:51:50",
-      "gregorian_utc": "2026-08-31T01:21:50+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
+      "tehran_time": "13:51:36",
+      "gregorian_utc": "2026-08-31T10:21:36+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 220516865,
+      "media_size_human": "210.30 MB",
       "media_downloaded": false,
       "media_local_path": null,
       "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T12:20:38.815989+00:00"
+      "no_media_reason": "پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 210.30 MB)",
+      "archived_at": "2026-08-31T12:30:43.567972+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -563,7 +563,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T12:20:39.209007+00:00"
+      "archived_at": "2026-08-31T12:30:43.902198+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -581,25 +581,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T12:20:37.279501+00:00"
+      "archived_at": "2026-08-31T12:30:42.408989+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355049,
-      "message_link": "https://t.me/IranintlTV/355049",
-      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال می‌گوید: «جهاد کشاورزی مشهد شش ماه است که سهمیه سوخت تراکتورها را نداده‌، تنها یک‌‌سوم پول گندم‌های تحویل گرفته را پراخت کرده و گازوئیل هم نمی‌دهند. آب هم که روزی شش ساعت قطع می‌شود. در این وضعیت جهاد کشاورزی مشهد درهای ساختمانش را بسته و کارمندان از در پشتی و پارکینگ به محل کار می‌روند.»",
+      "message_id": 355050,
+      "message_link": "https://t.me/IranintlTV/355050",
+      "text": "🔻فدراسیون فوتبال ایران، هدایت ممبینی را از سمت دبیرکلی برکنار و حامد مومنی را به‌عنوان سرپرست دبیرکلی این نهاد منصوب کرد. این تغییر در حالی انجام شده که ممبینی در ماه‌های اخیر به دلیل حواشی معرفی گل‌گهر به جای چادرملو به‌عنوان نماینده سوم ایران در لیگ قهرمانان دوی آسیا، با انتقادهای گسترده روبه‌رو بود.\n\n🔹گفت‌وگو با مزدک میرزایی، خبرنگار ایران‌اینترنشنال\n\n@iranintltvsport",
       "shamsi_date": "1405/06/09",
-      "tehran_time": "15:01:43",
-      "gregorian_utc": "2026-08-31T11:31:43+00:00",
+      "tehran_time": "15:03:23",
+      "gregorian_utc": "2026-08-31T11:33:23+00:00",
       "media_type": "video",
-      "media_size_bytes": 13417898,
-      "media_size_human": "12.80 MB",
+      "media_size_bytes": 3317927,
+      "media_size_human": "3.16 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355049_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355049_video.mp4",
+      "media_local_path": "media/IranintlTV_355050_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355050_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T12:20:37.760397+00:00"
+      "archived_at": "2026-08-31T12:30:42.793977+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -617,17 +617,17 @@
       "media_local_path": "media/satlastnews_76378_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76378_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T12:20:38.334309+00:00"
+      "archived_at": "2026-08-31T12:30:43.226483+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120447,
-      "message_link": "https://t.me/Mellig/120447",
-      "text": "📝همه خبرای حملات جمهوری تروریستی خبردرمانی عرزشی ها بوده و همچنان میشه گفت فقط به اردن حمله شده.",
+      "message_id": 120448,
+      "message_link": "https://t.me/Mellig/120448",
+      "text": "🔴 #خبر_فوری\nشلیک بیش از 8 موشک بالستیک از ایران به سمت پایگاه های هوایی آمریکا در اردن،\nفاکس‌نیوز به نقل از یک مقام آمریکایی از حمله موشکی شدید ایران به مقر نظامیان آمریکایی در اردن خبر داد،\nفاکس‌نیوز گفت که اصابتی گزارش نشده و تاکنون تقریبا همه موشک‌های ایران رهگیری شده‌اند.",
       "shamsi_date": "1405/06/09",
-      "tehran_time": "03:44:11",
-      "gregorian_utc": "2026-08-31T00:14:11+00:00",
+      "tehran_time": "04:51:50",
+      "gregorian_utc": "2026-08-31T01:21:50+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -635,7 +635,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T12:20:38.816022+00:00"
+      "archived_at": "2026-08-31T12:30:43.568032+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -653,7 +653,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T12:20:39.209030+00:00"
+      "archived_at": "2026-08-31T12:30:43.902219+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -671,25 +671,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T12:20:37.279541+00:00"
+      "archived_at": "2026-08-31T12:30:42.409029+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355048,
-      "message_link": "https://t.me/IranintlTV/355048",
-      "text": "حمیدرضا حاجی‌بابایی، نایب‌رییس مجلس، اعلام کرد هر کشوری به هر میزان نفت صادر می‌کند تا فشارهای بین‌المللی علیه آمریکا را کاهش دهد و عدم صادرات نفت را خنثی کند، «باید مورد حمله قرار بگیرد.»\n\nنایب‌رییس مجلس گفت: «هر کسی که در سنگر دشمن قرار می‌گیرد، چه در موضع اقتصادی، سیاسی، فناوری، فضای مجازی یا هر موضعی که به آمریکا کمک می‌کند، باید مورد حمله قرار بگیرد.» \nحاجی‌بابایی همچنین افزود جمهوری اسلامی باید آمریکا را در منطقه محاصره کند.\n\nاین نماینده مجلس گفت: «در حمله نظامی چند برابر آمریکا به آنها ضربه زدیم و خواهیم زد و آنها نباید در منطقه احساس آرامش کنند.»\n [iranintl.com/202608316809](https://t.co/wilvx7qzj7)",
+      "message_id": 355049,
+      "message_link": "https://t.me/IranintlTV/355049",
+      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال می‌گوید: «جهاد کشاورزی مشهد شش ماه است که سهمیه سوخت تراکتورها را نداده‌، تنها یک‌‌سوم پول گندم‌های تحویل گرفته را پراخت کرده و گازوئیل هم نمی‌دهند. آب هم که روزی شش ساعت قطع می‌شود. در این وضعیت جهاد کشاورزی مشهد درهای ساختمانش را بسته و کارمندان از در پشتی و پارکینگ به محل کار می‌روند.»",
       "shamsi_date": "1405/06/09",
-      "tehran_time": "14:43:29",
-      "gregorian_utc": "2026-08-31T11:13:29+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 130694,
-      "media_size_human": "127.63 KB",
+      "tehran_time": "15:01:43",
+      "gregorian_utc": "2026-08-31T11:31:43+00:00",
+      "media_type": "video",
+      "media_size_bytes": 13417898,
+      "media_size_human": "12.80 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355048_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355048_photo.jpg",
+      "media_local_path": "media/IranintlTV_355049_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355049_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T12:20:37.760521+00:00"
+      "archived_at": "2026-08-31T12:30:42.794020+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -707,25 +707,25 @@
       "media_local_path": "media/satlastnews_76377_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76377_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T12:20:38.334365+00:00"
+      "archived_at": "2026-08-31T12:30:43.226529+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120446,
-      "message_link": "https://t.me/Mellig/120446",
-      "text": "مراسم به فنا رفت😁🤣🤣🤣",
+      "message_id": 120447,
+      "message_link": "https://t.me/Mellig/120447",
+      "text": "📝همه خبرای حملات جمهوری تروریستی خبردرمانی عرزشی ها بوده و همچنان میشه گفت فقط به اردن حمله شده.",
       "shamsi_date": "1405/06/09",
-      "tehran_time": "03:26:02",
-      "gregorian_utc": "2026-08-30T23:56:02+00:00",
-      "media_type": "video",
-      "media_size_bytes": 8539129,
-      "media_size_human": "8.14 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/Mellig_120446_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120446_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-08-31T12:20:38.816077+00:00"
+      "tehran_time": "03:44:11",
+      "gregorian_utc": "2026-08-31T00:14:11+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-08-31T12:30:43.568056+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -743,7 +743,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T12:20:39.209055+00:00"
+      "archived_at": "2026-08-31T12:30:43.902241+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -761,25 +761,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T12:20:37.279569+00:00"
+      "archived_at": "2026-08-31T12:30:42.409057+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355047,
-      "message_link": "https://t.me/IranintlTV/355047",
-      "text": "یک شهروند با ارسال ویدیویی از شیراز به ایران‌اینترنشنال می‌گوید جایگاه‌های سوخت در شهر بعد از چند ساعت اعلام می‌کنند سهمیه کارت سوخت‌شان تمام شده و بنزین را با قیمت بالا می‌فروشند.",
+      "message_id": 355048,
+      "message_link": "https://t.me/IranintlTV/355048",
+      "text": "حمیدرضا حاجی‌بابایی، نایب‌رییس مجلس، اعلام کرد هر کشوری به هر میزان نفت صادر می‌کند تا فشارهای بین‌المللی علیه آمریکا را کاهش دهد و عدم صادرات نفت را خنثی کند، «باید مورد حمله قرار بگیرد.»\n\nنایب‌رییس مجلس گفت: «هر کسی که در سنگر دشمن قرار می‌گیرد، چه در موضع اقتصادی، سیاسی، فناوری، فضای مجازی یا هر موضعی که به آمریکا کمک می‌کند، باید مورد حمله قرار بگیرد.» \nحاجی‌بابایی همچنین افزود جمهوری اسلامی باید آمریکا را در منطقه محاصره کند.\n\nاین نماینده مجلس گفت: «در حمله نظامی چند برابر آمریکا به آنها ضربه زدیم و خواهیم زد و آنها نباید در منطقه احساس آرامش کنند.»\n [iranintl.com/202608316809](https://t.co/wilvx7qzj7)",
       "shamsi_date": "1405/06/09",
-      "tehran_time": "14:30:22",
-      "gregorian_utc": "2026-08-31T11:00:22+00:00",
-      "media_type": "video",
-      "media_size_bytes": 6716796,
-      "media_size_human": "6.41 MB",
+      "tehran_time": "14:43:29",
+      "gregorian_utc": "2026-08-31T11:13:29+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 130694,
+      "media_size_human": "127.63 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355047_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355047_video.mp4",
+      "media_local_path": "media/IranintlTV_355048_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355048_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T12:20:37.760562+00:00"
+      "archived_at": "2026-08-31T12:30:42.794131+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -797,25 +797,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T12:20:38.334425+00:00"
+      "archived_at": "2026-08-31T12:30:43.226582+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120445,
-      "message_link": "https://t.me/Mellig/120445",
-      "text": "بهای نفت برنت در پی حمله آمریکا به جزیره لارک از ۹۰ دلار عبور کرد",
+      "message_id": 120446,
+      "message_link": "https://t.me/Mellig/120446",
+      "text": "مراسم به فنا رفت😁🤣🤣🤣",
       "shamsi_date": "1405/06/09",
-      "tehran_time": "03:04:05",
-      "gregorian_utc": "2026-08-30T23:34:05+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T12:20:38.816106+00:00"
+      "tehran_time": "03:26:02",
+      "gregorian_utc": "2026-08-30T23:56:02+00:00",
+      "media_type": "video",
+      "media_size_bytes": 8539129,
+      "media_size_human": "8.14 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_120446_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120446_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-08-31T12:30:43.568099+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -833,7 +833,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T12:20:39.209079+00:00"
+      "archived_at": "2026-08-31T12:30:43.902261+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -851,25 +851,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T12:20:37.279596+00:00"
+      "archived_at": "2026-08-31T12:30:42.409081+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355046,
-      "message_link": "https://t.me/IranintlTV/355046",
-      "text": "وزارت خارجه امارات متحده عربی، دوشنبه نهم شهریور در بیانیه‌ای اعلام کرد حق کامل و مشروع خود برای پاسخ به حملات پهپادی اخیر جمهوری اسلامی را مطابق حقوق بین‌الملل محفوظ می‌داند.\n\nتروسکه صادقی، خبرنگار ایران‌اینترنشنال از واکنش‌ها به حملات جمهوری اسلامی به کشورهای عربی منطقه گزارش می‌دهد\n@iranintltv",
+      "message_id": 355047,
+      "message_link": "https://t.me/IranintlTV/355047",
+      "text": "یک شهروند با ارسال ویدیویی از شیراز به ایران‌اینترنشنال می‌گوید جایگاه‌های سوخت در شهر بعد از چند ساعت اعلام می‌کنند سهمیه کارت سوخت‌شان تمام شده و بنزین را با قیمت بالا می‌فروشند.",
       "shamsi_date": "1405/06/09",
-      "tehran_time": "14:23:10",
-      "gregorian_utc": "2026-08-31T10:53:10+00:00",
+      "tehran_time": "14:30:22",
+      "gregorian_utc": "2026-08-31T11:00:22+00:00",
       "media_type": "video",
-      "media_size_bytes": 3238758,
-      "media_size_human": "3.09 MB",
+      "media_size_bytes": 6716796,
+      "media_size_human": "6.41 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355046_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355046_video.mp4",
+      "media_local_path": "media/IranintlTV_355047_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355047_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T12:20:37.760636+00:00"
+      "archived_at": "2026-08-31T12:30:42.794165+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -887,17 +887,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T12:20:38.334480+00:00"
+      "archived_at": "2026-08-31T12:30:43.226649+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120444,
-      "message_link": "https://t.me/Mellig/120444",
-      "text": "🔴 #خبر_فوری\nهم اکنون پرواز چندین هواپیمای سوخت رسان آمریکایی بر فراز تنگه هرمز و خلیج فارس.",
+      "message_id": 120445,
+      "message_link": "https://t.me/Mellig/120445",
+      "text": "بهای نفت برنت در پی حمله آمریکا به جزیره لارک از ۹۰ دلار عبور کرد",
       "shamsi_date": "1405/06/09",
-      "tehran_time": "02:52:49",
-      "gregorian_utc": "2026-08-30T23:22:49+00:00",
+      "tehran_time": "03:04:05",
+      "gregorian_utc": "2026-08-30T23:34:05+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -905,7 +905,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T12:20:38.816149+00:00"
+      "archived_at": "2026-08-31T12:30:43.568121+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -923,7 +923,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T12:20:39.209102+00:00"
+      "archived_at": "2026-08-31T12:30:43.902282+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -941,25 +941,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T12:20:37.279621+00:00"
+      "archived_at": "2026-08-31T12:30:42.409103+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355045,
-      "message_link": "https://t.me/IranintlTV/355045",
-      "text": "ایران‌اینترنشنال در یک نظرسنجی اینستاگرامی از مخاطبان درباره سرمایه‌گذاری و خرید ملک پرسیده است. در این نظرسنجی، بیش از ۴۴ درصد پاسخ‌دهندگان می‌گویند حتی با وجود تمکن مالی، به دلیل شرایط بی‌ثبات کشور، حاضر به سرمایه‌گذاری و خرید ملک در ایران نیستند.\n\nجزییات بیشتر در گفت‌وگو با سبا حیدرخانی، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 355046,
+      "message_link": "https://t.me/IranintlTV/355046",
+      "text": "وزارت خارجه امارات متحده عربی، دوشنبه نهم شهریور در بیانیه‌ای اعلام کرد حق کامل و مشروع خود برای پاسخ به حملات پهپادی اخیر جمهوری اسلامی را مطابق حقوق بین‌الملل محفوظ می‌داند.\n\nتروسکه صادقی، خبرنگار ایران‌اینترنشنال از واکنش‌ها به حملات جمهوری اسلامی به کشورهای عربی منطقه گزارش می‌دهد\n@iranintltv",
       "shamsi_date": "1405/06/09",
-      "tehran_time": "14:19:14",
-      "gregorian_utc": "2026-08-31T10:49:14+00:00",
+      "tehran_time": "14:23:10",
+      "gregorian_utc": "2026-08-31T10:53:10+00:00",
       "media_type": "video",
-      "media_size_bytes": 3043708,
-      "media_size_human": "2.90 MB",
+      "media_size_bytes": 3238758,
+      "media_size_human": "3.09 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355045_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355045_video.mp4",
+      "media_local_path": "media/IranintlTV_355046_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355046_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T12:20:37.760705+00:00"
+      "archived_at": "2026-08-31T12:30:42.794229+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -977,25 +977,25 @@
       "media_local_path": "media/satlastnews_76374_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76374_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T12:20:38.334569+00:00"
+      "archived_at": "2026-08-31T12:30:43.226720+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120443,
-      "message_link": "https://t.me/Mellig/120443",
-      "text": "شبکه خبر هم اکنون : داریم میزنیمشون\n😁😁",
+      "message_id": 120444,
+      "message_link": "https://t.me/Mellig/120444",
+      "text": "🔴 #خبر_فوری\nهم اکنون پرواز چندین هواپیمای سوخت رسان آمریکایی بر فراز تنگه هرمز و خلیج فارس.",
       "shamsi_date": "1405/06/09",
-      "tehran_time": "02:44:45",
-      "gregorian_utc": "2026-08-30T23:14:45+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 104332,
-      "media_size_human": "101.89 KB",
-      "media_downloaded": true,
-      "media_local_path": "media/Mellig_120443_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120443_photo.jpg",
-      "no_media_reason": null,
-      "archived_at": "2026-08-31T12:20:38.816195+00:00"
+      "tehran_time": "02:52:49",
+      "gregorian_utc": "2026-08-30T23:22:49+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-08-31T12:30:43.568156+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -1013,7 +1013,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T12:20:39.209127+00:00"
+      "archived_at": "2026-08-31T12:30:43.902305+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1031,25 +1031,25 @@
       "media_local_path": "media/zedTV_12387_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_12387_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T12:20:37.279724+00:00"
+      "archived_at": "2026-08-31T12:30:42.409207+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355044,
-      "message_link": "https://t.me/IranintlTV/355044",
-      "text": "‌\nمسعود پزشکیان در سفر به قرقیزستان و در دیدار با نخست‌وزیر هند، گفت که جمهوری اسلامی به تعهداتی که در چارچوب توافقات پذیرفته است پایبند بوده، اما طرف آمریکایی به تعهدات خود عمل نکرده است.\n\nپزشکیان ادامه داد: «ما همچنان تلاش می‌کنیم مسیر توافق و تفاهم را محقق کنیم و بر این باوریم که ادامه جنگ نه به نفع ما، نه به سود منطقه و نه در راستای منافع بشریت است.»\n\nرییس دولت جمهوری اسلامی افزود: «ظرفیت‌های هند برای کمک به تقویت صلح و ثبات منطقه قابل توجه است.»",
+      "message_id": 355045,
+      "message_link": "https://t.me/IranintlTV/355045",
+      "text": "ایران‌اینترنشنال در یک نظرسنجی اینستاگرامی از مخاطبان درباره سرمایه‌گذاری و خرید ملک پرسیده است. در این نظرسنجی، بیش از ۴۴ درصد پاسخ‌دهندگان می‌گویند حتی با وجود تمکن مالی، به دلیل شرایط بی‌ثبات کشور، حاضر به سرمایه‌گذاری و خرید ملک در ایران نیستند.\n\nجزییات بیشتر در گفت‌وگو با سبا حیدرخانی، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/06/09",
-      "tehran_time": "14:09:34",
-      "gregorian_utc": "2026-08-31T10:39:34+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 141500,
-      "media_size_human": "138.18 KB",
+      "tehran_time": "14:19:14",
+      "gregorian_utc": "2026-08-31T10:49:14+00:00",
+      "media_type": "video",
+      "media_size_bytes": 3043708,
+      "media_size_human": "2.90 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355044_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355044_photo.jpg",
+      "media_local_path": "media/IranintlTV_355045_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355045_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T12:20:37.760751+00:00"
+      "archived_at": "2026-08-31T12:30:42.794295+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1067,25 +1067,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T12:20:38.334950+00:00"
+      "archived_at": "2026-08-31T12:30:43.227082+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120442,
-      "message_link": "https://t.me/Mellig/120442",
-      "text": "🔴 #خبر_فوری\nگزارش‌هایی مبنی بر پرتاب دسته‌های بزرگی از موشک‌ها از جنوب ایران به سمت امارات منتشر شده است.",
+      "message_id": 120443,
+      "message_link": "https://t.me/Mellig/120443",
+      "text": "شبکه خبر هم اکنون : داریم میزنیمشون\n😁😁",
       "shamsi_date": "1405/06/09",
-      "tehran_time": "02:15:56",
-      "gregorian_utc": "2026-08-30T22:45:56+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T12:20:38.816241+00:00"
+      "tehran_time": "02:44:45",
+      "gregorian_utc": "2026-08-30T23:14:45+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 104332,
+      "media_size_human": "101.89 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_120443_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120443_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-08-31T12:30:43.568194+00:00"
     }
   ]
 }
