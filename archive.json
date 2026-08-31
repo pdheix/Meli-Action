@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-31T21:42:13.030255+00:00",
-  "shamsi_generated": "1405/06/09 21:42:13 تهران",
+  "generated_at": "2026-08-31T21:53:30.138152+00:00",
+  "shamsi_generated": "1405/06/09 21:53:30 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -28,12 +28,12 @@
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12430,
-      "message_link": "https://t.me/zedTV/12430",
-      "text": "گزارش‌های اولیه از حمله موشکی آمریکا به یک نفتکش متعلق به رژیم در اقیانوس هند.\nهدف قرار گرفتن شناور حامل نفت جمهوری اسلامی در آب‌های بین‌المللی.",
+      "message_id": 12433,
+      "message_link": "https://t.me/zedTV/12433",
+      "text": "آکسیوس: طرح «حملات محدود» آمریکا علیه جمهوری اسلامی هنوز تایید نشده است.\nبررسی گزینه‌های نظامی واشینگتن علیه رژیم تهران ادامه دارد.",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "00:32:35",
-      "gregorian_utc": "2026-08-31T21:02:35+00:00",
+      "tehran_time": "01:19:49",
+      "gregorian_utc": "2026-08-31T21:49:49+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -41,7 +41,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T21:40:32.871308+00:00"
+      "archived_at": "2026-08-31T21:50:33.944084+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -59,7 +59,7 @@
       "media_local_path": "media/IranintlTV_355129_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355129_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T21:40:33.110422+00:00"
+      "archived_at": "2026-08-31T21:50:34.330584+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -77,7 +77,7 @@
       "media_local_path": "media/satlastnews_76385_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76385_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T21:40:33.351598+00:00"
+      "archived_at": "2026-08-31T21:50:34.717175+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -95,7 +95,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-08-31T21:40:33.673095+00:00"
+      "archived_at": "2026-08-31T21:50:35.092793+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -113,17 +113,17 @@
       "media_local_path": "media/khabarsara53_11_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_11_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T21:40:33.963556+00:00"
+      "archived_at": "2026-08-31T21:50:35.426762+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12429,
-      "message_link": "https://t.me/zedTV/12429",
-      "text": "توقیف یک فروند کشتی توسط نیروهای نظامی در نزدیکی اقیانوس هند.\nگزارش‌ها از عملیات نظامی برای کنترل این شناور در منطقه حکایت دارد.\nتداوم تنش‌ها در مسیرهای راهبردی ترانزیت دریایی.",
+      "message_id": 12432,
+      "message_link": "https://t.me/zedTV/12432",
+      "text": "توقیف نفتکش سعودی «سدار» توسط سپاه پاسداران در جنوب تنگه هرمز؛\nاین شناور حامل ۲ میلیون بشکه نفت خام است.\nتداوم اخلال رژیم در امنیت دریانوردی و تجارت بین‌المللی.",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "00:20:11",
-      "gregorian_utc": "2026-08-31T20:50:11+00:00",
+      "tehran_time": "01:19:49",
+      "gregorian_utc": "2026-08-31T21:49:49+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -131,7 +131,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T21:40:32.871357+00:00"
+      "archived_at": "2026-08-31T21:50:33.944135+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -149,7 +149,7 @@
       "media_local_path": "media/IranintlTV_355128_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355128_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T21:40:33.110643+00:00"
+      "archived_at": "2026-08-31T21:50:34.330855+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -167,7 +167,7 @@
       "media_local_path": "media/satlastnews_76383_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76383_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T21:40:33.351659+00:00"
+      "archived_at": "2026-08-31T21:50:34.717236+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -185,7 +185,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-08-31T21:40:33.673140+00:00"
+      "archived_at": "2026-08-31T21:50:35.092838+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -203,17 +203,17 @@
       "media_local_path": "media/khabarsara53_10_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_10_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T21:40:33.963628+00:00"
+      "archived_at": "2026-08-31T21:50:35.426838+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12428,
-      "message_link": "https://t.me/zedTV/12428",
-      "text": "بن‌بست دفاعی رژیم در برابر چتر پهپادی سنتکام؛ آماده‌باش در بوشهر و خارگ از ترس موج دوم حملات.\nتخلیه اضطراری کارکنان و جابجایی پنهانی رادارهای سپاه در بنادر جنوبی همزمان با پرواز بمب‌افکن‌های استراتژیک.\nتنگ‌تر شدن محاصره بنادر توسط نیروی دریایی آمریکا و تداوم سیاست تسامح صفر در تنگه هرمز.",
-      "shamsi_date": "1405/06/09",
-      "tehran_time": "23:48:26",
-      "gregorian_utc": "2026-08-31T20:18:26+00:00",
+      "message_id": 12431,
+      "message_link": "https://t.me/zedTV/12431",
+      "text": "شلیک سه فروند موشک از منطقه سیریک؛\nتداوم تحرکات نظامی و تنش‌زایی رژیم در جنوب.",
+      "shamsi_date": "1405/06/10",
+      "tehran_time": "01:19:30",
+      "gregorian_utc": "2026-08-31T21:49:30+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -221,7 +221,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T21:40:32.871391+00:00"
+      "archived_at": "2026-08-31T21:50:33.944171+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -239,7 +239,7 @@
       "media_local_path": "media/IranintlTV_355127_audio.mp3",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355127_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T21:40:33.110718+00:00"
+      "archived_at": "2026-08-31T21:50:34.330934+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -257,7 +257,7 @@
       "media_local_path": "media/satlastnews_76381_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76381_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T21:40:33.351702+00:00"
+      "archived_at": "2026-08-31T21:50:34.717278+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -275,7 +275,7 @@
       "media_local_path": "media/Mellig_120471_sticker.webp",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120471_sticker.webp",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T21:40:33.673197+00:00"
+      "archived_at": "2026-08-31T21:50:35.092895+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -293,17 +293,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T21:40:33.963659+00:00"
+      "archived_at": "2026-08-31T21:50:35.426872+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12427,
-      "message_link": "https://t.me/zedTV/12427",
-      "text": "بحران مسکن دانشجویی در گرگان؛ افزایش ۱۰۰ درصدی هزینه‌ خوابگاه‌های خصوصی و کمبود ظرفیت دولتی.\nاتاق‌های شلوغ و وضعیت غیربهداشتی در خوابگاه‌های گران‌قیمت؛ فشار مضاعف بر دانشجویان غیربومی.\nانصراف دانشجویان از تحصیل به دلیل هزینه‌های نجومی و بی‌کفایتی مسئولان دانشگاه‌های گلستان.",
-      "shamsi_date": "1405/06/09",
-      "tehran_time": "23:27:58",
-      "gregorian_utc": "2026-08-31T19:57:58+00:00",
+      "message_id": 12430,
+      "message_link": "https://t.me/zedTV/12430",
+      "text": "گزارش‌های اولیه از حمله موشکی آمریکا به یک نفتکش متعلق به رژیم در اقیانوس هند.\nهدف قرار گرفتن شناور حامل نفت جمهوری اسلامی در آب‌های بین‌المللی.",
+      "shamsi_date": "1405/06/10",
+      "tehran_time": "00:32:35",
+      "gregorian_utc": "2026-08-31T21:02:35+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -311,7 +311,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T21:40:32.871432+00:00"
+      "archived_at": "2026-08-31T21:50:33.944213+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -329,7 +329,7 @@
       "media_local_path": "media/IranintlTV_355126_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355126_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T21:40:33.110854+00:00"
+      "archived_at": "2026-08-31T21:50:34.331097+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -347,7 +347,7 @@
       "media_local_path": "media/satlastnews_76380_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76380_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T21:40:33.351740+00:00"
+      "archived_at": "2026-08-31T21:50:34.717316+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -365,7 +365,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T21:40:33.673224+00:00"
+      "archived_at": "2026-08-31T21:50:35.092924+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -383,17 +383,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T21:40:33.963685+00:00"
+      "archived_at": "2026-08-31T21:50:35.426898+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12426,
-      "message_link": "https://t.me/zedTV/12426",
-      "text": "کانال ۱۴ اسرائیل از حملات تلافی‌جویانه گسترده علیه ایران خبر داد.\nتدارکات نظامی برای ضربه به مواضع جمهوری اسلامی در جریان است.",
-      "shamsi_date": "1405/06/09",
-      "tehran_time": "23:19:50",
-      "gregorian_utc": "2026-08-31T19:49:50+00:00",
+      "message_id": 12429,
+      "message_link": "https://t.me/zedTV/12429",
+      "text": "توقیف یک فروند کشتی توسط نیروهای نظامی در نزدیکی اقیانوس هند.\nگزارش‌ها از عملیات نظامی برای کنترل این شناور در منطقه حکایت دارد.\nتداوم تنش‌ها در مسیرهای راهبردی ترانزیت دریایی.",
+      "shamsi_date": "1405/06/10",
+      "tehran_time": "00:20:11",
+      "gregorian_utc": "2026-08-31T20:50:11+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -401,7 +401,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T21:40:32.871462+00:00"
+      "archived_at": "2026-08-31T21:50:33.944245+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -419,7 +419,7 @@
       "media_local_path": "media/IranintlTV_355125_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355125_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T21:40:33.110954+00:00"
+      "archived_at": "2026-08-31T21:50:34.331172+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -437,7 +437,7 @@
       "media_local_path": "media/satlastnews_76379_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76379_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T21:40:33.351778+00:00"
+      "archived_at": "2026-08-31T21:50:34.717354+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -455,7 +455,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T21:40:33.673249+00:00"
+      "archived_at": "2026-08-31T21:50:35.092949+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -473,17 +473,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T21:40:33.963709+00:00"
+      "archived_at": "2026-08-31T21:50:35.426924+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12425,
-      "message_link": "https://t.me/zedTV/12425",
-      "text": "♦️ هراس در تهران؛ تلاش‌های دیپلماتیک فوری رژیم برای جلوگیری از حمله گسترده آمریکا.\n♦️ پیام‌های غیررسمی مقامات جمهوری اسلامی به واشینگتن و میانجی‌های منطقه‌ای.\n♦️ درخواست تهران برای لغو عملیات انتقام‌جویانه ایالات متحده.",
+      "message_id": 12428,
+      "message_link": "https://t.me/zedTV/12428",
+      "text": "بن‌بست دفاعی رژیم در برابر چتر پهپادی سنتکام؛ آماده‌باش در بوشهر و خارگ از ترس موج دوم حملات.\nتخلیه اضطراری کارکنان و جابجایی پنهانی رادارهای سپاه در بنادر جنوبی همزمان با پرواز بمب‌افکن‌های استراتژیک.\nتنگ‌تر شدن محاصره بنادر توسط نیروی دریایی آمریکا و تداوم سیاست تسامح صفر در تنگه هرمز.",
       "shamsi_date": "1405/06/09",
-      "tehran_time": "23:05:12",
-      "gregorian_utc": "2026-08-31T19:35:12+00:00",
+      "tehran_time": "23:48:26",
+      "gregorian_utc": "2026-08-31T20:18:26+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -491,7 +491,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T21:40:32.871497+00:00"
+      "archived_at": "2026-08-31T21:50:33.944283+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -509,7 +509,7 @@
       "media_local_path": "media/IranintlTV_355124_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355124_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T21:40:33.111085+00:00"
+      "archived_at": "2026-08-31T21:50:34.331291+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -527,7 +527,7 @@
       "media_local_path": "media/satlastnews_76378_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76378_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T21:40:33.351815+00:00"
+      "archived_at": "2026-08-31T21:50:34.717391+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -545,7 +545,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T21:40:33.673272+00:00"
+      "archived_at": "2026-08-31T21:50:35.092974+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -563,17 +563,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T21:40:33.963733+00:00"
+      "archived_at": "2026-08-31T21:50:35.426949+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12424,
-      "message_link": "https://t.me/zedTV/12424",
-      "text": "تداوم تجمعات اعتراضی در بیش از ۱۰ شهر و شلیک نیروهای امنیتی به سوی معترضان در گچساران؛\nاعتراض گسترده بازنشستگان مخابرات و تامین اجتماعی در تهران، اهواز، سنندج و سایر استان‌ها؛\nتجمع کارگران فولاد قزوین و جویندگان کار در اعتراض به وضعیت معیشتی و سرکوب دولتی.",
+      "message_id": 12427,
+      "message_link": "https://t.me/zedTV/12427",
+      "text": "بحران مسکن دانشجویی در گرگان؛ افزایش ۱۰۰ درصدی هزینه‌ خوابگاه‌های خصوصی و کمبود ظرفیت دولتی.\nاتاق‌های شلوغ و وضعیت غیربهداشتی در خوابگاه‌های گران‌قیمت؛ فشار مضاعف بر دانشجویان غیربومی.\nانصراف دانشجویان از تحصیل به دلیل هزینه‌های نجومی و بی‌کفایتی مسئولان دانشگاه‌های گلستان.",
       "shamsi_date": "1405/06/09",
-      "tehran_time": "22:51:14",
-      "gregorian_utc": "2026-08-31T19:21:14+00:00",
+      "tehran_time": "23:27:58",
+      "gregorian_utc": "2026-08-31T19:57:58+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -581,7 +581,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T21:40:32.871525+00:00"
+      "archived_at": "2026-08-31T21:50:33.944314+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -599,7 +599,7 @@
       "media_local_path": "media/IranintlTV_355123_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355123_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T21:40:33.111183+00:00"
+      "archived_at": "2026-08-31T21:50:34.331395+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -617,7 +617,7 @@
       "media_local_path": "media/satlastnews_76377_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76377_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T21:40:33.351874+00:00"
+      "archived_at": "2026-08-31T21:50:34.717460+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -635,7 +635,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T21:40:33.673324+00:00"
+      "archived_at": "2026-08-31T21:50:35.093025+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -653,17 +653,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T21:40:33.963757+00:00"
+      "archived_at": "2026-08-31T21:50:35.426974+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12423,
-      "message_link": "https://t.me/zedTV/12423",
-      "text": "دفع موفق موشک شلیک‌ شده توسط جمهوری اسلامی علیه جنگنده F-35.\nاثبات توان عملیاتی و بقای بالای این جنگنده نسل پنجم در شرایط نبرد واقعی.\nادامه ماموریت اسکورت کشتی‌ها با وجود تلاش نافرجام رژیم برای حمله.",
+      "message_id": 12426,
+      "message_link": "https://t.me/zedTV/12426",
+      "text": "کانال ۱۴ اسرائیل از حملات تلافی‌جویانه گسترده علیه ایران خبر داد.\nتدارکات نظامی برای ضربه به مواضع جمهوری اسلامی در جریان است.",
       "shamsi_date": "1405/06/09",
-      "tehran_time": "22:19:14",
-      "gregorian_utc": "2026-08-31T18:49:14+00:00",
+      "tehran_time": "23:19:50",
+      "gregorian_utc": "2026-08-31T19:49:50+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -671,7 +671,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T21:40:32.871565+00:00"
+      "archived_at": "2026-08-31T21:50:33.944357+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -689,7 +689,7 @@
       "media_local_path": "media/IranintlTV_355122_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355122_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T21:40:33.111291+00:00"
+      "archived_at": "2026-08-31T21:50:34.331508+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -707,7 +707,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T21:40:33.351960+00:00"
+      "archived_at": "2026-08-31T21:50:34.717521+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -725,7 +725,7 @@
       "media_local_path": "media/Mellig_120466_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120466_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T21:40:33.673426+00:00"
+      "archived_at": "2026-08-31T21:50:35.093124+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -743,17 +743,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T21:40:33.963782+00:00"
+      "archived_at": "2026-08-31T21:50:35.426999+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12422,
-      "message_link": "https://t.me/zedTV/12422",
-      "text": "نشست اضطراری نتانیاهو با رئیس موساد.\nرایزنی‌های امنیتی در پی آغاز درگیری‌ها میان آمریکا و رژیم ایران.",
+      "message_id": 12425,
+      "message_link": "https://t.me/zedTV/12425",
+      "text": "♦️ هراس در تهران؛ تلاش‌های دیپلماتیک فوری رژیم برای جلوگیری از حمله گسترده آمریکا.\n♦️ پیام‌های غیررسمی مقامات جمهوری اسلامی به واشینگتن و میانجی‌های منطقه‌ای.\n♦️ درخواست تهران برای لغو عملیات انتقام‌جویانه ایالات متحده.",
       "shamsi_date": "1405/06/09",
-      "tehran_time": "22:05:46",
-      "gregorian_utc": "2026-08-31T18:35:46+00:00",
+      "tehran_time": "23:05:12",
+      "gregorian_utc": "2026-08-31T19:35:12+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -761,7 +761,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T21:40:32.871593+00:00"
+      "archived_at": "2026-08-31T21:50:33.944386+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -779,7 +779,7 @@
       "media_local_path": "media/IranintlTV_355121_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355121_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T21:40:33.111360+00:00"
+      "archived_at": "2026-08-31T21:50:34.331579+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -797,7 +797,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T21:40:33.352022+00:00"
+      "archived_at": "2026-08-31T21:50:34.717577+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -815,7 +815,7 @@
       "media_local_path": "media/Mellig_120465_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120465_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T21:40:33.673484+00:00"
+      "archived_at": "2026-08-31T21:50:35.093184+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -833,17 +833,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T21:40:33.963806+00:00"
+      "archived_at": "2026-08-31T21:50:35.427024+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12421,
-      "message_link": "https://t.me/zedTV/12421",
-      "text": "سنتکام: شلیک موشک توسط رژیم ایران به سمت جنگنده اف-۳۵ آمریکا در تنگه هرمز.\nاعلام رسمی فرماندهی مرکزی ایالات متحده درباره اقدام نظامی جمهوری اسلامی در منطقه.",
+      "message_id": 12424,
+      "message_link": "https://t.me/zedTV/12424",
+      "text": "تداوم تجمعات اعتراضی در بیش از ۱۰ شهر و شلیک نیروهای امنیتی به سوی معترضان در گچساران؛\nاعتراض گسترده بازنشستگان مخابرات و تامین اجتماعی در تهران، اهواز، سنندج و سایر استان‌ها؛\nتجمع کارگران فولاد قزوین و جویندگان کار در اعتراض به وضعیت معیشتی و سرکوب دولتی.",
       "shamsi_date": "1405/06/09",
-      "tehran_time": "22:05:46",
-      "gregorian_utc": "2026-08-31T18:35:46+00:00",
+      "tehran_time": "22:51:14",
+      "gregorian_utc": "2026-08-31T19:21:14+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -851,7 +851,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T21:40:32.871618+00:00"
+      "archived_at": "2026-08-31T21:50:33.944413+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -869,7 +869,7 @@
       "media_local_path": "media/IranintlTV_355120_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355120_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T21:40:33.111507+00:00"
+      "archived_at": "2026-08-31T21:50:34.331765+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -887,7 +887,7 @@
       "media_local_path": "media/satlastnews_76374_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76374_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T21:40:33.352104+00:00"
+      "archived_at": "2026-08-31T21:50:34.717663+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -905,7 +905,7 @@
       "media_local_path": "media/Mellig_120464_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120464_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T21:40:33.673579+00:00"
+      "archived_at": "2026-08-31T21:50:35.093279+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -923,17 +923,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T21:40:33.963830+00:00"
+      "archived_at": "2026-08-31T21:50:35.427048+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12420,
-      "message_link": "https://t.me/zedTV/12420",
-      "text": "♦️ ادعای ستاد کل نیروهای مسلح: استفاده آمریکا از حریم هوایی و خاک کشورهای منطقه برای حمله به ایران.\n♦️ رژیم خواستار خروج کامل نیروهای نظامی ایالات متحده از منطقه شد.",
+      "message_id": 12423,
+      "message_link": "https://t.me/zedTV/12423",
+      "text": "دفع موفق موشک شلیک‌ شده توسط جمهوری اسلامی علیه جنگنده F-35.\nاثبات توان عملیاتی و بقای بالای این جنگنده نسل پنجم در شرایط نبرد واقعی.\nادامه ماموریت اسکورت کشتی‌ها با وجود تلاش نافرجام رژیم برای حمله.",
       "shamsi_date": "1405/06/09",
-      "tehran_time": "21:50:30",
-      "gregorian_utc": "2026-08-31T18:20:30+00:00",
+      "tehran_time": "22:19:14",
+      "gregorian_utc": "2026-08-31T18:49:14+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -941,7 +941,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T21:40:32.871641+00:00"
+      "archived_at": "2026-08-31T21:50:33.944442+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -959,7 +959,7 @@
       "media_local_path": "media/IranintlTV_355119_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355119_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T21:40:33.111606+00:00"
+      "archived_at": "2026-08-31T21:50:34.331881+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -977,7 +977,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T21:40:33.352493+00:00"
+      "archived_at": "2026-08-31T21:50:34.718078+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -995,7 +995,7 @@
       "media_local_path": "media/Mellig_120463_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120463_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T21:40:33.673618+00:00"
+      "archived_at": "2026-08-31T21:50:35.093321+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -1013,17 +1013,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T21:40:33.963857+00:00"
+      "archived_at": "2026-08-31T21:50:35.427074+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12419,
-      "message_link": "https://t.me/zedTV/12419",
-      "text": "نرخ دلار به ۲۱۱،۹۰۰ تومان رسید.\nتداوم سقوط ارزش پول ملی در سایه ناکارآمدی رژیم.\nتشدید بحران معیشتی و فشار اقتصادی بر شهروندان.",
+      "message_id": 12422,
+      "message_link": "https://t.me/zedTV/12422",
+      "text": "نشست اضطراری نتانیاهو با رئیس موساد.\nرایزنی‌های امنیتی در پی آغاز درگیری‌ها میان آمریکا و رژیم ایران.",
       "shamsi_date": "1405/06/09",
-      "tehran_time": "21:20:38",
-      "gregorian_utc": "2026-08-31T17:50:38+00:00",
+      "tehran_time": "22:05:46",
+      "gregorian_utc": "2026-08-31T18:35:46+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -1031,7 +1031,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-08-31T21:40:32.871665+00:00"
+      "archived_at": "2026-08-31T21:50:33.944470+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -1049,7 +1049,7 @@
       "media_local_path": "media/IranintlTV_355118_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355118_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T21:40:33.111706+00:00"
+      "archived_at": "2026-08-31T21:50:34.331997+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1067,7 +1067,7 @@
       "media_local_path": "media/satlastnews_76369_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76369_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T21:40:33.352634+00:00"
+      "archived_at": "2026-08-31T21:50:34.718203+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1085,7 +1085,7 @@
       "media_local_path": "media/Mellig_120462_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120462_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-08-31T21:40:33.673653+00:00"
+      "archived_at": "2026-08-31T21:50:35.093458+00:00"
     }
   ]
 }
