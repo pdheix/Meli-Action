@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T20:26:24.725500+00:00",
-  "shamsi_generated": "1405/06/10 20:26:24 تهران",
+  "generated_at": "2026-09-01T20:37:36.576051+00:00",
+  "shamsi_generated": "1405/06/10 20:37:36 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -41,25 +41,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T20:20:37.499675+00:00"
+      "archived_at": "2026-09-01T20:30:46.532049+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355306,
-      "message_link": "https://t.me/IranintlTV/355306",
-      "text": "ویدیوی رسیده به ایران‌اینترنشنال پرتاب موشک‌ جمهوری اسلامی را از ساوجبلاغ در شامگاه سه‌شنبه ۱۰ شهریور نشان می‌دهد.",
+      "message_id": 355307,
+      "message_link": "https://t.me/IranintlTV/355307",
+      "text": "بر اساس ویدیوی رسیده به ایران‌اینترنشنال، جمهوری اسلامی شامگاه سه‌شنبه ۱۰ شهریور از شهریار موشک شلیک کرده است.",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "23:49:48",
-      "gregorian_utc": "2026-09-01T20:19:48+00:00",
+      "tehran_time": "23:55:34",
+      "gregorian_utc": "2026-09-01T20:25:34+00:00",
       "media_type": "video",
-      "media_size_bytes": 6202441,
-      "media_size_human": "5.92 MB",
+      "media_size_bytes": 44833842,
+      "media_size_human": "42.76 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355306_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355306_video.mp4",
+      "media_local_path": "media/IranintlTV_355307_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355307_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T20:20:37.949053+00:00"
+      "archived_at": "2026-09-01T20:30:46.979190+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -77,25 +77,25 @@
       "media_local_path": "media/satlastnews_76388_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76388_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T20:20:38.328784+00:00"
+      "archived_at": "2026-09-01T20:30:47.515337+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120508,
-      "message_link": "https://t.me/Mellig/120508",
-      "text": ".⁠\nاسکات بسنت، وزیر خزانه‌داری آمریکا گفت که رژیم ایران همانند ماری است که باوجود اینکه سرش قطع شده است، ولی هنوز دم آن در حال حرکت است و نمی‌داند که سر مار قطع شده است.⁠\n⁠\nاو افزود، حکومت ایران به زودی خواهد فهمید که در حال نابودی است.",
+      "message_id": 120511,
+      "message_link": "https://t.me/Mellig/120511",
+      "text": "🚨زیرگیری تجمع حامیان حکومت \nدر #مشهد با  ماشین \n\nتلفات بالاست",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "23:43:43",
-      "gregorian_utc": "2026-09-01T20:13:43+00:00",
+      "tehran_time": "23:52:00",
+      "gregorian_utc": "2026-09-01T20:22:00+00:00",
       "media_type": "video",
-      "media_size_bytes": 4710172,
-      "media_size_human": "4.49 MB",
+      "media_size_bytes": 5523187,
+      "media_size_human": "5.27 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120508_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120508_video.mp4",
+      "media_local_path": "media/Mellig_120511_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120511_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T20:20:38.683999+00:00"
+      "archived_at": "2026-09-01T20:30:47.923312+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -113,7 +113,7 @@
       "media_local_path": "media/khabarsara53_11_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_11_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T20:20:39.009904+00:00"
+      "archived_at": "2026-09-01T20:30:48.295853+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -131,25 +131,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T20:20:37.499723+00:00"
+      "archived_at": "2026-09-01T20:30:46.532098+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355305,
-      "message_link": "https://t.me/IranintlTV/355305",
-      "text": "ویدیوی رسیده به ایران‌اینترنشنال پرتاب موشک‌های جمهوری اسلامی را از شهر اندیشه در شامگاه سه‌شنبه ۱۰ شهریور نشان می‌دهد.",
+      "message_id": 355306,
+      "message_link": "https://t.me/IranintlTV/355306",
+      "text": "ویدیوی رسیده به ایران‌اینترنشنال پرتاب موشک‌ جمهوری اسلامی را از ساوجبلاغ در شامگاه سه‌شنبه ۱۰ شهریور نشان می‌دهد.",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "23:45:47",
-      "gregorian_utc": "2026-09-01T20:15:47+00:00",
+      "tehran_time": "23:49:48",
+      "gregorian_utc": "2026-09-01T20:19:48+00:00",
       "media_type": "video",
-      "media_size_bytes": 14186200,
-      "media_size_human": "13.53 MB",
+      "media_size_bytes": 6202441,
+      "media_size_human": "5.92 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355305_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355305_video.mp4",
+      "media_local_path": "media/IranintlTV_355306_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355306_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T20:20:37.949103+00:00"
+      "archived_at": "2026-09-01T20:30:46.979240+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -167,25 +167,25 @@
       "media_local_path": "media/satlastnews_76387_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76387_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T20:20:38.328870+00:00"
+      "archived_at": "2026-09-01T20:30:47.515432+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120507,
-      "message_link": "https://t.me/Mellig/120507",
-      "text": "همین الان دو موشک از بیدگنه کرج شلیک شد",
+      "message_id": 120510,
+      "message_link": "https://t.me/Mellig/120510",
+      "text": "",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "23:21:52",
-      "gregorian_utc": "2026-09-01T19:51:52+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T20:20:38.684033+00:00"
+      "tehran_time": "23:52:00",
+      "gregorian_utc": "2026-09-01T20:22:00+00:00",
+      "media_type": "video",
+      "media_size_bytes": 2181552,
+      "media_size_human": "2.08 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_120510_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120510_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-09-01T20:30:47.923360+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -203,7 +203,7 @@
       "media_local_path": "media/khabarsara53_10_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_10_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T20:20:39.009972+00:00"
+      "archived_at": "2026-09-01T20:30:48.295924+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -221,25 +221,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T20:20:37.499758+00:00"
+      "archived_at": "2026-09-01T20:30:46.532142+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355304,
-      "message_link": "https://t.me/IranintlTV/355304",
-      "text": "🎧نسخه صوتی چشم‌انداز: عفونامه سپاه برای بازگشت به ایران برای چه کسانی صادر می‌شود؟\n@iranintlTV",
+      "message_id": 355305,
+      "message_link": "https://t.me/IranintlTV/355305",
+      "text": "ویدیوی رسیده به ایران‌اینترنشنال پرتاب موشک‌های جمهوری اسلامی را از شهر اندیشه در شامگاه سه‌شنبه ۱۰ شهریور نشان می‌دهد.",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "23:42:12",
-      "gregorian_utc": "2026-09-01T20:12:12+00:00",
-      "media_type": "audio",
-      "media_size_bytes": 32858839,
-      "media_size_human": "31.34 MB",
+      "tehran_time": "23:45:47",
+      "gregorian_utc": "2026-09-01T20:15:47+00:00",
+      "media_type": "video",
+      "media_size_bytes": 14186200,
+      "media_size_human": "13.53 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355304_audio.mp3",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355304_audio.mp3",
+      "media_local_path": "media/IranintlTV_355305_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355305_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T20:20:37.960514+00:00"
+      "archived_at": "2026-09-01T20:30:46.979282+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -257,25 +257,25 @@
       "media_local_path": "media/satlastnews_76385_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76385_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T20:20:38.328926+00:00"
+      "archived_at": "2026-09-01T20:30:47.515501+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120506,
-      "message_link": "https://t.me/Mellig/120506",
-      "text": "برنامه زنده آغاز شد بشتابید \n\nبرنامه زنده در کیک :  🦿🦿🦿\n\nhttps://kick.com/mehdimirghaderi\n\nبرنامه زنده در یوتیوب : 🖥🖥\n\nhttps://www.youtube.com/@MehdiMirghaderi",
+      "message_id": 120509,
+      "message_link": "https://t.me/Mellig/120509",
+      "text": "",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "22:32:44",
-      "gregorian_utc": "2026-09-01T19:02:44+00:00",
-      "media_type": "webpage",
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-09-01T20:20:38.684114+00:00"
+      "tehran_time": "23:52:00",
+      "gregorian_utc": "2026-09-01T20:22:00+00:00",
+      "media_type": "video",
+      "media_size_bytes": 1736215,
+      "media_size_human": "1.66 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_120509_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120509_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-09-01T20:30:47.923398+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -293,7 +293,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T20:20:39.009999+00:00"
+      "archived_at": "2026-09-01T20:30:48.295956+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -311,25 +311,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T20:20:37.499789+00:00"
+      "archived_at": "2026-09-01T20:30:46.532179+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355303,
-      "message_link": "https://t.me/IranintlTV/355303",
-      "text": "بر اساس ویدیوی ارسال‌شده به ایران‌اینترنشنال جمهوری اسلامی سه‌شنبه ۱۰ شهریور از تهران موشک شیک کرده است.",
+      "message_id": 355304,
+      "message_link": "https://t.me/IranintlTV/355304",
+      "text": "🎧نسخه صوتی چشم‌انداز: عفونامه سپاه برای بازگشت به ایران برای چه کسانی صادر می‌شود؟\n@iranintlTV",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "23:38:43",
-      "gregorian_utc": "2026-09-01T20:08:43+00:00",
-      "media_type": "video",
-      "media_size_bytes": 22489623,
-      "media_size_human": "21.45 MB",
+      "tehran_time": "23:42:12",
+      "gregorian_utc": "2026-09-01T20:12:12+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 32858839,
+      "media_size_human": "31.34 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355303_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355303_video.mp4",
+      "media_local_path": "media/IranintlTV_355304_audio.mp3",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355304_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T20:20:37.960596+00:00"
+      "archived_at": "2026-09-01T20:30:46.987086+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -347,25 +347,25 @@
       "media_local_path": "media/satlastnews_76383_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76383_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T20:20:38.328965+00:00"
+      "archived_at": "2026-09-01T20:30:47.515550+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120505,
-      "message_link": "https://t.me/Mellig/120505",
-      "text": "🔴🔴🔴🔴🔹 انفجارها در جزیره قشم ایران دوباره رخ داد.",
+      "message_id": 120508,
+      "message_link": "https://t.me/Mellig/120508",
+      "text": ".⁠\nاسکات بسنت، وزیر خزانه‌داری آمریکا گفت که رژیم ایران همانند ماری است که باوجود اینکه سرش قطع شده است، ولی هنوز دم آن در حال حرکت است و نمی‌داند که سر مار قطع شده است.⁠\n⁠\nاو افزود، حکومت ایران به زودی خواهد فهمید که در حال نابودی است.",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "22:13:28",
-      "gregorian_utc": "2026-09-01T18:43:28+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T20:20:38.684140+00:00"
+      "tehran_time": "23:43:43",
+      "gregorian_utc": "2026-09-01T20:13:43+00:00",
+      "media_type": "video",
+      "media_size_bytes": 4710172,
+      "media_size_human": "4.49 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_120508_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120508_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-09-01T20:30:47.923461+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -383,7 +383,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T20:20:39.010021+00:00"
+      "archived_at": "2026-09-01T20:30:48.295982+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -401,25 +401,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T20:20:37.499814+00:00"
+      "archived_at": "2026-09-01T20:30:46.532208+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355302,
-      "message_link": "https://t.me/IranintlTV/355302",
-      "text": "تانکر ترکرز گزارش داد صادرات نفت خام ایران در ماه میلادی آگوست ۲۰۲۶، (۳۱ روز گذشته) به صفر رسیده است.\n\nبر اساس این گزارش، این رقم در مقایسه با سطح پیش از جنگ در زمستان ۱۴۰۵، نشان‌دهنده کاهش ۱۰۰ درصدی صادرات نفت خام ایران است.\nhttps://iranintl.com/202609015148",
+      "message_id": 355303,
+      "message_link": "https://t.me/IranintlTV/355303",
+      "text": "بر اساس ویدیوی ارسال‌شده به ایران‌اینترنشنال جمهوری اسلامی سه‌شنبه ۱۰ شهریور از تهران موشک شیک کرده است.",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "23:30:03",
-      "gregorian_utc": "2026-09-01T20:00:03+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 132809,
-      "media_size_human": "129.70 KB",
+      "tehran_time": "23:38:43",
+      "gregorian_utc": "2026-09-01T20:08:43+00:00",
+      "media_type": "video",
+      "media_size_bytes": 22489623,
+      "media_size_human": "21.45 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355302_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355302_photo.jpg",
+      "media_local_path": "media/IranintlTV_355303_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355303_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T20:20:37.960696+00:00"
+      "archived_at": "2026-09-01T20:30:46.987172+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -437,17 +437,17 @@
       "media_local_path": "media/satlastnews_76381_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76381_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T20:20:38.328994+00:00"
+      "archived_at": "2026-09-01T20:30:47.515589+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120504,
-      "message_link": "https://t.me/Mellig/120504",
-      "text": "🔴🔴🔴‏ شلیک موشک از تبریز",
+      "message_id": 120507,
+      "message_link": "https://t.me/Mellig/120507",
+      "text": "همین الان دو موشک از بیدگنه کرج شلیک شد",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "22:08:46",
-      "gregorian_utc": "2026-09-01T18:38:46+00:00",
+      "tehran_time": "23:21:52",
+      "gregorian_utc": "2026-09-01T19:51:52+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -455,7 +455,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T20:20:38.684162+00:00"
+      "archived_at": "2026-09-01T20:30:47.923492+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -473,7 +473,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T20:20:39.010041+00:00"
+      "archived_at": "2026-09-01T20:30:48.296006+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -491,25 +491,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T20:20:37.499849+00:00"
+      "archived_at": "2026-09-01T20:30:46.532244+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355301,
-      "message_link": "https://t.me/IranintlTV/355301",
-      "text": "خبرگزاری مهر، وابسته به سازمان تبلیغات اسلامی، از فعالیت پدافند در شرق تهران در شامگاه سه‌شنبه خبر داد.\nhttps://iranintl.com/202609012684",
+      "message_id": 355302,
+      "message_link": "https://t.me/IranintlTV/355302",
+      "text": "تانکر ترکرز گزارش داد صادرات نفت خام ایران در ماه میلادی آگوست ۲۰۲۶، (۳۱ روز گذشته) به صفر رسیده است.\n\nبر اساس این گزارش، این رقم در مقایسه با سطح پیش از جنگ در زمستان ۱۴۰۵، نشان‌دهنده کاهش ۱۰۰ درصدی صادرات نفت خام ایران است.\nhttps://iranintl.com/202609015148",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "23:25:08",
-      "gregorian_utc": "2026-09-01T19:55:08+00:00",
+      "tehran_time": "23:30:03",
+      "gregorian_utc": "2026-09-01T20:00:03+00:00",
       "media_type": "photo",
-      "media_size_bytes": 69698,
-      "media_size_human": "68.06 KB",
+      "media_size_bytes": 132809,
+      "media_size_human": "129.70 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355301_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355301_photo.jpg",
+      "media_local_path": "media/IranintlTV_355302_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355302_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T20:20:37.960758+00:00"
+      "archived_at": "2026-09-01T20:30:46.987283+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -527,25 +527,25 @@
       "media_local_path": "media/satlastnews_76380_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76380_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T20:20:38.329024+00:00"
+      "archived_at": "2026-09-01T20:30:47.515627+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120503,
-      "message_link": "https://t.me/Mellig/120503",
-      "text": "خبرگزاری صداوسیما:دقایقی پیش آمریکا، فرودگاه جیرفت در کرمان رو بمبارون کرد\n❤️❤️",
+      "message_id": 120506,
+      "message_link": "https://t.me/Mellig/120506",
+      "text": "برنامه زنده آغاز شد بشتابید \n\nبرنامه زنده در کیک :  🦿🦿🦿\n\nhttps://kick.com/mehdimirghaderi\n\nبرنامه زنده در یوتیوب : 🖥🖥\n\nhttps://www.youtube.com/@MehdiMirghaderi",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "22:07:02",
-      "gregorian_utc": "2026-09-01T18:37:02+00:00",
-      "media_type": null,
+      "tehran_time": "22:32:44",
+      "gregorian_utc": "2026-09-01T19:02:44+00:00",
+      "media_type": "webpage",
       "media_size_bytes": 0,
       "media_size_human": null,
       "media_downloaded": false,
       "media_local_path": null,
       "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T20:20:38.684197+00:00"
+      "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
+      "archived_at": "2026-09-01T20:30:47.923558+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -563,7 +563,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T20:20:39.010062+00:00"
+      "archived_at": "2026-09-01T20:30:48.296030+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -581,25 +581,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T20:20:37.499892+00:00"
+      "archived_at": "2026-09-01T20:30:46.532275+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355300,
-      "message_link": "https://t.me/IranintlTV/355300",
-      "text": "ویدیوی رسیده به ایران‌اینترنشنال پرتاب موشک‌های جمهوری اسلامی را از بیدگنه در شامگاه سه‌شنبه ۱۰ شهریور نشان می‌دهد.",
+      "message_id": 355301,
+      "message_link": "https://t.me/IranintlTV/355301",
+      "text": "خبرگزاری مهر، وابسته به سازمان تبلیغات اسلامی، از فعالیت پدافند در شرق تهران در شامگاه سه‌شنبه خبر داد.\nhttps://iranintl.com/202609012684",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "23:24:53",
-      "gregorian_utc": "2026-09-01T19:54:53+00:00",
-      "media_type": "video",
-      "media_size_bytes": 3130926,
-      "media_size_human": "2.99 MB",
+      "tehran_time": "23:25:08",
+      "gregorian_utc": "2026-09-01T19:55:08+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 69698,
+      "media_size_human": "68.06 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355300_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355300_video.mp4",
+      "media_local_path": "media/IranintlTV_355301_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355301_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T20:20:37.960795+00:00"
+      "archived_at": "2026-09-01T20:30:46.987354+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -617,25 +617,25 @@
       "media_local_path": "media/satlastnews_76379_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76379_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T20:20:38.329053+00:00"
+      "archived_at": "2026-09-01T20:30:47.515665+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120502,
-      "message_link": "https://t.me/Mellig/120502",
-      "text": "این مدرن تالکینگ عرزشی ها",
+      "message_id": 120505,
+      "message_link": "https://t.me/Mellig/120505",
+      "text": "🔴🔴🔴🔴🔹 انفجارها در جزیره قشم ایران دوباره رخ داد.",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "21:59:52",
-      "gregorian_utc": "2026-09-01T18:29:52+00:00",
-      "media_type": "video",
-      "media_size_bytes": 12455301,
-      "media_size_human": "11.88 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/Mellig_120502_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120502_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-09-01T20:20:38.684230+00:00"
+      "tehran_time": "22:13:28",
+      "gregorian_utc": "2026-09-01T18:43:28+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-09-01T20:30:47.923590+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -653,7 +653,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T20:20:39.010084+00:00"
+      "archived_at": "2026-09-01T20:30:48.296053+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -671,25 +671,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T20:20:37.499931+00:00"
+      "archived_at": "2026-09-01T20:30:46.532317+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355299,
-      "message_link": "https://t.me/IranintlTV/355299",
-      "text": "🎧نسخه صوتی ‌‌‏﻿﻿۲۴ با فرداد فرحزاد: دور تازه حملات آمریکا به جنوب ایران\n@iranintlTV",
+      "message_id": 355300,
+      "message_link": "https://t.me/IranintlTV/355300",
+      "text": "ویدیوی رسیده به ایران‌اینترنشنال پرتاب موشک‌های جمهوری اسلامی را از بیدگنه در شامگاه سه‌شنبه ۱۰ شهریور نشان می‌دهد.",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "23:23:04",
-      "gregorian_utc": "2026-09-01T19:53:04+00:00",
-      "media_type": "audio",
-      "media_size_bytes": 32374553,
-      "media_size_human": "30.87 MB",
+      "tehran_time": "23:24:53",
+      "gregorian_utc": "2026-09-01T19:54:53+00:00",
+      "media_type": "video",
+      "media_size_bytes": 3130926,
+      "media_size_human": "2.99 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355299_audio.mp3",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355299_audio.mp3",
+      "media_local_path": "media/IranintlTV_355300_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355300_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T20:20:37.960886+00:00"
+      "archived_at": "2026-09-01T20:30:46.987402+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -707,17 +707,17 @@
       "media_local_path": "media/satlastnews_76378_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76378_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T20:20:38.329079+00:00"
+      "archived_at": "2026-09-01T20:30:47.515699+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120501,
-      "message_link": "https://t.me/Mellig/120501",
-      "text": "🚨**سفارت ایالات متحده هشدار امنیتی برای شهرهای ابوظبی و دبی صادر کرده است**.",
+      "message_id": 120504,
+      "message_link": "https://t.me/Mellig/120504",
+      "text": "🔴🔴🔴‏ شلیک موشک از تبریز",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "21:51:04",
-      "gregorian_utc": "2026-09-01T18:21:04+00:00",
+      "tehran_time": "22:08:46",
+      "gregorian_utc": "2026-09-01T18:38:46+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -725,7 +725,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T20:20:38.684275+00:00"
+      "archived_at": "2026-09-01T20:30:47.923616+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -743,7 +743,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T20:20:39.010108+00:00"
+      "archived_at": "2026-09-01T20:30:48.296078+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -761,25 +761,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T20:20:37.499956+00:00"
+      "archived_at": "2026-09-01T20:30:46.532345+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355298,
-      "message_link": "https://t.me/IranintlTV/355298",
-      "text": "ویدیوهای رسیده به ایران‌اینترنشنال پرتاب موشک‌های جمهوری اسلامی را از خمین در شامگاه سه‌شنبه ۱۰ شهریور نشان می‌دهند.",
+      "message_id": 355299,
+      "message_link": "https://t.me/IranintlTV/355299",
+      "text": "🎧نسخه صوتی ‌‌‏﻿﻿۲۴ با فرداد فرحزاد: دور تازه حملات آمریکا به جنوب ایران\n@iranintlTV",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "23:15:09",
-      "gregorian_utc": "2026-09-01T19:45:09+00:00",
-      "media_type": "video",
-      "media_size_bytes": 15104516,
-      "media_size_human": "14.40 MB",
+      "tehran_time": "23:23:04",
+      "gregorian_utc": "2026-09-01T19:53:04+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 32374553,
+      "media_size_human": "30.87 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355298_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355298_video.mp4",
+      "media_local_path": "media/IranintlTV_355299_audio.mp3",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355299_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T20:20:37.960923+00:00"
+      "archived_at": "2026-09-01T20:30:46.987502+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -797,17 +797,17 @@
       "media_local_path": "media/satlastnews_76377_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76377_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T20:20:38.329124+00:00"
+      "archived_at": "2026-09-01T20:30:47.515755+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120500,
-      "message_link": "https://t.me/Mellig/120500",
-      "text": "درود بر جناب میرقادری خمین اول صدای موشک و چند دقیقه بعد صدای انفجار اومد\n\nجناب میرقادری موشکش فاسد بود افتاد تو خود خمین",
+      "message_id": 120503,
+      "message_link": "https://t.me/Mellig/120503",
+      "text": "خبرگزاری صداوسیما:دقایقی پیش آمریکا، فرودگاه جیرفت در کرمان رو بمبارون کرد\n❤️❤️",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "21:44:38",
-      "gregorian_utc": "2026-09-01T18:14:38+00:00",
+      "tehran_time": "22:07:02",
+      "gregorian_utc": "2026-09-01T18:37:02+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -815,7 +815,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T20:20:38.684305+00:00"
+      "archived_at": "2026-09-01T20:30:47.923659+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -833,7 +833,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T20:20:39.010129+00:00"
+      "archived_at": "2026-09-01T20:30:48.296101+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -851,25 +851,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T20:20:37.499978+00:00"
+      "archived_at": "2026-09-01T20:30:46.532371+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355297,
-      "message_link": "https://t.me/IranintlTV/355297",
-      "text": "خبرگزاری فارس، رسانه وابسته به سپاه، به نقل از معاون امنیتی استانداری خوزستان خبر داد که نقطه‌ای در اطراف شهر اهواز شامگاه سه‌شنبه از سوی ارتش آمریکا مورد حمله موشکی قرار گرفت.\nhttps://iranintl.com/202609018657",
+      "message_id": 355298,
+      "message_link": "https://t.me/IranintlTV/355298",
+      "text": "ویدیوهای رسیده به ایران‌اینترنشنال پرتاب موشک‌های جمهوری اسلامی را از خمین در شامگاه سه‌شنبه ۱۰ شهریور نشان می‌دهند.",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "23:09:52",
-      "gregorian_utc": "2026-09-01T19:39:52+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 63311,
-      "media_size_human": "61.83 KB",
+      "tehran_time": "23:15:09",
+      "gregorian_utc": "2026-09-01T19:45:09+00:00",
+      "media_type": "video",
+      "media_size_bytes": 15104516,
+      "media_size_human": "14.40 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355297_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355297_photo.jpg",
+      "media_local_path": "media/IranintlTV_355298_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355298_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T20:20:37.960988+00:00"
+      "archived_at": "2026-09-01T20:30:46.987556+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -887,25 +887,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T20:20:38.329178+00:00"
+      "archived_at": "2026-09-01T20:30:47.515815+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120499,
-      "message_link": "https://t.me/Mellig/120499",
-      "text": "🚨🚨🚨#فوری | صدای انفجاری در جزیره لاوان، واقع در جنوب ایران، شنیده شد",
+      "message_id": 120502,
+      "message_link": "https://t.me/Mellig/120502",
+      "text": "این مدرن تالکینگ عرزشی ها",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "21:42:16",
-      "gregorian_utc": "2026-09-01T18:12:16+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T20:20:38.684344+00:00"
+      "tehran_time": "21:59:52",
+      "gregorian_utc": "2026-09-01T18:29:52+00:00",
+      "media_type": "video",
+      "media_size_bytes": 12455301,
+      "media_size_human": "11.88 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_120502_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120502_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-09-01T20:30:47.923698+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -923,7 +923,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T20:20:39.010149+00:00"
+      "archived_at": "2026-09-01T20:30:48.296124+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -941,25 +941,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T20:20:37.499999+00:00"
+      "archived_at": "2026-09-01T20:30:46.532395+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355296,
-      "message_link": "https://t.me/IranintlTV/355296",
-      "text": "سایت حقوق بشری هرانا گزارش داد منوچهر بختیاری، پدر دادخواه پویا بختیاری از جان‌باختگان اعتراضات آبان ۱۳۹۸، در پرونده‌ای جدید از سوی شعبه اول دادگاه انقلاب بندرعباس به ۱۰ سال حبس محکوم شده است. این حکم سه‌شنبه ۱۰ شهریور به‌صورت شفاهی در زندان بندرعباس به او ابلاغ شد.\n\nبختیاری به اتهام «فعالیت تبلیغی علیه نظام جمهوری اسلامی ایران از طریق هم‌سویی رسانه‌ای با معاندین» به یک سال، «تحریک مردم به جنگ و کشتار با یکدیگر به قصد برهم زدن امنیت کشور به منظور ایجاد آشوب اجتماعی» به چهار سال و «ارسال فیلم به شبکه‌های مجازی بیگانه برخلاف امنیت ملی» به پنج سال حبس محکوم شده است.\n\nاین پدر دادخواه که مهر ۱۴۰۴ پس از تحمل بیش از چهار سال حبس، از زندان چوبیندر قزوین آزاد و برای اجرای حکم تبعید به بندرعباس اعزام شد، ۲۹ دی همان سال دوباره بازداشت و به زندان بندرعباس منتقل شد.\nhttps://iranintl.com/202609013600",
+      "message_id": 355297,
+      "message_link": "https://t.me/IranintlTV/355297",
+      "text": "خبرگزاری فارس، رسانه وابسته به سپاه، به نقل از معاون امنیتی استانداری خوزستان خبر داد که نقطه‌ای در اطراف شهر اهواز شامگاه سه‌شنبه از سوی ارتش آمریکا مورد حمله موشکی قرار گرفت.\nhttps://iranintl.com/202609018657",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "23:00:44",
-      "gregorian_utc": "2026-09-01T19:30:44+00:00",
+      "tehran_time": "23:09:52",
+      "gregorian_utc": "2026-09-01T19:39:52+00:00",
       "media_type": "photo",
-      "media_size_bytes": 134389,
-      "media_size_human": "131.24 KB",
+      "media_size_bytes": 63311,
+      "media_size_human": "61.83 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355296_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355296_photo.jpg",
+      "media_local_path": "media/IranintlTV_355297_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355297_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T20:20:37.961116+00:00"
+      "archived_at": "2026-09-01T20:30:46.987625+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -977,17 +977,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T20:20:38.329239+00:00"
+      "archived_at": "2026-09-01T20:30:47.515882+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120498,
-      "message_link": "https://t.me/Mellig/120498",
-      "text": "🚨**کوه زاغه مهمات بندر خمیر مورد هدف قرار گرفته شد**",
+      "message_id": 120501,
+      "message_link": "https://t.me/Mellig/120501",
+      "text": "🚨**سفارت ایالات متحده هشدار امنیتی برای شهرهای ابوظبی و دبی صادر کرده است**.",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "21:41:32",
-      "gregorian_utc": "2026-09-01T18:11:32+00:00",
+      "tehran_time": "21:51:04",
+      "gregorian_utc": "2026-09-01T18:21:04+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -995,7 +995,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T20:20:38.684382+00:00"
+      "archived_at": "2026-09-01T20:30:47.923751+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -1013,7 +1013,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T20:20:39.010171+00:00"
+      "archived_at": "2026-09-01T20:30:48.296149+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1031,25 +1031,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T20:20:37.500020+00:00"
+      "archived_at": "2026-09-01T20:30:46.532443+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355295,
-      "message_link": "https://t.me/IranintlTV/355295",
-      "text": "بر اساس ویدیوی رسیده به ایران‌اینترنشنال، شامگاه سه‌شنبه ۱۰ شهریور یک شناور در آب‌های قشم و حوالی روستای سَلَخ در حال سوختن است.",
+      "message_id": 355296,
+      "message_link": "https://t.me/IranintlTV/355296",
+      "text": "سایت حقوق بشری هرانا گزارش داد منوچهر بختیاری، پدر دادخواه پویا بختیاری از جان‌باختگان اعتراضات آبان ۱۳۹۸، در پرونده‌ای جدید از سوی شعبه اول دادگاه انقلاب بندرعباس به ۱۰ سال حبس محکوم شده است. این حکم سه‌شنبه ۱۰ شهریور به‌صورت شفاهی در زندان بندرعباس به او ابلاغ شد.\n\nبختیاری به اتهام «فعالیت تبلیغی علیه نظام جمهوری اسلامی ایران از طریق هم‌سویی رسانه‌ای با معاندین» به یک سال، «تحریک مردم به جنگ و کشتار با یکدیگر به قصد برهم زدن امنیت کشور به منظور ایجاد آشوب اجتماعی» به چهار سال و «ارسال فیلم به شبکه‌های مجازی بیگانه برخلاف امنیت ملی» به پنج سال حبس محکوم شده است.\n\nاین پدر دادخواه که مهر ۱۴۰۴ پس از تحمل بیش از چهار سال حبس، از زندان چوبیندر قزوین آزاد و برای اجرای حکم تبعید به بندرعباس اعزام شد، ۲۹ دی همان سال دوباره بازداشت و به زندان بندرعباس منتقل شد.\nhttps://iranintl.com/202609013600",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "22:51:21",
-      "gregorian_utc": "2026-09-01T19:21:21+00:00",
-      "media_type": "video",
-      "media_size_bytes": 21202002,
-      "media_size_human": "20.22 MB",
+      "tehran_time": "23:00:44",
+      "gregorian_utc": "2026-09-01T19:30:44+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 134389,
+      "media_size_human": "131.24 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355295_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355295_video.mp4",
+      "media_local_path": "media/IranintlTV_355296_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355296_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T20:20:37.961148+00:00"
+      "archived_at": "2026-09-01T20:30:46.987758+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1067,17 +1067,17 @@
       "media_local_path": "media/satlastnews_76374_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76374_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T20:20:38.329308+00:00"
+      "archived_at": "2026-09-01T20:30:47.515957+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120497,
-      "message_link": "https://t.me/Mellig/120497",
-      "text": "🔴مناطق خاورمیانه مملو از سوخت رسان  های آمریکایی هستند.",
+      "message_id": 120500,
+      "message_link": "https://t.me/Mellig/120500",
+      "text": "درود بر جناب میرقادری خمین اول صدای موشک و چند دقیقه بعد صدای انفجار اومد\n\nجناب میرقادری موشکش فاسد بود افتاد تو خود خمین",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "21:36:52",
-      "gregorian_utc": "2026-09-01T18:06:52+00:00",
+      "tehran_time": "21:44:38",
+      "gregorian_utc": "2026-09-01T18:14:38+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -1085,7 +1085,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T20:20:38.684404+00:00"
+      "archived_at": "2026-09-01T20:30:47.923781+00:00"
     }
   ]
 }
