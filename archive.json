@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T16:33:14.171916+00:00",
-  "shamsi_generated": "1405/06/10 16:33:14 تهران",
+  "generated_at": "2026-09-01T16:43:07.575286+00:00",
+  "shamsi_generated": "1405/06/10 16:43:07 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -41,25 +41,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T16:30:53.943492+00:00"
+      "archived_at": "2026-09-01T16:40:28.756110+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355261,
-      "message_link": "https://t.me/IranintlTV/355261",
-      "text": "خبرگزاری فارس، رسانه وابسته به سپاه، از شنیده شدن صدای انفجار در کنارک و چابهار در شامگاه سه‌شنبه خبر داد.\n\nفارس نوشت: «دقایقی قبل مردم در کنارک و چابهار صدای چند انفجار شنیدند.»\nhttps://iranintl.com/202609019218",
+      "message_id": 355265,
+      "message_link": "https://t.me/IranintlTV/355265",
+      "text": "تیتر اول با نیوشا صارمی، سه‌شنبه ۱۰ شهریور\n@iranintltv",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "20:00:36",
-      "gregorian_utc": "2026-09-01T16:30:36+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 56200,
-      "media_size_human": "54.88 KB",
+      "tehran_time": "20:09:16",
+      "gregorian_utc": "2026-09-01T16:39:16+00:00",
+      "media_type": "video",
+      "media_size_bytes": 1074475,
+      "media_size_human": "1.02 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355261_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355261_photo.jpg",
+      "media_local_path": "media/IranintlTV_355265_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355265_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T16:30:54.263276+00:00"
+      "archived_at": "2026-09-01T16:40:29.021738+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -77,25 +77,25 @@
       "media_local_path": "media/satlastnews_76387_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76387_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T16:30:54.581423+00:00"
+      "archived_at": "2026-09-01T16:40:29.317157+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120487,
-      "message_link": "https://t.me/Mellig/120487",
-      "text": "🚨چندین انفجار شدید در بندرعباس همین الان",
+      "message_id": 120488,
+      "message_link": "https://t.me/Mellig/120488",
+      "text": "جمهوری اسلامی پس از پیروزی های متعدد در مقابل امریکا و اسراییل\n\n@Mellig",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "19:39:16",
-      "gregorian_utc": "2026-09-01T16:09:16+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T16:30:54.895540+00:00"
+      "tehran_time": "20:02:01",
+      "gregorian_utc": "2026-09-01T16:32:01+00:00",
+      "media_type": "video",
+      "media_size_bytes": 1789826,
+      "media_size_human": "1.71 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_120488_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120488_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-09-01T16:40:29.574911+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -113,7 +113,7 @@
       "media_local_path": "media/khabarsara53_11_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_11_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T16:30:55.200774+00:00"
+      "archived_at": "2026-09-01T16:40:29.838612+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -131,25 +131,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T16:30:53.943524+00:00"
+      "archived_at": "2026-09-01T16:40:28.756148+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355260,
-      "message_link": "https://t.me/IranintlTV/355260",
-      "text": "خبرگزاری صدا و سیمای جمهوری اسلامی از شنیده شدن صدای چند انفجار در قشم در شامگاه سه‌شنبه خبر داد و نوشت: «دقایقی قبل صدای بیش از ۵ انفجار اطراف روستای مسن قشم شنیده شد.»\n\nاین خبرگزاری نوشت: «دقایقی پیش، صدای ۴ انفجار هم از سمت تنگه هرمز در قشم شنیده شد.»\n\nرسانه‌های ایران از شنیده شدن صدای انفجار در بندرعباس، سیریک و چابهار نیز خبر داده‌اند.\n\nمعاون سیاسی، امنیتی و اجتماعی استانداری هرمزگان، می‌گوید تاکنون هیچ‌گونه اصابت یا حادثه‌ای در هرمزگان گزارش نشده است.\nhttps://iranintl.com/202609018297",
+      "message_id": 355264,
+      "message_link": "https://t.me/IranintlTV/355264",
+      "text": "سنتکام، فرماندهی مرکزی ایالات متحده، اعلام کرد سه‌شنبه ساعت ۱۹:۳۰ به وقت تهران، نیروهای آمریکایی حمله به اهداف متعلق به سپاه پاسداران در ایران را آغاز کردند.\n\nسنتکام نوشت که این حملات پس از تلاش‌های اخیر سپاه پاسداران برای حمله به کشتی‌های تجاری در تنگه هرمز و همچنین نیروهای نظامی آمریکا مستقر در منطقه انجام شد.\nhttps://iranintl.com/202609011320",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "19:58:37",
-      "gregorian_utc": "2026-09-01T16:28:37+00:00",
+      "tehran_time": "20:09:04",
+      "gregorian_utc": "2026-09-01T16:39:04+00:00",
       "media_type": "photo",
-      "media_size_bytes": 63166,
-      "media_size_human": "61.69 KB",
+      "media_size_bytes": 62235,
+      "media_size_human": "60.78 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355260_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355260_photo.jpg",
+      "media_local_path": "media/IranintlTV_355264_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355264_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T16:30:54.263354+00:00"
+      "archived_at": "2026-09-01T16:40:29.021830+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -167,17 +167,17 @@
       "media_local_path": "media/satlastnews_76385_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76385_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T16:30:54.581471+00:00"
+      "archived_at": "2026-09-01T16:40:29.317218+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120486,
-      "message_link": "https://t.me/Mellig/120486",
-      "text": "🔴 #خبر_فوری\nادعای وزیر خزانه‌داری آمریکا:\nترامپ می‌خواهد موضوع ایران را برای همیشه به پایان برساند.",
+      "message_id": 120487,
+      "message_link": "https://t.me/Mellig/120487",
+      "text": "🚨چندین انفجار شدید در بندرعباس همین الان",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "19:29:01",
-      "gregorian_utc": "2026-09-01T15:59:01+00:00",
+      "tehran_time": "19:39:16",
+      "gregorian_utc": "2026-09-01T16:09:16+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -185,7 +185,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T16:30:54.895600+00:00"
+      "archived_at": "2026-09-01T16:40:29.574940+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -203,7 +203,7 @@
       "media_local_path": "media/khabarsara53_10_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_10_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T16:30:55.200820+00:00"
+      "archived_at": "2026-09-01T16:40:29.838664+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -221,25 +221,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T16:30:53.943544+00:00"
+      "archived_at": "2026-09-01T16:40:28.756175+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355259,
-      "message_link": "https://t.me/IranintlTV/355259",
-      "text": "شهرام خلدی، پژوهشگر تاریخ خاورمیانه و روابط بین‌الملل، با اشاره به اظهارات محمدباقر قالیباف، رییس مجلس، درباره احتمال شکل‌گیری اعتراضات در داخل ایران گفت جمهوری اسلامی هرگاه خود را در بحران شدید می‌بیند، با «دشمن‌انگاری» و «انسان‌زدایی» از بخش‌هایی از جامعه، تلاش می‌کند نیروهای سرکوب را منسجم و در برابر مردم نگه دارد.\n\nاو افزود تفاوت شرایط کنونی با دوره‌های پیشین، شدت بحران اقتصادی است و گفت حکومت هم‌زمان نگران است که نیروهای سرکوب نیز به‌تدریج دچار ریزش شوند.\n@iranintltv",
+      "message_id": 355263,
+      "message_link": "https://t.me/IranintlTV/355263",
+      "text": "خبرگزاری فارس، رسانه وابسته به سپاه پاسداران، از شنیده شدن صدای انفجار در بندرعباس، سیریک و جزیره قشم خبر داد.\n\nصدا و سیما نیز از شنیده شدن صدای چند انفجار در جزیره قشم و روستای مسن خبر داده بود.\nhttps://iranintl.com/202609011596",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "19:47:08",
-      "gregorian_utc": "2026-09-01T16:17:08+00:00",
-      "media_type": "video",
-      "media_size_bytes": 5363875,
-      "media_size_human": "5.12 MB",
+      "tehran_time": "20:04:19",
+      "gregorian_utc": "2026-09-01T16:34:19+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 61412,
+      "media_size_human": "59.97 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355259_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355259_video.mp4",
+      "media_local_path": "media/IranintlTV_355263_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355263_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T16:30:54.263419+00:00"
+      "archived_at": "2026-09-01T16:40:29.021889+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -257,17 +257,17 @@
       "media_local_path": "media/satlastnews_76383_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76383_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T16:30:54.581499+00:00"
+      "archived_at": "2026-09-01T16:40:29.317253+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120485,
-      "message_link": "https://t.me/Mellig/120485",
-      "text": "سلام ساعت ۷شب یه نقطه ریز زد شد سمت گرمدره نمیدونم جت بود یا پهباد ارتفاع زیاد",
+      "message_id": 120486,
+      "message_link": "https://t.me/Mellig/120486",
+      "text": "🔴 #خبر_فوری\nادعای وزیر خزانه‌داری آمریکا:\nترامپ می‌خواهد موضوع ایران را برای همیشه به پایان برساند.",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "19:21:45",
-      "gregorian_utc": "2026-09-01T15:51:45+00:00",
+      "tehran_time": "19:29:01",
+      "gregorian_utc": "2026-09-01T15:59:01+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -275,7 +275,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T16:30:54.895616+00:00"
+      "archived_at": "2026-09-01T16:40:29.574985+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -293,7 +293,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T16:30:55.200836+00:00"
+      "archived_at": "2026-09-01T16:40:29.838686+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -311,25 +311,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T16:30:53.943570+00:00"
+      "archived_at": "2026-09-01T16:40:28.756204+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355258,
-      "message_link": "https://t.me/IranintlTV/355258",
-      "text": "یک شهروند با ارسال پیام صوتی به ایران‌اینترنشنال می‌گوید برای تحویل سه‌ماهه خودروی سایپا طلای همسرش و خودروی پراید خود را فروخته اما ده ماه است که هنوز خودرو را تحویل نگرفته است.",
+      "message_id": 355262,
+      "message_link": "https://t.me/IranintlTV/355262",
+      "text": "🎧نسخه صوتی اخبار شبانگاهی | سه‌شنبه ۱۰ شهریور\n@iranintlTV",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "19:31:55",
-      "gregorian_utc": "2026-09-01T16:01:55+00:00",
-      "media_type": "video",
-      "media_size_bytes": 18607691,
-      "media_size_human": "17.75 MB",
+      "tehran_time": "20:03:47",
+      "gregorian_utc": "2026-09-01T16:33:47+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 38878307,
+      "media_size_human": "37.08 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355258_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355258_video.mp4",
+      "media_local_path": "media/IranintlTV_355262_audio.mp3",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355262_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T16:30:54.263446+00:00"
+      "archived_at": "2026-09-01T16:40:29.080604+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -347,25 +347,25 @@
       "media_local_path": "media/satlastnews_76381_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76381_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T16:30:54.581520+00:00"
+      "archived_at": "2026-09-01T16:40:29.317279+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120484,
-      "message_link": "https://t.me/Mellig/120484",
-      "text": "محسن نامجو، ۲۱ آذر ۱۴۰۱:\nخامنه‌ای از استالین بدتر است. این‌ها از مغول‌ها بدترند\nاگر اسلحه نمی‌تونیم دستمون بگیریم، یک انفجار باید. یک جا را باید بزنیم و بترکونیم. هیچ‌کار دیگه‌ای نمیشه کرد جلوی این‌ها\nمقتدای این‌ها علی هست که ۳۰۰ یهودی رو توی یک ساعت کشت.\n\nMellig.net",
+      "message_id": 120485,
+      "message_link": "https://t.me/Mellig/120485",
+      "text": "سلام ساعت ۷شب یه نقطه ریز زد شد سمت گرمدره نمیدونم جت بود یا پهباد ارتفاع زیاد",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "17:57:15",
-      "gregorian_utc": "2026-09-01T14:27:15+00:00",
-      "media_type": "video",
-      "media_size_bytes": 8253352,
-      "media_size_human": "7.87 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/Mellig_120484_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120484_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-09-01T16:30:54.895684+00:00"
+      "tehran_time": "19:21:45",
+      "gregorian_utc": "2026-09-01T15:51:45+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-09-01T16:40:29.575019+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -383,7 +383,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T16:30:55.200851+00:00"
+      "archived_at": "2026-09-01T16:40:29.838704+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -401,25 +401,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T16:30:53.943586+00:00"
+      "archived_at": "2026-09-01T16:40:28.756223+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355257,
-      "message_link": "https://t.me/IranintlTV/355257",
-      "text": "هم‌زمان، دور تازه تنش‌ها میان جمهوری اسلامی و آمریکا بازتاب فراوانی در میان سیاستمداران و رسانه‌های آمریکایی داشته است. چند سناتور آمریکایی درباره نحوه مدیریت جنگ ایران از سوی دولت ترامپ مواضع متفاوتی گرفته‌اند و اختلاف‌نظر قابل توجهی درباره موفقیت یا شکست استراتژی دولت دیده می‌شود.\n\nگفت‌وگو با مرضیه حسینی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 355261,
+      "message_link": "https://t.me/IranintlTV/355261",
+      "text": "خبرگزاری فارس، رسانه وابسته به سپاه، از شنیده شدن صدای انفجار در کنارک و چابهار در شامگاه سه‌شنبه خبر داد.\n\nفارس نوشت: «دقایقی قبل مردم در کنارک و چابهار صدای چند انفجار شنیدند.»\nhttps://iranintl.com/202609019218",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "19:21:24",
-      "gregorian_utc": "2026-09-01T15:51:24+00:00",
-      "media_type": "video",
-      "media_size_bytes": 3823478,
-      "media_size_human": "3.65 MB",
+      "tehran_time": "20:00:36",
+      "gregorian_utc": "2026-09-01T16:30:36+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 56200,
+      "media_size_human": "54.88 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355257_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355257_video.mp4",
+      "media_local_path": "media/IranintlTV_355261_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355261_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T16:30:54.263492+00:00"
+      "archived_at": "2026-09-01T16:40:29.080738+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -437,25 +437,25 @@
       "media_local_path": "media/satlastnews_76380_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76380_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T16:30:54.581538+00:00"
+      "archived_at": "2026-09-01T16:40:29.317302+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120483,
-      "message_link": "https://t.me/Mellig/120483",
-      "text": "سلام آقای میر قادری عزیز پرواز های ورودی مشهد امروز به شدت زیاد شده نمیدانم چه برنامه ای باز اینها دارن🤔",
+      "message_id": 120484,
+      "message_link": "https://t.me/Mellig/120484",
+      "text": "محسن نامجو، ۲۱ آذر ۱۴۰۱:\nخامنه‌ای از استالین بدتر است. این‌ها از مغول‌ها بدترند\nاگر اسلحه نمی‌تونیم دستمون بگیریم، یک انفجار باید. یک جا را باید بزنیم و بترکونیم. هیچ‌کار دیگه‌ای نمیشه کرد جلوی این‌ها\nمقتدای این‌ها علی هست که ۳۰۰ یهودی رو توی یک ساعت کشت.\n\nMellig.net",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "16:53:06",
-      "gregorian_utc": "2026-09-01T13:23:06+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T16:30:54.895701+00:00"
+      "tehran_time": "17:57:15",
+      "gregorian_utc": "2026-09-01T14:27:15+00:00",
+      "media_type": "video",
+      "media_size_bytes": 8253352,
+      "media_size_human": "7.87 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_120484_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120484_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-09-01T16:40:29.575071+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -473,7 +473,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T16:30:55.200865+00:00"
+      "archived_at": "2026-09-01T16:40:29.838721+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -491,25 +491,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T16:30:53.943607+00:00"
+      "archived_at": "2026-09-01T16:40:28.756248+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355256,
-      "message_link": "https://t.me/IranintlTV/355256",
-      "text": "حسن قشقاوی، سخنگوی کمیسیون امنیت ملی مجلس، گفت این کمیسیون در ادامه بررسی طرح «اقدام راهبردی برای امنیت و پیشرفت پایدار در تنگه هرمز»، موادی از آن را درباره دریافت ضمانت‌نامه، تعرفه‌ها و پرداخت غرامت تصویب کرده است.\n\nبر اساس گزارش خبرگزاری ایسنا، قشقاوی گفت تبصره دو ماده پنج این طرح که در کمیسیون تصویب شد، الزام دریافت ضمانت‌نامه بانکی و بیمه در برابر مخاطرات احتمالی برای تردد را پیش‌بینی می‌کند و ماده شش نیز سازوکار و آیین‌نامه اجرایی تعیین تعرفه‌های خدماتی و بیمه‌ای را در نظر گرفته است.\n\nاو افزود طبق ماده هفت تصویب‌شده در کمیسیون، تمامی کشورها، سازمان‌ها و اشخاص حقیقی و حقوقی که در دوران جنگ به ایران خسارت وارد کرده‌اند، باید با دولت جمهوری اسلامی درباره نحوه پرداخت غرامت به توافق برسند.\n\nقشقاوی گفت اگر این کشورها یا شرکت‌ها غرامت نپردازند یا در این زمینه با جمهوری اسلامی به توافق نرسند، مجوز عبور آن‌ها از تنگه هرمز صادر نخواهد شد. \nhttps://iranintl.com/202609011059",
+      "message_id": 355260,
+      "message_link": "https://t.me/IranintlTV/355260",
+      "text": "خبرگزاری صدا و سیمای جمهوری اسلامی از شنیده شدن صدای چند انفجار در قشم در شامگاه سه‌شنبه خبر داد و نوشت: «دقایقی قبل صدای بیش از ۵ انفجار اطراف روستای مسن قشم شنیده شد.»\n\nاین خبرگزاری نوشت: «دقایقی پیش، صدای ۴ انفجار هم از سمت تنگه هرمز در قشم شنیده شد.»\n\nرسانه‌های ایران از شنیده شدن صدای انفجار در بندرعباس، سیریک و چابهار نیز خبر داده‌اند.\n\nمعاون سیاسی، امنیتی و اجتماعی استانداری هرمزگان، می‌گوید تاکنون هیچ‌گونه اصابت یا حادثه‌ای در هرمزگان گزارش نشده است.\nhttps://iranintl.com/202609018297",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "19:17:45",
-      "gregorian_utc": "2026-09-01T15:47:45+00:00",
+      "tehran_time": "19:58:37",
+      "gregorian_utc": "2026-09-01T16:28:37+00:00",
       "media_type": "photo",
-      "media_size_bytes": 174671,
-      "media_size_human": "170.58 KB",
+      "media_size_bytes": 63166,
+      "media_size_human": "61.69 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355256_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355256_photo.jpg",
+      "media_local_path": "media/IranintlTV_355260_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355260_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T16:30:54.263578+00:00"
+      "archived_at": "2026-09-01T16:40:29.080827+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -527,25 +527,25 @@
       "media_local_path": "media/satlastnews_76379_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76379_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T16:30:54.581558+00:00"
+      "archived_at": "2026-09-01T16:40:29.317325+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120482,
-      "message_link": "https://t.me/Mellig/120482",
-      "text": "با درود استاد\n\nدر حرم رضا انگور این فاطی کوماندو میگه که لباس بندری حرام است ما را به گناه می اندازد\n\nیعنی تمام فکر و ذهن این عرزشی ها حجاب است\n\nاصلا درکی از حق انتخاب ندارند همه چی زور است\n\nامیدوارم روزی برسه که ماهم در ایران حق انتخاب داشته باشیم\n\nهیچی زوری نباشد🙏",
+      "message_id": 120483,
+      "message_link": "https://t.me/Mellig/120483",
+      "text": "سلام آقای میر قادری عزیز پرواز های ورودی مشهد امروز به شدت زیاد شده نمیدانم چه برنامه ای باز اینها دارن🤔",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "15:37:28",
-      "gregorian_utc": "2026-09-01T12:07:28+00:00",
-      "media_type": "video",
-      "media_size_bytes": 13786423,
-      "media_size_human": "13.15 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/Mellig_120482_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120482_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-09-01T16:30:54.895746+00:00"
+      "tehran_time": "16:53:06",
+      "gregorian_utc": "2026-09-01T13:23:06+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-09-01T16:40:29.575089+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -563,7 +563,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T16:30:55.200879+00:00"
+      "archived_at": "2026-09-01T16:40:29.838737+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -581,25 +581,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T16:30:53.943622+00:00"
+      "archived_at": "2026-09-01T16:40:28.756270+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355255,
-      "message_link": "https://t.me/IranintlTV/355255",
-      "text": "لیونل مسی پس از بیش از دو دهه حضور در تیم ملی آرژانتین، با رکوردهایی ماندگار و جام‌هایی ارزشمند، آخرین فصل حضورش در عرصه ملی را به پایان رساند.\n\nجزییات بیشتر در گزارش امید آرامش، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 355259,
+      "message_link": "https://t.me/IranintlTV/355259",
+      "text": "شهرام خلدی، پژوهشگر تاریخ خاورمیانه و روابط بین‌الملل، با اشاره به اظهارات محمدباقر قالیباف، رییس مجلس، درباره احتمال شکل‌گیری اعتراضات در داخل ایران گفت جمهوری اسلامی هرگاه خود را در بحران شدید می‌بیند، با «دشمن‌انگاری» و «انسان‌زدایی» از بخش‌هایی از جامعه، تلاش می‌کند نیروهای سرکوب را منسجم و در برابر مردم نگه دارد.\n\nاو افزود تفاوت شرایط کنونی با دوره‌های پیشین، شدت بحران اقتصادی است و گفت حکومت هم‌زمان نگران است که نیروهای سرکوب نیز به‌تدریج دچار ریزش شوند.\n@iranintltv",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "19:13:13",
-      "gregorian_utc": "2026-09-01T15:43:13+00:00",
+      "tehran_time": "19:47:08",
+      "gregorian_utc": "2026-09-01T16:17:08+00:00",
       "media_type": "video",
-      "media_size_bytes": 2471353,
-      "media_size_human": "2.36 MB",
+      "media_size_bytes": 5363875,
+      "media_size_human": "5.12 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355255_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355255_video.mp4",
+      "media_local_path": "media/IranintlTV_355259_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355259_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T16:30:54.263616+00:00"
+      "archived_at": "2026-09-01T16:40:29.080905+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -617,25 +617,25 @@
       "media_local_path": "media/satlastnews_76378_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76378_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T16:30:54.581577+00:00"
+      "archived_at": "2026-09-01T16:40:29.317347+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120481,
-      "message_link": "https://t.me/Mellig/120481",
-      "text": "پرزیدنت ترامپ برای اولین بار\nبه 100 هزار کشته در 18 و 19 دی\nاشاره کردند\n\nhttps://www.instagram.com/p/DcvPc6WPycQ/",
+      "message_id": 120482,
+      "message_link": "https://t.me/Mellig/120482",
+      "text": "با درود استاد\n\nدر حرم رضا انگور این فاطی کوماندو میگه که لباس بندری حرام است ما را به گناه می اندازد\n\nیعنی تمام فکر و ذهن این عرزشی ها حجاب است\n\nاصلا درکی از حق انتخاب ندارند همه چی زور است\n\nامیدوارم روزی برسه که ماهم در ایران حق انتخاب داشته باشیم\n\nهیچی زوری نباشد🙏",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "12:12:14",
-      "gregorian_utc": "2026-09-01T08:42:14+00:00",
+      "tehran_time": "15:37:28",
+      "gregorian_utc": "2026-09-01T12:07:28+00:00",
       "media_type": "video",
-      "media_size_bytes": 3856501,
-      "media_size_human": "3.68 MB",
+      "media_size_bytes": 13786423,
+      "media_size_human": "13.15 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120481_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120481_video.mp4",
+      "media_local_path": "media/Mellig_120482_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120482_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T16:30:54.895777+00:00"
+      "archived_at": "2026-09-01T16:40:29.575141+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -653,7 +653,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T16:30:55.200894+00:00"
+      "archived_at": "2026-09-01T16:40:29.838754+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -671,25 +671,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T16:30:53.943648+00:00"
+      "archived_at": "2026-09-01T16:40:28.756302+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355254,
-      "message_link": "https://t.me/IranintlTV/355254",
-      "text": "فرماندهی مرکزی آمریکا، سنتکام، سه‌شنبه ۱۰ شهریور در شبکه اجتماعی ایکس اعلام کرد نیروهای آمریکایی در چارچوب اجرای محاصره دریایی علیه ایران، تاکنون مسیر ۸۴ کشتی تجاری را تغییر داده، سه کشتی را از کار انداخته و برای اطمینان از رعایت محدودیت‌های محاصره، بر دو کشتی سوار شده‌اند.\nhttps://iranintl.com/202609013884",
+      "message_id": 355258,
+      "message_link": "https://t.me/IranintlTV/355258",
+      "text": "یک شهروند با ارسال پیام صوتی به ایران‌اینترنشنال می‌گوید برای تحویل سه‌ماهه خودروی سایپا طلای همسرش و خودروی پراید خود را فروخته اما ده ماه است که هنوز خودرو را تحویل نگرفته است.",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "18:52:44",
-      "gregorian_utc": "2026-09-01T15:22:44+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 155882,
-      "media_size_human": "152.23 KB",
+      "tehran_time": "19:31:55",
+      "gregorian_utc": "2026-09-01T16:01:55+00:00",
+      "media_type": "video",
+      "media_size_bytes": 18607691,
+      "media_size_human": "17.75 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355254_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355254_photo.jpg",
+      "media_local_path": "media/IranintlTV_355258_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355258_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T16:30:54.263663+00:00"
+      "archived_at": "2026-09-01T16:40:29.080936+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -707,25 +707,25 @@
       "media_local_path": "media/satlastnews_76377_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76377_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T16:30:54.581608+00:00"
+      "archived_at": "2026-09-01T16:40:29.317383+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120480,
-      "message_link": "https://t.me/Mellig/120480",
-      "text": "مهدی جان اصفهان سمت آتشگاه صدا انفجار اومد",
+      "message_id": 120481,
+      "message_link": "https://t.me/Mellig/120481",
+      "text": "پرزیدنت ترامپ برای اولین بار\nبه 100 هزار کشته در 18 و 19 دی\nاشاره کردند\n\nhttps://www.instagram.com/p/DcvPc6WPycQ/",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "12:02:14",
-      "gregorian_utc": "2026-09-01T08:32:14+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T16:30:54.895792+00:00"
+      "tehran_time": "12:12:14",
+      "gregorian_utc": "2026-09-01T08:42:14+00:00",
+      "media_type": "video",
+      "media_size_bytes": 3856501,
+      "media_size_human": "3.68 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_120481_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120481_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-09-01T16:40:29.575176+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -743,7 +743,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T16:30:55.200906+00:00"
+      "archived_at": "2026-09-01T16:40:29.838772+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -761,25 +761,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T16:30:53.943666+00:00"
+      "archived_at": "2026-09-01T16:40:28.756322+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355253,
-      "message_link": "https://t.me/IranintlTV/355253",
-      "text": "وزارت کشور آلمان در پاسخ به ایران‌اینترنشنال درباره تهدید اخیر ابوالفضل شکارچی، سخنگوی ارشد نیروهای مسلح جمهوری اسلامی، علیه خبرنگاران فارسی‌زبان خارج از کشور اعلام کرد که سطح تهدید جمهوری اسلامی علیه مخالفانش در آلمان همچنان بالاست.\n\nبرلین «سرکوب فرامرزی» را بخشی از فعالیت عوامل جمهوری اسلامی دانست و تاکید کرد که چنین اقداماتی را در خاک آلمان تحمل نمی‌کند.\n\nجزییات بیشتر در گفت‌وگو با علی حسن‌پور، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 355257,
+      "message_link": "https://t.me/IranintlTV/355257",
+      "text": "هم‌زمان، دور تازه تنش‌ها میان جمهوری اسلامی و آمریکا بازتاب فراوانی در میان سیاستمداران و رسانه‌های آمریکایی داشته است. چند سناتور آمریکایی درباره نحوه مدیریت جنگ ایران از سوی دولت ترامپ مواضع متفاوتی گرفته‌اند و اختلاف‌نظر قابل توجهی درباره موفقیت یا شکست استراتژی دولت دیده می‌شود.\n\nگفت‌وگو با مرضیه حسینی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "18:51:50",
-      "gregorian_utc": "2026-09-01T15:21:50+00:00",
+      "tehran_time": "19:21:24",
+      "gregorian_utc": "2026-09-01T15:51:24+00:00",
       "media_type": "video",
-      "media_size_bytes": 2607416,
-      "media_size_human": "2.49 MB",
+      "media_size_bytes": 3823478,
+      "media_size_human": "3.65 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355253_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355253_video.mp4",
+      "media_local_path": "media/IranintlTV_355257_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355257_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T16:30:54.263714+00:00"
+      "archived_at": "2026-09-01T16:40:29.080991+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -797,17 +797,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T16:30:54.581644+00:00"
+      "archived_at": "2026-09-01T16:40:29.317426+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120479,
-      "message_link": "https://t.me/Mellig/120479",
-      "text": "🔴 #خبر_فوری\n3 فروند هواپیمای E-6B، که وظیفه هواپیماهای روز قیامت نیروی هوایی ایالات متحده را بر عهده دارند،\nهمزمان به طور بسیار غیر عادی از خاک ایالات متحده برخاستند و به طور فعال سیگنال‌ها و کدهای هسته‌ای و غیر هسته‌ای را به پایگاه‌های آمریکایی در سراسر جهان ارسال می‌کنند،\nدر حالی که تقویت نیروها به دلیل احتمال وقوع درگیری قریب الوقوع در خاورمیانه با ایران ادامه دارد.",
+      "message_id": 120480,
+      "message_link": "https://t.me/Mellig/120480",
+      "text": "مهدی جان اصفهان سمت آتشگاه صدا انفجار اومد",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "11:28:31",
-      "gregorian_utc": "2026-09-01T07:58:31+00:00",
+      "tehran_time": "12:02:14",
+      "gregorian_utc": "2026-09-01T08:32:14+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -815,7 +815,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T16:30:54.895834+00:00"
+      "archived_at": "2026-09-01T16:40:29.575193+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -833,7 +833,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T16:30:55.200919+00:00"
+      "archived_at": "2026-09-01T16:40:29.838788+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -851,25 +851,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T16:30:53.943680+00:00"
+      "archived_at": "2026-09-01T16:40:28.756340+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355252,
-      "message_link": "https://t.me/IranintlTV/355252",
-      "text": "در حالی که ترامپ و مشاورانش در حال بررسی ازسرگیری حملات به جنوب ایران هستند تا مانع حمله سپاه به کشتی‌ها شوند، یک عضو کمیسون امنیت ملی مجلس خواستار حمله پیش‌دستانه به آمریکا شد و یک مقام ارشد ارتش جمهوری اسلامی از آمادگی نیروهایش برای چنین حمله‌ای گفت.\n\nگزارشی از مجتبا پورمحسن\n@iranintltv",
+      "message_id": 355256,
+      "message_link": "https://t.me/IranintlTV/355256",
+      "text": "حسن قشقاوی، سخنگوی کمیسیون امنیت ملی مجلس، گفت این کمیسیون در ادامه بررسی طرح «اقدام راهبردی برای امنیت و پیشرفت پایدار در تنگه هرمز»، موادی از آن را درباره دریافت ضمانت‌نامه، تعرفه‌ها و پرداخت غرامت تصویب کرده است.\n\nبر اساس گزارش خبرگزاری ایسنا، قشقاوی گفت تبصره دو ماده پنج این طرح که در کمیسیون تصویب شد، الزام دریافت ضمانت‌نامه بانکی و بیمه در برابر مخاطرات احتمالی برای تردد را پیش‌بینی می‌کند و ماده شش نیز سازوکار و آیین‌نامه اجرایی تعیین تعرفه‌های خدماتی و بیمه‌ای را در نظر گرفته است.\n\nاو افزود طبق ماده هفت تصویب‌شده در کمیسیون، تمامی کشورها، سازمان‌ها و اشخاص حقیقی و حقوقی که در دوران جنگ به ایران خسارت وارد کرده‌اند، باید با دولت جمهوری اسلامی درباره نحوه پرداخت غرامت به توافق برسند.\n\nقشقاوی گفت اگر این کشورها یا شرکت‌ها غرامت نپردازند یا در این زمینه با جمهوری اسلامی به توافق نرسند، مجوز عبور آن‌ها از تنگه هرمز صادر نخواهد شد. \nhttps://iranintl.com/202609011059",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "18:50:04",
-      "gregorian_utc": "2026-09-01T15:20:04+00:00",
-      "media_type": "video",
-      "media_size_bytes": 6191636,
-      "media_size_human": "5.90 MB",
+      "tehran_time": "19:17:45",
+      "gregorian_utc": "2026-09-01T15:47:45+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 174671,
+      "media_size_human": "170.58 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355252_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355252_video.mp4",
+      "media_local_path": "media/IranintlTV_355256_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355256_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T16:30:54.263753+00:00"
+      "archived_at": "2026-09-01T16:40:29.081144+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -887,25 +887,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T16:30:54.581678+00:00"
+      "archived_at": "2026-09-01T16:40:29.317466+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120477,
-      "message_link": "https://t.me/Mellig/120477",
-      "text": "ترامپ :مسئولین جمهوری اسلامی برای جنایت علیه بشریت باید محاکمه شوند.۹ شهریور ۲۵۸۵🖥😀\n\nMellig.net\n\n⚠️ پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 168.27 MB)",
+      "message_id": 120479,
+      "message_link": "https://t.me/Mellig/120479",
+      "text": "🔴 #خبر_فوری\n3 فروند هواپیمای E-6B، که وظیفه هواپیماهای روز قیامت نیروی هوایی ایالات متحده را بر عهده دارند،\nهمزمان به طور بسیار غیر عادی از خاک ایالات متحده برخاستند و به طور فعال سیگنال‌ها و کدهای هسته‌ای و غیر هسته‌ای را به پایگاه‌های آمریکایی در سراسر جهان ارسال می‌کنند،\nدر حالی که تقویت نیروها به دلیل احتمال وقوع درگیری قریب الوقوع در خاورمیانه با ایران ادامه دارد.",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "08:28:15",
-      "gregorian_utc": "2026-09-01T04:58:15+00:00",
-      "media_type": "audio",
-      "media_size_bytes": 176443905,
-      "media_size_human": "168.27 MB",
+      "tehran_time": "11:28:31",
+      "gregorian_utc": "2026-09-01T07:58:31+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
       "media_downloaded": false,
       "media_local_path": null,
       "media_link": null,
-      "no_media_reason": "پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 168.27 MB)",
-      "archived_at": "2026-09-01T16:30:54.895873+00:00"
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-09-01T16:40:29.575244+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -923,7 +923,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T16:30:55.200932+00:00"
+      "archived_at": "2026-09-01T16:40:29.838804+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -941,25 +941,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T16:30:53.943692+00:00"
+      "archived_at": "2026-09-01T16:40:28.756357+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355251,
-      "message_link": "https://t.me/IranintlTV/355251",
-      "text": "🔻فدراسیون فوتبال اقدام به برگزاری یک اردوی نمایشی برای تیم ملی فوتبال زنان کرده است. در این اردو قرار است مستندی درباره اقدام چند عضو تیم برای پناهندگی در جام آسیایی استرالیا ساخته شود.\n\n🔹جزییات بیشتر در گفت‌وگو با رها پوربخش، عضو تحریریه ایران‌اینترنشنال\n\n@iranintltvsport",
+      "message_id": 355255,
+      "message_link": "https://t.me/IranintlTV/355255",
+      "text": "لیونل مسی پس از بیش از دو دهه حضور در تیم ملی آرژانتین، با رکوردهایی ماندگار و جام‌هایی ارزشمند، آخرین فصل حضورش در عرصه ملی را به پایان رساند.\n\nجزییات بیشتر در گزارش امید آرامش، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "18:50:03",
-      "gregorian_utc": "2026-09-01T15:20:03+00:00",
+      "tehran_time": "19:13:13",
+      "gregorian_utc": "2026-09-01T15:43:13+00:00",
       "media_type": "video",
-      "media_size_bytes": 3452371,
-      "media_size_human": "3.29 MB",
+      "media_size_bytes": 2471353,
+      "media_size_human": "2.36 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355251_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355251_video.mp4",
+      "media_local_path": "media/IranintlTV_355255_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355255_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T16:30:54.294323+00:00"
+      "archived_at": "2026-09-01T16:40:29.081195+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -977,25 +977,25 @@
       "media_local_path": "media/satlastnews_76374_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76374_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T16:30:54.581729+00:00"
+      "archived_at": "2026-09-01T16:40:29.317522+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120476,
-      "message_link": "https://t.me/Mellig/120476",
-      "text": "⁨ «**من آدمی نبودم که کسی را اذیت کنم. این را یادتان باشد، هر چه که از من نشان دادند باور نکنید. من آزارم به هیچ کسی نرسید و نمی‌رسد. نمی‌توانم و نتوانستم که به کسی آزار برسانم.**»\n\nجاویدنام مجید آدینه که در نخستین روز شهریور به دست جمهوری اسلامی اعدام شد، نظامی بازنشسته بود که با راه‌اندازی دو موسسه خیریه در فردیس و محمدشهر استان البرز دو دهه زندگی‌اش را وقف حمایت از کودکان بی‌سرپرست، خانواده‌های بی‌بضاعت و افراد بی‌خانمان کرده بود.\n\nرژیم تبهکاری که پاسخ انسان‌دوستی و خدمت به نیازمندان را با طناب دار می‌دهد، دشمنی و کینه‌توزی‌اش با عشق به ایران، و انسانیت و زندگی است.⁩⁩\n\nMellig.net",
+      "message_id": 120477,
+      "message_link": "https://t.me/Mellig/120477",
+      "text": "ترامپ :مسئولین جمهوری اسلامی برای جنایت علیه بشریت باید محاکمه شوند.۹ شهریور ۲۵۸۵🖥😀\n\nMellig.net\n\n⚠️ پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 168.27 MB)",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "07:22:51",
-      "gregorian_utc": "2026-09-01T03:52:51+00:00",
-      "media_type": "video",
-      "media_size_bytes": 2497586,
-      "media_size_human": "2.38 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/Mellig_120476_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120476_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-09-01T16:30:54.895937+00:00"
+      "tehran_time": "08:28:15",
+      "gregorian_utc": "2026-09-01T04:58:15+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 176443905,
+      "media_size_human": "168.27 MB",
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 168.27 MB)",
+      "archived_at": "2026-09-01T16:40:29.575288+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -1013,7 +1013,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T16:30:55.200945+00:00"
+      "archived_at": "2026-09-01T16:40:29.838821+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1031,25 +1031,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T16:30:53.943705+00:00"
+      "archived_at": "2026-09-01T16:40:28.756374+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355250,
-      "message_link": "https://t.me/IranintlTV/355250",
-      "text": "🔻در فاصله یک روز تا برگزاری دربی ۱۰۷ تهران، برخی رسانه‌های داخلی ایران از شکل‌گیری بازار سیاه بلیت این مسابقه خبر دادند. بر اساس این گزارش‌ها، بلیت‌های دربی در سایت‌ها و فضای مجازی با قیمت حدود ۲ میلیون تومان آگهی شده و در برخی موارد قیمت‌ها به ۷ میلیون تومان نیز رسیده است.\n\n🔹این قیمت‌ها فاصله قابل توجهی با نرخ رسمی بلیت دارند و نشان می‌دهد همزمان با استقبال هواداران از مهم‌ترین مسابقه هفته پنجم لیگ برتر، دلالی و فروش غیررسمی بلیت نیز رونق گرفته است. چنین اتفاقی در دربی‌های گذشته نیز سابقه داشته و در برخی دوره‌ها بلیت‌ها با قیمت‌های بسیار بالاتری در بازار سیاه عرضه شده‌اند.\n\n🔹استقلال و پرسپولیس از ساعت ۱۹:۳۰ روز چهارشنبه ۱۱ شهریور در ورزشگاه نقش‌جهان اصفهان به مصاف یکدیگر می‌روند. ظرفیت رسمی بلیت‌فروشی این مسابقه ۳۵ هزار نفر اعلام شده است.\n\n[@iranintltvsport](https://t.me/iranintltvsport)",
+      "message_id": 355254,
+      "message_link": "https://t.me/IranintlTV/355254",
+      "text": "فرماندهی مرکزی آمریکا، سنتکام، سه‌شنبه ۱۰ شهریور در شبکه اجتماعی ایکس اعلام کرد نیروهای آمریکایی در چارچوب اجرای محاصره دریایی علیه ایران، تاکنون مسیر ۸۴ کشتی تجاری را تغییر داده، سه کشتی را از کار انداخته و برای اطمینان از رعایت محدودیت‌های محاصره، بر دو کشتی سوار شده‌اند.\nhttps://iranintl.com/202609013884",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "18:49:23",
-      "gregorian_utc": "2026-09-01T15:19:23+00:00",
+      "tehran_time": "18:52:44",
+      "gregorian_utc": "2026-09-01T15:22:44+00:00",
       "media_type": "photo",
-      "media_size_bytes": 213022,
-      "media_size_human": "208.03 KB",
+      "media_size_bytes": 155882,
+      "media_size_human": "152.23 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355250_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355250_photo.jpg",
+      "media_local_path": "media/IranintlTV_355254_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355254_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T16:30:54.294483+00:00"
+      "archived_at": "2026-09-01T16:40:29.081249+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1067,25 +1067,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T16:30:54.581973+00:00"
+      "archived_at": "2026-09-01T16:40:29.317840+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120475,
-      "message_link": "https://t.me/Mellig/120475",
-      "text": "کنسرت محسن نامجو در پاریس، ۷ آذر ۱۳۹۱ 🤣🤣🤣\n\nMellig.net",
+      "message_id": 120476,
+      "message_link": "https://t.me/Mellig/120476",
+      "text": "⁨ «**من آدمی نبودم که کسی را اذیت کنم. این را یادتان باشد، هر چه که از من نشان دادند باور نکنید. من آزارم به هیچ کسی نرسید و نمی‌رسد. نمی‌توانم و نتوانستم که به کسی آزار برسانم.**»\n\nجاویدنام مجید آدینه که در نخستین روز شهریور به دست جمهوری اسلامی اعدام شد، نظامی بازنشسته بود که با راه‌اندازی دو موسسه خیریه در فردیس و محمدشهر استان البرز دو دهه زندگی‌اش را وقف حمایت از کودکان بی‌سرپرست، خانواده‌های بی‌بضاعت و افراد بی‌خانمان کرده بود.\n\nرژیم تبهکاری که پاسخ انسان‌دوستی و خدمت به نیازمندان را با طناب دار می‌دهد، دشمنی و کینه‌توزی‌اش با عشق به ایران، و انسانیت و زندگی است.⁩⁩\n\nMellig.net",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "03:35:01",
-      "gregorian_utc": "2026-09-01T00:05:01+00:00",
+      "tehran_time": "07:22:51",
+      "gregorian_utc": "2026-09-01T03:52:51+00:00",
       "media_type": "video",
-      "media_size_bytes": 1677024,
-      "media_size_human": "1.60 MB",
+      "media_size_bytes": 2497586,
+      "media_size_human": "2.38 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120475_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120475_video.mp4",
+      "media_local_path": "media/Mellig_120476_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120476_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T16:30:54.895968+00:00"
+      "archived_at": "2026-09-01T16:40:29.575364+00:00"
     }
   ]
 }
