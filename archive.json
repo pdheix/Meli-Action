@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T09:32:17.800465+00:00",
-  "shamsi_generated": "1405/06/10 09:32:17 تهران",
+  "generated_at": "2026-09-01T09:42:08.903292+00:00",
+  "shamsi_generated": "1405/06/10 09:42:08 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -41,25 +41,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T09:30:36.915776+00:00"
+      "archived_at": "2026-09-01T09:40:43.986300+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355194,
-      "message_link": "https://t.me/IranintlTV/355194",
-      "text": "وحید سراوند، دبیر انجمن CNG تهران، گفت: «دولت باید بین بنزین ارزان و خودروی ارزان یکی را انتخاب کند.» او با اشاره به اختلاف قیمت خودرو در ایران و کشورهای همسایه، گفت: «قیمت هر لیتر بنزین که در شرایط جنگی خریداری می‌شود، ۱ دلار و ۲۰ سنت است.» \n@iranintltv",
+      "message_id": 355195,
+      "message_link": "https://t.me/IranintlTV/355195",
+      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال، در خصوص گرانی‌های روزافزون در ایران می‌گوید دوغ، ماست و چند عدد بستنی را به قیمت ۷۸۵ هزار تومان خریده است.",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "12:59:23",
-      "gregorian_utc": "2026-09-01T09:29:23+00:00",
+      "tehran_time": "13:03:22",
+      "gregorian_utc": "2026-09-01T09:33:22+00:00",
       "media_type": "video",
-      "media_size_bytes": 1532901,
-      "media_size_human": "1.46 MB",
+      "media_size_bytes": 5843509,
+      "media_size_human": "5.57 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355194_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355194_video.mp4",
+      "media_local_path": "media/IranintlTV_355195_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355195_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T09:30:37.273562+00:00"
+      "archived_at": "2026-09-01T09:40:44.273152+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -77,7 +77,7 @@
       "media_local_path": "media/satlastnews_76387_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76387_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T09:30:37.613816+00:00"
+      "archived_at": "2026-09-01T09:40:44.604677+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -95,7 +95,7 @@
       "media_local_path": "media/Mellig_120481_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120481_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T09:30:37.962368+00:00"
+      "archived_at": "2026-09-01T09:40:44.917129+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -113,7 +113,7 @@
       "media_local_path": "media/khabarsara53_11_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_11_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T09:30:38.272479+00:00"
+      "archived_at": "2026-09-01T09:40:45.304538+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -131,25 +131,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T09:30:36.915828+00:00"
+      "archived_at": "2026-09-01T09:40:43.986331+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355193,
-      "message_link": "https://t.me/IranintlTV/355193",
-      "text": "محمدجواد اکبرین، عضو تحریریه ایران‌اینترنشنال، با اشاره به اظهارات مسعود پزشکیان درباره بازگشت به تفاهم با آمریکا می‌گوید اختلاف میان مقام‌های جمهوری اسلامی درباره ادامه جنگ یا بازگشت به مذاکره، ناشی از میزان واقع‌بینی آنهاست.\n\nاکبرین معتقد است دولت پزشکیان با مشاهده وضعیت کشور و ناتوانی در ادامه شرایط موجود، بار دیگر از بازگشت به تفاهم سخن می‌گوید.\n@iranintltv",
+      "message_id": 355194,
+      "message_link": "https://t.me/IranintlTV/355194",
+      "text": "وحید سراوند، دبیر انجمن CNG تهران، گفت: «دولت باید بین بنزین ارزان و خودروی ارزان یکی را انتخاب کند.» او با اشاره به اختلاف قیمت خودرو در ایران و کشورهای همسایه، گفت: «قیمت هر لیتر بنزین که در شرایط جنگی خریداری می‌شود، ۱ دلار و ۲۰ سنت است.» \n@iranintltv",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "12:55:46",
-      "gregorian_utc": "2026-09-01T09:25:46+00:00",
+      "tehran_time": "12:59:23",
+      "gregorian_utc": "2026-09-01T09:29:23+00:00",
       "media_type": "video",
-      "media_size_bytes": 3797286,
-      "media_size_human": "3.62 MB",
+      "media_size_bytes": 1532901,
+      "media_size_human": "1.46 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355193_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355193_video.mp4",
+      "media_local_path": "media/IranintlTV_355194_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355194_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T09:30:37.273691+00:00"
+      "archived_at": "2026-09-01T09:40:44.273237+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -167,7 +167,7 @@
       "media_local_path": "media/satlastnews_76385_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76385_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T09:30:37.613894+00:00"
+      "archived_at": "2026-09-01T09:40:44.604726+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -185,7 +185,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T09:30:37.962408+00:00"
+      "archived_at": "2026-09-01T09:40:44.917156+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -203,7 +203,7 @@
       "media_local_path": "media/khabarsara53_10_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_10_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T09:30:38.272551+00:00"
+      "archived_at": "2026-09-01T09:40:45.304582+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -221,25 +221,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T09:30:36.915863+00:00"
+      "archived_at": "2026-09-01T09:40:43.986351+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355192,
-      "message_link": "https://t.me/IranintlTV/355192",
-      "text": "تداوم قطعی برق در نقاط مختلف کشور، علاوه بر ایجاد اختلال در زندگی روزمره مردم، به کسب‌وکارها و واحدهای تولیدی نیز خسارت وارد کرده است. در پی این وضعیت، صدها تن از کارگران و کارکنان مجتمع آریان فولاد قزوین تجمع کردند و دست به راهپیمایی اعتراضی زدند.\n\nجزییات بیشتر در گفت‌وگو با لیلا سعادتی، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 355193,
+      "message_link": "https://t.me/IranintlTV/355193",
+      "text": "محمدجواد اکبرین، عضو تحریریه ایران‌اینترنشنال، با اشاره به اظهارات مسعود پزشکیان درباره بازگشت به تفاهم با آمریکا می‌گوید اختلاف میان مقام‌های جمهوری اسلامی درباره ادامه جنگ یا بازگشت به مذاکره، ناشی از میزان واقع‌بینی آنهاست.\n\nاکبرین معتقد است دولت پزشکیان با مشاهده وضعیت کشور و ناتوانی در ادامه شرایط موجود، بار دیگر از بازگشت به تفاهم سخن می‌گوید.\n@iranintltv",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "12:46:18",
-      "gregorian_utc": "2026-09-01T09:16:18+00:00",
+      "tehran_time": "12:55:46",
+      "gregorian_utc": "2026-09-01T09:25:46+00:00",
       "media_type": "video",
-      "media_size_bytes": 3030479,
-      "media_size_human": "2.89 MB",
+      "media_size_bytes": 3797286,
+      "media_size_human": "3.62 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355192_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355192_video.mp4",
+      "media_local_path": "media/IranintlTV_355193_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355193_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T09:30:37.273787+00:00"
+      "archived_at": "2026-09-01T09:40:44.273293+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -257,7 +257,7 @@
       "media_local_path": "media/satlastnews_76383_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76383_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T09:30:37.613948+00:00"
+      "archived_at": "2026-09-01T09:40:44.604755+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -275,7 +275,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T09:30:37.962491+00:00"
+      "archived_at": "2026-09-01T09:40:44.917216+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -293,7 +293,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T09:30:38.272583+00:00"
+      "archived_at": "2026-09-01T09:40:45.304600+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -311,25 +311,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T09:30:36.915905+00:00"
+      "archived_at": "2026-09-01T09:40:43.986373+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355191,
-      "message_link": "https://t.me/IranintlTV/355191",
-      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال، در خصوص گرانی‌های روزافزون در ایران می‌گوید که خرید روزمره او برای خانه حدود چهار میلیون و ۸۰۰ هزار تومان هزینه برداشته است.",
+      "message_id": 355192,
+      "message_link": "https://t.me/IranintlTV/355192",
+      "text": "تداوم قطعی برق در نقاط مختلف کشور، علاوه بر ایجاد اختلال در زندگی روزمره مردم، به کسب‌وکارها و واحدهای تولیدی نیز خسارت وارد کرده است. در پی این وضعیت، صدها تن از کارگران و کارکنان مجتمع آریان فولاد قزوین تجمع کردند و دست به راهپیمایی اعتراضی زدند.\n\nجزییات بیشتر در گفت‌وگو با لیلا سعادتی، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "12:32:03",
-      "gregorian_utc": "2026-09-01T09:02:03+00:00",
+      "tehran_time": "12:46:18",
+      "gregorian_utc": "2026-09-01T09:16:18+00:00",
       "media_type": "video",
-      "media_size_bytes": 2931058,
-      "media_size_human": "2.80 MB",
+      "media_size_bytes": 3030479,
+      "media_size_human": "2.89 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355191_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355191_video.mp4",
+      "media_local_path": "media/IranintlTV_355192_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355192_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T09:30:37.273831+00:00"
+      "archived_at": "2026-09-01T09:40:44.273343+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -347,7 +347,7 @@
       "media_local_path": "media/satlastnews_76381_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76381_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T09:30:37.614013+00:00"
+      "archived_at": "2026-09-01T09:40:44.604776+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -365,7 +365,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 168.27 MB)",
-      "archived_at": "2026-09-01T09:30:37.962668+00:00"
+      "archived_at": "2026-09-01T09:40:44.917353+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -383,7 +383,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T09:30:38.272609+00:00"
+      "archived_at": "2026-09-01T09:40:45.304616+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -401,25 +401,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T09:30:36.915937+00:00"
+      "archived_at": "2026-09-01T09:40:43.986390+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355190,
-      "message_link": "https://t.me/IranintlTV/355190",
-      "text": "مرکز عملیات تجارت دریایی بریتانیا اعلام کرد یک نفتکش هنگام خروج از تنگه هرمز در نزدیکی سواحل عمان هدف اصابت سه پرتابه ناشناس قرار گرفت.\n\nهم‌زمان، رسانه‌های دولتی جمهوری اسلامی از توقف یک نفتکش عربستانی در کریدور جنوبی تنگه هرمز خبر دادند. اسماعیل کوثری، عضو کمیسیون امنیت ملی مجلس، نیز گفت عبور از تنگه هرمز بدون هماهنگی با جمهوری اسلامی با «برخورد نظامی» مواجه خواهد شد.\n\nجزییات بیشتر با احمد صمدی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 355191,
+      "message_link": "https://t.me/IranintlTV/355191",
+      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال، در خصوص گرانی‌های روزافزون در ایران می‌گوید که خرید روزمره او برای خانه حدود چهار میلیون و ۸۰۰ هزار تومان هزینه برداشته است.",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "12:27:25",
-      "gregorian_utc": "2026-09-01T08:57:25+00:00",
+      "tehran_time": "12:32:03",
+      "gregorian_utc": "2026-09-01T09:02:03+00:00",
       "media_type": "video",
-      "media_size_bytes": 3592988,
-      "media_size_human": "3.43 MB",
+      "media_size_bytes": 2931058,
+      "media_size_human": "2.80 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355190_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355190_video.mp4",
+      "media_local_path": "media/IranintlTV_355191_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355191_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T09:30:37.273925+00:00"
+      "archived_at": "2026-09-01T09:40:44.273367+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -437,7 +437,7 @@
       "media_local_path": "media/satlastnews_76380_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76380_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T09:30:37.614054+00:00"
+      "archived_at": "2026-09-01T09:40:44.604797+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -455,7 +455,7 @@
       "media_local_path": "media/Mellig_120476_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120476_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T09:30:37.962781+00:00"
+      "archived_at": "2026-09-01T09:40:44.917428+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -473,7 +473,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T09:30:38.272634+00:00"
+      "archived_at": "2026-09-01T09:40:45.304631+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -491,25 +491,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T09:30:36.915996+00:00"
+      "archived_at": "2026-09-01T09:40:43.986411+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355189,
-      "message_link": "https://t.me/IranintlTV/355189",
-      "text": "🔻کارلوس آلکاراس، مرد شماره سه تنیس جهان، پس از چهار ماه و نیم دوری از رقابت‌ها به‌دلیل آسیب‌دیدگی مچ دست راست، بازگشتی درخشان داشت. این تنیس‌باز اسپانیایی روز دوشنبه در دور نخست تنیس آزاد آمریکا، رومان سفیولین روس (نفر ۹۹ جهان) را در سه ست پیاپی و با نتایج مشابه ۶-۴، ۶-۴ و ۶-۴ شکست داد.\n\n🔹آلکاراس که آخرین بار ۱۴ آوریل در بارسلونا بازی کرده بود، در این دیدار ۲ ساعت و ۲۱ دقیقه‌ای عملکردی قابل‌قبول و مطمئن ارائه کرد. هرچند او در ست نخست ۲-۰ عقب افتاد، اما به‌سرعت بازی را در دست گرفت و تسلط خود را به رخ کشید.\n\n🔹آلکاراس روز چهارشنبه در دور دوم این مسابقات به مصاف ژایمه فاریا، تنیس‌باز پرتغالی و نفر هفتاد جهان، خواهد رفت.\n\n[@iranintltvsport](https://t.me/iranintltvsport)",
+      "message_id": 355190,
+      "message_link": "https://t.me/IranintlTV/355190",
+      "text": "مرکز عملیات تجارت دریایی بریتانیا اعلام کرد یک نفتکش هنگام خروج از تنگه هرمز در نزدیکی سواحل عمان هدف اصابت سه پرتابه ناشناس قرار گرفت.\n\nهم‌زمان، رسانه‌های دولتی جمهوری اسلامی از توقف یک نفتکش عربستانی در کریدور جنوبی تنگه هرمز خبر دادند. اسماعیل کوثری، عضو کمیسیون امنیت ملی مجلس، نیز گفت عبور از تنگه هرمز بدون هماهنگی با جمهوری اسلامی با «برخورد نظامی» مواجه خواهد شد.\n\nجزییات بیشتر با احمد صمدی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "12:06:57",
-      "gregorian_utc": "2026-09-01T08:36:57+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 185419,
-      "media_size_human": "181.07 KB",
+      "tehran_time": "12:27:25",
+      "gregorian_utc": "2026-09-01T08:57:25+00:00",
+      "media_type": "video",
+      "media_size_bytes": 3592988,
+      "media_size_human": "3.43 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355189_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355189_photo.jpg",
+      "media_local_path": "media/IranintlTV_355190_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355190_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T09:30:37.288765+00:00"
+      "archived_at": "2026-09-01T09:40:44.273427+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -527,7 +527,7 @@
       "media_local_path": "media/satlastnews_76379_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76379_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T09:30:37.614092+00:00"
+      "archived_at": "2026-09-01T09:40:44.604816+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -545,7 +545,7 @@
       "media_local_path": "media/Mellig_120475_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120475_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T09:30:37.962844+00:00"
+      "archived_at": "2026-09-01T09:40:44.917462+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -563,7 +563,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T09:30:38.272659+00:00"
+      "archived_at": "2026-09-01T09:40:45.304646+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -581,25 +581,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T09:30:36.916030+00:00"
+      "archived_at": "2026-09-01T09:40:43.986426+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355188,
-      "message_link": "https://t.me/IranintlTV/355188",
-      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال می‌گوید مجبور شده است به دلیل گرانی و بی‌‍‌پولی، چند قلم کالای خوراکی را به‌صورت قسطی تهیه کند.",
+      "message_id": 355189,
+      "message_link": "https://t.me/IranintlTV/355189",
+      "text": "🔻کارلوس آلکاراس، مرد شماره سه تنیس جهان، پس از چهار ماه و نیم دوری از رقابت‌ها به‌دلیل آسیب‌دیدگی مچ دست راست، بازگشتی درخشان داشت. این تنیس‌باز اسپانیایی روز دوشنبه در دور نخست تنیس آزاد آمریکا، رومان سفیولین روس (نفر ۹۹ جهان) را در سه ست پیاپی و با نتایج مشابه ۶-۴، ۶-۴ و ۶-۴ شکست داد.\n\n🔹آلکاراس که آخرین بار ۱۴ آوریل در بارسلونا بازی کرده بود، در این دیدار ۲ ساعت و ۲۱ دقیقه‌ای عملکردی قابل‌قبول و مطمئن ارائه کرد. هرچند او در ست نخست ۲-۰ عقب افتاد، اما به‌سرعت بازی را در دست گرفت و تسلط خود را به رخ کشید.\n\n🔹آلکاراس روز چهارشنبه در دور دوم این مسابقات به مصاف ژایمه فاریا، تنیس‌باز پرتغالی و نفر هفتاد جهان، خواهد رفت.\n\n[@iranintltvsport](https://t.me/iranintltvsport)",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "12:01:41",
-      "gregorian_utc": "2026-09-01T08:31:41+00:00",
-      "media_type": "video",
-      "media_size_bytes": 7781546,
-      "media_size_human": "7.42 MB",
+      "tehran_time": "12:06:57",
+      "gregorian_utc": "2026-09-01T08:36:57+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 185419,
+      "media_size_human": "181.07 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355188_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355188_video.mp4",
+      "media_local_path": "media/IranintlTV_355189_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355189_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T09:30:37.288881+00:00"
+      "archived_at": "2026-09-01T09:40:44.293142+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -617,7 +617,7 @@
       "media_local_path": "media/satlastnews_76378_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76378_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T09:30:37.614128+00:00"
+      "archived_at": "2026-09-01T09:40:44.604834+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -635,7 +635,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T09:30:37.962905+00:00"
+      "archived_at": "2026-09-01T09:40:44.917497+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -653,7 +653,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T09:30:38.272684+00:00"
+      "archived_at": "2026-09-01T09:40:45.304660+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -671,25 +671,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T09:30:36.916072+00:00"
+      "archived_at": "2026-09-01T09:40:43.986454+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355187,
-      "message_link": "https://t.me/IranintlTV/355187",
-      "text": "**🗣روایت شما: وضعیت زندگی در سایه سرکوب سیاسی و تنش‌های نظامی - سه‌شنبه ۱۰ شهریور**\n\n🔹واقعاً کم مونده از شدت فقر و بی‌پولی برم در خیابون بخوابم. صاحب‌خونه ۴ روز مهلت داده تخلیه کنیم، اما با کدوم پول برم خونه بخرم؟ ازدواج که از سرم افتاده، چون پول ندارم. کاش حداقل مادرم می‌تونست سرش رو بالا بگیره.\n\n🔹اوضاع شرکت سایپا خیلی خرابه، حقوق پرسنل رو هفتگی پرداخت می‌کنن، بابت مطالبات قطعه‌سازان هم چون نمی‌تونن پول بدن، خودرو میدن.\n\n🔹من هنرستانی هستم، قیمت اتوبوس رو دیگه چرا گرون می‌کنن؟ من واقعاً برای هزینه‌ها می‌ترسم از اینکه مدارس باز بشه.\n\n🔹ما مردم ایران خسته‌ایم: از گرانی، فقر، ناامنی و سفره‌های خالی. از پدری که شرمنده زن و فرزندش می‌شود، از مادری که آرزوی ساده‌ترین نیازهای زندگی را دارد. ما فقط زندگی می‌خواهیم؛ آرامش، امنیت، آزادی و آینده‌ای برای فرزندانمان. ایران را به مردمش برگردانید.\n\n🔹خدا شاهده ۵ ماه بیکارم، مستأجرم و زن و بچه دارم. درسته همه ضربه خوردن، ولی بزرگ‌ترین ضربه ما کارگرها و سنگ‌کارها خوردیم. دیگه پول نون و پول کرایه خونه ندارم.\n\n🔹از تهران: خیابان پیروزی، روبه‌روی مترو ابن‌سینا، هر شب از ساعت ۱۸ بسیجی‌ها ایست بازرسی می‌گذارند و مردم را به‌شدت آزار و جوانان را مورد ضرب‌وشتم قرار می‌دهند.",
+      "message_id": 355188,
+      "message_link": "https://t.me/IranintlTV/355188",
+      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال می‌گوید مجبور شده است به دلیل گرانی و بی‌‍‌پولی، چند قلم کالای خوراکی را به‌صورت قسطی تهیه کند.",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "11:56:51",
-      "gregorian_utc": "2026-09-01T08:26:51+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T09:30:37.289114+00:00"
+      "tehran_time": "12:01:41",
+      "gregorian_utc": "2026-09-01T08:31:41+00:00",
+      "media_type": "video",
+      "media_size_bytes": 7781546,
+      "media_size_human": "7.42 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/IranintlTV_355188_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355188_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-09-01T09:40:44.293234+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -707,7 +707,7 @@
       "media_local_path": "media/satlastnews_76377_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76377_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T09:30:37.614186+00:00"
+      "archived_at": "2026-09-01T09:40:44.604866+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -725,7 +725,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-09-01T09:30:37.962944+00:00"
+      "archived_at": "2026-09-01T09:40:44.917518+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -743,7 +743,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T09:30:38.272709+00:00"
+      "archived_at": "2026-09-01T09:40:45.304674+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -761,25 +761,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T09:30:36.916100+00:00"
+      "archived_at": "2026-09-01T09:40:43.986470+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355186,
-      "message_link": "https://t.me/IranintlTV/355186",
-      "text": "اسماعیل کوثری، عضو کمیسیون امنیت ملی و سیاست خارجی مجلس، درباره میانجیگری پاکستان و ازسرگیری مذاکرات میان واشینگتن و تهران گفت برخی تصور می‌کنند آمریکا در پی این میانجیگری تغییر خواهد کرد، اما چنین نیست.\n\nکوثری با اشاره به سفر عاصم منیر به تهران گفت: «عاصم منیر و امثال او می‌آیند و می‌روند و برخی خیال می‌کنند که این شیطان بزرگ آدم می‌شود؛ در حالی که این‌طور نیست و آنها همچنان همان روحیه شیطانی، خودخواهی و تکبر خود را دارند.»\nhttps://iranintl.com/202609018287",
+      "message_id": 355187,
+      "message_link": "https://t.me/IranintlTV/355187",
+      "text": "**🗣روایت شما: وضعیت زندگی در سایه سرکوب سیاسی و تنش‌های نظامی - سه‌شنبه ۱۰ شهریور**\n\n🔹واقعاً کم مونده از شدت فقر و بی‌پولی برم در خیابون بخوابم. صاحب‌خونه ۴ روز مهلت داده تخلیه کنیم، اما با کدوم پول برم خونه بخرم؟ ازدواج که از سرم افتاده، چون پول ندارم. کاش حداقل مادرم می‌تونست سرش رو بالا بگیره.\n\n🔹اوضاع شرکت سایپا خیلی خرابه، حقوق پرسنل رو هفتگی پرداخت می‌کنن، بابت مطالبات قطعه‌سازان هم چون نمی‌تونن پول بدن، خودرو میدن.\n\n🔹من هنرستانی هستم، قیمت اتوبوس رو دیگه چرا گرون می‌کنن؟ من واقعاً برای هزینه‌ها می‌ترسم از اینکه مدارس باز بشه.\n\n🔹ما مردم ایران خسته‌ایم: از گرانی، فقر، ناامنی و سفره‌های خالی. از پدری که شرمنده زن و فرزندش می‌شود، از مادری که آرزوی ساده‌ترین نیازهای زندگی را دارد. ما فقط زندگی می‌خواهیم؛ آرامش، امنیت، آزادی و آینده‌ای برای فرزندانمان. ایران را به مردمش برگردانید.\n\n🔹خدا شاهده ۵ ماه بیکارم، مستأجرم و زن و بچه دارم. درسته همه ضربه خوردن، ولی بزرگ‌ترین ضربه ما کارگرها و سنگ‌کارها خوردیم. دیگه پول نون و پول کرایه خونه ندارم.\n\n🔹از تهران: خیابان پیروزی، روبه‌روی مترو ابن‌سینا، هر شب از ساعت ۱۸ بسیجی‌ها ایست بازرسی می‌گذارند و مردم را به‌شدت آزار و جوانان را مورد ضرب‌وشتم قرار می‌دهند.",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "11:52:30",
-      "gregorian_utc": "2026-09-01T08:22:30+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 230816,
-      "media_size_human": "225.41 KB",
-      "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355186_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355186_photo.jpg",
-      "no_media_reason": null,
-      "archived_at": "2026-09-01T09:30:37.289254+00:00"
+      "tehran_time": "11:56:51",
+      "gregorian_utc": "2026-09-01T08:26:51+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-09-01T09:40:44.293356+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -797,7 +797,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T09:30:37.614268+00:00"
+      "archived_at": "2026-09-01T09:40:44.604920+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -815,7 +815,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-09-01T09:30:37.963003+00:00"
+      "archived_at": "2026-09-01T09:40:44.917536+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -833,7 +833,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T09:30:38.272733+00:00"
+      "archived_at": "2026-09-01T09:40:45.304686+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -851,25 +851,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T09:30:36.916126+00:00"
+      "archived_at": "2026-09-01T09:40:43.986484+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355185,
-      "message_link": "https://t.me/IranintlTV/355185",
-      "text": "ویدیوی ارسال‌شده به ایران‌اینترنشنال در سه‌شنبه ۱۰ شهریور، آب آلوده و ناسالم لوله‌کشی را در شیراز نشان می‌دهد.",
+      "message_id": 355186,
+      "message_link": "https://t.me/IranintlTV/355186",
+      "text": "اسماعیل کوثری، عضو کمیسیون امنیت ملی و سیاست خارجی مجلس، درباره میانجیگری پاکستان و ازسرگیری مذاکرات میان واشینگتن و تهران گفت برخی تصور می‌کنند آمریکا در پی این میانجیگری تغییر خواهد کرد، اما چنین نیست.\n\nکوثری با اشاره به سفر عاصم منیر به تهران گفت: «عاصم منیر و امثال او می‌آیند و می‌روند و برخی خیال می‌کنند که این شیطان بزرگ آدم می‌شود؛ در حالی که این‌طور نیست و آنها همچنان همان روحیه شیطانی، خودخواهی و تکبر خود را دارند.»\nhttps://iranintl.com/202609018287",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "11:30:50",
-      "gregorian_utc": "2026-09-01T08:00:50+00:00",
-      "media_type": "video",
-      "media_size_bytes": 5047340,
-      "media_size_human": "4.81 MB",
+      "tehran_time": "11:52:30",
+      "gregorian_utc": "2026-09-01T08:22:30+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 230816,
+      "media_size_human": "225.41 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355185_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355185_video.mp4",
+      "media_local_path": "media/IranintlTV_355186_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355186_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T09:30:37.289300+00:00"
+      "archived_at": "2026-09-01T09:40:44.293424+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -887,7 +887,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T09:30:37.614331+00:00"
+      "archived_at": "2026-09-01T09:40:44.604958+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -905,7 +905,7 @@
       "media_local_path": "media/Mellig_120471_sticker.webp",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120471_sticker.webp",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T09:30:37.963046+00:00"
+      "archived_at": "2026-09-01T09:40:44.917561+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -923,7 +923,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T09:30:38.272756+00:00"
+      "archived_at": "2026-09-01T09:40:45.304699+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -941,25 +941,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T09:30:36.916151+00:00"
+      "archived_at": "2026-09-01T09:40:43.986499+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355184,
-      "message_link": "https://t.me/IranintlTV/355184",
-      "text": "🔻به گزارش خبرگزاری تسنیم، کمیته انضباطی فدراسیون فوتبال شکایت باشگاه‌های سپاهان و مس شهربابک را از یاسر آسانی رد کرد و استقلال و یاسر آسانی تبرئه شدند. معترضان مدعی بودند حضور این بازیکن در ترکیب استقلال غیرقانونی است.\n\n🔹بر اساس استعلام کمیته انضباطی از سازمان لیگ، هیچ‌گونه فسخ قراردادی برای آسانی در سازمان لیگ ثبت نشده است؛ موضوعی که طبق دستورالعمل سال ۱۴۰۳ برای رسمی شدن فسخ الزامی است. \n\n🔹همچنین باشگاه استقلال با ارائه استعلام از فیفا اثبات کرد که با توجه به عدم صدور ITC جدید، آسانی همچنان بازیکن قانونی استقلال است. با توجه به این حکم، حضور یاسر آسانی در دیدارهای پیش‌روی استقلال هیچ مانع قانونی ندارد.\n\n@iranintltvsport",
+      "message_id": 355185,
+      "message_link": "https://t.me/IranintlTV/355185",
+      "text": "ویدیوی ارسال‌شده به ایران‌اینترنشنال در سه‌شنبه ۱۰ شهریور، آب آلوده و ناسالم لوله‌کشی را در شیراز نشان می‌دهد.",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "11:20:26",
-      "gregorian_utc": "2026-09-01T07:50:26+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 151555,
-      "media_size_human": "148.00 KB",
+      "tehran_time": "11:30:50",
+      "gregorian_utc": "2026-09-01T08:00:50+00:00",
+      "media_type": "video",
+      "media_size_bytes": 5047340,
+      "media_size_human": "4.81 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355184_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355184_photo.jpg",
+      "media_local_path": "media/IranintlTV_355185_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355185_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T09:30:37.289431+00:00"
+      "archived_at": "2026-09-01T09:40:44.293450+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -977,7 +977,7 @@
       "media_local_path": "media/satlastnews_76374_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76374_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T09:30:37.614424+00:00"
+      "archived_at": "2026-09-01T09:40:44.605045+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -995,7 +995,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T09:30:37.963073+00:00"
+      "archived_at": "2026-09-01T09:40:44.917575+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -1013,7 +1013,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T09:30:38.272783+00:00"
+      "archived_at": "2026-09-01T09:40:45.304713+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1031,25 +1031,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T09:30:36.916176+00:00"
+      "archived_at": "2026-09-01T09:40:43.986512+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355183,
-      "message_link": "https://t.me/IranintlTV/355183",
-      "text": "کانال ۱۳ اسرائیل گزارش داد داوید زینی، رییس سازمان امنیت داخلی اسرائیل، شاباک، عصر شنبه به‌طور محرمانه به واشینگتن سفر کرده است.\n\nبر اساس این گزارش، زینی در این سفر با مقام‌های اف‌بی‌آی درباره چند پرونده حساس امنیتی گفت‌وگو خواهد کرد. بررسی تهدیدهای مطرح‌شده علیه پسر بنیامین نتانیاهو، نخست‌وزیر اسرائیل، یکی از محورهای این مذاکرات عنوان شده است.\n\nجزییات بیشتر با اشکان صفایی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 355184,
+      "message_link": "https://t.me/IranintlTV/355184",
+      "text": "🔻به گزارش خبرگزاری تسنیم، کمیته انضباطی فدراسیون فوتبال شکایت باشگاه‌های سپاهان و مس شهربابک را از یاسر آسانی رد کرد و استقلال و یاسر آسانی تبرئه شدند. معترضان مدعی بودند حضور این بازیکن در ترکیب استقلال غیرقانونی است.\n\n🔹بر اساس استعلام کمیته انضباطی از سازمان لیگ، هیچ‌گونه فسخ قراردادی برای آسانی در سازمان لیگ ثبت نشده است؛ موضوعی که طبق دستورالعمل سال ۱۴۰۳ برای رسمی شدن فسخ الزامی است. \n\n🔹همچنین باشگاه استقلال با ارائه استعلام از فیفا اثبات کرد که با توجه به عدم صدور ITC جدید، آسانی همچنان بازیکن قانونی استقلال است. با توجه به این حکم، حضور یاسر آسانی در دیدارهای پیش‌روی استقلال هیچ مانع قانونی ندارد.\n\n@iranintltvsport",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "11:17:57",
-      "gregorian_utc": "2026-09-01T07:47:57+00:00",
-      "media_type": "video",
-      "media_size_bytes": 1885348,
-      "media_size_human": "1.80 MB",
+      "tehran_time": "11:20:26",
+      "gregorian_utc": "2026-09-01T07:50:26+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 151555,
+      "media_size_human": "148.00 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355183_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355183_video.mp4",
+      "media_local_path": "media/IranintlTV_355184_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355184_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T09:30:37.289528+00:00"
+      "archived_at": "2026-09-01T09:40:44.293518+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1067,7 +1067,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T09:30:37.614792+00:00"
+      "archived_at": "2026-09-01T09:40:44.605315+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1085,7 +1085,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T09:30:37.963098+00:00"
+      "archived_at": "2026-09-01T09:40:44.917589+00:00"
     }
   ]
 }
