@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T08:23:32.395617+00:00",
-  "shamsi_generated": "1405/06/10 08:23:32 تهران",
+  "generated_at": "2026-09-01T08:32:36.401799+00:00",
+  "shamsi_generated": "1405/06/10 08:32:36 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -41,25 +41,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T08:20:35.498460+00:00"
+      "archived_at": "2026-09-01T08:30:37.176786+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355185,
-      "message_link": "https://t.me/IranintlTV/355185",
-      "text": "ویدیوی ارسال‌شده به ایران‌اینترنشنال در سه‌شنبه ۱۰ شهریور، آب آلوده و ناسالم لوله‌کشی را در شیراز نشان می‌دهد.",
+      "message_id": 355187,
+      "message_link": "https://t.me/IranintlTV/355187",
+      "text": "**🗣روایت شما: وضعیت زندگی در سایه سرکوب سیاسی و تنش‌های نظامی - سه‌شنبه ۱۰ شهریور**\n\n🔹واقعاً کم مونده از شدت فقر و بی‌پولی برم در خیابون بخوابم. صاحب‌خونه ۴ روز مهلت داده تخلیه کنیم، اما با کدوم پول برم خونه بخرم؟ ازدواج که از سرم افتاده، چون پول ندارم. کاش حداقل مادرم می‌تونست سرش رو بالا بگیره.\n\n🔹اوضاع شرکت سایپا خیلی خرابه، حقوق پرسنل رو هفتگی پرداخت می‌کنن، بابت مطالبات قطعه‌سازان هم چون نمی‌تونن پول بدن، خودرو میدن.\n\n🔹من هنرستانی هستم، قیمت اتوبوس رو دیگه چرا گرون می‌کنن؟ من واقعاً برای هزینه‌ها می‌ترسم از اینکه مدارس باز بشه.\n\n🔹ما مردم ایران خسته‌ایم: از گرانی، فقر، ناامنی و سفره‌های خالی. از پدری که شرمنده زن و فرزندش می‌شود، از مادری که آرزوی ساده‌ترین نیازهای زندگی را دارد. ما فقط زندگی می‌خواهیم؛ آرامش، امنیت، آزادی و آینده‌ای برای فرزندانمان. ایران را به مردمش برگردانید.\n\n🔹خدا شاهده ۵ ماه بیکارم، مستأجرم و زن و بچه دارم. درسته همه ضربه خوردن، ولی بزرگ‌ترین ضربه ما کارگرها و سنگ‌کارها خوردیم. دیگه پول نون و پول کرایه خونه ندارم.\n\n🔹از تهران: خیابان پیروزی، روبه‌روی مترو ابن‌سینا، هر شب از ساعت ۱۸ بسیجی‌ها ایست بازرسی می‌گذارند و مردم را به‌شدت آزار و جوانان را مورد ضرب‌وشتم قرار می‌دهند.",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "11:30:50",
-      "gregorian_utc": "2026-09-01T08:00:50+00:00",
-      "media_type": "video",
-      "media_size_bytes": 5047340,
-      "media_size_human": "4.81 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355185_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355185_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-09-01T08:20:35.870211+00:00"
+      "tehran_time": "11:56:51",
+      "gregorian_utc": "2026-09-01T08:26:51+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-09-01T08:30:37.616944+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -77,7 +77,7 @@
       "media_local_path": "media/satlastnews_76385_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76385_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T08:20:36.292083+00:00"
+      "archived_at": "2026-09-01T08:30:38.016606+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -95,7 +95,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T08:20:36.784229+00:00"
+      "archived_at": "2026-09-01T08:30:38.498347+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -113,7 +113,7 @@
       "media_local_path": "media/khabarsara53_11_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_11_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T08:20:37.091078+00:00"
+      "archived_at": "2026-09-01T08:30:38.838966+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -131,25 +131,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T08:20:35.498502+00:00"
+      "archived_at": "2026-09-01T08:30:37.176823+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355184,
-      "message_link": "https://t.me/IranintlTV/355184",
-      "text": "🔻به گزارش خبرگزاری تسنیم، کمیته انضباطی فدراسیون فوتبال شکایت باشگاه‌های سپاهان و مس شهربابک را از یاسر آسانی رد کرد و استقلال و یاسر آسانی تبرئه شدند. معترضان مدعی بودند حضور این بازیکن در ترکیب استقلال غیرقانونی است.\n\n🔹بر اساس استعلام کمیته انضباطی از سازمان لیگ، هیچ‌گونه فسخ قراردادی برای آسانی در سازمان لیگ ثبت نشده است؛ موضوعی که طبق دستورالعمل سال ۱۴۰۳ برای رسمی شدن فسخ الزامی است. \n\n🔹همچنین باشگاه استقلال با ارائه استعلام از فیفا اثبات کرد که با توجه به عدم صدور ITC جدید، آسانی همچنان بازیکن قانونی استقلال است. با توجه به این حکم، حضور یاسر آسانی در دیدارهای پیش‌روی استقلال هیچ مانع قانونی ندارد.\n\n@iranintltvsport",
+      "message_id": 355186,
+      "message_link": "https://t.me/IranintlTV/355186",
+      "text": "اسماعیل کوثری، عضو کمیسیون امنیت ملی و سیاست خارجی مجلس، درباره میانجیگری پاکستان و ازسرگیری مذاکرات میان واشینگتن و تهران گفت برخی تصور می‌کنند آمریکا در پی این میانجیگری تغییر خواهد کرد، اما چنین نیست.\n\nکوثری با اشاره به سفر عاصم منیر به تهران گفت: «عاصم منیر و امثال او می‌آیند و می‌روند و برخی خیال می‌کنند که این شیطان بزرگ آدم می‌شود؛ در حالی که این‌طور نیست و آنها همچنان همان روحیه شیطانی، خودخواهی و تکبر خود را دارند.»\nhttps://iranintl.com/202609018287",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "11:20:26",
-      "gregorian_utc": "2026-09-01T07:50:26+00:00",
+      "tehran_time": "11:52:30",
+      "gregorian_utc": "2026-09-01T08:22:30+00:00",
       "media_type": "photo",
-      "media_size_bytes": 151555,
-      "media_size_human": "148.00 KB",
+      "media_size_bytes": 230816,
+      "media_size_human": "225.41 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355184_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355184_photo.jpg",
+      "media_local_path": "media/IranintlTV_355186_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355186_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T08:20:35.879919+00:00"
+      "archived_at": "2026-09-01T08:30:37.617075+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -167,7 +167,7 @@
       "media_local_path": "media/satlastnews_76383_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76383_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T08:20:36.292132+00:00"
+      "archived_at": "2026-09-01T08:30:38.016651+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -185,7 +185,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 168.27 MB)",
-      "archived_at": "2026-09-01T08:20:36.784312+00:00"
+      "archived_at": "2026-09-01T08:30:38.498413+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -203,7 +203,7 @@
       "media_local_path": "media/khabarsara53_10_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_10_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T08:20:37.091136+00:00"
+      "archived_at": "2026-09-01T08:30:38.839018+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -221,25 +221,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T08:20:35.498533+00:00"
+      "archived_at": "2026-09-01T08:30:37.176845+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355183,
-      "message_link": "https://t.me/IranintlTV/355183",
-      "text": "کانال ۱۳ اسرائیل گزارش داد داوید زینی، رییس سازمان امنیت داخلی اسرائیل، شاباک، عصر شنبه به‌طور محرمانه به واشینگتن سفر کرده است.\n\nبر اساس این گزارش، زینی در این سفر با مقام‌های اف‌بی‌آی درباره چند پرونده حساس امنیتی گفت‌وگو خواهد کرد. بررسی تهدیدهای مطرح‌شده علیه پسر بنیامین نتانیاهو، نخست‌وزیر اسرائیل، یکی از محورهای این مذاکرات عنوان شده است.\n\nجزییات بیشتر با اشکان صفایی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 355185,
+      "message_link": "https://t.me/IranintlTV/355185",
+      "text": "ویدیوی ارسال‌شده به ایران‌اینترنشنال در سه‌شنبه ۱۰ شهریور، آب آلوده و ناسالم لوله‌کشی را در شیراز نشان می‌دهد.",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "11:17:57",
-      "gregorian_utc": "2026-09-01T07:47:57+00:00",
+      "tehran_time": "11:30:50",
+      "gregorian_utc": "2026-09-01T08:00:50+00:00",
       "media_type": "video",
-      "media_size_bytes": 1885348,
-      "media_size_human": "1.80 MB",
+      "media_size_bytes": 5047340,
+      "media_size_human": "4.81 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355183_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355183_video.mp4",
+      "media_local_path": "media/IranintlTV_355185_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355185_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T08:20:35.880051+00:00"
+      "archived_at": "2026-09-01T08:30:37.617115+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -257,7 +257,7 @@
       "media_local_path": "media/satlastnews_76381_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76381_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T08:20:36.292162+00:00"
+      "archived_at": "2026-09-01T08:30:38.016679+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -275,7 +275,7 @@
       "media_local_path": "media/Mellig_120476_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120476_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T08:20:36.784408+00:00"
+      "archived_at": "2026-09-01T08:30:38.498491+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -293,7 +293,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T08:20:37.091160+00:00"
+      "archived_at": "2026-09-01T08:30:38.839039+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -311,25 +311,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T08:20:35.498565+00:00"
+      "archived_at": "2026-09-01T08:30:37.176874+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355182,
-      "message_link": "https://t.me/IranintlTV/355182",
-      "text": "فاطمه مهاجرانی، سخنگوی دولت جمهوری اسلامی، عامل افزایش بهای دلار به ۲۱۰ هزار تومان را تحریم‌های آمریکا خواند و گفت که دولت منکر افزایش فشار اقتصادی بر شهروندان نمی‌شود اما برای «حفظ اشتغال و معیشت مردم» تلاش می‌کند.\n\nمهاجرانی در نشست خبری گفت: «افزایش قیمت دلار حاصل فشارها و تحریم‌های آمریکا است. ما این فشار را تکذیب نمی‌کنیم.»\n\nاو افزود: «فشار اقتصادی که در کشور احساس می‌شود، نتیجه تحریم‌هایی است که آمریکا با فشار اسرائیل علیه ما اعمال می‌کند. اما دولت کار خود را برای حفظ اشتغال و معیشت مردم انجام می‌دهد.»\n\nمهاجرانی همچنین گفت: «همچنان شاهد هستیم که عهدشکنی‌های مکرر آمریکا کار را بر جهانیان دشوار کرده است.»\nhttps://iranintl.com/202609016529",
+      "message_id": 355184,
+      "message_link": "https://t.me/IranintlTV/355184",
+      "text": "🔻به گزارش خبرگزاری تسنیم، کمیته انضباطی فدراسیون فوتبال شکایت باشگاه‌های سپاهان و مس شهربابک را از یاسر آسانی رد کرد و استقلال و یاسر آسانی تبرئه شدند. معترضان مدعی بودند حضور این بازیکن در ترکیب استقلال غیرقانونی است.\n\n🔹بر اساس استعلام کمیته انضباطی از سازمان لیگ، هیچ‌گونه فسخ قراردادی برای آسانی در سازمان لیگ ثبت نشده است؛ موضوعی که طبق دستورالعمل سال ۱۴۰۳ برای رسمی شدن فسخ الزامی است. \n\n🔹همچنین باشگاه استقلال با ارائه استعلام از فیفا اثبات کرد که با توجه به عدم صدور ITC جدید، آسانی همچنان بازیکن قانونی استقلال است. با توجه به این حکم، حضور یاسر آسانی در دیدارهای پیش‌روی استقلال هیچ مانع قانونی ندارد.\n\n@iranintltvsport",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "11:14:01",
-      "gregorian_utc": "2026-09-01T07:44:01+00:00",
+      "tehran_time": "11:20:26",
+      "gregorian_utc": "2026-09-01T07:50:26+00:00",
       "media_type": "photo",
-      "media_size_bytes": 137127,
-      "media_size_human": "133.91 KB",
+      "media_size_bytes": 151555,
+      "media_size_human": "148.00 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355182_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355182_photo.jpg",
+      "media_local_path": "media/IranintlTV_355184_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355184_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T08:20:35.880166+00:00"
+      "archived_at": "2026-09-01T08:30:37.617204+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -347,7 +347,7 @@
       "media_local_path": "media/satlastnews_76380_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76380_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T08:20:36.292189+00:00"
+      "archived_at": "2026-09-01T08:30:38.016703+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -365,7 +365,7 @@
       "media_local_path": "media/Mellig_120475_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120475_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T08:20:36.784477+00:00"
+      "archived_at": "2026-09-01T08:30:38.498529+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -383,7 +383,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T08:20:37.091181+00:00"
+      "archived_at": "2026-09-01T08:30:38.839056+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -401,25 +401,25 @@
       "media_local_path": "media/zedTV_12444_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_12444_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T08:20:35.498664+00:00"
+      "archived_at": "2026-09-01T08:30:37.176961+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355181,
-      "message_link": "https://t.me/IranintlTV/355181",
-      "text": "حسین علیزاده، تحلیلگر مسائل بین‌الملل، درباره احتمال حملات محدود آمریکا در تنگه هرمز می‌گوید این عملیات ممکن است با اهدافی محدود مانند از بین بردن سامانه‌های تهدیدکننده کشتی‌ها و توان مین‌ریزی آغاز شود، اما احتمال دنبال شدن اهداف بزرگ‌تر نیز وجود دارد.\n\nاو همچنین اظهارات دونالد ترامپ درباره خطر هسته‌ای ایران را بخشی از تلاش واشینگتن برای توجیه اقدامات نظامی و ارسال پیام به کشورهای منطقه و افکار عمومی آمریکا می‌داند.\n@iranintltv",
+      "message_id": 355183,
+      "message_link": "https://t.me/IranintlTV/355183",
+      "text": "کانال ۱۳ اسرائیل گزارش داد داوید زینی، رییس سازمان امنیت داخلی اسرائیل، شاباک، عصر شنبه به‌طور محرمانه به واشینگتن سفر کرده است.\n\nبر اساس این گزارش، زینی در این سفر با مقام‌های اف‌بی‌آی درباره چند پرونده حساس امنیتی گفت‌وگو خواهد کرد. بررسی تهدیدهای مطرح‌شده علیه پسر بنیامین نتانیاهو، نخست‌وزیر اسرائیل، یکی از محورهای این مذاکرات عنوان شده است.\n\nجزییات بیشتر با اشکان صفایی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "11:12:17",
-      "gregorian_utc": "2026-09-01T07:42:17+00:00",
+      "tehran_time": "11:17:57",
+      "gregorian_utc": "2026-09-01T07:47:57+00:00",
       "media_type": "video",
-      "media_size_bytes": 3272835,
-      "media_size_human": "3.12 MB",
+      "media_size_bytes": 1885348,
+      "media_size_human": "1.80 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355181_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355181_video.mp4",
+      "media_local_path": "media/IranintlTV_355183_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355183_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T08:20:35.880241+00:00"
+      "archived_at": "2026-09-01T08:30:37.617267+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -437,7 +437,7 @@
       "media_local_path": "media/satlastnews_76379_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76379_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T08:20:36.292217+00:00"
+      "archived_at": "2026-09-01T08:30:38.016727+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -455,7 +455,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T08:20:36.784527+00:00"
+      "archived_at": "2026-09-01T08:30:38.498578+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -473,7 +473,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T08:20:37.091200+00:00"
+      "archived_at": "2026-09-01T08:30:38.839073+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -491,25 +491,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T08:20:35.498718+00:00"
+      "archived_at": "2026-09-01T08:30:37.176994+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355180,
-      "message_link": "https://t.me/IranintlTV/355180",
-      "text": "**🗣روایت شما: وضعیت زندگی در سایه سرکوب سیاسی و تنش‌های نظامی - سه‌شنبه ۱۰ شهریور**\n\n🔹محله‌هایی که فقیرنشین نیستند، برای قطعی برق اطلاع‌رسانی می‌کنند و یک روز در میان قطع می‌کنند، ولی جایی که محله ضعیف است، هر روز قطع است و گاهی حتی دوبار قطع می‌کنند؛ ظلم همیشه به قشر ضعیف است.\n\n🔹بعد ۱۳ سال، مغازه موبایل‌فروشی را به دلیل اجاره بالا و تورم مجبور شدم جمع کنم. کسی واقعاً توان خرید نداره.\n\n🔹من یک کارمند هستم و یک ماه پیش می‌خواستم مانیتور بخرم، قیمتش ۳۸ میلیون تومان بود که نتونستم، امروز شده ۵۹ میلیون تومان.\n\n🔹من سرپرست خانواده هستم و ۵ ساله کارگرم. هنوز برای دخترم نتونستیم جهیزیه‌اش رو بخریم. نمی‌تونن با این گرونی خونه اجاره کنند. الان باید چیکار کنیم؟ انگیزه شروع زندگی جدید رو ندارند دیگه.\n\n🔹ما جوان‌ها با چه امیدی زندگی کنیم؟ باید ۱۰ سال یا بیشتر کار کنیم تا بتونیم یه خونه نقلی و کوچیک بگیریم. هیچ کاری هم نمی‌شه کرد، حرفی هم نمی‌شه زد.\n\n🔹از شهر سربندر (بندر خمینی): از گرونی در شهر بگم، هیچ بازدیدکننده‌ای نیست. کار دولتی هم برای غیربومی‌هاست و بومی‌ها کارگری می‌کنند.\n\n🔹روزهای سختی داریم، یک زن سرپرست خانواده‌ام و باید هزینه بچه‌ام رو بدم. فقط داریم زنده می‌مونیم.\n\n🔹از تهران: ما یک خانواده سه‌نفره هستیم. من و همسرم هر دو شاغلیم، اما ۲ الی ۳ ماه یک‌بار گوشت و مرغ می‌خریم، میوه هم شاید ماهی یک‌بار. پوشاک، تفریح و مسافرت که دیگه کنسل شده.\n\n🔹یک هفته است بانک ملی ۱۵ میلیون تومان از حسابم برداشته، ولی هیچ‌کس جواب‌گو نیست.",
+      "message_id": 355182,
+      "message_link": "https://t.me/IranintlTV/355182",
+      "text": "فاطمه مهاجرانی، سخنگوی دولت جمهوری اسلامی، عامل افزایش بهای دلار به ۲۱۰ هزار تومان را تحریم‌های آمریکا خواند و گفت که دولت منکر افزایش فشار اقتصادی بر شهروندان نمی‌شود اما برای «حفظ اشتغال و معیشت مردم» تلاش می‌کند.\n\nمهاجرانی در نشست خبری گفت: «افزایش قیمت دلار حاصل فشارها و تحریم‌های آمریکا است. ما این فشار را تکذیب نمی‌کنیم.»\n\nاو افزود: «فشار اقتصادی که در کشور احساس می‌شود، نتیجه تحریم‌هایی است که آمریکا با فشار اسرائیل علیه ما اعمال می‌کند. اما دولت کار خود را برای حفظ اشتغال و معیشت مردم انجام می‌دهد.»\n\nمهاجرانی همچنین گفت: «همچنان شاهد هستیم که عهدشکنی‌های مکرر آمریکا کار را بر جهانیان دشوار کرده است.»\nhttps://iranintl.com/202609016529",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "11:10:36",
-      "gregorian_utc": "2026-09-01T07:40:36+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T08:20:35.880416+00:00"
+      "tehran_time": "11:14:01",
+      "gregorian_utc": "2026-09-01T07:44:01+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 137127,
+      "media_size_human": "133.91 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/IranintlTV_355182_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355182_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-09-01T08:30:37.617343+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -527,7 +527,7 @@
       "media_local_path": "media/satlastnews_76378_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76378_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T08:20:36.292246+00:00"
+      "archived_at": "2026-09-01T08:30:38.016752+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -545,7 +545,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-09-01T08:20:36.784559+00:00"
+      "archived_at": "2026-09-01T08:30:38.498607+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -563,7 +563,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T08:20:37.091218+00:00"
+      "archived_at": "2026-09-01T08:30:38.839090+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -581,25 +581,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T08:20:35.498746+00:00"
+      "archived_at": "2026-09-01T08:30:37.177013+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355179,
-      "message_link": "https://t.me/IranintlTV/355179",
-      "text": "مرتضی کاظمیان، عضو تحریریه ایران‌اینترنشنال، با اشاره به حضور مسعود پزشکیان در اجلاس شانگهای می‌گوید پرسش اصلی این است که آیا مواضع رییس دولت جمهوری اسلامی واقعا بازتاب‌دهنده دیدگاه هسته سخت قدرت است یا نه.\n\nاو با اشاره به اظهارات مقام‌های سپاه و مواضع متناقض مسئولان اقتصادی، معتقد است بخش اصلی قدرت در ایران در اختیار نظامیان و سپاه قرار دارد و اظهارات پزشکیان نمی‌تواند تصویر دقیقی از واقعیت سیاسی و اقتصادی جمهوری اسلامی ارائه کند.\n@iranintltv",
+      "message_id": 355181,
+      "message_link": "https://t.me/IranintlTV/355181",
+      "text": "حسین علیزاده، تحلیلگر مسائل بین‌الملل، درباره احتمال حملات محدود آمریکا در تنگه هرمز می‌گوید این عملیات ممکن است با اهدافی محدود مانند از بین بردن سامانه‌های تهدیدکننده کشتی‌ها و توان مین‌ریزی آغاز شود، اما احتمال دنبال شدن اهداف بزرگ‌تر نیز وجود دارد.\n\nاو همچنین اظهارات دونالد ترامپ درباره خطر هسته‌ای ایران را بخشی از تلاش واشینگتن برای توجیه اقدامات نظامی و ارسال پیام به کشورهای منطقه و افکار عمومی آمریکا می‌داند.\n@iranintltv",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "11:06:03",
-      "gregorian_utc": "2026-09-01T07:36:03+00:00",
+      "tehran_time": "11:12:17",
+      "gregorian_utc": "2026-09-01T07:42:17+00:00",
       "media_type": "video",
-      "media_size_bytes": 4475199,
-      "media_size_human": "4.27 MB",
+      "media_size_bytes": 3272835,
+      "media_size_human": "3.12 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355179_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355179_video.mp4",
+      "media_local_path": "media/IranintlTV_355181_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355181_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T08:20:35.880494+00:00"
+      "archived_at": "2026-09-01T08:30:37.617403+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -617,7 +617,7 @@
       "media_local_path": "media/satlastnews_76377_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76377_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T08:20:36.292293+00:00"
+      "archived_at": "2026-09-01T08:30:38.016793+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -635,7 +635,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-09-01T08:20:36.784585+00:00"
+      "archived_at": "2026-09-01T08:30:38.498629+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -653,7 +653,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T08:20:37.091237+00:00"
+      "archived_at": "2026-09-01T08:30:38.839106+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -671,25 +671,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T08:20:35.498779+00:00"
+      "archived_at": "2026-09-01T08:30:37.177041+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355178,
-      "message_link": "https://t.me/IranintlTV/355178",
-      "text": "ویدیوی رسیده، تیراندازی ماموران نیروی انتظامی را به جوانان جویای کار در تجمع‌های اعتراضی دوشنبه نهم شهریور گچساران نشان می‌دهد.\n﻿این جوانان در اعتراض به آنچه «بی‌عدالتی و رانت» در استخدام پالایشگاه لیشتر خوانده‌اند، تجمع کرده بودند که ماموران به سوی آنها تیراندازی کردند.",
+      "message_id": 355180,
+      "message_link": "https://t.me/IranintlTV/355180",
+      "text": "**🗣روایت شما: وضعیت زندگی در سایه سرکوب سیاسی و تنش‌های نظامی - سه‌شنبه ۱۰ شهریور**\n\n🔹محله‌هایی که فقیرنشین نیستند، برای قطعی برق اطلاع‌رسانی می‌کنند و یک روز در میان قطع می‌کنند، ولی جایی که محله ضعیف است، هر روز قطع است و گاهی حتی دوبار قطع می‌کنند؛ ظلم همیشه به قشر ضعیف است.\n\n🔹بعد ۱۳ سال، مغازه موبایل‌فروشی را به دلیل اجاره بالا و تورم مجبور شدم جمع کنم. کسی واقعاً توان خرید نداره.\n\n🔹من یک کارمند هستم و یک ماه پیش می‌خواستم مانیتور بخرم، قیمتش ۳۸ میلیون تومان بود که نتونستم، امروز شده ۵۹ میلیون تومان.\n\n🔹من سرپرست خانواده هستم و ۵ ساله کارگرم. هنوز برای دخترم نتونستیم جهیزیه‌اش رو بخریم. نمی‌تونن با این گرونی خونه اجاره کنند. الان باید چیکار کنیم؟ انگیزه شروع زندگی جدید رو ندارند دیگه.\n\n🔹ما جوان‌ها با چه امیدی زندگی کنیم؟ باید ۱۰ سال یا بیشتر کار کنیم تا بتونیم یه خونه نقلی و کوچیک بگیریم. هیچ کاری هم نمی‌شه کرد، حرفی هم نمی‌شه زد.\n\n🔹از شهر سربندر (بندر خمینی): از گرونی در شهر بگم، هیچ بازدیدکننده‌ای نیست. کار دولتی هم برای غیربومی‌هاست و بومی‌ها کارگری می‌کنند.\n\n🔹روزهای سختی داریم، یک زن سرپرست خانواده‌ام و باید هزینه بچه‌ام رو بدم. فقط داریم زنده می‌مونیم.\n\n🔹از تهران: ما یک خانواده سه‌نفره هستیم. من و همسرم هر دو شاغلیم، اما ۲ الی ۳ ماه یک‌بار گوشت و مرغ می‌خریم، میوه هم شاید ماهی یک‌بار. پوشاک، تفریح و مسافرت که دیگه کنسل شده.\n\n🔹یک هفته است بانک ملی ۱۵ میلیون تومان از حسابم برداشته، ولی هیچ‌کس جواب‌گو نیست.",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "10:54:16",
-      "gregorian_utc": "2026-09-01T07:24:16+00:00",
-      "media_type": "video",
-      "media_size_bytes": 6041123,
-      "media_size_human": "5.76 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355178_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355178_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-09-01T08:20:35.880534+00:00"
+      "tehran_time": "11:10:36",
+      "gregorian_utc": "2026-09-01T07:40:36+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-09-01T08:30:37.617552+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -707,7 +707,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T08:20:36.292344+00:00"
+      "archived_at": "2026-09-01T08:30:38.016838+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -725,7 +725,7 @@
       "media_local_path": "media/Mellig_120471_sticker.webp",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120471_sticker.webp",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T08:20:36.784618+00:00"
+      "archived_at": "2026-09-01T08:30:38.498656+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -743,7 +743,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T08:20:37.091254+00:00"
+      "archived_at": "2026-09-01T08:30:38.839122+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -761,25 +761,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T08:20:35.498802+00:00"
+      "archived_at": "2026-09-01T08:30:37.177059+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355177,
-      "message_link": "https://t.me/IranintlTV/355177",
-      "text": "🔻تمامی ۳۵ هزار بلیت دیدار دو تیم استقلال و پرسپولیس که روز چهارشنبه ۱۱ شهریور در ورزشگاه نقش‌جهان اصفهان برگزار خواهد شد، در کمتر از ۲ ساعت به فروش رفت.\n\n🔹دربی ۱۰۷ تهران در حالی در نقش‌جهان برگزار می‌شود که با وجود ظرفیت حدود ۷۵ هزار نفری این ورزشگاه، تنها ۳۵ هزار بلیت برای فروش به مشتاقان عرضه شده است. طبق گزارش رسانه‌های داخلی ایران، از این تعداد، ۲۹ هزار بلیت برای مردان در طبقه پایین و ۶ هزار بلیت برای زنان در طبقه دوم ورزشگاه در نظر گرفته شده است. همچنین سهم هواداران دو تیم استقلال و پرسپولیس در بلیت‌های این مسابقه به‌صورت ۵۰-۵۰ خواهد بود.\n\n🔹حال این سؤال مطرح است که با وجود استقبال گسترده هواداران، چرا تنها از کمتر از نصف ظرفیت ورزشگاه استفاده می‌شود؟ پس از انقلاب ملی ایرانیان در دی ۱۴۰۴، جمهوری اسلامی به‌دلیل هراس از گسترش اعتراضات، مسابقات فوتبال را بدون حضور تماشاگران یا با محدودیت‌های ویژه برگزار کرده است.\n\n@iranintltvsport",
+      "message_id": 355179,
+      "message_link": "https://t.me/IranintlTV/355179",
+      "text": "مرتضی کاظمیان، عضو تحریریه ایران‌اینترنشنال، با اشاره به حضور مسعود پزشکیان در اجلاس شانگهای می‌گوید پرسش اصلی این است که آیا مواضع رییس دولت جمهوری اسلامی واقعا بازتاب‌دهنده دیدگاه هسته سخت قدرت است یا نه.\n\nاو با اشاره به اظهارات مقام‌های سپاه و مواضع متناقض مسئولان اقتصادی، معتقد است بخش اصلی قدرت در ایران در اختیار نظامیان و سپاه قرار دارد و اظهارات پزشکیان نمی‌تواند تصویر دقیقی از واقعیت سیاسی و اقتصادی جمهوری اسلامی ارائه کند.\n@iranintltv",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "10:46:22",
-      "gregorian_utc": "2026-09-01T07:16:22+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 285326,
-      "media_size_human": "278.64 KB",
+      "tehran_time": "11:06:03",
+      "gregorian_utc": "2026-09-01T07:36:03+00:00",
+      "media_type": "video",
+      "media_size_bytes": 4475199,
+      "media_size_human": "4.27 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355177_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355177_photo.jpg",
+      "media_local_path": "media/IranintlTV_355179_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355179_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T08:20:35.880647+00:00"
+      "archived_at": "2026-09-01T08:30:37.617651+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -797,7 +797,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T08:20:36.292389+00:00"
+      "archived_at": "2026-09-01T08:30:38.016876+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -815,7 +815,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T08:20:36.784638+00:00"
+      "archived_at": "2026-09-01T08:30:38.498674+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -833,7 +833,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T08:20:37.091272+00:00"
+      "archived_at": "2026-09-01T08:30:38.839138+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -851,25 +851,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T08:20:35.498822+00:00"
+      "archived_at": "2026-09-01T08:30:37.177077+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355176,
-      "message_link": "https://t.me/IranintlTV/355176",
-      "text": "مسعود پزشکیان در مراسم آغاز نشست سازمان همکاری شانگهای در قرقیزستان گفت جمهوری اسلامی آماده بازگشت به توافق اسلام‌آباد با آمریکا است.\n\nپزشکیان آمریکا را به اجرا نکردن تعهداتش در این تفاهم متهم کرد و گفت اگر واشینگتن به تعهدات خود بازگردد، جمهوری اسلامی نیز «بلافاصله» اقدام متقابل خواهد کرد.\n\nجزییات بیشتر با فرزیا ثابتی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 355178,
+      "message_link": "https://t.me/IranintlTV/355178",
+      "text": "ویدیوی رسیده، تیراندازی ماموران نیروی انتظامی را به جوانان جویای کار در تجمع‌های اعتراضی دوشنبه نهم شهریور گچساران نشان می‌دهد.\n﻿این جوانان در اعتراض به آنچه «بی‌عدالتی و رانت» در استخدام پالایشگاه لیشتر خوانده‌اند، تجمع کرده بودند که ماموران به سوی آنها تیراندازی کردند.",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "10:38:46",
-      "gregorian_utc": "2026-09-01T07:08:46+00:00",
+      "tehran_time": "10:54:16",
+      "gregorian_utc": "2026-09-01T07:24:16+00:00",
       "media_type": "video",
-      "media_size_bytes": 2815949,
-      "media_size_human": "2.69 MB",
+      "media_size_bytes": 6041123,
+      "media_size_human": "5.76 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355176_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355176_video.mp4",
+      "media_local_path": "media/IranintlTV_355178_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355178_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T08:20:35.880727+00:00"
+      "archived_at": "2026-09-01T08:30:37.617682+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -887,7 +887,7 @@
       "media_local_path": "media/satlastnews_76374_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76374_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T08:20:36.292471+00:00"
+      "archived_at": "2026-09-01T08:30:38.016939+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -905,7 +905,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T08:20:36.784657+00:00"
+      "archived_at": "2026-09-01T08:30:38.498691+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -923,7 +923,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T08:20:37.091291+00:00"
+      "archived_at": "2026-09-01T08:30:38.839154+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -941,25 +941,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T08:20:35.498841+00:00"
+      "archived_at": "2026-09-01T08:30:37.177092+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355175,
-      "message_link": "https://t.me/IranintlTV/355175",
-      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال می‌گوید در شیراز برق منطقه آنها چهار ساعت در روز قطع شده است.",
+      "message_id": 355177,
+      "message_link": "https://t.me/IranintlTV/355177",
+      "text": "🔻تمامی ۳۵ هزار بلیت دیدار دو تیم استقلال و پرسپولیس که روز چهارشنبه ۱۱ شهریور در ورزشگاه نقش‌جهان اصفهان برگزار خواهد شد، در کمتر از ۲ ساعت به فروش رفت.\n\n🔹دربی ۱۰۷ تهران در حالی در نقش‌جهان برگزار می‌شود که با وجود ظرفیت حدود ۷۵ هزار نفری این ورزشگاه، تنها ۳۵ هزار بلیت برای فروش به مشتاقان عرضه شده است. طبق گزارش رسانه‌های داخلی ایران، از این تعداد، ۲۹ هزار بلیت برای مردان در طبقه پایین و ۶ هزار بلیت برای زنان در طبقه دوم ورزشگاه در نظر گرفته شده است. همچنین سهم هواداران دو تیم استقلال و پرسپولیس در بلیت‌های این مسابقه به‌صورت ۵۰-۵۰ خواهد بود.\n\n🔹حال این سؤال مطرح است که با وجود استقبال گسترده هواداران، چرا تنها از کمتر از نصف ظرفیت ورزشگاه استفاده می‌شود؟ پس از انقلاب ملی ایرانیان در دی ۱۴۰۴، جمهوری اسلامی به‌دلیل هراس از گسترش اعتراضات، مسابقات فوتبال را بدون حضور تماشاگران یا با محدودیت‌های ویژه برگزار کرده است.\n\n@iranintltvsport",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "10:34:55",
-      "gregorian_utc": "2026-09-01T07:04:55+00:00",
-      "media_type": "video",
-      "media_size_bytes": 8937026,
-      "media_size_human": "8.52 MB",
+      "tehran_time": "10:46:22",
+      "gregorian_utc": "2026-09-01T07:16:22+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 285326,
+      "media_size_human": "278.64 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355175_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355175_video.mp4",
+      "media_local_path": "media/IranintlTV_355177_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355177_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T08:20:35.880761+00:00"
+      "archived_at": "2026-09-01T08:30:37.617776+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -977,7 +977,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T08:20:36.292800+00:00"
+      "archived_at": "2026-09-01T08:30:38.017222+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -995,7 +995,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T08:20:36.784675+00:00"
+      "archived_at": "2026-09-01T08:30:38.498708+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -1013,7 +1013,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T08:20:37.091311+00:00"
+      "archived_at": "2026-09-01T08:30:38.839171+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1031,25 +1031,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T08:20:35.498860+00:00"
+      "archived_at": "2026-09-01T08:30:37.177108+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355174,
-      "message_link": "https://t.me/IranintlTV/355174",
-      "text": "🎧نسخه صوتی اخبار بامدادی | سه‌شنبه ۱۰ شهریور\n@iranintlTV",
+      "message_id": 355176,
+      "message_link": "https://t.me/IranintlTV/355176",
+      "text": "مسعود پزشکیان در مراسم آغاز نشست سازمان همکاری شانگهای در قرقیزستان گفت جمهوری اسلامی آماده بازگشت به توافق اسلام‌آباد با آمریکا است.\n\nپزشکیان آمریکا را به اجرا نکردن تعهداتش در این تفاهم متهم کرد و گفت اگر واشینگتن به تعهدات خود بازگردد، جمهوری اسلامی نیز «بلافاصله» اقدام متقابل خواهد کرد.\n\nجزییات بیشتر با فرزیا ثابتی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "10:33:38",
-      "gregorian_utc": "2026-09-01T07:03:38+00:00",
-      "media_type": "audio",
-      "media_size_bytes": 30169262,
-      "media_size_human": "28.77 MB",
+      "tehran_time": "10:38:46",
+      "gregorian_utc": "2026-09-01T07:08:46+00:00",
+      "media_type": "video",
+      "media_size_bytes": 2815949,
+      "media_size_human": "2.69 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355174_audio.mp3",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355174_audio.mp3",
+      "media_local_path": "media/IranintlTV_355176_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355176_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T08:20:35.880807+00:00"
+      "archived_at": "2026-09-01T08:30:37.617829+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1067,7 +1067,7 @@
       "media_local_path": "media/satlastnews_76369_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76369_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T08:20:36.292903+00:00"
+      "archived_at": "2026-09-01T08:30:38.017307+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1085,7 +1085,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T08:20:36.784724+00:00"
+      "archived_at": "2026-09-01T08:30:38.498743+00:00"
     }
   ]
 }
