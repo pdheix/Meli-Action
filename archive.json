@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T17:04:06.995368+00:00",
-  "shamsi_generated": "1405/06/10 17:04:06 تهران",
+  "generated_at": "2026-09-01T17:12:48.518525+00:00",
+  "shamsi_generated": "1405/06/10 17:12:48 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -41,25 +41,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T17:00:56.142802+00:00"
+      "archived_at": "2026-09-01T17:10:33.974500+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355267,
-      "message_link": "https://t.me/IranintlTV/355267",
-      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال می‌گوید پنج قلم کالای ضروری را به قیمت ۷۰۰ هزار تومان خریده است: «با این اوضاع نمی‌دانم چطور زندگی کنم.»",
+      "message_id": 355270,
+      "message_link": "https://t.me/IranintlTV/355270",
+      "text": "سفارت‌های آمریکا در کشورهای اسرائیل، اردن و قطر، سه‌شنبه ۱۰ شهریور با صدور هشدار امنیتی اعلام کردند به دلیل تنش‌ها در خاورمیانه، وضعیت امنیتی همچنان پیچیده است و احتمال تشدید پیش‌بینی‌نشده تنش‌ها وجود دارد.\n\nاین سفارت‌ها از شهروندان آمریکایی در خاورمیانه خواستند هوشیاری بیشتری داشته باشند و نسبت به احتمال لغو پروازها، بسته شدن حریم‌های هوایی و اختلال در سفرها آگاه باشند.\n\nدر این هشدار آمده است تاسیسات دیپلماتیک آمریکا، از جمله در خارج از خاورمیانه، هدف قرار گرفته‌اند و جمهوری اسلامی و گروه‌های حامی آن ممکن است دیگر منافع آمریکا در خارج از ایالات متحده یا مکان‌های مرتبط با آمریکا و شهروندان آمریکایی در سراسر جهان را هدف قرار دهند.\n\nسفارت‌های آمریکا همچنین از شهروندان آمریکایی خواست از تجمع‌های عمومی و گردهمایی‌های بزرگ دوری کنند، محل نزدیک‌ترین پناهگاه یا فضای حفاظت‌شده را بدانند و در مکان‌هایی که آشکارا با آمریکا مرتبط هستند، احتیاط و هوشیاری بیشتری داشته باشند. \nhttps://iranintl.com/202609016217",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "20:30:28",
-      "gregorian_utc": "2026-09-01T17:00:28+00:00",
-      "media_type": "video",
-      "media_size_bytes": 8494638,
-      "media_size_human": "8.10 MB",
+      "tehran_time": "20:34:23",
+      "gregorian_utc": "2026-09-01T17:04:23+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 68479,
+      "media_size_human": "66.87 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355267_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355267_video.mp4",
+      "media_local_path": "media/IranintlTV_355270_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355270_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T17:00:56.462114+00:00"
+      "archived_at": "2026-09-01T17:10:34.218226+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -77,7 +77,7 @@
       "media_local_path": "media/satlastnews_76387_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76387_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T17:00:56.795137+00:00"
+      "archived_at": "2026-09-01T17:10:34.461585+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -95,7 +95,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T17:00:57.131465+00:00"
+      "archived_at": "2026-09-01T17:10:34.726856+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -113,7 +113,7 @@
       "media_local_path": "media/khabarsara53_11_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_11_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T17:00:57.455927+00:00"
+      "archived_at": "2026-09-01T17:10:34.942197+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -131,25 +131,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T17:00:56.142852+00:00"
+      "archived_at": "2026-09-01T17:10:33.974549+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355266,
-      "message_link": "https://t.me/IranintlTV/355266",
-      "text": "‏قانون می‌گوید افزایش اجاره نباید بیشتر از ۲۵ درصد باشد؛ اما صاحبخانهٔ شما چند درصد افزایش خواسته است؟\n‏اگر صاحبخانه‌تان بیش از ۲۵ درصد افزایش خواسته، گفته است باید خانه را تخلیه کنید یا اعلام کرده «خانه را برای خودم و خانواده‌ام می‌خواهم»، روی خط «برنامه» بیایید و سه چیز را بگویید: پارسال چقدر می‌پرداختید، امسال چقدر از شما خواسته‌اند و اگر مجبور به تخلیه شوید، چه بر سر زندگی‌تان می‌آید.\n‏اگر صاحبخانه‌اید، شما هم روی خط بیایید. «برنامه» دادگاه هیچ‌کس نیست. می‌خواهیم بدانیم چرا اجاره را افزایش داده‌اید و اگر این کار را نمی‌کردید، چه اتفاقی برای زندگی خودتان می‌افتاد.\n‏ما شما را بدون نوبت، مستقیم از ایران روی خط می‌آوریم.\n‏بیایید و روایت تان را با صدای خودتان ثبت کنید.\n‏برای شرکت در برنامه، همین حالا در واتس‌اپ پیام بدهید:\n‏۰۰۴۴۷۵۲۲۱۱۰۱۱۰\n‏۰۰۴۴۷۵۴۴۱۱۰۱۱۰\n‏۰۰۴۴۷۵۱۱۱۰۲۵۵۳\n‏«برنامه با کامبیز حسینی»\n‏اینجا، یک ایران صدای شما را می‌شنود.",
+      "message_id": 355269,
+      "message_link": "https://t.me/IranintlTV/355269",
+      "text": "سفارت‌های آمریکا در کشورهای اسرائیل، اردن و قطر، سه‌شنبه ۱۰ شهریور با صدور هشدار امنیتی اعلام کردند به دلیل تنش‌ها در خاورمیانه، وضعیت امنیتی همچنان پیچیده است و احتمال تشدید پیش‌بینی‌نشده تنش‌ها وجود دارد.\n\nاین سفارت‌ها از شهروندان آمریکایی در خاورمیانه خواستند هوشیاری بیشتری داشته باشند و نسبت به احتمال لغو پروازها، بسته شدن حریم‌های هوایی و اختلال در سفرها آگاه باشند.\n\nدر این هشدار آمده است تاسیسات دیپلماتیک آمریکا، از جمله در خارج از خاورمیانه، هدف قرار گرفته‌اند و جمهوری اسلامی و گروه‌های حامی آن ممکن است دیگر منافع آمریکا در خارج از ایالات متحده یا مکان‌های مرتبط با آمریکا و شهروندان آمریکایی در سراسر جهان را هدف قرار دهند.\n\nسفارت‌های آمریکا همچنین از شهروندان آمریکایی خواست از تجمع‌های عمومی و گردهمایی‌های بزرگ دوری کنند، محل نزدیک‌ترین پناهگاه یا فضای حفاظت‌شده را بدانند و در مکان‌هایی که آشکارا با آمریکا مرتبط هستند، احتیاط و هوشیاری بیشتری داشته باشند. \nhttps://iranintl.com/202609016217",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "20:12:11",
-      "gregorian_utc": "2026-09-01T16:42:11+00:00",
+      "tehran_time": "20:34:21",
+      "gregorian_utc": "2026-09-01T17:04:21+00:00",
       "media_type": "photo",
-      "media_size_bytes": 298414,
-      "media_size_human": "291.42 KB",
+      "media_size_bytes": 68479,
+      "media_size_human": "66.87 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355266_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355266_photo.jpg",
+      "media_local_path": "media/IranintlTV_355269_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355269_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T17:00:56.462175+00:00"
+      "archived_at": "2026-09-01T17:10:34.218375+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -167,7 +167,7 @@
       "media_local_path": "media/satlastnews_76385_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76385_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T17:00:56.795209+00:00"
+      "archived_at": "2026-09-01T17:10:34.461661+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -185,7 +185,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T17:00:57.131504+00:00"
+      "archived_at": "2026-09-01T17:10:34.726915+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -203,7 +203,7 @@
       "media_local_path": "media/khabarsara53_10_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_10_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T17:00:57.455993+00:00"
+      "archived_at": "2026-09-01T17:10:34.942267+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -221,25 +221,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T17:00:56.142883+00:00"
+      "archived_at": "2026-09-01T17:10:33.974584+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355265,
-      "message_link": "https://t.me/IranintlTV/355265",
-      "text": "تیتر اول با نیوشا صارمی، سه‌شنبه ۱۰ شهریور\n@iranintltv",
+      "message_id": 355268,
+      "message_link": "https://t.me/IranintlTV/355268",
+      "text": "همایون فلکشاهی، کارشناس نفت و انرژی در موسسه کپلر، با اشاره به گزارش رویترز درباره توقف صادرات نفت ایران از مسیر تنگه هرمز گفت بارگیری نفت ایران در ماه اوت به حدود ۲۵۰ هزار بشکه در روز کاهش یافته و در مقایسه با ابتدای جنگ حدود ۸۵ درصد افت کرده است.\n\nاو افزود از زمان برقراری محاصره دریایی آمریکا در ماه ژوئیه، هیچ نفتکش حامل نفت ایران نتوانسته از خط محاصره عبور کند و صادرات جدید نفت ایران به چین عملا به صفر رسیده است. فلکشاهی گفت با تخلیه ۳۰ تا ۴۰ میلیون بشکه نفت شناور باقی‌مانده در آب‌های آسیا و دریافت پول آن، درآمد نفتی ایران می‌تواند تا اواسط دسامبر عملا به صفر برسد.\n@iranintltv",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "20:09:16",
-      "gregorian_utc": "2026-09-01T16:39:16+00:00",
+      "tehran_time": "20:33:35",
+      "gregorian_utc": "2026-09-01T17:03:35+00:00",
       "media_type": "video",
-      "media_size_bytes": 1074475,
-      "media_size_human": "1.02 MB",
+      "media_size_bytes": 4177781,
+      "media_size_human": "3.98 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355265_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355265_video.mp4",
+      "media_local_path": "media/IranintlTV_355268_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355268_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T17:00:56.462240+00:00"
+      "archived_at": "2026-09-01T17:10:34.218489+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -257,7 +257,7 @@
       "media_local_path": "media/satlastnews_76383_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76383_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T17:00:56.795253+00:00"
+      "archived_at": "2026-09-01T17:10:34.461716+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -275,7 +275,7 @@
       "media_local_path": "media/Mellig_120488_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120488_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T17:00:57.131571+00:00"
+      "archived_at": "2026-09-01T17:10:34.726996+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -293,7 +293,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T17:00:57.456020+00:00"
+      "archived_at": "2026-09-01T17:10:34.942300+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -311,25 +311,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T17:00:56.142920+00:00"
+      "archived_at": "2026-09-01T17:10:33.974626+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355264,
-      "message_link": "https://t.me/IranintlTV/355264",
-      "text": "سنتکام، فرماندهی مرکزی ایالات متحده، اعلام کرد سه‌شنبه ساعت ۱۹:۳۰ به وقت تهران، نیروهای آمریکایی حمله به اهداف متعلق به سپاه پاسداران در ایران را آغاز کردند.\n\nسنتکام نوشت که این حملات پس از تلاش‌های اخیر سپاه پاسداران برای حمله به کشتی‌های تجاری در تنگه هرمز و همچنین نیروهای نظامی آمریکا مستقر در منطقه انجام شد.\nhttps://iranintl.com/202609011320",
+      "message_id": 355267,
+      "message_link": "https://t.me/IranintlTV/355267",
+      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال می‌گوید پنج قلم کالای ضروری را به قیمت ۷۰۰ هزار تومان خریده است: «با این اوضاع نمی‌دانم چطور زندگی کنم.»",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "20:09:04",
-      "gregorian_utc": "2026-09-01T16:39:04+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 62235,
-      "media_size_human": "60.78 KB",
+      "tehran_time": "20:30:28",
+      "gregorian_utc": "2026-09-01T17:00:28+00:00",
+      "media_type": "video",
+      "media_size_bytes": 8494638,
+      "media_size_human": "8.10 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355264_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355264_photo.jpg",
+      "media_local_path": "media/IranintlTV_355267_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355267_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T17:00:56.462335+00:00"
+      "archived_at": "2026-09-01T17:10:34.218534+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -347,7 +347,7 @@
       "media_local_path": "media/satlastnews_76381_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76381_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T17:00:56.795287+00:00"
+      "archived_at": "2026-09-01T17:10:34.461757+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -365,7 +365,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T17:00:57.131596+00:00"
+      "archived_at": "2026-09-01T17:10:34.727028+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -383,7 +383,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T17:00:57.456043+00:00"
+      "archived_at": "2026-09-01T17:10:34.942326+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -401,25 +401,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T17:00:56.142946+00:00"
+      "archived_at": "2026-09-01T17:10:33.974658+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355263,
-      "message_link": "https://t.me/IranintlTV/355263",
-      "text": "خبرگزاری فارس، رسانه وابسته به سپاه پاسداران، از شنیده شدن صدای انفجار در بندرعباس، سیریک و جزیره قشم خبر داد.\n\nصدا و سیما نیز از شنیده شدن صدای چند انفجار در جزیره قشم و روستای مسن خبر داده بود.\nhttps://iranintl.com/202609011596",
+      "message_id": 355266,
+      "message_link": "https://t.me/IranintlTV/355266",
+      "text": "‏قانون می‌گوید افزایش اجاره نباید بیشتر از ۲۵ درصد باشد؛ اما صاحبخانهٔ شما چند درصد افزایش خواسته است؟\n‏اگر صاحبخانه‌تان بیش از ۲۵ درصد افزایش خواسته، گفته است باید خانه را تخلیه کنید یا اعلام کرده «خانه را برای خودم و خانواده‌ام می‌خواهم»، روی خط «برنامه» بیایید و سه چیز را بگویید: پارسال چقدر می‌پرداختید، امسال چقدر از شما خواسته‌اند و اگر مجبور به تخلیه شوید، چه بر سر زندگی‌تان می‌آید.\n‏اگر صاحبخانه‌اید، شما هم روی خط بیایید. «برنامه» دادگاه هیچ‌کس نیست. می‌خواهیم بدانیم چرا اجاره را افزایش داده‌اید و اگر این کار را نمی‌کردید، چه اتفاقی برای زندگی خودتان می‌افتاد.\n‏ما شما را بدون نوبت، مستقیم از ایران روی خط می‌آوریم.\n‏بیایید و روایت تان را با صدای خودتان ثبت کنید.\n‏برای شرکت در برنامه، همین حالا در واتس‌اپ پیام بدهید:\n‏۰۰۴۴۷۵۲۲۱۱۰۱۱۰\n‏۰۰۴۴۷۵۴۴۱۱۰۱۱۰\n‏۰۰۴۴۷۵۱۱۱۰۲۵۵۳\n‏«برنامه با کامبیز حسینی»\n‏اینجا، یک ایران صدای شما را می‌شنود.",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "20:04:19",
-      "gregorian_utc": "2026-09-01T16:34:19+00:00",
+      "tehran_time": "20:12:11",
+      "gregorian_utc": "2026-09-01T16:42:11+00:00",
       "media_type": "photo",
-      "media_size_bytes": 61412,
-      "media_size_human": "59.97 KB",
+      "media_size_bytes": 298414,
+      "media_size_human": "291.42 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355263_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355263_photo.jpg",
+      "media_local_path": "media/IranintlTV_355266_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355266_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T17:00:56.462421+00:00"
+      "archived_at": "2026-09-01T17:10:34.218577+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -437,7 +437,7 @@
       "media_local_path": "media/satlastnews_76380_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76380_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T17:00:56.795316+00:00"
+      "archived_at": "2026-09-01T17:10:34.461794+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -455,7 +455,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T17:00:57.131637+00:00"
+      "archived_at": "2026-09-01T17:10:34.727078+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -473,7 +473,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T17:00:57.456064+00:00"
+      "archived_at": "2026-09-01T17:10:34.942351+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -491,25 +491,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T17:00:56.142976+00:00"
+      "archived_at": "2026-09-01T17:10:33.974695+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355262,
-      "message_link": "https://t.me/IranintlTV/355262",
-      "text": "🎧نسخه صوتی اخبار شبانگاهی | سه‌شنبه ۱۰ شهریور\n@iranintlTV",
+      "message_id": 355265,
+      "message_link": "https://t.me/IranintlTV/355265",
+      "text": "تیتر اول با نیوشا صارمی، سه‌شنبه ۱۰ شهریور\n@iranintltv",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "20:03:47",
-      "gregorian_utc": "2026-09-01T16:33:47+00:00",
-      "media_type": "audio",
-      "media_size_bytes": 38878307,
-      "media_size_human": "37.08 MB",
+      "tehran_time": "20:09:16",
+      "gregorian_utc": "2026-09-01T16:39:16+00:00",
+      "media_type": "video",
+      "media_size_bytes": 1074475,
+      "media_size_human": "1.02 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355262_audio.mp3",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355262_audio.mp3",
+      "media_local_path": "media/IranintlTV_355265_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355265_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T17:00:56.478348+00:00"
+      "archived_at": "2026-09-01T17:10:34.218626+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -527,7 +527,7 @@
       "media_local_path": "media/satlastnews_76379_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76379_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T17:00:56.795345+00:00"
+      "archived_at": "2026-09-01T17:10:34.461833+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -545,7 +545,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T17:00:57.131662+00:00"
+      "archived_at": "2026-09-01T17:10:34.727109+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -563,7 +563,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T17:00:57.456086+00:00"
+      "archived_at": "2026-09-01T17:10:34.942375+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -581,25 +581,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T17:00:56.143000+00:00"
+      "archived_at": "2026-09-01T17:10:33.974726+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355261,
-      "message_link": "https://t.me/IranintlTV/355261",
-      "text": "خبرگزاری فارس، رسانه وابسته به سپاه، از شنیده شدن صدای انفجار در کنارک و چابهار در شامگاه سه‌شنبه خبر داد.\n\nفارس نوشت: «دقایقی قبل مردم در کنارک و چابهار صدای چند انفجار شنیدند.»\nhttps://iranintl.com/202609019218",
+      "message_id": 355264,
+      "message_link": "https://t.me/IranintlTV/355264",
+      "text": "سنتکام، فرماندهی مرکزی ایالات متحده، اعلام کرد سه‌شنبه ساعت ۱۹:۳۰ به وقت تهران، نیروهای آمریکایی حمله به اهداف متعلق به سپاه پاسداران در ایران را آغاز کردند.\n\nسنتکام نوشت که این حملات پس از تلاش‌های اخیر سپاه پاسداران برای حمله به کشتی‌های تجاری در تنگه هرمز و همچنین نیروهای نظامی آمریکا مستقر در منطقه انجام شد.\nhttps://iranintl.com/202609011320",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "20:00:36",
-      "gregorian_utc": "2026-09-01T16:30:36+00:00",
+      "tehran_time": "20:09:04",
+      "gregorian_utc": "2026-09-01T16:39:04+00:00",
       "media_type": "photo",
-      "media_size_bytes": 56200,
-      "media_size_human": "54.88 KB",
+      "media_size_bytes": 62235,
+      "media_size_human": "60.78 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355261_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355261_photo.jpg",
+      "media_local_path": "media/IranintlTV_355264_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355264_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T17:00:56.478485+00:00"
+      "archived_at": "2026-09-01T17:10:34.218706+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -617,7 +617,7 @@
       "media_local_path": "media/satlastnews_76378_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76378_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T17:00:56.795373+00:00"
+      "archived_at": "2026-09-01T17:10:34.461870+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -635,7 +635,7 @@
       "media_local_path": "media/Mellig_120484_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120484_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T17:00:57.131725+00:00"
+      "archived_at": "2026-09-01T17:10:34.727179+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -653,7 +653,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T17:00:57.456107+00:00"
+      "archived_at": "2026-09-01T17:10:34.942400+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -671,25 +671,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T17:00:56.143038+00:00"
+      "archived_at": "2026-09-01T17:10:33.974769+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355260,
-      "message_link": "https://t.me/IranintlTV/355260",
-      "text": "خبرگزاری صدا و سیمای جمهوری اسلامی از شنیده شدن صدای چند انفجار در قشم در شامگاه سه‌شنبه خبر داد و نوشت: «دقایقی قبل صدای بیش از ۵ انفجار اطراف روستای مسن قشم شنیده شد.»\n\nاین خبرگزاری نوشت: «دقایقی پیش، صدای ۴ انفجار هم از سمت تنگه هرمز در قشم شنیده شد.»\n\nرسانه‌های ایران از شنیده شدن صدای انفجار در بندرعباس، سیریک و چابهار نیز خبر داده‌اند.\n\nمعاون سیاسی، امنیتی و اجتماعی استانداری هرمزگان، می‌گوید تاکنون هیچ‌گونه اصابت یا حادثه‌ای در هرمزگان گزارش نشده است.\nhttps://iranintl.com/202609018297",
+      "message_id": 355263,
+      "message_link": "https://t.me/IranintlTV/355263",
+      "text": "خبرگزاری فارس، رسانه وابسته به سپاه پاسداران، از شنیده شدن صدای انفجار در بندرعباس، سیریک و جزیره قشم خبر داد.\n\nصدا و سیما نیز از شنیده شدن صدای چند انفجار در جزیره قشم و روستای مسن خبر داده بود.\nhttps://iranintl.com/202609011596",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "19:58:37",
-      "gregorian_utc": "2026-09-01T16:28:37+00:00",
+      "tehran_time": "20:04:19",
+      "gregorian_utc": "2026-09-01T16:34:19+00:00",
       "media_type": "photo",
-      "media_size_bytes": 63166,
-      "media_size_human": "61.69 KB",
+      "media_size_bytes": 61412,
+      "media_size_human": "59.97 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355260_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355260_photo.jpg",
+      "media_local_path": "media/IranintlTV_355263_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355263_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T17:00:56.478601+00:00"
+      "archived_at": "2026-09-01T17:10:34.218782+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -707,7 +707,7 @@
       "media_local_path": "media/satlastnews_76377_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76377_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T17:00:56.795435+00:00"
+      "archived_at": "2026-09-01T17:10:34.461954+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -725,7 +725,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T17:00:57.131748+00:00"
+      "archived_at": "2026-09-01T17:10:34.727208+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -743,7 +743,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T17:00:57.456134+00:00"
+      "archived_at": "2026-09-01T17:10:34.942426+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -761,25 +761,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T17:00:56.143065+00:00"
+      "archived_at": "2026-09-01T17:10:33.974798+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355259,
-      "message_link": "https://t.me/IranintlTV/355259",
-      "text": "شهرام خلدی، پژوهشگر تاریخ خاورمیانه و روابط بین‌الملل، با اشاره به اظهارات محمدباقر قالیباف، رییس مجلس، درباره احتمال شکل‌گیری اعتراضات در داخل ایران گفت جمهوری اسلامی هرگاه خود را در بحران شدید می‌بیند، با «دشمن‌انگاری» و «انسان‌زدایی» از بخش‌هایی از جامعه، تلاش می‌کند نیروهای سرکوب را منسجم و در برابر مردم نگه دارد.\n\nاو افزود تفاوت شرایط کنونی با دوره‌های پیشین، شدت بحران اقتصادی است و گفت حکومت هم‌زمان نگران است که نیروهای سرکوب نیز به‌تدریج دچار ریزش شوند.\n@iranintltv",
+      "message_id": 355262,
+      "message_link": "https://t.me/IranintlTV/355262",
+      "text": "🎧نسخه صوتی اخبار شبانگاهی | سه‌شنبه ۱۰ شهریور\n@iranintlTV",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "19:47:08",
-      "gregorian_utc": "2026-09-01T16:17:08+00:00",
-      "media_type": "video",
-      "media_size_bytes": 5363875,
-      "media_size_human": "5.12 MB",
+      "tehran_time": "20:03:47",
+      "gregorian_utc": "2026-09-01T16:33:47+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 38878307,
+      "media_size_human": "37.08 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355259_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355259_video.mp4",
+      "media_local_path": "media/IranintlTV_355262_audio.mp3",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355262_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T17:00:56.478690+00:00"
+      "archived_at": "2026-09-01T17:10:34.233135+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -797,7 +797,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T17:00:56.795490+00:00"
+      "archived_at": "2026-09-01T17:10:34.462020+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -815,7 +815,7 @@
       "media_local_path": "media/Mellig_120482_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120482_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T17:00:57.131812+00:00"
+      "archived_at": "2026-09-01T17:10:34.727281+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -833,7 +833,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T17:00:57.456154+00:00"
+      "archived_at": "2026-09-01T17:10:34.942451+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -851,25 +851,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T17:00:56.143088+00:00"
+      "archived_at": "2026-09-01T17:10:33.974825+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355258,
-      "message_link": "https://t.me/IranintlTV/355258",
-      "text": "یک شهروند با ارسال پیام صوتی به ایران‌اینترنشنال می‌گوید برای تحویل سه‌ماهه خودروی سایپا طلای همسرش و خودروی پراید خود را فروخته اما ده ماه است که هنوز خودرو را تحویل نگرفته است.",
+      "message_id": 355261,
+      "message_link": "https://t.me/IranintlTV/355261",
+      "text": "خبرگزاری فارس، رسانه وابسته به سپاه، از شنیده شدن صدای انفجار در کنارک و چابهار در شامگاه سه‌شنبه خبر داد.\n\nفارس نوشت: «دقایقی قبل مردم در کنارک و چابهار صدای چند انفجار شنیدند.»\nhttps://iranintl.com/202609019218",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "19:31:55",
-      "gregorian_utc": "2026-09-01T16:01:55+00:00",
-      "media_type": "video",
-      "media_size_bytes": 18607691,
-      "media_size_human": "17.75 MB",
+      "tehran_time": "20:00:36",
+      "gregorian_utc": "2026-09-01T16:30:36+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 56200,
+      "media_size_human": "54.88 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355258_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355258_video.mp4",
+      "media_local_path": "media/IranintlTV_355261_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355261_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T17:00:56.478722+00:00"
+      "archived_at": "2026-09-01T17:10:34.233235+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -887,7 +887,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T17:00:56.795541+00:00"
+      "archived_at": "2026-09-01T17:10:34.462086+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -905,7 +905,7 @@
       "media_local_path": "media/Mellig_120481_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120481_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T17:00:57.131857+00:00"
+      "archived_at": "2026-09-01T17:10:34.727339+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -923,7 +923,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T17:00:57.456175+00:00"
+      "archived_at": "2026-09-01T17:10:34.942475+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -941,25 +941,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T17:00:56.143109+00:00"
+      "archived_at": "2026-09-01T17:10:33.974850+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355257,
-      "message_link": "https://t.me/IranintlTV/355257",
-      "text": "هم‌زمان، دور تازه تنش‌ها میان جمهوری اسلامی و آمریکا بازتاب فراوانی در میان سیاستمداران و رسانه‌های آمریکایی داشته است. چند سناتور آمریکایی درباره نحوه مدیریت جنگ ایران از سوی دولت ترامپ مواضع متفاوتی گرفته‌اند و اختلاف‌نظر قابل توجهی درباره موفقیت یا شکست استراتژی دولت دیده می‌شود.\n\nگفت‌وگو با مرضیه حسینی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 355260,
+      "message_link": "https://t.me/IranintlTV/355260",
+      "text": "خبرگزاری صدا و سیمای جمهوری اسلامی از شنیده شدن صدای چند انفجار در قشم در شامگاه سه‌شنبه خبر داد و نوشت: «دقایقی قبل صدای بیش از ۵ انفجار اطراف روستای مسن قشم شنیده شد.»\n\nاین خبرگزاری نوشت: «دقایقی پیش، صدای ۴ انفجار هم از سمت تنگه هرمز در قشم شنیده شد.»\n\nرسانه‌های ایران از شنیده شدن صدای انفجار در بندرعباس، سیریک و چابهار نیز خبر داده‌اند.\n\nمعاون سیاسی، امنیتی و اجتماعی استانداری هرمزگان، می‌گوید تاکنون هیچ‌گونه اصابت یا حادثه‌ای در هرمزگان گزارش نشده است.\nhttps://iranintl.com/202609018297",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "19:21:24",
-      "gregorian_utc": "2026-09-01T15:51:24+00:00",
-      "media_type": "video",
-      "media_size_bytes": 3823478,
-      "media_size_human": "3.65 MB",
+      "tehran_time": "19:58:37",
+      "gregorian_utc": "2026-09-01T16:28:37+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 63166,
+      "media_size_human": "61.69 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355257_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355257_video.mp4",
+      "media_local_path": "media/IranintlTV_355260_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355260_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T17:00:56.478800+00:00"
+      "archived_at": "2026-09-01T17:10:34.233338+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -977,7 +977,7 @@
       "media_local_path": "media/satlastnews_76374_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76374_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T17:00:56.795615+00:00"
+      "archived_at": "2026-09-01T17:10:34.462163+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -995,7 +995,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T17:00:57.131879+00:00"
+      "archived_at": "2026-09-01T17:10:34.727369+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -1013,7 +1013,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T17:00:57.456197+00:00"
+      "archived_at": "2026-09-01T17:10:34.942501+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1031,25 +1031,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T17:00:56.143130+00:00"
+      "archived_at": "2026-09-01T17:10:33.974877+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355256,
-      "message_link": "https://t.me/IranintlTV/355256",
-      "text": "حسن قشقاوی، سخنگوی کمیسیون امنیت ملی مجلس، گفت این کمیسیون در ادامه بررسی طرح «اقدام راهبردی برای امنیت و پیشرفت پایدار در تنگه هرمز»، موادی از آن را درباره دریافت ضمانت‌نامه، تعرفه‌ها و پرداخت غرامت تصویب کرده است.\n\nبر اساس گزارش خبرگزاری ایسنا، قشقاوی گفت تبصره دو ماده پنج این طرح که در کمیسیون تصویب شد، الزام دریافت ضمانت‌نامه بانکی و بیمه در برابر مخاطرات احتمالی برای تردد را پیش‌بینی می‌کند و ماده شش نیز سازوکار و آیین‌نامه اجرایی تعیین تعرفه‌های خدماتی و بیمه‌ای را در نظر گرفته است.\n\nاو افزود طبق ماده هفت تصویب‌شده در کمیسیون، تمامی کشورها، سازمان‌ها و اشخاص حقیقی و حقوقی که در دوران جنگ به ایران خسارت وارد کرده‌اند، باید با دولت جمهوری اسلامی درباره نحوه پرداخت غرامت به توافق برسند.\n\nقشقاوی گفت اگر این کشورها یا شرکت‌ها غرامت نپردازند یا در این زمینه با جمهوری اسلامی به توافق نرسند، مجوز عبور آن‌ها از تنگه هرمز صادر نخواهد شد. \nhttps://iranintl.com/202609011059",
+      "message_id": 355259,
+      "message_link": "https://t.me/IranintlTV/355259",
+      "text": "شهرام خلدی، پژوهشگر تاریخ خاورمیانه و روابط بین‌الملل، با اشاره به اظهارات محمدباقر قالیباف، رییس مجلس، درباره احتمال شکل‌گیری اعتراضات در داخل ایران گفت جمهوری اسلامی هرگاه خود را در بحران شدید می‌بیند، با «دشمن‌انگاری» و «انسان‌زدایی» از بخش‌هایی از جامعه، تلاش می‌کند نیروهای سرکوب را منسجم و در برابر مردم نگه دارد.\n\nاو افزود تفاوت شرایط کنونی با دوره‌های پیشین، شدت بحران اقتصادی است و گفت حکومت هم‌زمان نگران است که نیروهای سرکوب نیز به‌تدریج دچار ریزش شوند.\n@iranintltv",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "19:17:45",
-      "gregorian_utc": "2026-09-01T15:47:45+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 174671,
-      "media_size_human": "170.58 KB",
+      "tehran_time": "19:47:08",
+      "gregorian_utc": "2026-09-01T16:17:08+00:00",
+      "media_type": "video",
+      "media_size_bytes": 5363875,
+      "media_size_human": "5.12 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355256_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355256_photo.jpg",
+      "media_local_path": "media/IranintlTV_355259_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355259_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T17:00:56.478936+00:00"
+      "archived_at": "2026-09-01T17:10:34.233436+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1067,7 +1067,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T17:00:56.796010+00:00"
+      "archived_at": "2026-09-01T17:10:34.462556+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1085,7 +1085,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T17:00:57.131942+00:00"
+      "archived_at": "2026-09-01T17:10:34.727441+00:00"
     }
   ]
 }
