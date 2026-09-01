@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T18:54:15.874824+00:00",
-  "shamsi_generated": "1405/06/10 18:54:15 تهران",
+  "generated_at": "2026-09-01T19:03:39.998862+00:00",
+  "shamsi_generated": "1405/06/10 19:03:39 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -28,12 +28,12 @@
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12514,
-      "message_link": "https://t.me/zedTV/12514",
-      "text": "صداوسیمای رژیم: فرودگاه جیرفت هدف حمله هوایی آمریکا قرار گرفت؛\nگزارش‌های اولیه از وقوع انفجار در زیرساخت‌های این فرودگاه؛\nجزییات تکمیلی درباره ابعاد این حمله به زودی منتشر می‌شود.",
+      "message_id": 12517,
+      "message_link": "https://t.me/zedTV/12517",
+      "text": "رسانه‌های سپاه: آغاز حملات موشکی و پهپادی رژیم به مواضع آمریکا؛\nفارس و تسنیم از هدف قرار گرفتن پایگاه‌های ایالات متحده در منطقه خبر دادند؛\nتاکنون واکنشی از سوی مقامات آمریکایی گزارش نشده است.",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "22:06:24",
-      "gregorian_utc": "2026-09-01T18:36:24+00:00",
+      "tehran_time": "22:25:15",
+      "gregorian_utc": "2026-09-01T18:55:15+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -41,25 +41,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T18:50:37.103186+00:00"
+      "archived_at": "2026-09-01T19:00:48.946374+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355289,
-      "message_link": "https://t.me/IranintlTV/355289",
-      "text": "۲۴ با فرداد فرحزاد\n@iranintltv",
+      "message_id": 355290,
+      "message_link": "https://t.me/IranintlTV/355290",
+      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال فاکتور خرید خود از داروخانه را نشان می‌‌دهد که یک میلیون و ۸۰۰ هزار تومان برای خرید دارو هزینه کرده است.",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "22:18:19",
-      "gregorian_utc": "2026-09-01T18:48:19+00:00",
+      "tehran_time": "22:30:20",
+      "gregorian_utc": "2026-09-01T19:00:20+00:00",
       "media_type": "video",
-      "media_size_bytes": 758685,
-      "media_size_human": "740.90 KB",
+      "media_size_bytes": 3439291,
+      "media_size_human": "3.28 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355289_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355289_video.mp4",
+      "media_local_path": "media/IranintlTV_355290_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355290_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T18:50:37.419713+00:00"
+      "archived_at": "2026-09-01T19:00:49.315981+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -77,7 +77,7 @@
       "media_local_path": "media/satlastnews_76388_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76388_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T18:50:37.729419+00:00"
+      "archived_at": "2026-09-01T19:00:49.740967+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -95,7 +95,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T18:50:38.075412+00:00"
+      "archived_at": "2026-09-01T19:00:50.112279+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -113,17 +113,17 @@
       "media_local_path": "media/khabarsara53_11_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_11_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T18:50:38.422844+00:00"
+      "archived_at": "2026-09-01T19:00:50.577727+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12513,
-      "message_link": "https://t.me/zedTV/12513",
-      "text": "الجزیره: تداوم حملات ایالات متحده به مواضع سپاه پاسداران در ایران.\nتأیید مقام آمریکایی بر استمرار عملیات علیه اهداف نظامی رژیم.",
+      "message_id": 12516,
+      "message_link": "https://t.me/zedTV/12516",
+      "text": "حمله مجدد ایالات متحده به ساختمان اطلاعات در جزیره سیری.\nتداوم ضربات به مراکز حساس تحت کنترل رژیم.",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "20:58:42",
-      "gregorian_utc": "2026-09-01T17:28:42+00:00",
+      "tehran_time": "22:25:04",
+      "gregorian_utc": "2026-09-01T18:55:04+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -131,25 +131,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T18:50:37.103237+00:00"
+      "archived_at": "2026-09-01T19:00:48.946428+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355288,
-      "message_link": "https://t.me/IranintlTV/355288",
-      "text": "خبرگزاری تسنیم، وابسته به سپاه، از هدف قرار گرفتن نقاطی در بندرلنگه و جاسک در استان هرمزگان در شامگاه سه‌شنبه خبر داد.\nhttps://iranintl.com/202609016478",
+      "message_id": 355289,
+      "message_link": "https://t.me/IranintlTV/355289",
+      "text": "۲۴ با فرداد فرحزاد\n@iranintltv",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "22:17:40",
-      "gregorian_utc": "2026-09-01T18:47:40+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 63594,
-      "media_size_human": "62.10 KB",
+      "tehran_time": "22:18:19",
+      "gregorian_utc": "2026-09-01T18:48:19+00:00",
+      "media_type": "video",
+      "media_size_bytes": 758685,
+      "media_size_human": "740.90 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355288_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355288_photo.jpg",
+      "media_local_path": "media/IranintlTV_355289_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355289_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T18:50:37.419791+00:00"
+      "archived_at": "2026-09-01T19:00:49.316068+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -167,7 +167,7 @@
       "media_local_path": "media/satlastnews_76387_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76387_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T18:50:37.729481+00:00"
+      "archived_at": "2026-09-01T19:00:49.741048+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -185,7 +185,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T18:50:38.075440+00:00"
+      "archived_at": "2026-09-01T19:00:50.112317+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -203,17 +203,17 @@
       "media_local_path": "media/khabarsara53_10_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_10_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T18:50:38.422900+00:00"
+      "archived_at": "2026-09-01T19:00:50.577822+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12512,
-      "message_link": "https://t.me/zedTV/12512",
-      "text": "♦️ مقام آمریکایی: احتمال انجام ۱۰۰ حمله هوایی علیه مواضع رژیم در ساعات پیش‌رو.\n♦️ گسترش عملیات نظامی و هدف قرار دادن مواضع جمهوری اسلامی.",
+      "message_id": 12515,
+      "message_link": "https://t.me/zedTV/12515",
+      "text": "گزارش انفجار جدید در عسلویه؛ از سرگیری حملات به قشم و لاوان.\nپرواز جنگنده‌های اسرائیلی در منطقه جهت عملیات شناسایی و رهگیری موشکی.",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "20:58:40",
-      "gregorian_utc": "2026-09-01T17:28:40+00:00",
+      "tehran_time": "22:25:04",
+      "gregorian_utc": "2026-09-01T18:55:04+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -221,25 +221,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T18:50:37.103262+00:00"
+      "archived_at": "2026-09-01T19:00:48.946470+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355287,
-      "message_link": "https://t.me/IranintlTV/355287",
-      "text": "خبرگزاری‌های فارس و تسنیم، رسانه‌های وابسته به سپاه، شامگاه سه‌شنبه از آغاز حملات موشکی و پهپادی جمهوری اسلامی به مواضع و پایگاه‌های آمریکا در منطقه خبر دادند.\nhttps://iranintl.com/202609011754",
+      "message_id": 355288,
+      "message_link": "https://t.me/IranintlTV/355288",
+      "text": "خبرگزاری تسنیم، وابسته به سپاه، از هدف قرار گرفتن نقاطی در بندرلنگه و جاسک در استان هرمزگان در شامگاه سه‌شنبه خبر داد.\nhttps://iranintl.com/202609016478",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "22:10:22",
-      "gregorian_utc": "2026-09-01T18:40:22+00:00",
+      "tehran_time": "22:17:40",
+      "gregorian_utc": "2026-09-01T18:47:40+00:00",
       "media_type": "photo",
-      "media_size_bytes": 68456,
-      "media_size_human": "66.85 KB",
+      "media_size_bytes": 63594,
+      "media_size_human": "62.10 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355287_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355287_photo.jpg",
+      "media_local_path": "media/IranintlTV_355288_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355288_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T18:50:37.419852+00:00"
+      "archived_at": "2026-09-01T19:00:49.316155+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -257,7 +257,7 @@
       "media_local_path": "media/satlastnews_76385_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76385_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T18:50:37.729524+00:00"
+      "archived_at": "2026-09-01T19:00:49.741133+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -275,7 +275,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T18:50:38.075484+00:00"
+      "archived_at": "2026-09-01T19:00:50.112375+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -293,17 +293,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T18:50:38.422923+00:00"
+      "archived_at": "2026-09-01T19:00:50.577857+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12511,
-      "message_link": "https://t.me/zedTV/12511",
-      "text": "به‌روزرسانی هشدارهای امنیتی ایالات متحده برای کشورهای منطقه.\nامارات، عراق، اردن، بحرین، عمان و قطر در لیست هشدارهای جدید.\nافزایش تنش‌ها با جمهوری اسلامی عامل اصلی محدودیت‌های مسافرتی.",
+      "message_id": 12514,
+      "message_link": "https://t.me/zedTV/12514",
+      "text": "صداوسیمای رژیم: فرودگاه جیرفت هدف حمله هوایی آمریکا قرار گرفت؛\nگزارش‌های اولیه از وقوع انفجار در زیرساخت‌های این فرودگاه؛\nجزییات تکمیلی درباره ابعاد این حمله به زودی منتشر می‌شود.",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "20:58:34",
-      "gregorian_utc": "2026-09-01T17:28:34+00:00",
+      "tehran_time": "22:06:24",
+      "gregorian_utc": "2026-09-01T18:36:24+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -311,25 +311,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T18:50:37.103290+00:00"
+      "archived_at": "2026-09-01T19:00:48.946512+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355286,
-      "message_link": "https://t.me/IranintlTV/355286",
-      "text": "اسکندر پاسالار، فرماندار عسلویه، به خبرگزاری فارس، وابسته به سپاه پاسداران، گفت: «حوالی ساعت ۲۰:۱۰ شامگاه سه‌شنبه، صدای یک انفجار در شهرستان عسلویه گزارش شده است.»\n\nفرماندار عسلویه گفت که از خسارات جانی و مالی این انفجار جزئیاتی مخابره نشده است.\nhttps://iranintl.com/202609012205",
+      "message_id": 355287,
+      "message_link": "https://t.me/IranintlTV/355287",
+      "text": "خبرگزاری‌های فارس و تسنیم، رسانه‌های وابسته به سپاه، شامگاه سه‌شنبه از آغاز حملات موشکی و پهپادی جمهوری اسلامی به مواضع و پایگاه‌های آمریکا در منطقه خبر دادند.\nhttps://iranintl.com/202609011754",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "22:03:16",
-      "gregorian_utc": "2026-09-01T18:33:16+00:00",
+      "tehran_time": "22:10:22",
+      "gregorian_utc": "2026-09-01T18:40:22+00:00",
       "media_type": "photo",
-      "media_size_bytes": 60768,
-      "media_size_human": "59.34 KB",
+      "media_size_bytes": 68456,
+      "media_size_human": "66.85 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355286_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355286_photo.jpg",
+      "media_local_path": "media/IranintlTV_355287_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355287_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T18:50:37.419915+00:00"
+      "archived_at": "2026-09-01T19:00:49.316240+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -347,7 +347,7 @@
       "media_local_path": "media/satlastnews_76383_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76383_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T18:50:37.729555+00:00"
+      "archived_at": "2026-09-01T19:00:49.741184+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -365,7 +365,7 @@
       "media_local_path": "media/Mellig_120502_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120502_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T18:50:38.075531+00:00"
+      "archived_at": "2026-09-01T19:00:50.112434+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -383,17 +383,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T18:50:38.422943+00:00"
+      "archived_at": "2026-09-01T19:00:50.577885+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12510,
-      "message_link": "https://t.me/zedTV/12510",
-      "text": "آغاز حملات موشکی جمهوری اسلامی علیه پایگاه‌های ایالات متحده در منطقه؛\nگزارش‌ها از شروع عملیات تهاجمی رژیم علیه مواضع آمریکا خبر می‌دهند.",
+      "message_id": 12513,
+      "message_link": "https://t.me/zedTV/12513",
+      "text": "الجزیره: تداوم حملات ایالات متحده به مواضع سپاه پاسداران در ایران.\nتأیید مقام آمریکایی بر استمرار عملیات علیه اهداف نظامی رژیم.",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "20:58:30",
-      "gregorian_utc": "2026-09-01T17:28:30+00:00",
+      "tehran_time": "20:58:42",
+      "gregorian_utc": "2026-09-01T17:28:42+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -401,25 +401,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T18:50:37.103311+00:00"
+      "archived_at": "2026-09-01T19:00:48.946544+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355285,
-      "message_link": "https://t.me/IranintlTV/355285",
-      "text": "خبرگزاری صدا و سیمای جمهوری اسلامی از هدف قرار گرفتن فرودگاه جیرفت در استان کرمان در شامگاه سه‌شنبه خبر داد.\nhttps://iranintl.com/202609012648",
+      "message_id": 355286,
+      "message_link": "https://t.me/IranintlTV/355286",
+      "text": "اسکندر پاسالار، فرماندار عسلویه، به خبرگزاری فارس، وابسته به سپاه پاسداران، گفت: «حوالی ساعت ۲۰:۱۰ شامگاه سه‌شنبه، صدای یک انفجار در شهرستان عسلویه گزارش شده است.»\n\nفرماندار عسلویه گفت که از خسارات جانی و مالی این انفجار جزئیاتی مخابره نشده است.\nhttps://iranintl.com/202609012205",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "21:55:08",
-      "gregorian_utc": "2026-09-01T18:25:08+00:00",
+      "tehran_time": "22:03:16",
+      "gregorian_utc": "2026-09-01T18:33:16+00:00",
       "media_type": "photo",
-      "media_size_bytes": 69507,
-      "media_size_human": "67.88 KB",
+      "media_size_bytes": 60768,
+      "media_size_human": "59.34 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355285_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355285_photo.jpg",
+      "media_local_path": "media/IranintlTV_355286_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355286_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T18:50:37.419962+00:00"
+      "archived_at": "2026-09-01T19:00:49.316327+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -437,7 +437,7 @@
       "media_local_path": "media/satlastnews_76381_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76381_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T18:50:37.729581+00:00"
+      "archived_at": "2026-09-01T19:00:49.741223+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -455,7 +455,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T18:50:38.075583+00:00"
+      "archived_at": "2026-09-01T19:00:50.112495+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -473,17 +473,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T18:50:38.422960+00:00"
+      "archived_at": "2026-09-01T19:00:50.577909+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12509,
-      "message_link": "https://t.me/zedTV/12509",
-      "text": "دکل مخابراتی سیریک بار دیگر هدف حمله قرار گرفت.\nگزارش‌ها از وقوع انفجار و آسیب به زیرساخت‌های منطقه.\nتداوم حملات به مواضع راهبردی در استان هرمزگان.",
+      "message_id": 12512,
+      "message_link": "https://t.me/zedTV/12512",
+      "text": "♦️ مقام آمریکایی: احتمال انجام ۱۰۰ حمله هوایی علیه مواضع رژیم در ساعات پیش‌رو.\n♦️ گسترش عملیات نظامی و هدف قرار دادن مواضع جمهوری اسلامی.",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "20:58:29",
-      "gregorian_utc": "2026-09-01T17:28:29+00:00",
+      "tehran_time": "20:58:40",
+      "gregorian_utc": "2026-09-01T17:28:40+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -491,25 +491,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T18:50:37.103336+00:00"
+      "archived_at": "2026-09-01T19:00:48.946580+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355284,
-      "message_link": "https://t.me/IranintlTV/355284",
-      "text": "دونالد ترامپ، رییس‌‌جمهوری آمریکا به فاکس‌نیوز گفت که اگر ایران بارها در واکنش به حملات آمریکا پاسخ دهد، ممکن است «به‌طور کامل به‌عنوان یک کشور نابود شود».\n\nترامپ درباره حملات سه‌شنبه شب گفت: «اگر آنها تلافی کنند، بسیار سخت‌تر هدف قرار خواهند گرفت. و اگر دوباره این کار را انجام دهند، دیگر وجود نخواهند داشت.»\n\nرییس‌جمهوری آمریکا درباره حکومت ایران گفت: «آنها متوقف نمی‌شوند. آنها دیوانه و احمق هستند.»\n\nترامپ افزود: «آنها تلاش کردند رادار خود را بازسازی کنند، چون نمی‌توانند چیزی ببینند. ما صبر کردیم تا تقریبا ساخته شود و بعد آن را هدف قرار دادیم.»\n\nرییس‌جمهوری آمریکا گفت: «فکر می‌کنم توافق با آنها حتی ارزش کاغذی را که روی آن نوشته شده ندارد. ما به آنها فرصت‌های زیادی دادیم.»\nhttps://iranintl.com/202609019799",
+      "message_id": 355285,
+      "message_link": "https://t.me/IranintlTV/355285",
+      "text": "خبرگزاری صدا و سیمای جمهوری اسلامی از هدف قرار گرفتن فرودگاه جیرفت در استان کرمان در شامگاه سه‌شنبه خبر داد.\nhttps://iranintl.com/202609012648",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "21:51:25",
-      "gregorian_utc": "2026-09-01T18:21:25+00:00",
+      "tehran_time": "21:55:08",
+      "gregorian_utc": "2026-09-01T18:25:08+00:00",
       "media_type": "photo",
-      "media_size_bytes": 150300,
-      "media_size_human": "146.78 KB",
+      "media_size_bytes": 69507,
+      "media_size_human": "67.88 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355284_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355284_photo.jpg",
+      "media_local_path": "media/IranintlTV_355285_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355285_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T18:50:37.420067+00:00"
+      "archived_at": "2026-09-01T19:00:49.316390+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -527,7 +527,7 @@
       "media_local_path": "media/satlastnews_76380_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76380_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T18:50:37.729606+00:00"
+      "archived_at": "2026-09-01T19:00:49.741260+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -545,7 +545,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T18:50:38.075605+00:00"
+      "archived_at": "2026-09-01T19:00:50.112528+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -563,17 +563,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T18:50:38.422977+00:00"
+      "archived_at": "2026-09-01T19:00:50.577934+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12508,
-      "message_link": "https://t.me/zedTV/12508",
-      "text": "گزارش‌ها از انهدام مجدد دکل مخابراتی رژیم حکایت دارد.\nاین سازه تنها برای مدتی کوتاه در امان مانده بود.\nتداوم آسیب به زیرساخت‌های حیاتی در پی تنش‌های اخیر.",
+      "message_id": 12511,
+      "message_link": "https://t.me/zedTV/12511",
+      "text": "به‌روزرسانی هشدارهای امنیتی ایالات متحده برای کشورهای منطقه.\nامارات، عراق، اردن، بحرین، عمان و قطر در لیست هشدارهای جدید.\nافزایش تنش‌ها با جمهوری اسلامی عامل اصلی محدودیت‌های مسافرتی.",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "20:58:16",
-      "gregorian_utc": "2026-09-01T17:28:16+00:00",
+      "tehran_time": "20:58:34",
+      "gregorian_utc": "2026-09-01T17:28:34+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -581,25 +581,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T18:50:37.103355+00:00"
+      "archived_at": "2026-09-01T19:00:48.946611+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355283,
-      "message_link": "https://t.me/IranintlTV/355283",
-      "text": "🔻تیم فوتبال تراکتور در هفته پنجم لیگ برتر در قزوین برابر شمس آذر به تساوی بدون گل رسید تا پس از چهار هفته پیروزی پیاپی، متوقف شود.\n\n🔹تراکتور با این تساوی ۱۳ امتیازی شد و موقتا و پیش از برگزاری دربی در صدر جدول قرار دارد.\n\n🔹در دیگر بازی‌های هفته پنجم، آلومینیوم اراک در سیرجان موفق شد با نتیجه ۲-۰ گل‌گهر را شکست دهد. امیرحسین امانی‌پور و شروین بزرگ برای شاگردان پیروز قربانی گلزنی کردند. آلومینیوم با این پیروزی به رده دوم صعود کرد.\n\n🔹همچنین تقابل استقلال خوزستان و چادرملو اردکان با تساوی ۱-۱ به پایان رسید. سعید محمدی فرد برای چادرملو و عارف رستمی برای استقلال خوزستان در این بازی گلزنی کردند.\n\n@iranintltvsport",
+      "message_id": 355284,
+      "message_link": "https://t.me/IranintlTV/355284",
+      "text": "دونالد ترامپ، رییس‌‌جمهوری آمریکا به فاکس‌نیوز گفت که اگر ایران بارها در واکنش به حملات آمریکا پاسخ دهد، ممکن است «به‌طور کامل به‌عنوان یک کشور نابود شود».\n\nترامپ درباره حملات سه‌شنبه شب گفت: «اگر آنها تلافی کنند، بسیار سخت‌تر هدف قرار خواهند گرفت. و اگر دوباره این کار را انجام دهند، دیگر وجود نخواهند داشت.»\n\nرییس‌جمهوری آمریکا درباره حکومت ایران گفت: «آنها متوقف نمی‌شوند. آنها دیوانه و احمق هستند.»\n\nترامپ افزود: «آنها تلاش کردند رادار خود را بازسازی کنند، چون نمی‌توانند چیزی ببینند. ما صبر کردیم تا تقریبا ساخته شود و بعد آن را هدف قرار دادیم.»\n\nرییس‌جمهوری آمریکا گفت: «فکر می‌کنم توافق با آنها حتی ارزش کاغذی را که روی آن نوشته شده ندارد. ما به آنها فرصت‌های زیادی دادیم.»\nhttps://iranintl.com/202609019799",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "21:48:17",
-      "gregorian_utc": "2026-09-01T18:18:17+00:00",
+      "tehran_time": "21:51:25",
+      "gregorian_utc": "2026-09-01T18:21:25+00:00",
       "media_type": "photo",
-      "media_size_bytes": 181844,
-      "media_size_human": "177.58 KB",
+      "media_size_bytes": 150300,
+      "media_size_human": "146.78 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355283_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355283_photo.jpg",
+      "media_local_path": "media/IranintlTV_355284_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355284_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T18:50:37.437236+00:00"
+      "archived_at": "2026-09-01T19:00:49.316515+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -617,7 +617,7 @@
       "media_local_path": "media/satlastnews_76379_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76379_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T18:50:37.729630+00:00"
+      "archived_at": "2026-09-01T19:00:49.741297+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -635,7 +635,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T18:50:38.075639+00:00"
+      "archived_at": "2026-09-01T19:00:50.112578+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -653,17 +653,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T18:50:38.422995+00:00"
+      "archived_at": "2026-09-01T19:00:50.577962+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12507,
-      "message_link": "https://t.me/zedTV/12507",
-      "text": "تداوم حملات به چابهار و کنارک؛\nخبرگزاری مهر وقوع ضربات مجدد در جنوب شرق را تایید کرد.\nاهداف در این دو منطقه بار دیگر مورد اصابت قرار گرفتند.",
+      "message_id": 12510,
+      "message_link": "https://t.me/zedTV/12510",
+      "text": "آغاز حملات موشکی جمهوری اسلامی علیه پایگاه‌های ایالات متحده در منطقه؛\nگزارش‌ها از شروع عملیات تهاجمی رژیم علیه مواضع آمریکا خبر می‌دهند.",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "20:58:16",
-      "gregorian_utc": "2026-09-01T17:28:16+00:00",
+      "tehran_time": "20:58:30",
+      "gregorian_utc": "2026-09-01T17:28:30+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -671,25 +671,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T18:50:37.103389+00:00"
+      "archived_at": "2026-09-01T19:00:48.946653+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355282,
-      "message_link": "https://t.me/IranintlTV/355282",
-      "text": "خبرگزاری صدا و سیمای جمهوری اسلامی از شنیده شدن دوباره صدای انفجار در بندرعباس و جزیره قشم در شامگاه سه‌شنبه خبر داد و افزود: «در جزیره لاوان هم صدای انفجار شنیده شده است.»\nhttps://iranintl.com/202609019424",
+      "message_id": 355283,
+      "message_link": "https://t.me/IranintlTV/355283",
+      "text": "🔻تیم فوتبال تراکتور در هفته پنجم لیگ برتر در قزوین برابر شمس آذر به تساوی بدون گل رسید تا پس از چهار هفته پیروزی پیاپی، متوقف شود.\n\n🔹تراکتور با این تساوی ۱۳ امتیازی شد و موقتا و پیش از برگزاری دربی در صدر جدول قرار دارد.\n\n🔹در دیگر بازی‌های هفته پنجم، آلومینیوم اراک در سیرجان موفق شد با نتیجه ۲-۰ گل‌گهر را شکست دهد. امیرحسین امانی‌پور و شروین بزرگ برای شاگردان پیروز قربانی گلزنی کردند. آلومینیوم با این پیروزی به رده دوم صعود کرد.\n\n🔹همچنین تقابل استقلال خوزستان و چادرملو اردکان با تساوی ۱-۱ به پایان رسید. سعید محمدی فرد برای چادرملو و عارف رستمی برای استقلال خوزستان در این بازی گلزنی کردند.\n\n@iranintltvsport",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "21:32:33",
-      "gregorian_utc": "2026-09-01T18:02:33+00:00",
+      "tehran_time": "21:48:17",
+      "gregorian_utc": "2026-09-01T18:18:17+00:00",
       "media_type": "photo",
-      "media_size_bytes": 68838,
-      "media_size_human": "67.22 KB",
+      "media_size_bytes": 181844,
+      "media_size_human": "177.58 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355282_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355282_photo.jpg",
+      "media_local_path": "media/IranintlTV_355283_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355283_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T18:50:37.437402+00:00"
+      "archived_at": "2026-09-01T19:00:49.342802+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -707,7 +707,7 @@
       "media_local_path": "media/satlastnews_76378_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76378_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T18:50:37.729653+00:00"
+      "archived_at": "2026-09-01T19:00:49.741332+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -725,7 +725,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T18:50:38.075673+00:00"
+      "archived_at": "2026-09-01T19:00:50.112632+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -743,17 +743,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T18:50:38.423024+00:00"
+      "archived_at": "2026-09-01T19:00:50.577990+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12506,
-      "message_link": "https://t.me/zedTV/12506",
-      "text": "گزارش‌ها از انجام حملات ایالات متحده علیه مواضع رژیم؛\nاستفاده از پایگاه‌های نظامی در بحرین و کویت برای اجرای عملیات.",
+      "message_id": 12509,
+      "message_link": "https://t.me/zedTV/12509",
+      "text": "دکل مخابراتی سیریک بار دیگر هدف حمله قرار گرفت.\nگزارش‌ها از وقوع انفجار و آسیب به زیرساخت‌های منطقه.\nتداوم حملات به مواضع راهبردی در استان هرمزگان.",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "20:58:09",
-      "gregorian_utc": "2026-09-01T17:28:09+00:00",
+      "tehran_time": "20:58:29",
+      "gregorian_utc": "2026-09-01T17:28:29+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -761,25 +761,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T18:50:37.103413+00:00"
+      "archived_at": "2026-09-01T19:00:48.946685+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355281,
-      "message_link": "https://t.me/IranintlTV/355281",
-      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال می‌گوید به همراه همسر و دو کودک خردسالش تصمیم به مهاجرت گرفته‌اند: «همسرم در پالایشگاه کار می‌کرد و خودم هم پرستار بودم اما هر دوی ما را تعدیل کرده‌اند. حالا مجبوریم به‌خاطر نبود امنیت مالی و جانی مهاجرت کنیم.»",
+      "message_id": 355282,
+      "message_link": "https://t.me/IranintlTV/355282",
+      "text": "خبرگزاری صدا و سیمای جمهوری اسلامی از شنیده شدن دوباره صدای انفجار در بندرعباس و جزیره قشم در شامگاه سه‌شنبه خبر داد و افزود: «در جزیره لاوان هم صدای انفجار شنیده شده است.»\nhttps://iranintl.com/202609019424",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "21:32:05",
-      "gregorian_utc": "2026-09-01T18:02:05+00:00",
-      "media_type": "video",
-      "media_size_bytes": 10330104,
-      "media_size_human": "9.85 MB",
+      "tehran_time": "21:32:33",
+      "gregorian_utc": "2026-09-01T18:02:33+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 68838,
+      "media_size_human": "67.22 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355281_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355281_video.mp4",
+      "media_local_path": "media/IranintlTV_355282_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355282_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T18:50:37.437448+00:00"
+      "archived_at": "2026-09-01T19:00:49.342928+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -797,7 +797,7 @@
       "media_local_path": "media/satlastnews_76377_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76377_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T18:50:37.729699+00:00"
+      "archived_at": "2026-09-01T19:00:49.741387+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -815,7 +815,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T18:50:38.075692+00:00"
+      "archived_at": "2026-09-01T19:00:50.112664+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -833,17 +833,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T18:50:38.423041+00:00"
+      "archived_at": "2026-09-01T19:00:50.578015+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12505,
-      "message_link": "https://t.me/zedTV/12505",
-      "text": "چهار حمله هوایی هدفمند آمریکا به فرودگاه قشم؛\nگزارش هدف قرار گرفتن جزیره لارک و منطقه سیریک.",
+      "message_id": 12508,
+      "message_link": "https://t.me/zedTV/12508",
+      "text": "گزارش‌ها از انهدام مجدد دکل مخابراتی رژیم حکایت دارد.\nاین سازه تنها برای مدتی کوتاه در امان مانده بود.\nتداوم آسیب به زیرساخت‌های حیاتی در پی تنش‌های اخیر.",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "20:58:08",
-      "gregorian_utc": "2026-09-01T17:28:08+00:00",
+      "tehran_time": "20:58:16",
+      "gregorian_utc": "2026-09-01T17:28:16+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -851,25 +851,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T18:50:37.103430+00:00"
+      "archived_at": "2026-09-01T19:00:48.946713+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355280,
-      "message_link": "https://t.me/IranintlTV/355280",
-      "text": "ستادکل نیروهای مسلح جمهوری اسلامی اعلام کرد که در پاسخ به حمله هوایی ارتش آمریکا به نقاطی در سیستان‌وبلوچستان و هرمزگان، نیروهای مسلح جمهوری اسلامی «ضربات کوبنده و شکننده‌ای» را به دشمن آمریکایی وارد خواهند نمود.\n\nهمچنین حسین محبی، سخنگوی سپاه پاسداران، در ایکس نوشت که تنبیه سختی در انتظار آمریکا است و این کشور از حملات جدید خود پشیمان خواهد شد.\nhttps://iranintl.com/202609010641",
+      "message_id": 355281,
+      "message_link": "https://t.me/IranintlTV/355281",
+      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال می‌گوید به همراه همسر و دو کودک خردسالش تصمیم به مهاجرت گرفته‌اند: «همسرم در پالایشگاه کار می‌کرد و خودم هم پرستار بودم اما هر دوی ما را تعدیل کرده‌اند. حالا مجبوریم به‌خاطر نبود امنیت مالی و جانی مهاجرت کنیم.»",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "21:28:24",
-      "gregorian_utc": "2026-09-01T17:58:24+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 165397,
-      "media_size_human": "161.52 KB",
+      "tehran_time": "21:32:05",
+      "gregorian_utc": "2026-09-01T18:02:05+00:00",
+      "media_type": "video",
+      "media_size_bytes": 10330104,
+      "media_size_human": "9.85 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355280_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355280_photo.jpg",
+      "media_local_path": "media/IranintlTV_355281_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355281_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T18:50:37.437518+00:00"
+      "archived_at": "2026-09-01T19:00:49.342983+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -887,7 +887,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T18:50:37.729750+00:00"
+      "archived_at": "2026-09-01T19:00:49.741458+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -905,7 +905,7 @@
       "media_local_path": "media/Mellig_120496_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120496_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T18:50:38.075732+00:00"
+      "archived_at": "2026-09-01T19:00:50.112722+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -923,17 +923,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T18:50:38.423058+00:00"
+      "archived_at": "2026-09-01T19:00:50.578040+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12504,
-      "message_link": "https://t.me/zedTV/12504",
-      "text": "آکسیوس: حملات آمریکا مانع از بازسازی توان پدافندی و راداری رژیم شد.\nگزارش وقوع انفجار در بندر جاسک و میناب در استان هرمزگان.\nتداوم ضربات به زیرساخت‌های نظامی در حاشیه تنگه هرمز.",
+      "message_id": 12507,
+      "message_link": "https://t.me/zedTV/12507",
+      "text": "تداوم حملات به چابهار و کنارک؛\nخبرگزاری مهر وقوع ضربات مجدد در جنوب شرق را تایید کرد.\nاهداف در این دو منطقه بار دیگر مورد اصابت قرار گرفتند.",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "20:44:04",
-      "gregorian_utc": "2026-09-01T17:14:04+00:00",
+      "tehran_time": "20:58:16",
+      "gregorian_utc": "2026-09-01T17:28:16+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -941,25 +941,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T18:50:37.103447+00:00"
+      "archived_at": "2026-09-01T19:00:48.946737+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355279,
-      "message_link": "https://t.me/IranintlTV/355279",
-      "text": "🎧نسخه صوتی تیتراول با نیوشا صارمی: فوری: حمله شدید آمریکا به جنوب ایران؛ تهران: به سرعت پاسخ خواهیم داد\n@iranintlTV",
+      "message_id": 355280,
+      "message_link": "https://t.me/IranintlTV/355280",
+      "text": "ستادکل نیروهای مسلح جمهوری اسلامی اعلام کرد که در پاسخ به حمله هوایی ارتش آمریکا به نقاطی در سیستان‌وبلوچستان و هرمزگان، نیروهای مسلح جمهوری اسلامی «ضربات کوبنده و شکننده‌ای» را به دشمن آمریکایی وارد خواهند نمود.\n\nهمچنین حسین محبی، سخنگوی سپاه پاسداران، در ایکس نوشت که تنبیه سختی در انتظار آمریکا است و این کشور از حملات جدید خود پشیمان خواهد شد.\nhttps://iranintl.com/202609010641",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "21:23:34",
-      "gregorian_utc": "2026-09-01T17:53:34+00:00",
-      "media_type": "audio",
-      "media_size_bytes": 31760156,
-      "media_size_human": "30.29 MB",
+      "tehran_time": "21:28:24",
+      "gregorian_utc": "2026-09-01T17:58:24+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 165397,
+      "media_size_human": "161.52 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355279_audio.mp3",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355279_audio.mp3",
+      "media_local_path": "media/IranintlTV_355280_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355280_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T18:50:37.437574+00:00"
+      "archived_at": "2026-09-01T19:00:49.343072+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -977,7 +977,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T18:50:37.729791+00:00"
+      "archived_at": "2026-09-01T19:00:49.741519+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -995,7 +995,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T18:50:38.075749+00:00"
+      "archived_at": "2026-09-01T19:00:50.112751+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -1013,17 +1013,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T18:50:38.423078+00:00"
+      "archived_at": "2026-09-01T19:00:50.578065+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12503,
-      "message_link": "https://t.me/zedTV/12503",
-      "text": "حملات سنگین به مناطق مختلف بندرعباس؛\nهدف قرار گرفتن محلات نبوت، شاغو، الهیه و پردیس؛\nگزارش از اصابت‌های گسترده در منطقه هوایی و تهلوئیه.",
+      "message_id": 12506,
+      "message_link": "https://t.me/zedTV/12506",
+      "text": "گزارش‌ها از انجام حملات ایالات متحده علیه مواضع رژیم؛\nاستفاده از پایگاه‌های نظامی در بحرین و کویت برای اجرای عملیات.",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "20:44:04",
-      "gregorian_utc": "2026-09-01T17:14:04+00:00",
+      "tehran_time": "20:58:09",
+      "gregorian_utc": "2026-09-01T17:28:09+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -1031,25 +1031,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T18:50:37.103463+00:00"
+      "archived_at": "2026-09-01T19:00:48.946795+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355278,
-      "message_link": "https://t.me/IranintlTV/355278",
-      "text": "در ادامه موج صدور احکام اعدام برای معترضان و زندانیان سیاسی، دادگاه انقلاب تهران برای علی زارعی از آسیب‌دیدگان چشمی اعتراض‌های ۱۴۰۱ حکم اعدام صادر کرد. دیروز هم دیوان عالی کشور حکم اعدام علی‌اصغر پیغمبری، معترض ۲۶ ساله را تایید کرده بود. \n\nگفت‌وگو با پگاه بنی‌هاشمی پژوهشگر ارشد حقوق در دانشگاه شیکاگو\n@iranintltv",
+      "message_id": 355279,
+      "message_link": "https://t.me/IranintlTV/355279",
+      "text": "🎧نسخه صوتی تیتراول با نیوشا صارمی: فوری: حمله شدید آمریکا به جنوب ایران؛ تهران: به سرعت پاسخ خواهیم داد\n@iranintlTV",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "21:20:46",
-      "gregorian_utc": "2026-09-01T17:50:46+00:00",
-      "media_type": "video",
-      "media_size_bytes": 22620599,
-      "media_size_human": "21.57 MB",
+      "tehran_time": "21:23:34",
+      "gregorian_utc": "2026-09-01T17:53:34+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 31760156,
+      "media_size_human": "30.29 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355278_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355278_video.mp4",
+      "media_local_path": "media/IranintlTV_355279_audio.mp3",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355279_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T18:50:37.437633+00:00"
+      "archived_at": "2026-09-01T19:00:49.343143+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1067,7 +1067,7 @@
       "media_local_path": "media/satlastnews_76374_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76374_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-01T18:50:37.729849+00:00"
+      "archived_at": "2026-09-01T19:00:49.741597+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1085,7 +1085,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-01T18:50:38.075776+00:00"
+      "archived_at": "2026-09-01T19:00:50.112821+00:00"
     }
   ]
 }
