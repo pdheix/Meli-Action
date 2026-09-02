@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T15:51:59.142311+00:00",
-  "shamsi_generated": "1405/06/11 15:51:59 تهران",
+  "generated_at": "2026-09-02T16:02:49.224842+00:00",
+  "shamsi_generated": "1405/06/11 16:02:49 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -41,43 +41,43 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T15:50:29.102565+00:00"
+      "archived_at": "2026-09-02T16:00:48.637140+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355439,
-      "message_link": "https://t.me/IranintlTV/355439",
-      "text": "🔻یک زن هوادار پرسپولیس پیش از دربی ۱۰۷ تهران در اصفهان، در گفتگویی با فوتبال ۳۶۰ به کنایه شعری می‌خواند‌: «از بدِ حادثه اینجا به پناه آمده‌ایم.»\n\n🔹دربی ۱۰۷ تهران میان استقلال و پرسپولیس و در جریان هفته پنجم لیگ برتر، عصر چهارشنبه ۱۱ شهریور در ورزشگاه نقش جهان اصفهان برگزار می‌شود.\n\n@iranintltvsport",
+      "message_id": 355440,
+      "message_link": "https://t.me/IranintlTV/355440",
+      "text": "دیشب عرفان از بندرعباس، میان صدای انفجار، روی خط «برنامه» آمد و گفت: «ما دیگر عادت کرده‌ایم.»\nو این، موضوع امشب «برنامه» است:\nآیا ما به جنگ عادت کرده‌ایم؟\nبیایید و روایت خود را برای همیشه ثبت کنید. تاریخ با صدای شما نوشته می‌شود. تجربهٔ شما بخشی از واقعیتی است که نباید عادی یا فراموش شود.\nبرای شرکت در برنامه، همین حالا در واتس‌اپ پیام بدهید:\n۰۰۴۴۷۵۲۲۱۱۰۱۱۰\n۰۰۴۴۷۵۴۴۱۱۰۱۱۰\n۰۰۴۴۷۵۱۱۱۰۲۵۵۳\n«برنامه با کامبیز حسینی»\n«یک ایران صدای شما را می‌شنود»\n@iranintltv",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "19:19:15",
-      "gregorian_utc": "2026-09-02T15:49:15+00:00",
-      "media_type": "video",
-      "media_size_bytes": 7738694,
-      "media_size_human": "7.38 MB",
+      "tehran_time": "19:26:37",
+      "gregorian_utc": "2026-09-02T15:56:37+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 299533,
+      "media_size_human": "292.51 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355439_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355439_video.mp4",
+      "media_local_path": "media/IranintlTV_355440_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355440_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T15:50:29.392347+00:00"
+      "archived_at": "2026-09-02T16:00:48.980429+00:00"
     },
     {
       "channel_name": "Satellites Last News",
       "channel_username": "satlastnews",
-      "message_id": 76397,
-      "message_link": "https://t.me/satlastnews/76397",
-      "text": "⭕️ پخش دربی پایتخت امروز\n\nساعت 19:30 همزمان از شبکه پرشیانا اسپورت 2 و شبکه سوم صدا و سیما\n\n@SatLastNews",
+      "message_id": 76398,
+      "message_link": "https://t.me/satlastnews/76398",
+      "text": "⭕️ ماشالله به تمام دختران و زنان این سرزمین ... ❤️\n\nفدای این همه انرژی مثبت و فهم و درک و اطلاعات فوتبالیتون ❤️\n\nچقدر این کادرها قشنگ و دیدنیه، یکم حالم خوب شد ❤️\n\n@SatLastNews",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "19:15:38",
-      "gregorian_utc": "2026-09-02T15:45:38+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 88580,
-      "media_size_human": "86.50 KB",
+      "tehran_time": "19:29:02",
+      "gregorian_utc": "2026-09-02T15:59:02+00:00",
+      "media_type": "video",
+      "media_size_bytes": 16329275,
+      "media_size_human": "15.57 MB",
       "media_downloaded": true,
-      "media_local_path": "media/satlastnews_76397_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76397_photo.jpg",
+      "media_local_path": "media/satlastnews_76398_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76398_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T15:50:29.680730+00:00"
+      "archived_at": "2026-09-02T16:00:49.322729+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -95,7 +95,7 @@
       "media_local_path": "media/Mellig_120540_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120540_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T15:50:29.984697+00:00"
+      "archived_at": "2026-09-02T16:00:49.700172+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -113,7 +113,7 @@
       "media_local_path": "media/khabarsara53_11_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_11_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T15:50:30.288064+00:00"
+      "archived_at": "2026-09-02T16:00:50.012419+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -131,43 +131,43 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T15:50:29.102613+00:00"
+      "archived_at": "2026-09-02T16:00:48.637178+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355438,
-      "message_link": "https://t.me/IranintlTV/355438",
-      "text": "در مرگبارترین شب درگیری‌های نظامی در خلیج فارس از زمان آتش‌بس، دستکم ۱۹ نفر در حمله آمریکا به ۱۰۰ هدف در ۴۰ نقطه ایران کشته شدند. پس از پایان این موج از درگیری نظامی، ترامپ با اشاره فروپاشی اقتصادی قریب‌الوقوع ایران پرسید مردم ایران کی قیام خواهند کرد؟\n\nگزارشی از مجتبا پورمحسن\n@iranintltv",
+      "message_id": 355439,
+      "message_link": "https://t.me/IranintlTV/355439",
+      "text": "🔻یک زن هوادار پرسپولیس پیش از دربی ۱۰۷ تهران در اصفهان، در گفتگویی با فوتبال ۳۶۰ به کنایه شعری می‌خواند‌: «از بدِ حادثه اینجا به پناه آمده‌ایم.»\n\n🔹دربی ۱۰۷ تهران میان استقلال و پرسپولیس و در جریان هفته پنجم لیگ برتر، عصر چهارشنبه ۱۱ شهریور در ورزشگاه نقش جهان اصفهان برگزار می‌شود.\n\n@iranintltvsport",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "19:13:10",
-      "gregorian_utc": "2026-09-02T15:43:10+00:00",
+      "tehran_time": "19:19:15",
+      "gregorian_utc": "2026-09-02T15:49:15+00:00",
       "media_type": "video",
-      "media_size_bytes": 6897902,
-      "media_size_human": "6.58 MB",
+      "media_size_bytes": 7738694,
+      "media_size_human": "7.38 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355438_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355438_video.mp4",
+      "media_local_path": "media/IranintlTV_355439_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355439_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T15:50:29.392507+00:00"
+      "archived_at": "2026-09-02T16:00:48.996032+00:00"
     },
     {
       "channel_name": "Satellites Last News",
       "channel_username": "satlastnews",
-      "message_id": 76392,
-      "message_link": "https://t.me/satlastnews/76392",
-      "text": "📺 لیست کارتون هایی که چهارشنبه 11 شهریور در FX2 تماشا می کنید\n\nشبکه FX2 را می توانید از طریق فرکانس ماهواره ترکمنعالم (همجهت یاهست) تماشا نمایید.\n\n📡 فرکانس پخش اصلی ما:\n\nFX 2 HD\nYAHSAT 10762 V 27500\n\n📡 فرکانس ویژه جنوب ایران:\n\nFX 2 HD\nYAHSAT 11420 H 27500\n\n🌐 پخش آنلاین:\nfxtv2.wns.live\n\n🔈 ایمیل پخش آگهی:\nFXTVInfo@Gmail.com\n\n🌐 کانال تلگرام ما:\ntelegram.me/FXTVFans\n\n🌐 پیج اینستاگرام ما:\ninstagram.com/FXTVFans",
+      "message_id": 76397,
+      "message_link": "https://t.me/satlastnews/76397",
+      "text": "⭕️ پخش دربی پایتخت امروز\n\nساعت 19:30 همزمان از شبکه پرشیانا اسپورت 2 و شبکه سوم صدا و سیما\n\n@SatLastNews",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "14:42:09",
-      "gregorian_utc": "2026-09-02T11:12:09+00:00",
+      "tehran_time": "19:15:38",
+      "gregorian_utc": "2026-09-02T15:45:38+00:00",
       "media_type": "photo",
-      "media_size_bytes": 258117,
-      "media_size_human": "252.07 KB",
+      "media_size_bytes": 88580,
+      "media_size_human": "86.50 KB",
       "media_downloaded": true,
-      "media_local_path": "media/satlastnews_76392_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76392_photo.jpg",
+      "media_local_path": "media/satlastnews_76397_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76397_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T15:50:29.680843+00:00"
+      "archived_at": "2026-09-02T16:00:49.322783+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -185,7 +185,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T15:50:29.984760+00:00"
+      "archived_at": "2026-09-02T16:00:49.700220+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -203,7 +203,7 @@
       "media_local_path": "media/khabarsara53_10_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_10_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T15:50:30.288129+00:00"
+      "archived_at": "2026-09-02T16:00:50.012467+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -221,43 +221,43 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T15:50:29.102649+00:00"
+      "archived_at": "2026-09-02T16:00:48.637201+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355437,
-      "message_link": "https://t.me/IranintlTV/355437",
-      "text": "دونالد ترامپ، رییس‌جمهور آمریکا، با انتشار پستی در تروث‌سوشال، پیشنهاد تغییر نام تنگه هرمز به تنگه ترامپ را مطرح کرد و نوشت: حالا که آن را تحت کنترل آمریکا داریم، آیا باید نام تنگه هرمز را به «تنگه ترامپ» تغییر دهیم؟\n\nترامپ پیش‌تر نیز با انتشار تصاویری در تروث‌سوشال، تنگه هرمز را بخشی از قلمرو ایالات متحده آمریکا خوانده بود.\nhttps://iranintl.com/202609020129",
+      "message_id": 355438,
+      "message_link": "https://t.me/IranintlTV/355438",
+      "text": "در مرگبارترین شب درگیری‌های نظامی در خلیج فارس از زمان آتش‌بس، دستکم ۱۹ نفر در حمله آمریکا به ۱۰۰ هدف در ۴۰ نقطه ایران کشته شدند. پس از پایان این موج از درگیری نظامی، ترامپ با اشاره فروپاشی اقتصادی قریب‌الوقوع ایران پرسید مردم ایران کی قیام خواهند کرد؟\n\nگزارشی از مجتبا پورمحسن\n@iranintltv",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "19:10:38",
-      "gregorian_utc": "2026-09-02T15:40:38+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 160155,
-      "media_size_human": "156.40 KB",
+      "tehran_time": "19:13:10",
+      "gregorian_utc": "2026-09-02T15:43:10+00:00",
+      "media_type": "video",
+      "media_size_bytes": 6897902,
+      "media_size_human": "6.58 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355437_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355437_photo.jpg",
+      "media_local_path": "media/IranintlTV_355438_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355438_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T15:50:29.392620+00:00"
+      "archived_at": "2026-09-02T16:00:48.996127+00:00"
     },
     {
       "channel_name": "Satellites Last News",
       "channel_username": "satlastnews",
-      "message_id": 76391,
-      "message_link": "https://t.me/satlastnews/76391",
-      "text": "⭕️ ما دیگه افزایش قیمت نداریم؛\nپخش زنده داریم!\nلحظه‌ای، ساعتی، بدون توقف…\n\nفقط یکی اون بالا صداش کنه:\nداداش برگرد…\nما دیگه توان دویدن دنبالتو نداریم!\n\nواقعاً به کجا چنین شتابان؟!\n\n@SatLastNews",
+      "message_id": 76392,
+      "message_link": "https://t.me/satlastnews/76392",
+      "text": "📺 لیست کارتون هایی که چهارشنبه 11 شهریور در FX2 تماشا می کنید\n\nشبکه FX2 را می توانید از طریق فرکانس ماهواره ترکمنعالم (همجهت یاهست) تماشا نمایید.\n\n📡 فرکانس پخش اصلی ما:\n\nFX 2 HD\nYAHSAT 10762 V 27500\n\n📡 فرکانس ویژه جنوب ایران:\n\nFX 2 HD\nYAHSAT 11420 H 27500\n\n🌐 پخش آنلاین:\nfxtv2.wns.live\n\n🔈 ایمیل پخش آگهی:\nFXTVInfo@Gmail.com\n\n🌐 کانال تلگرام ما:\ntelegram.me/FXTVFans\n\n🌐 پیج اینستاگرام ما:\ninstagram.com/FXTVFans",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "13:49:04",
-      "gregorian_utc": "2026-09-02T10:19:04+00:00",
+      "tehran_time": "14:42:09",
+      "gregorian_utc": "2026-09-02T11:12:09+00:00",
       "media_type": "photo",
-      "media_size_bytes": 232930,
-      "media_size_human": "227.47 KB",
+      "media_size_bytes": 258117,
+      "media_size_human": "252.07 KB",
       "media_downloaded": true,
-      "media_local_path": "media/satlastnews_76391_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76391_photo.jpg",
+      "media_local_path": "media/satlastnews_76392_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76392_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T15:50:29.680906+00:00"
+      "archived_at": "2026-09-02T16:00:49.322862+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -275,7 +275,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T15:50:29.984788+00:00"
+      "archived_at": "2026-09-02T16:00:49.700240+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -293,7 +293,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T15:50:30.288156+00:00"
+      "archived_at": "2026-09-02T16:00:50.012505+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -311,43 +311,43 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T15:50:29.102680+00:00"
+      "archived_at": "2026-09-02T16:00:48.637225+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355436,
-      "message_link": "https://t.me/IranintlTV/355436",
-      "text": "🎧نسخه صوتی اخبار شبانگاهی | چهارشنبه ۱۱ شهریور\n@iranintlTV",
+      "message_id": 355437,
+      "message_link": "https://t.me/IranintlTV/355437",
+      "text": "دونالد ترامپ، رییس‌جمهور آمریکا، با انتشار پستی در تروث‌سوشال، پیشنهاد تغییر نام تنگه هرمز به تنگه ترامپ را مطرح کرد و نوشت: حالا که آن را تحت کنترل آمریکا داریم، آیا باید نام تنگه هرمز را به «تنگه ترامپ» تغییر دهیم؟\n\nترامپ پیش‌تر نیز با انتشار تصاویری در تروث‌سوشال، تنگه هرمز را بخشی از قلمرو ایالات متحده آمریکا خوانده بود.\nhttps://iranintl.com/202609020129",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "19:10:02",
-      "gregorian_utc": "2026-09-02T15:40:02+00:00",
-      "media_type": "audio",
-      "media_size_bytes": 30212255,
-      "media_size_human": "28.81 MB",
+      "tehran_time": "19:10:38",
+      "gregorian_utc": "2026-09-02T15:40:38+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 160155,
+      "media_size_human": "156.40 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355436_audio.mp3",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355436_audio.mp3",
+      "media_local_path": "media/IranintlTV_355437_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355437_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T15:50:29.392680+00:00"
+      "archived_at": "2026-09-02T16:00:48.996209+00:00"
     },
     {
       "channel_name": "Satellites Last News",
       "channel_username": "satlastnews",
-      "message_id": 76388,
-      "message_link": "https://t.me/satlastnews/76388",
-      "text": "⭕️ شوخی به نام گوشی پایین رده !\n\nپایین ترین مدل سامسونگ در تمام ادوار ۶۰ میلیون تومان!\n\nگوشی میان رده (یا بهتر بگم پایین رده!) A37 هم 103 میلیون تومان!\n\n@SatLastNews",
-      "shamsi_date": "1405/06/10",
-      "tehran_time": "21:19:14",
-      "gregorian_utc": "2026-09-01T17:49:14+00:00",
+      "message_id": 76391,
+      "message_link": "https://t.me/satlastnews/76391",
+      "text": "⭕️ ما دیگه افزایش قیمت نداریم؛\nپخش زنده داریم!\nلحظه‌ای، ساعتی، بدون توقف…\n\nفقط یکی اون بالا صداش کنه:\nداداش برگرد…\nما دیگه توان دویدن دنبالتو نداریم!\n\nواقعاً به کجا چنین شتابان؟!\n\n@SatLastNews",
+      "shamsi_date": "1405/06/11",
+      "tehran_time": "13:49:04",
+      "gregorian_utc": "2026-09-02T10:19:04+00:00",
       "media_type": "photo",
-      "media_size_bytes": 151530,
-      "media_size_human": "147.98 KB",
+      "media_size_bytes": 232930,
+      "media_size_human": "227.47 KB",
       "media_downloaded": true,
-      "media_local_path": "media/satlastnews_76388_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76388_photo.jpg",
+      "media_local_path": "media/satlastnews_76391_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76391_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T15:50:29.680960+00:00"
+      "archived_at": "2026-09-02T16:00:49.322906+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -365,7 +365,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T15:50:29.984811+00:00"
+      "archived_at": "2026-09-02T16:00:49.700256+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -383,7 +383,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T15:50:30.288178+00:00"
+      "archived_at": "2026-09-02T16:00:50.012525+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -401,43 +401,43 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T15:50:29.102705+00:00"
+      "archived_at": "2026-09-02T16:00:48.637244+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355435,
-      "message_link": "https://t.me/IranintlTV/355435",
-      "text": "",
+      "message_id": 355436,
+      "message_link": "https://t.me/IranintlTV/355436",
+      "text": "🎧نسخه صوتی اخبار شبانگاهی | چهارشنبه ۱۱ شهریور\n@iranintlTV",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "18:36:16",
-      "gregorian_utc": "2026-09-02T15:06:16+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 173611,
-      "media_size_human": "169.54 KB",
+      "tehran_time": "19:10:02",
+      "gregorian_utc": "2026-09-02T15:40:02+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 30212255,
+      "media_size_human": "28.81 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355435_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355435_photo.jpg",
+      "media_local_path": "media/IranintlTV_355436_audio.mp3",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355436_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T15:50:29.392723+00:00"
+      "archived_at": "2026-09-02T16:00:48.996255+00:00"
     },
     {
       "channel_name": "Satellites Last News",
       "channel_username": "satlastnews",
-      "message_id": 76387,
-      "message_link": "https://t.me/satlastnews/76387",
-      "text": "⭕️ برنامه کامبیز حسینی، برداشته امیرعباس فخر آور رو اورده.\n\nمن هر چیزی به این ویدیو اضافه بکنم از طنز ماجرا کم می‌کنه!\n\nویدیو مربوط به حدود یک سال پیش است\n\n❌ هشدار کلمات +18\n\n@SatLastNews",
+      "message_id": 76388,
+      "message_link": "https://t.me/satlastnews/76388",
+      "text": "⭕️ شوخی به نام گوشی پایین رده !\n\nپایین ترین مدل سامسونگ در تمام ادوار ۶۰ میلیون تومان!\n\nگوشی میان رده (یا بهتر بگم پایین رده!) A37 هم 103 میلیون تومان!\n\n@SatLastNews",
       "shamsi_date": "1405/06/10",
-      "tehran_time": "12:21:23",
-      "gregorian_utc": "2026-09-01T08:51:23+00:00",
-      "media_type": "video",
-      "media_size_bytes": 5274111,
-      "media_size_human": "5.03 MB",
+      "tehran_time": "21:19:14",
+      "gregorian_utc": "2026-09-01T17:49:14+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 151530,
+      "media_size_human": "147.98 KB",
       "media_downloaded": true,
-      "media_local_path": "media/satlastnews_76387_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76387_video.mp4",
+      "media_local_path": "media/satlastnews_76388_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76388_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T15:50:29.681018+00:00"
+      "archived_at": "2026-09-02T16:00:49.322945+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -455,7 +455,7 @@
       "media_local_path": "media/Mellig_120536_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120536_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T15:50:29.984847+00:00"
+      "archived_at": "2026-09-02T16:00:49.700283+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -473,7 +473,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T15:50:30.288199+00:00"
+      "archived_at": "2026-09-02T16:00:50.012542+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -491,43 +491,43 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T15:50:29.102735+00:00"
+      "archived_at": "2026-09-02T16:00:48.637269+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355434,
-      "message_link": "https://t.me/IranintlTV/355434",
+      "message_id": 355435,
+      "message_link": "https://t.me/IranintlTV/355435",
       "text": "",
       "shamsi_date": "1405/06/11",
       "tehran_time": "18:36:16",
       "gregorian_utc": "2026-09-02T15:06:16+00:00",
       "media_type": "photo",
-      "media_size_bytes": 247614,
-      "media_size_human": "241.81 KB",
+      "media_size_bytes": 173611,
+      "media_size_human": "169.54 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355434_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355434_photo.jpg",
+      "media_local_path": "media/IranintlTV_355435_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355435_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T15:50:29.392757+00:00"
+      "archived_at": "2026-09-02T16:00:48.996288+00:00"
     },
     {
       "channel_name": "Satellites Last News",
       "channel_username": "satlastnews",
-      "message_id": 76385,
-      "message_link": "https://t.me/satlastnews/76385",
-      "text": "⭕️ جدول کلیه شبکه های فارسی زبان واقع بر روی ترکمنعالم، اکسپرس و یوتلست 7 تحت سرویس WNS\n\nبه روز شده در 9 شهریور 1405\n\n@SatLastNews",
-      "shamsi_date": "1405/06/09",
-      "tehran_time": "15:27:31",
-      "gregorian_utc": "2026-08-31T11:57:31+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 365905,
-      "media_size_human": "357.33 KB",
+      "message_id": 76387,
+      "message_link": "https://t.me/satlastnews/76387",
+      "text": "⭕️ برنامه کامبیز حسینی، برداشته امیرعباس فخر آور رو اورده.\n\nمن هر چیزی به این ویدیو اضافه بکنم از طنز ماجرا کم می‌کنه!\n\nویدیو مربوط به حدود یک سال پیش است\n\n❌ هشدار کلمات +18\n\n@SatLastNews",
+      "shamsi_date": "1405/06/10",
+      "tehran_time": "12:21:23",
+      "gregorian_utc": "2026-09-01T08:51:23+00:00",
+      "media_type": "video",
+      "media_size_bytes": 5274111,
+      "media_size_human": "5.03 MB",
       "media_downloaded": true,
-      "media_local_path": "media/satlastnews_76385_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76385_photo.jpg",
+      "media_local_path": "media/satlastnews_76387_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76387_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T15:50:29.681065+00:00"
+      "archived_at": "2026-09-02T16:00:49.322989+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -545,7 +545,7 @@
       "media_local_path": "media/Mellig_120535_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120535_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T15:50:29.984878+00:00"
+      "archived_at": "2026-09-02T16:00:49.700307+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -563,7 +563,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T15:50:30.288220+00:00"
+      "archived_at": "2026-09-02T16:00:50.012559+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -581,43 +581,43 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T15:50:29.102759+00:00"
+      "archived_at": "2026-09-02T16:00:48.637287+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355433,
-      "message_link": "https://t.me/IranintlTV/355433",
-      "text": "🔻سهراب بختیاری‌زاده و مهدی تارتار، سرمربیان استقلال و پرسپولیس، بدون دست زدن به ترکیب برنده و موفق هفته‌های گذشته، تیم‌هایشان را راهی دربی ۱۰۷ کرده‌اند. \n\n**ترکیب استقلال؛\n🔹**حبیب فرعباسی، رستم آشورماتوف، عارف آقاسی، سامان فلاح، صالح حردانی، حسین گودرزی، امیرمحمد رزاقی‌نیا، اسماعیل قلی‌زاده، یاسر آسانی، علیرضا کوشکی و سعید سحرخیزان\n\n**ترکیب پرسپولیس؛\n**🔹پیام نیازمند، مهدی زارع، حسین کنعانی، مهدی تیکدری، مجید عیدی، پویا پورعلی، محمد خدابنده‌لو، محمدمهدی محبی، تیوی بیفوما، ایگور سرگیف و علی علی‌پور.\n\n@iranintltvsport",
+      "message_id": 355434,
+      "message_link": "https://t.me/IranintlTV/355434",
+      "text": "",
       "shamsi_date": "1405/06/11",
       "tehran_time": "18:36:16",
       "gregorian_utc": "2026-09-02T15:06:16+00:00",
       "media_type": "photo",
-      "media_size_bytes": 161489,
-      "media_size_human": "157.70 KB",
+      "media_size_bytes": 247614,
+      "media_size_human": "241.81 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355433_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355433_photo.jpg",
+      "media_local_path": "media/IranintlTV_355434_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355434_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T15:50:29.392886+00:00"
+      "archived_at": "2026-09-02T16:00:48.996316+00:00"
     },
     {
       "channel_name": "Satellites Last News",
       "channel_username": "satlastnews",
-      "message_id": 76383,
-      "message_link": "https://t.me/satlastnews/76383",
-      "text": "⭕️به کجا چنین شتابان ...!\n\n@SatLastNews",
+      "message_id": 76385,
+      "message_link": "https://t.me/satlastnews/76385",
+      "text": "⭕️ جدول کلیه شبکه های فارسی زبان واقع بر روی ترکمنعالم، اکسپرس و یوتلست 7 تحت سرویس WNS\n\nبه روز شده در 9 شهریور 1405\n\n@SatLastNews",
       "shamsi_date": "1405/06/09",
-      "tehran_time": "13:54:28",
-      "gregorian_utc": "2026-08-31T10:24:28+00:00",
+      "tehran_time": "15:27:31",
+      "gregorian_utc": "2026-08-31T11:57:31+00:00",
       "media_type": "photo",
-      "media_size_bytes": 225653,
-      "media_size_human": "220.36 KB",
+      "media_size_bytes": 365905,
+      "media_size_human": "357.33 KB",
       "media_downloaded": true,
-      "media_local_path": "media/satlastnews_76383_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76383_photo.jpg",
+      "media_local_path": "media/satlastnews_76385_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76385_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T15:50:29.681100+00:00"
+      "archived_at": "2026-09-02T16:00:49.323026+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -635,7 +635,7 @@
       "media_local_path": "media/Mellig_120534_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120534_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T15:50:29.984921+00:00"
+      "archived_at": "2026-09-02T16:00:49.700340+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -653,7 +653,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T15:50:30.288241+00:00"
+      "archived_at": "2026-09-02T16:00:50.012576+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -671,43 +671,43 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T15:50:29.102798+00:00"
+      "archived_at": "2026-09-02T16:00:48.637320+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355432,
-      "message_link": "https://t.me/IranintlTV/355432",
-      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال در خصوص گرانی‌های روزافزون می‌گوید دو عدد ماکارونی و یک روغن خوراکی را به قیمت ۶۶۰ هزار تومان خریده است.",
+      "message_id": 355433,
+      "message_link": "https://t.me/IranintlTV/355433",
+      "text": "🔻سهراب بختیاری‌زاده و مهدی تارتار، سرمربیان استقلال و پرسپولیس، بدون دست زدن به ترکیب برنده و موفق هفته‌های گذشته، تیم‌هایشان را راهی دربی ۱۰۷ کرده‌اند. \n\n**ترکیب استقلال؛\n🔹**حبیب فرعباسی، رستم آشورماتوف، عارف آقاسی، سامان فلاح، صالح حردانی، حسین گودرزی، امیرمحمد رزاقی‌نیا، اسماعیل قلی‌زاده، یاسر آسانی، علیرضا کوشکی و سعید سحرخیزان\n\n**ترکیب پرسپولیس؛\n**🔹پیام نیازمند، مهدی زارع، حسین کنعانی، مهدی تیکدری، مجید عیدی، پویا پورعلی، محمد خدابنده‌لو، محمدمهدی محبی، تیوی بیفوما، ایگور سرگیف و علی علی‌پور.\n\n@iranintltvsport",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "18:34:33",
-      "gregorian_utc": "2026-09-02T15:04:33+00:00",
-      "media_type": "video",
-      "media_size_bytes": 4866845,
-      "media_size_human": "4.64 MB",
+      "tehran_time": "18:36:16",
+      "gregorian_utc": "2026-09-02T15:06:16+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 161489,
+      "media_size_human": "157.70 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355432_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355432_video.mp4",
+      "media_local_path": "media/IranintlTV_355433_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355433_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T15:50:29.392926+00:00"
+      "archived_at": "2026-09-02T16:00:48.996409+00:00"
     },
     {
       "channel_name": "Satellites Last News",
       "channel_username": "satlastnews",
-      "message_id": 76381,
-      "message_link": "https://t.me/satlastnews/76381",
-      "text": "",
-      "shamsi_date": "1405/06/08",
-      "tehran_time": "19:57:12",
-      "gregorian_utc": "2026-08-30T16:27:12+00:00",
+      "message_id": 76383,
+      "message_link": "https://t.me/satlastnews/76383",
+      "text": "⭕️به کجا چنین شتابان ...!\n\n@SatLastNews",
+      "shamsi_date": "1405/06/09",
+      "tehran_time": "13:54:28",
+      "gregorian_utc": "2026-08-31T10:24:28+00:00",
       "media_type": "photo",
-      "media_size_bytes": 93029,
-      "media_size_human": "90.85 KB",
+      "media_size_bytes": 225653,
+      "media_size_human": "220.36 KB",
       "media_downloaded": true,
-      "media_local_path": "media/satlastnews_76381_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76381_photo.jpg",
+      "media_local_path": "media/satlastnews_76383_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76383_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T15:50:29.681128+00:00"
+      "archived_at": "2026-09-02T16:00:49.323054+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -725,7 +725,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T15:50:29.984957+00:00"
+      "archived_at": "2026-09-02T16:00:49.700369+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -743,7 +743,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T15:50:30.288265+00:00"
+      "archived_at": "2026-09-02T16:00:50.012592+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -761,43 +761,43 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T15:50:29.102834+00:00"
+      "archived_at": "2026-09-02T16:00:48.637339+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355431,
-      "message_link": "https://t.me/IranintlTV/355431",
-      "text": "مارکو روبیو، وزیر خارجه آمریکا، گفت: «هیچ کشوری نباید به ایران کمک کند تحریم‌ها را دور بزند. هیچ کشوری نباید برایشان سازوکاری بسازد که از آن درآمد بسازند و خرج تروریسم و ساخت سلاح هسته‌ای کنند. اگر کشوری این کار را بکند، مجبوریم آن کشور را هم تحریم کنیم.»\n\nروبیو درباره اقتصاد جمهوری اسلامی گفت: «حکومت ایران هر پولی که گیرش می‌آید، چه از رفع تحریم، چه از هر راه دیگر، خرج مردم ایران نمی‌کند، خرج کشورش نمی‌کند. آن پول را می‌دهد به حزب‌الله و حماس و گروه‌های تروریستی و شبه‌نظامی‌ها در عراق تا ما و دنیا را تهدید کنند.»\n\nوزیر خارجه آمریکا افزود: «اگر فقط کسری از این پول را، نصفش را، به‌جای این شبه‌نظامی‌ها خرج مردم خودشان می‌کردند، وضع مردم ایران خیلی بهتر بود.»\n\nروبیو با اشاره به افزایش فشارها بر جمهوری اسلامی گفت: «آنها پول را برای دو چیز می‌خواهند: تامین مالی تروریسم و در نهایت داشتن سلاح هسته‌ای. و ما نمی‌توانیم اجازه بدهیم این اتفاق بیفتد.»\nhttps://iranintl.com/202609025707",
+      "message_id": 355432,
+      "message_link": "https://t.me/IranintlTV/355432",
+      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال در خصوص گرانی‌های روزافزون می‌گوید دو عدد ماکارونی و یک روغن خوراکی را به قیمت ۶۶۰ هزار تومان خریده است.",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "18:32:13",
-      "gregorian_utc": "2026-09-02T15:02:13+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 183517,
-      "media_size_human": "179.22 KB",
+      "tehran_time": "18:34:33",
+      "gregorian_utc": "2026-09-02T15:04:33+00:00",
+      "media_type": "video",
+      "media_size_bytes": 4866845,
+      "media_size_human": "4.64 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355431_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355431_photo.jpg",
+      "media_local_path": "media/IranintlTV_355432_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355432_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T15:50:29.393061+00:00"
+      "archived_at": "2026-09-02T16:00:48.996438+00:00"
     },
     {
       "channel_name": "Satellites Last News",
       "channel_username": "satlastnews",
-      "message_id": 76380,
-      "message_link": "https://t.me/satlastnews/76380",
+      "message_id": 76381,
+      "message_link": "https://t.me/satlastnews/76381",
       "text": "",
       "shamsi_date": "1405/06/08",
-      "tehran_time": "19:57:11",
-      "gregorian_utc": "2026-08-30T16:27:11+00:00",
+      "tehran_time": "19:57:12",
+      "gregorian_utc": "2026-08-30T16:27:12+00:00",
       "media_type": "photo",
-      "media_size_bytes": 99030,
-      "media_size_human": "96.71 KB",
+      "media_size_bytes": 93029,
+      "media_size_human": "90.85 KB",
       "media_downloaded": true,
-      "media_local_path": "media/satlastnews_76380_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76380_photo.jpg",
+      "media_local_path": "media/satlastnews_76381_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76381_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T15:50:29.681155+00:00"
+      "archived_at": "2026-09-02T16:00:49.323077+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -815,7 +815,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T15:50:29.985011+00:00"
+      "archived_at": "2026-09-02T16:00:49.700409+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -833,7 +833,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T15:50:30.288285+00:00"
+      "archived_at": "2026-09-02T16:00:50.012606+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -851,43 +851,43 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T15:50:29.102858+00:00"
+      "archived_at": "2026-09-02T16:00:48.637357+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355430,
-      "message_link": "https://t.me/IranintlTV/355430",
-      "text": "جمهوری اسلامی از اجلاس شانگهای با یک بیانیه حمایتی برگشت، اما آنچه بیرون از متن بیانیه اتفاق افتاد شاید مهم‌تر باشد. از دیدار کوتاه پزشکیان و شی جین‌پینگ تا گفت‌وگوهای چین و آمریکا درباره ایران.\n\nمهدی بیگی در پیوست امروز بررسی کرده که این نشانه‌ها درباره رابطه واقعی تهران و پکن چه می‌گویند.\n@iranintltv",
+      "message_id": 355431,
+      "message_link": "https://t.me/IranintlTV/355431",
+      "text": "مارکو روبیو، وزیر خارجه آمریکا، گفت: «هیچ کشوری نباید به ایران کمک کند تحریم‌ها را دور بزند. هیچ کشوری نباید برایشان سازوکاری بسازد که از آن درآمد بسازند و خرج تروریسم و ساخت سلاح هسته‌ای کنند. اگر کشوری این کار را بکند، مجبوریم آن کشور را هم تحریم کنیم.»\n\nروبیو درباره اقتصاد جمهوری اسلامی گفت: «حکومت ایران هر پولی که گیرش می‌آید، چه از رفع تحریم، چه از هر راه دیگر، خرج مردم ایران نمی‌کند، خرج کشورش نمی‌کند. آن پول را می‌دهد به حزب‌الله و حماس و گروه‌های تروریستی و شبه‌نظامی‌ها در عراق تا ما و دنیا را تهدید کنند.»\n\nوزیر خارجه آمریکا افزود: «اگر فقط کسری از این پول را، نصفش را، به‌جای این شبه‌نظامی‌ها خرج مردم خودشان می‌کردند، وضع مردم ایران خیلی بهتر بود.»\n\nروبیو با اشاره به افزایش فشارها بر جمهوری اسلامی گفت: «آنها پول را برای دو چیز می‌خواهند: تامین مالی تروریسم و در نهایت داشتن سلاح هسته‌ای. و ما نمی‌توانیم اجازه بدهیم این اتفاق بیفتد.»\nhttps://iranintl.com/202609025707",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "18:26:14",
-      "gregorian_utc": "2026-09-02T14:56:14+00:00",
-      "media_type": "video",
-      "media_size_bytes": 4703032,
-      "media_size_human": "4.49 MB",
+      "tehran_time": "18:32:13",
+      "gregorian_utc": "2026-09-02T15:02:13+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 183517,
+      "media_size_human": "179.22 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355430_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355430_video.mp4",
+      "media_local_path": "media/IranintlTV_355431_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355431_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T15:50:29.393128+00:00"
+      "archived_at": "2026-09-02T16:00:48.996576+00:00"
     },
     {
       "channel_name": "Satellites Last News",
       "channel_username": "satlastnews",
-      "message_id": 76379,
-      "message_link": "https://t.me/satlastnews/76379",
+      "message_id": 76380,
+      "message_link": "https://t.me/satlastnews/76380",
       "text": "",
       "shamsi_date": "1405/06/08",
       "tehran_time": "19:57:11",
       "gregorian_utc": "2026-08-30T16:27:11+00:00",
       "media_type": "photo",
-      "media_size_bytes": 54540,
-      "media_size_human": "53.26 KB",
+      "media_size_bytes": 99030,
+      "media_size_human": "96.71 KB",
       "media_downloaded": true,
-      "media_local_path": "media/satlastnews_76379_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76379_photo.jpg",
+      "media_local_path": "media/satlastnews_76380_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76380_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T15:50:29.681182+00:00"
+      "archived_at": "2026-09-02T16:00:49.323101+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -905,7 +905,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T15:50:29.985051+00:00"
+      "archived_at": "2026-09-02T16:00:49.700440+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -923,7 +923,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T15:50:30.288305+00:00"
+      "archived_at": "2026-09-02T16:00:50.012622+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -941,43 +941,43 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T15:50:29.102882+00:00"
+      "archived_at": "2026-09-02T16:00:48.637374+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355429,
-      "message_link": "https://t.me/IranintlTV/355429",
-      "text": "مارکو روبیو، وزیر خارجه آمریکا، درباره وضعیت تنگه هرمز گفت: «هر چیزی را که تهدید فوری برای نیروهای ما یا برای کشتیرانی جهانی در تنگه باشد، هدف می‌گیریم. تنگه باز می‌ماند و زیر کنترل ایران نخواهد بود. همین کاری است که رییس‌جمهور الان دارد انجام می‌دهد.»\n\nروبیو درباره تمایل جمهوری اسلامی به بازگشت به تفاهم‌نامه اسلام‌آباد گفت: «ببینید، آن قطار از ایستگاه رفته، دست‌کم درباره تنگه. چون اگر یک لحظه فکر کنید، مسئله اصلی این است که آنها هیچ‌وقت سلاح هسته‌ای نخواهند داشت. باید مدام این را یادآوری کنم. تمام ماجرا سر این است که می‌خواهند سلاح هسته‌ای داشته باشند و دنیا را با آن تهدید کنند، و ما هرگز اجازه نمی‌دهیم.»\n\nروبیو درباره اظهارات پوتین در دیدار با پزشکیان برای کمک به جمهوری اسلامی، گفت: «متاسفانه در مورد ایران، ما با روس‌ها و نگاه‌شان به این وضعیت هم‌سو نیستیم. البته روسیه خودش تا خرخره درگیر اوکراین است. اما این را قبلا هم گفته‌ام و باز می‌گویم که هیچ‌چیزی که کسی به ایران می‌دهد، مانع اقدام ما برای دفاع از آمریکا نمی‌شود.»\nhttps://iranintl.com/202609021875",
+      "message_id": 355430,
+      "message_link": "https://t.me/IranintlTV/355430",
+      "text": "جمهوری اسلامی از اجلاس شانگهای با یک بیانیه حمایتی برگشت، اما آنچه بیرون از متن بیانیه اتفاق افتاد شاید مهم‌تر باشد. از دیدار کوتاه پزشکیان و شی جین‌پینگ تا گفت‌وگوهای چین و آمریکا درباره ایران.\n\nمهدی بیگی در پیوست امروز بررسی کرده که این نشانه‌ها درباره رابطه واقعی تهران و پکن چه می‌گویند.\n@iranintltv",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "18:23:41",
-      "gregorian_utc": "2026-09-02T14:53:41+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 168008,
-      "media_size_human": "164.07 KB",
+      "tehran_time": "18:26:14",
+      "gregorian_utc": "2026-09-02T14:56:14+00:00",
+      "media_type": "video",
+      "media_size_bytes": 4703032,
+      "media_size_human": "4.49 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355429_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355429_photo.jpg",
+      "media_local_path": "media/IranintlTV_355430_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355430_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T15:50:29.393257+00:00"
+      "archived_at": "2026-09-02T16:00:48.996630+00:00"
     },
     {
       "channel_name": "Satellites Last News",
       "channel_username": "satlastnews",
-      "message_id": 76378,
-      "message_link": "https://t.me/satlastnews/76378",
+      "message_id": 76379,
+      "message_link": "https://t.me/satlastnews/76379",
       "text": "",
       "shamsi_date": "1405/06/08",
       "tehran_time": "19:57:11",
       "gregorian_utc": "2026-08-30T16:27:11+00:00",
       "media_type": "photo",
-      "media_size_bytes": 87924,
-      "media_size_human": "85.86 KB",
+      "media_size_bytes": 54540,
+      "media_size_human": "53.26 KB",
       "media_downloaded": true,
-      "media_local_path": "media/satlastnews_76378_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76378_photo.jpg",
+      "media_local_path": "media/satlastnews_76379_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76379_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T15:50:29.681209+00:00"
+      "archived_at": "2026-09-02T16:00:49.323125+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -995,7 +995,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T15:50:29.985073+00:00"
+      "archived_at": "2026-09-02T16:00:49.700456+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -1013,7 +1013,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T15:50:30.288326+00:00"
+      "archived_at": "2026-09-02T16:00:50.012640+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1031,43 +1031,43 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T15:50:29.102903+00:00"
+      "archived_at": "2026-09-02T16:00:48.637390+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355427,
-      "message_link": "https://t.me/IranintlTV/355427",
-      "text": "شبکه گلوبال نیوز کانادا گزارش داد شرکت‌های متعلق به محمدرضا غفوری‌فرد، معروف به «سال غفوری»، پسر حسن غفوری‌فرد، معاون پیشین اکبر هاشمی رفسنجانی، بیش از دو میلیون دلار قرارداد از نهادهای فدرال و استانی کانادا دریافت کردند؛ در حالی که او با تحقیقات امنیتی درباره همکاری احتمالی با برنامه‌های نظامی جمهوری اسلامی روبه‌رو است.\n\nبر اساس اسناد بررسی‌شده از سوی گلوبال نیوز، دو شرکت غفوری‌فرد در استان آلبرتا قراردادهایی از نهادهایی از جمله پلیس سواره‌نظام سلطنتی کانادا و وزارت دفاع این کشور دریافت کردند. دو قرارداد با نهادهای نظامی کانادا در مجموع بیش از ۱.۵ میلیون دلار ارزش داشتند.\n\nگلوبال نیوز به یک گزارش سازمان اطلاعات امنیتی کانادا استناد کرد که بر اساس آن، غفوری‌فرد پیش از مهاجرت به کانادا در سال ۲۰۱۳، در تحقیق و توسعه فناوری‌های نظامی در ایران فعالیت داشت. این گزارش او را به مشارکت در توسعه یک سامانه موشکی هدایت‌شونده ضدهوایی، تجهیزات اخلالگر و شبکه تهیه قطعات مورد نیاز پروژه‌های نظامی جمهوری اسلامی مرتبط می‌کند.\n\nجزئیات بیشتر را [اینجا](https://www.iranintl.com/202609022732) بخوانید.",
+      "message_id": 355429,
+      "message_link": "https://t.me/IranintlTV/355429",
+      "text": "مارکو روبیو، وزیر خارجه آمریکا، درباره وضعیت تنگه هرمز گفت: «هر چیزی را که تهدید فوری برای نیروهای ما یا برای کشتیرانی جهانی در تنگه باشد، هدف می‌گیریم. تنگه باز می‌ماند و زیر کنترل ایران نخواهد بود. همین کاری است که رییس‌جمهور الان دارد انجام می‌دهد.»\n\nروبیو درباره تمایل جمهوری اسلامی به بازگشت به تفاهم‌نامه اسلام‌آباد گفت: «ببینید، آن قطار از ایستگاه رفته، دست‌کم درباره تنگه. چون اگر یک لحظه فکر کنید، مسئله اصلی این است که آنها هیچ‌وقت سلاح هسته‌ای نخواهند داشت. باید مدام این را یادآوری کنم. تمام ماجرا سر این است که می‌خواهند سلاح هسته‌ای داشته باشند و دنیا را با آن تهدید کنند، و ما هرگز اجازه نمی‌دهیم.»\n\nروبیو درباره اظهارات پوتین در دیدار با پزشکیان برای کمک به جمهوری اسلامی، گفت: «متاسفانه در مورد ایران، ما با روس‌ها و نگاه‌شان به این وضعیت هم‌سو نیستیم. البته روسیه خودش تا خرخره درگیر اوکراین است. اما این را قبلا هم گفته‌ام و باز می‌گویم که هیچ‌چیزی که کسی به ایران می‌دهد، مانع اقدام ما برای دفاع از آمریکا نمی‌شود.»\nhttps://iranintl.com/202609021875",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "17:58:33",
-      "gregorian_utc": "2026-09-02T14:28:33+00:00",
+      "tehran_time": "18:23:41",
+      "gregorian_utc": "2026-09-02T14:53:41+00:00",
       "media_type": "photo",
-      "media_size_bytes": 110448,
-      "media_size_human": "107.86 KB",
+      "media_size_bytes": 168008,
+      "media_size_human": "164.07 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355427_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355427_photo.jpg",
+      "media_local_path": "media/IranintlTV_355429_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355429_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T15:50:29.393394+00:00"
+      "archived_at": "2026-09-02T16:00:48.996723+00:00"
     },
     {
       "channel_name": "Satellites Last News",
       "channel_username": "satlastnews",
-      "message_id": 76377,
-      "message_link": "https://t.me/satlastnews/76377",
-      "text": "⭕️ تمام فرکانس های نام برده در پست های قبلی با قدرت بازگشتند:\n\nTurkmenAlem / Yahsat\n11420 V 27500\n11420 H 27500 ویژه جنوب\n11382 V 27500\n11343 H 27500 ویژه جنوب\n11383 H 27500\n\n@SatLastNews",
+      "message_id": 76378,
+      "message_link": "https://t.me/satlastnews/76378",
+      "text": "",
       "shamsi_date": "1405/06/08",
       "tehran_time": "19:57:11",
       "gregorian_utc": "2026-08-30T16:27:11+00:00",
       "media_type": "photo",
-      "media_size_bytes": 61323,
-      "media_size_human": "59.89 KB",
+      "media_size_bytes": 87924,
+      "media_size_human": "85.86 KB",
       "media_downloaded": true,
-      "media_local_path": "media/satlastnews_76377_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76377_photo.jpg",
+      "media_local_path": "media/satlastnews_76378_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76378_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T15:50:29.681253+00:00"
+      "archived_at": "2026-09-02T16:00:49.323145+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1085,7 +1085,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T15:50:29.985133+00:00"
+      "archived_at": "2026-09-02T16:00:49.700513+00:00"
     }
   ]
 }
