@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T15:31:35.788911+00:00",
-  "shamsi_generated": "1405/06/11 15:31:35 تهران",
+  "generated_at": "2026-09-02T15:44:29.543304+00:00",
+  "shamsi_generated": "1405/06/11 15:44:29 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -28,12 +28,12 @@
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12597,
-      "message_link": "https://t.me/zedTV/12597",
-      "text": "مارک لوین خواستار تسلیح فوری مردم ایران برای سرنگونی رژیم شد.\nتأکید بر آمادگی جامعه برای قیام سراسری تحت رهبری شاهزاده رضا پهلوی.\nفراخوان برای پایان دادن به حکومت بدون توافق‌های بی‌ثمر بین‌المللی.",
+      "message_id": 12599,
+      "message_link": "https://t.me/zedTV/12599",
+      "text": "♦️ رئیس مجلس نمایندگان آمریکا: حمله نظامی به ایران ضروری است.\n♦️ سناتور روبیو: ایالات متحده به هدف قرار دادن مواضع رژیم در پاسخ به حملات دریایی ادامه می‌دهد.",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "18:32:37",
-      "gregorian_utc": "2026-09-02T15:02:37+00:00",
+      "tehran_time": "19:01:51",
+      "gregorian_utc": "2026-09-02T15:31:51+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -41,25 +41,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T15:30:38.099364+00:00"
+      "archived_at": "2026-09-02T15:40:32.342148+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355435,
-      "message_link": "https://t.me/IranintlTV/355435",
-      "text": "",
+      "message_id": 355436,
+      "message_link": "https://t.me/IranintlTV/355436",
+      "text": "🎧نسخه صوتی اخبار شبانگاهی | چهارشنبه ۱۱ شهریور\n@iranintlTV",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "18:36:16",
-      "gregorian_utc": "2026-09-02T15:06:16+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 173611,
-      "media_size_human": "169.54 KB",
+      "tehran_time": "19:10:02",
+      "gregorian_utc": "2026-09-02T15:40:02+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 30212255,
+      "media_size_human": "28.81 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355435_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355435_photo.jpg",
+      "media_local_path": "media/IranintlTV_355436_audio.mp3",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355436_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T15:30:38.476129+00:00"
+      "archived_at": "2026-09-02T15:40:32.690336+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -77,7 +77,7 @@
       "media_local_path": "media/satlastnews_76392_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76392_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T15:30:38.872491+00:00"
+      "archived_at": "2026-09-02T15:40:33.179638+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -95,7 +95,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T15:30:39.252081+00:00"
+      "archived_at": "2026-09-02T15:40:33.908276+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -113,17 +113,17 @@
       "media_local_path": "media/khabarsara53_11_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_11_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T15:30:39.592557+00:00"
+      "archived_at": "2026-09-02T15:40:34.632543+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12596,
-      "message_link": "https://t.me/zedTV/12596",
-      "text": "روبیو: تداوم حملات آمریکا به مواضع جمهوری اسلامی در پاسخ به ناامنی دریایی.\nتأکید واشینگتن بر هدف قرار دادن رژیم در پی حمله به کشتی‌ها.",
+      "message_id": 12598,
+      "message_link": "https://t.me/zedTV/12598",
+      "text": "دلار ۲۲۱ هزار و یورو ۲۵۶ هزار تومان؛ سقوط آزاد ارزش پول ملی.\nسکه امامی ۲۲۷ میلیون و طلا ۲۲.۷ میلیون تومان؛ تداوم رکوردشکنی در بازار.\nتعمیق بحران معیشتی و ناتوانی رژیم در مهار آشفتگی بازارهای مالی.",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "18:16:08",
-      "gregorian_utc": "2026-09-02T14:46:08+00:00",
+      "tehran_time": "19:01:50",
+      "gregorian_utc": "2026-09-02T15:31:50+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -131,25 +131,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T15:30:38.099413+00:00"
+      "archived_at": "2026-09-02T15:40:32.342198+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355434,
-      "message_link": "https://t.me/IranintlTV/355434",
+      "message_id": 355435,
+      "message_link": "https://t.me/IranintlTV/355435",
       "text": "",
       "shamsi_date": "1405/06/11",
       "tehran_time": "18:36:16",
       "gregorian_utc": "2026-09-02T15:06:16+00:00",
       "media_type": "photo",
-      "media_size_bytes": 247614,
-      "media_size_human": "241.81 KB",
+      "media_size_bytes": 173611,
+      "media_size_human": "169.54 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355434_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355434_photo.jpg",
+      "media_local_path": "media/IranintlTV_355435_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355435_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T15:30:38.476191+00:00"
+      "archived_at": "2026-09-02T15:40:32.690432+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -167,7 +167,7 @@
       "media_local_path": "media/satlastnews_76391_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76391_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T15:30:38.872571+00:00"
+      "archived_at": "2026-09-02T15:40:33.179714+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -185,7 +185,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T15:30:39.252121+00:00"
+      "archived_at": "2026-09-02T15:40:33.908312+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -203,17 +203,17 @@
       "media_local_path": "media/khabarsara53_10_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_10_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T15:30:39.592634+00:00"
+      "archived_at": "2026-09-02T15:40:34.632609+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12595,
-      "message_link": "https://t.me/zedTV/12595",
-      "text": "بی‌برنامگی مطلق در کنترل بازار و افزایش روزانه قیمت‌ها.\nرهاشدگی وضعیت دلار و کالاهای اساسی در سایه بی‌تفاوتی رژیم.\nآشفتگی بی‌سابقه در بازارهای داخلی و فشار مضاعف بر معیشت شهروندان.",
+      "message_id": 12597,
+      "message_link": "https://t.me/zedTV/12597",
+      "text": "مارک لوین خواستار تسلیح فوری مردم ایران برای سرنگونی رژیم شد.\nتأکید بر آمادگی جامعه برای قیام سراسری تحت رهبری شاهزاده رضا پهلوی.\nفراخوان برای پایان دادن به حکومت بدون توافق‌های بی‌ثمر بین‌المللی.",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "18:02:32",
-      "gregorian_utc": "2026-09-02T14:32:32+00:00",
+      "tehran_time": "18:32:37",
+      "gregorian_utc": "2026-09-02T15:02:37+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -221,25 +221,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T15:30:38.099452+00:00"
+      "archived_at": "2026-09-02T15:40:32.342235+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355433,
-      "message_link": "https://t.me/IranintlTV/355433",
-      "text": "🔻سهراب بختیاری‌زاده و مهدی تارتار، سرمربیان استقلال و پرسپولیس، بدون دست زدن به ترکیب برنده و موفق هفته‌های گذشته، تیم‌هایشان را راهی دربی ۱۰۷ کرده‌اند. \n\n**ترکیب استقلال؛\n🔹**حبیب فرعباسی، رستم آشورماتوف، عارف آقاسی، سامان فلاح، صالح حردانی، حسین گودرزی، امیرمحمد رزاقی‌نیا، اسماعیل قلی‌زاده، یاسر آسانی، علیرضا کوشکی و سعید سحرخیزان\n\n**ترکیب پرسپولیس؛\n**🔹پیام نیازمند، مهدی زارع، حسین کنعانی، مهدی تیکدری، مجید عیدی، پویا پورعلی، محمد خدابنده‌لو، محمدمهدی محبی، تیوی بیفوما، ایگور سرگیف و علی علی‌پور.\n\n@iranintltvsport",
+      "message_id": 355434,
+      "message_link": "https://t.me/IranintlTV/355434",
+      "text": "",
       "shamsi_date": "1405/06/11",
       "tehran_time": "18:36:16",
       "gregorian_utc": "2026-09-02T15:06:16+00:00",
       "media_type": "photo",
-      "media_size_bytes": 161489,
-      "media_size_human": "157.70 KB",
+      "media_size_bytes": 247614,
+      "media_size_human": "241.81 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355433_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355433_photo.jpg",
+      "media_local_path": "media/IranintlTV_355434_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355434_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T15:30:38.494777+00:00"
+      "archived_at": "2026-09-02T15:40:32.690482+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -257,7 +257,7 @@
       "media_local_path": "media/satlastnews_76388_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76388_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T15:30:38.872636+00:00"
+      "archived_at": "2026-09-02T15:40:33.179771+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -275,7 +275,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T15:30:39.252151+00:00"
+      "archived_at": "2026-09-02T15:40:33.908337+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -293,17 +293,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T15:30:39.592667+00:00"
+      "archived_at": "2026-09-02T15:40:34.632636+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12594,
-      "message_link": "https://t.me/zedTV/12594",
-      "text": "وزیر خزانه‌داری آمریکا: مذاکرات فشرده با حامیان رژیم ایران آغاز شد.\nاسکات بسنت: تمام طرف‌ها باید هرچه سریع‌تر از تهران فاصله بگیرند.\nهشدار واشینگتن به شرکای اقتصادی رژیم برای توقف فوری همکاری‌ها.",
+      "message_id": 12596,
+      "message_link": "https://t.me/zedTV/12596",
+      "text": "روبیو: تداوم حملات آمریکا به مواضع جمهوری اسلامی در پاسخ به ناامنی دریایی.\nتأکید واشینگتن بر هدف قرار دادن رژیم در پی حمله به کشتی‌ها.",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "18:02:28",
-      "gregorian_utc": "2026-09-02T14:32:28+00:00",
+      "tehran_time": "18:16:08",
+      "gregorian_utc": "2026-09-02T14:46:08+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -311,25 +311,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T15:30:38.099490+00:00"
+      "archived_at": "2026-09-02T15:40:32.342267+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355432,
-      "message_link": "https://t.me/IranintlTV/355432",
-      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال در خصوص گرانی‌های روزافزون می‌گوید دو عدد ماکارونی و یک روغن خوراکی را به قیمت ۶۶۰ هزار تومان خریده است.",
+      "message_id": 355433,
+      "message_link": "https://t.me/IranintlTV/355433",
+      "text": "🔻سهراب بختیاری‌زاده و مهدی تارتار، سرمربیان استقلال و پرسپولیس، بدون دست زدن به ترکیب برنده و موفق هفته‌های گذشته، تیم‌هایشان را راهی دربی ۱۰۷ کرده‌اند. \n\n**ترکیب استقلال؛\n🔹**حبیب فرعباسی، رستم آشورماتوف، عارف آقاسی، سامان فلاح، صالح حردانی، حسین گودرزی، امیرمحمد رزاقی‌نیا، اسماعیل قلی‌زاده، یاسر آسانی، علیرضا کوشکی و سعید سحرخیزان\n\n**ترکیب پرسپولیس؛\n**🔹پیام نیازمند، مهدی زارع، حسین کنعانی، مهدی تیکدری، مجید عیدی، پویا پورعلی، محمد خدابنده‌لو، محمدمهدی محبی، تیوی بیفوما، ایگور سرگیف و علی علی‌پور.\n\n@iranintltvsport",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "18:34:33",
-      "gregorian_utc": "2026-09-02T15:04:33+00:00",
-      "media_type": "video",
-      "media_size_bytes": 4866845,
-      "media_size_human": "4.64 MB",
+      "tehran_time": "18:36:16",
+      "gregorian_utc": "2026-09-02T15:06:16+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 161489,
+      "media_size_human": "157.70 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355432_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355432_video.mp4",
+      "media_local_path": "media/IranintlTV_355433_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355433_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T15:30:38.494869+00:00"
+      "archived_at": "2026-09-02T15:40:32.690631+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -347,7 +347,7 @@
       "media_local_path": "media/satlastnews_76387_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76387_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T15:30:38.872703+00:00"
+      "archived_at": "2026-09-02T15:40:33.179830+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -365,7 +365,7 @@
       "media_local_path": "media/Mellig_120536_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120536_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T15:30:39.252213+00:00"
+      "archived_at": "2026-09-02T15:40:33.908395+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -383,17 +383,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T15:30:39.592697+00:00"
+      "archived_at": "2026-09-02T15:40:34.632659+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12593,
-      "message_link": "https://t.me/zedTV/12593",
-      "text": "گزارش زنده فاکس‌نیوز: احتمال صدور فرمان حملات جدید توسط پرزیدنت ترامپ.\nآمادگی برای آغاز دور تازه‌ای از عملیات نظامی علیه جمهوری اسلامی.",
+      "message_id": 12595,
+      "message_link": "https://t.me/zedTV/12595",
+      "text": "بی‌برنامگی مطلق در کنترل بازار و افزایش روزانه قیمت‌ها.\nرهاشدگی وضعیت دلار و کالاهای اساسی در سایه بی‌تفاوتی رژیم.\nآشفتگی بی‌سابقه در بازارهای داخلی و فشار مضاعف بر معیشت شهروندان.",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "17:46:16",
-      "gregorian_utc": "2026-09-02T14:16:16+00:00",
+      "tehran_time": "18:02:32",
+      "gregorian_utc": "2026-09-02T14:32:32+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -401,25 +401,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T15:30:38.099519+00:00"
+      "archived_at": "2026-09-02T15:40:32.342293+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355431,
-      "message_link": "https://t.me/IranintlTV/355431",
-      "text": "مارکو روبیو، وزیر خارجه آمریکا، گفت: «هیچ کشوری نباید به ایران کمک کند تحریم‌ها را دور بزند. هیچ کشوری نباید برایشان سازوکاری بسازد که از آن درآمد بسازند و خرج تروریسم و ساخت سلاح هسته‌ای کنند. اگر کشوری این کار را بکند، مجبوریم آن کشور را هم تحریم کنیم.»\n\nروبیو درباره اقتصاد جمهوری اسلامی گفت: «حکومت ایران هر پولی که گیرش می‌آید، چه از رفع تحریم، چه از هر راه دیگر، خرج مردم ایران نمی‌کند، خرج کشورش نمی‌کند. آن پول را می‌دهد به حزب‌الله و حماس و گروه‌های تروریستی و شبه‌نظامی‌ها در عراق تا ما و دنیا را تهدید کنند.»\n\nوزیر خارجه آمریکا افزود: «اگر فقط کسری از این پول را، نصفش را، به‌جای این شبه‌نظامی‌ها خرج مردم خودشان می‌کردند، وضع مردم ایران خیلی بهتر بود.»\n\nروبیو با اشاره به افزایش فشارها بر جمهوری اسلامی گفت: «آنها پول را برای دو چیز می‌خواهند: تامین مالی تروریسم و در نهایت داشتن سلاح هسته‌ای. و ما نمی‌توانیم اجازه بدهیم این اتفاق بیفتد.»\nhttps://iranintl.com/202609025707",
+      "message_id": 355432,
+      "message_link": "https://t.me/IranintlTV/355432",
+      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال در خصوص گرانی‌های روزافزون می‌گوید دو عدد ماکارونی و یک روغن خوراکی را به قیمت ۶۶۰ هزار تومان خریده است.",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "18:32:13",
-      "gregorian_utc": "2026-09-02T15:02:13+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 183517,
-      "media_size_human": "179.22 KB",
+      "tehran_time": "18:34:33",
+      "gregorian_utc": "2026-09-02T15:04:33+00:00",
+      "media_type": "video",
+      "media_size_bytes": 4866845,
+      "media_size_human": "4.64 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355431_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355431_photo.jpg",
+      "media_local_path": "media/IranintlTV_355432_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355432_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T15:30:38.495066+00:00"
+      "archived_at": "2026-09-02T15:40:32.690676+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -437,7 +437,7 @@
       "media_local_path": "media/satlastnews_76385_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76385_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T15:30:38.872790+00:00"
+      "archived_at": "2026-09-02T15:40:33.179876+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -455,7 +455,7 @@
       "media_local_path": "media/Mellig_120535_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120535_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T15:30:39.252254+00:00"
+      "archived_at": "2026-09-02T15:40:33.908428+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -473,17 +473,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T15:30:39.592746+00:00"
+      "archived_at": "2026-09-02T15:40:34.632680+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12592,
-      "message_link": "https://t.me/zedTV/12592",
-      "text": "هشدار اطلاعات سپاه درباره وضعیت بحرانی رژیم و احتمال آغاز دوباره اعتراضات سراسری.\nگسترش خشم عمومی در پی فساد سیستماتیک، گرانی افسارگسیخته و فقر معیشتی.\nاعتراف نهادهای امنیتی به ناامیدی مردم از آینده و آمادگی برای انفجار اجتماعی.",
+      "message_id": 12594,
+      "message_link": "https://t.me/zedTV/12594",
+      "text": "وزیر خزانه‌داری آمریکا: مذاکرات فشرده با حامیان رژیم ایران آغاز شد.\nاسکات بسنت: تمام طرف‌ها باید هرچه سریع‌تر از تهران فاصله بگیرند.\nهشدار واشینگتن به شرکای اقتصادی رژیم برای توقف فوری همکاری‌ها.",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "17:17:18",
-      "gregorian_utc": "2026-09-02T13:47:18+00:00",
+      "tehran_time": "18:02:28",
+      "gregorian_utc": "2026-09-02T14:32:28+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -491,25 +491,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T15:30:38.099554+00:00"
+      "archived_at": "2026-09-02T15:40:32.342329+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355430,
-      "message_link": "https://t.me/IranintlTV/355430",
-      "text": "جمهوری اسلامی از اجلاس شانگهای با یک بیانیه حمایتی برگشت، اما آنچه بیرون از متن بیانیه اتفاق افتاد شاید مهم‌تر باشد. از دیدار کوتاه پزشکیان و شی جین‌پینگ تا گفت‌وگوهای چین و آمریکا درباره ایران.\n\nمهدی بیگی در پیوست امروز بررسی کرده که این نشانه‌ها درباره رابطه واقعی تهران و پکن چه می‌گویند.\n@iranintltv",
+      "message_id": 355431,
+      "message_link": "https://t.me/IranintlTV/355431",
+      "text": "مارکو روبیو، وزیر خارجه آمریکا، گفت: «هیچ کشوری نباید به ایران کمک کند تحریم‌ها را دور بزند. هیچ کشوری نباید برایشان سازوکاری بسازد که از آن درآمد بسازند و خرج تروریسم و ساخت سلاح هسته‌ای کنند. اگر کشوری این کار را بکند، مجبوریم آن کشور را هم تحریم کنیم.»\n\nروبیو درباره اقتصاد جمهوری اسلامی گفت: «حکومت ایران هر پولی که گیرش می‌آید، چه از رفع تحریم، چه از هر راه دیگر، خرج مردم ایران نمی‌کند، خرج کشورش نمی‌کند. آن پول را می‌دهد به حزب‌الله و حماس و گروه‌های تروریستی و شبه‌نظامی‌ها در عراق تا ما و دنیا را تهدید کنند.»\n\nوزیر خارجه آمریکا افزود: «اگر فقط کسری از این پول را، نصفش را، به‌جای این شبه‌نظامی‌ها خرج مردم خودشان می‌کردند، وضع مردم ایران خیلی بهتر بود.»\n\nروبیو با اشاره به افزایش فشارها بر جمهوری اسلامی گفت: «آنها پول را برای دو چیز می‌خواهند: تامین مالی تروریسم و در نهایت داشتن سلاح هسته‌ای. و ما نمی‌توانیم اجازه بدهیم این اتفاق بیفتد.»\nhttps://iranintl.com/202609025707",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "18:26:14",
-      "gregorian_utc": "2026-09-02T14:56:14+00:00",
-      "media_type": "video",
-      "media_size_bytes": 4703032,
-      "media_size_human": "4.49 MB",
+      "tehran_time": "18:32:13",
+      "gregorian_utc": "2026-09-02T15:02:13+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 183517,
+      "media_size_human": "179.22 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355430_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355430_video.mp4",
+      "media_local_path": "media/IranintlTV_355431_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355431_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T15:30:38.495163+00:00"
+      "archived_at": "2026-09-02T15:40:32.690816+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -527,7 +527,7 @@
       "media_local_path": "media/satlastnews_76383_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76383_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T15:30:38.872843+00:00"
+      "archived_at": "2026-09-02T15:40:33.179914+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -545,7 +545,7 @@
       "media_local_path": "media/Mellig_120534_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120534_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T15:30:39.252307+00:00"
+      "archived_at": "2026-09-02T15:40:33.908473+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -563,17 +563,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T15:30:39.592780+00:00"
+      "archived_at": "2026-09-02T15:40:34.632701+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12591,
-      "message_link": "https://t.me/zedTV/12591",
-      "text": "♦️ درخواست شهروندان از ترامپ: توقف مذاکره و حمایت از حملات اسرائیل به سران رژیم.\n♦️ تاکید بر لزوم نابودی دستگاه سرکوب؛ مردم با دست خالی قادر به مقابله نیستند.\n♦️ فراخوان برای فشار همه‌جانبه و رسمیت شناختن رهبری شاهزاده رضا پهلوی جهت سرنگونی.",
+      "message_id": 12593,
+      "message_link": "https://t.me/zedTV/12593",
+      "text": "گزارش زنده فاکس‌نیوز: احتمال صدور فرمان حملات جدید توسط پرزیدنت ترامپ.\nآمادگی برای آغاز دور تازه‌ای از عملیات نظامی علیه جمهوری اسلامی.",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "17:02:33",
-      "gregorian_utc": "2026-09-02T13:32:33+00:00",
+      "tehran_time": "17:46:16",
+      "gregorian_utc": "2026-09-02T14:16:16+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -581,25 +581,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T15:30:38.099583+00:00"
+      "archived_at": "2026-09-02T15:40:32.342353+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355429,
-      "message_link": "https://t.me/IranintlTV/355429",
-      "text": "مارکو روبیو، وزیر خارجه آمریکا، درباره وضعیت تنگه هرمز گفت: «هر چیزی را که تهدید فوری برای نیروهای ما یا برای کشتیرانی جهانی در تنگه باشد، هدف می‌گیریم. تنگه باز می‌ماند و زیر کنترل ایران نخواهد بود. همین کاری است که رییس‌جمهور الان دارد انجام می‌دهد.»\n\nروبیو درباره تمایل جمهوری اسلامی به بازگشت به تفاهم‌نامه اسلام‌آباد گفت: «ببینید، آن قطار از ایستگاه رفته، دست‌کم درباره تنگه. چون اگر یک لحظه فکر کنید، مسئله اصلی این است که آنها هیچ‌وقت سلاح هسته‌ای نخواهند داشت. باید مدام این را یادآوری کنم. تمام ماجرا سر این است که می‌خواهند سلاح هسته‌ای داشته باشند و دنیا را با آن تهدید کنند، و ما هرگز اجازه نمی‌دهیم.»\n\nروبیو درباره اظهارات پوتین در دیدار با پزشکیان برای کمک به جمهوری اسلامی، گفت: «متاسفانه در مورد ایران، ما با روس‌ها و نگاه‌شان به این وضعیت هم‌سو نیستیم. البته روسیه خودش تا خرخره درگیر اوکراین است. اما این را قبلا هم گفته‌ام و باز می‌گویم که هیچ‌چیزی که کسی به ایران می‌دهد، مانع اقدام ما برای دفاع از آمریکا نمی‌شود.»\nhttps://iranintl.com/202609021875",
+      "message_id": 355430,
+      "message_link": "https://t.me/IranintlTV/355430",
+      "text": "جمهوری اسلامی از اجلاس شانگهای با یک بیانیه حمایتی برگشت، اما آنچه بیرون از متن بیانیه اتفاق افتاد شاید مهم‌تر باشد. از دیدار کوتاه پزشکیان و شی جین‌پینگ تا گفت‌وگوهای چین و آمریکا درباره ایران.\n\nمهدی بیگی در پیوست امروز بررسی کرده که این نشانه‌ها درباره رابطه واقعی تهران و پکن چه می‌گویند.\n@iranintltv",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "18:23:41",
-      "gregorian_utc": "2026-09-02T14:53:41+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 168008,
-      "media_size_human": "164.07 KB",
+      "tehran_time": "18:26:14",
+      "gregorian_utc": "2026-09-02T14:56:14+00:00",
+      "media_type": "video",
+      "media_size_bytes": 4703032,
+      "media_size_human": "4.49 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355429_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355429_photo.jpg",
+      "media_local_path": "media/IranintlTV_355430_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355430_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T15:30:38.495356+00:00"
+      "archived_at": "2026-09-02T15:40:32.690887+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -617,7 +617,7 @@
       "media_local_path": "media/satlastnews_76381_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76381_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T15:30:38.872884+00:00"
+      "archived_at": "2026-09-02T15:40:33.179944+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -635,7 +635,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T15:30:39.252352+00:00"
+      "archived_at": "2026-09-02T15:40:33.908511+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -653,17 +653,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T15:30:39.592809+00:00"
+      "archived_at": "2026-09-02T15:40:34.632722+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12590,
-      "message_link": "https://t.me/zedTV/12590",
-      "text": "تشکیل پرونده قضایی برای ۲۰ وکیل در استان فارس؛ ۱۲ تن بازداشت شدند.\nصدور احکام حبس برای شماری از مدافعان حقوقی در پی اعتراضات اخیر.\nتداوم فشارهای امنیتی و قضایی رژیم علیه وکلای مستقل.",
+      "message_id": 12592,
+      "message_link": "https://t.me/zedTV/12592",
+      "text": "هشدار اطلاعات سپاه درباره وضعیت بحرانی رژیم و احتمال آغاز دوباره اعتراضات سراسری.\nگسترش خشم عمومی در پی فساد سیستماتیک، گرانی افسارگسیخته و فقر معیشتی.\nاعتراف نهادهای امنیتی به ناامیدی مردم از آینده و آمادگی برای انفجار اجتماعی.",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "16:49:51",
-      "gregorian_utc": "2026-09-02T13:19:51+00:00",
+      "tehran_time": "17:17:18",
+      "gregorian_utc": "2026-09-02T13:47:18+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -671,25 +671,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T15:30:38.099630+00:00"
+      "archived_at": "2026-09-02T15:40:32.342394+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355427,
-      "message_link": "https://t.me/IranintlTV/355427",
-      "text": "شبکه گلوبال نیوز کانادا گزارش داد شرکت‌های متعلق به محمدرضا غفوری‌فرد، معروف به «سال غفوری»، پسر حسن غفوری‌فرد، معاون پیشین اکبر هاشمی رفسنجانی، بیش از دو میلیون دلار قرارداد از نهادهای فدرال و استانی کانادا دریافت کردند؛ در حالی که او با تحقیقات امنیتی درباره همکاری احتمالی با برنامه‌های نظامی جمهوری اسلامی روبه‌رو است.\n\nبر اساس اسناد بررسی‌شده از سوی گلوبال نیوز، دو شرکت غفوری‌فرد در استان آلبرتا قراردادهایی از نهادهایی از جمله پلیس سواره‌نظام سلطنتی کانادا و وزارت دفاع این کشور دریافت کردند. دو قرارداد با نهادهای نظامی کانادا در مجموع بیش از ۱.۵ میلیون دلار ارزش داشتند.\n\nگلوبال نیوز به یک گزارش سازمان اطلاعات امنیتی کانادا استناد کرد که بر اساس آن، غفوری‌فرد پیش از مهاجرت به کانادا در سال ۲۰۱۳، در تحقیق و توسعه فناوری‌های نظامی در ایران فعالیت داشت. این گزارش او را به مشارکت در توسعه یک سامانه موشکی هدایت‌شونده ضدهوایی، تجهیزات اخلالگر و شبکه تهیه قطعات مورد نیاز پروژه‌های نظامی جمهوری اسلامی مرتبط می‌کند.\n\nجزئیات بیشتر را [اینجا](https://www.iranintl.com/202609022732) بخوانید.",
+      "message_id": 355429,
+      "message_link": "https://t.me/IranintlTV/355429",
+      "text": "مارکو روبیو، وزیر خارجه آمریکا، درباره وضعیت تنگه هرمز گفت: «هر چیزی را که تهدید فوری برای نیروهای ما یا برای کشتیرانی جهانی در تنگه باشد، هدف می‌گیریم. تنگه باز می‌ماند و زیر کنترل ایران نخواهد بود. همین کاری است که رییس‌جمهور الان دارد انجام می‌دهد.»\n\nروبیو درباره تمایل جمهوری اسلامی به بازگشت به تفاهم‌نامه اسلام‌آباد گفت: «ببینید، آن قطار از ایستگاه رفته، دست‌کم درباره تنگه. چون اگر یک لحظه فکر کنید، مسئله اصلی این است که آنها هیچ‌وقت سلاح هسته‌ای نخواهند داشت. باید مدام این را یادآوری کنم. تمام ماجرا سر این است که می‌خواهند سلاح هسته‌ای داشته باشند و دنیا را با آن تهدید کنند، و ما هرگز اجازه نمی‌دهیم.»\n\nروبیو درباره اظهارات پوتین در دیدار با پزشکیان برای کمک به جمهوری اسلامی، گفت: «متاسفانه در مورد ایران، ما با روس‌ها و نگاه‌شان به این وضعیت هم‌سو نیستیم. البته روسیه خودش تا خرخره درگیر اوکراین است. اما این را قبلا هم گفته‌ام و باز می‌گویم که هیچ‌چیزی که کسی به ایران می‌دهد، مانع اقدام ما برای دفاع از آمریکا نمی‌شود.»\nhttps://iranintl.com/202609021875",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "17:58:33",
-      "gregorian_utc": "2026-09-02T14:28:33+00:00",
+      "tehran_time": "18:23:41",
+      "gregorian_utc": "2026-09-02T14:53:41+00:00",
       "media_type": "photo",
-      "media_size_bytes": 110448,
-      "media_size_human": "107.86 KB",
+      "media_size_bytes": 168008,
+      "media_size_human": "164.07 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355427_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355427_photo.jpg",
+      "media_local_path": "media/IranintlTV_355429_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355429_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T15:30:38.495552+00:00"
+      "archived_at": "2026-09-02T15:40:32.691049+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -707,7 +707,7 @@
       "media_local_path": "media/satlastnews_76380_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76380_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T15:30:38.872919+00:00"
+      "archived_at": "2026-09-02T15:40:33.179972+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -725,7 +725,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T15:30:39.252413+00:00"
+      "archived_at": "2026-09-02T15:40:33.908567+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -743,17 +743,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T15:30:39.592838+00:00"
+      "archived_at": "2026-09-02T15:40:34.632746+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12589,
-      "message_link": "https://t.me/zedTV/12589",
-      "text": "گزارش نهاد تجارت دریایی بریتانیا از وقوع حادثه امنیتی برای یک نفت‌کش.\nتأیید کشته یا زخمی شدن دو نفر در پی این حمله.\nآغاز تحقیقات درباره ابعاد این حادثه و تداوم ناامنی در منطقه.",
+      "message_id": 12591,
+      "message_link": "https://t.me/zedTV/12591",
+      "text": "♦️ درخواست شهروندان از ترامپ: توقف مذاکره و حمایت از حملات اسرائیل به سران رژیم.\n♦️ تاکید بر لزوم نابودی دستگاه سرکوب؛ مردم با دست خالی قادر به مقابله نیستند.\n♦️ فراخوان برای فشار همه‌جانبه و رسمیت شناختن رهبری شاهزاده رضا پهلوی جهت سرنگونی.",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "16:49:32",
-      "gregorian_utc": "2026-09-02T13:19:32+00:00",
+      "tehran_time": "17:02:33",
+      "gregorian_utc": "2026-09-02T13:32:33+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -761,25 +761,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T15:30:38.099659+00:00"
+      "archived_at": "2026-09-02T15:40:32.342419+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355426,
-      "message_link": "https://t.me/IranintlTV/355426",
-      "text": "🔻ویدیوهای منتشر شده در فضای مجازی نشان می‌دهد هواداران استقلال پیش از شروع دربی ۱۰۷ تهران در استادیوم نقش جهان اصفهان، تصویری از جاویدنام مهرداد مشتاقی به‌دست گرفته‌اند.\n \n🔹جاویدنام مهرداد مشتاقی، هوادار سرسخت استقلال و رئال مادرید، شامگاه جمعه ۱۹ دی ۱۴۰۴ در شهر اراک بر اثر اصابت گلوله جنگی نیروهای سرکوب جمهوری اسلامی به سرش، به‌شدت مجروح و بیهوش شد. او را سپس به بیمارستان منتقل کردند.\n\n🔹مهرداد تحت عمل جراحی قرار گرفت، اما به علت مرگ مغزی و ایست قلبی جان خود را از دست داد.\n\n@iranintltvsport",
+      "message_id": 355427,
+      "message_link": "https://t.me/IranintlTV/355427",
+      "text": "شبکه گلوبال نیوز کانادا گزارش داد شرکت‌های متعلق به محمدرضا غفوری‌فرد، معروف به «سال غفوری»، پسر حسن غفوری‌فرد، معاون پیشین اکبر هاشمی رفسنجانی، بیش از دو میلیون دلار قرارداد از نهادهای فدرال و استانی کانادا دریافت کردند؛ در حالی که او با تحقیقات امنیتی درباره همکاری احتمالی با برنامه‌های نظامی جمهوری اسلامی روبه‌رو است.\n\nبر اساس اسناد بررسی‌شده از سوی گلوبال نیوز، دو شرکت غفوری‌فرد در استان آلبرتا قراردادهایی از نهادهایی از جمله پلیس سواره‌نظام سلطنتی کانادا و وزارت دفاع این کشور دریافت کردند. دو قرارداد با نهادهای نظامی کانادا در مجموع بیش از ۱.۵ میلیون دلار ارزش داشتند.\n\nگلوبال نیوز به یک گزارش سازمان اطلاعات امنیتی کانادا استناد کرد که بر اساس آن، غفوری‌فرد پیش از مهاجرت به کانادا در سال ۲۰۱۳، در تحقیق و توسعه فناوری‌های نظامی در ایران فعالیت داشت. این گزارش او را به مشارکت در توسعه یک سامانه موشکی هدایت‌شونده ضدهوایی، تجهیزات اخلالگر و شبکه تهیه قطعات مورد نیاز پروژه‌های نظامی جمهوری اسلامی مرتبط می‌کند.\n\nجزئیات بیشتر را [اینجا](https://www.iranintl.com/202609022732) بخوانید.",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "17:56:12",
-      "gregorian_utc": "2026-09-02T14:26:12+00:00",
-      "media_type": "video",
-      "media_size_bytes": 583144,
-      "media_size_human": "569.48 KB",
+      "tehran_time": "17:58:33",
+      "gregorian_utc": "2026-09-02T14:28:33+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 110448,
+      "media_size_human": "107.86 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355426_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355426_video.mp4",
+      "media_local_path": "media/IranintlTV_355427_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355427_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T15:30:38.495681+00:00"
+      "archived_at": "2026-09-02T15:40:32.691188+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -797,7 +797,7 @@
       "media_local_path": "media/satlastnews_76379_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76379_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T15:30:38.872954+00:00"
+      "archived_at": "2026-09-02T15:40:33.180015+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -815,7 +815,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T15:30:39.252464+00:00"
+      "archived_at": "2026-09-02T15:40:33.908617+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -833,17 +833,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T15:30:39.592865+00:00"
+      "archived_at": "2026-09-02T15:40:34.632767+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12588,
-      "message_link": "https://t.me/zedTV/12588",
-      "text": "کانال ۱۴ اسرائیل: نرخ دلار تا زمستان به ۳۰۰ هزار تومان خواهد رسید.\nسقوط تاریخی ارزش پول ملی و گسترش فقر در سایه ناکارآمدی رژیم.\nبحران معیشتی ایران را در آستانه فروپاشی اقتصادی قرار داده است.",
+      "message_id": 12590,
+      "message_link": "https://t.me/zedTV/12590",
+      "text": "تشکیل پرونده قضایی برای ۲۰ وکیل در استان فارس؛ ۱۲ تن بازداشت شدند.\nصدور احکام حبس برای شماری از مدافعان حقوقی در پی اعتراضات اخیر.\nتداوم فشارهای امنیتی و قضایی رژیم علیه وکلای مستقل.",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "16:49:14",
-      "gregorian_utc": "2026-09-02T13:19:14+00:00",
+      "tehran_time": "16:49:51",
+      "gregorian_utc": "2026-09-02T13:19:51+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -851,25 +851,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T15:30:38.099686+00:00"
+      "archived_at": "2026-09-02T15:40:32.342442+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355425,
-      "message_link": "https://t.me/IranintlTV/355425",
-      "text": "مهران عباسیان، خبرنگار ایران‌اینترنشنال از آغاز پادشاهی هاکون هشتم با ادای سوگند در پارلمان نروژ گزارش می‌دهد\n@iranintltv",
+      "message_id": 355426,
+      "message_link": "https://t.me/IranintlTV/355426",
+      "text": "🔻ویدیوهای منتشر شده در فضای مجازی نشان می‌دهد هواداران استقلال پیش از شروع دربی ۱۰۷ تهران در استادیوم نقش جهان اصفهان، تصویری از جاویدنام مهرداد مشتاقی به‌دست گرفته‌اند.\n \n🔹جاویدنام مهرداد مشتاقی، هوادار سرسخت استقلال و رئال مادرید، شامگاه جمعه ۱۹ دی ۱۴۰۴ در شهر اراک بر اثر اصابت گلوله جنگی نیروهای سرکوب جمهوری اسلامی به سرش، به‌شدت مجروح و بیهوش شد. او را سپس به بیمارستان منتقل کردند.\n\n🔹مهرداد تحت عمل جراحی قرار گرفت، اما به علت مرگ مغزی و ایست قلبی جان خود را از دست داد.\n\n@iranintltvsport",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "17:50:49",
-      "gregorian_utc": "2026-09-02T14:20:49+00:00",
+      "tehran_time": "17:56:12",
+      "gregorian_utc": "2026-09-02T14:26:12+00:00",
       "media_type": "video",
-      "media_size_bytes": 1979214,
-      "media_size_human": "1.89 MB",
+      "media_size_bytes": 583144,
+      "media_size_human": "569.48 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355425_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355425_video.mp4",
+      "media_local_path": "media/IranintlTV_355426_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355426_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T15:30:38.495770+00:00"
+      "archived_at": "2026-09-02T15:40:32.691283+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -887,7 +887,7 @@
       "media_local_path": "media/satlastnews_76378_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76378_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T15:30:38.872989+00:00"
+      "archived_at": "2026-09-02T15:40:33.180043+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -905,7 +905,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T15:30:39.252491+00:00"
+      "archived_at": "2026-09-02T15:40:33.908640+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -923,17 +923,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T15:30:39.592891+00:00"
+      "archived_at": "2026-09-02T15:40:34.632789+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12587,
-      "message_link": "https://t.me/zedTV/12587",
-      "text": "وزیر خزانه‌داری آمریکا: سه گزینه پیش روی رژیم؛ کودتای داخلی سپاه، قیام مردمی یا بازگشت به میز مذاکره.\nواشینگتن بر بن‌بست سیاسی تهران و ضرورت انتخاب یکی از این مسیرها تأکید کرد.\nمردم ایران کدام گزینه را برای آینده کشور انتخاب می‌کنند؟",
+      "message_id": 12589,
+      "message_link": "https://t.me/zedTV/12589",
+      "text": "گزارش نهاد تجارت دریایی بریتانیا از وقوع حادثه امنیتی برای یک نفت‌کش.\nتأیید کشته یا زخمی شدن دو نفر در پی این حمله.\nآغاز تحقیقات درباره ابعاد این حادثه و تداوم ناامنی در منطقه.",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "16:49:11",
-      "gregorian_utc": "2026-09-02T13:19:11+00:00",
+      "tehran_time": "16:49:32",
+      "gregorian_utc": "2026-09-02T13:19:32+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -941,25 +941,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T15:30:38.099714+00:00"
+      "archived_at": "2026-09-02T15:40:32.342473+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355424,
-      "message_link": "https://t.me/IranintlTV/355424",
-      "text": "اینگرید الکساندرا، ولیعهد نروژ، سه‌شنبه اول سپتامبر در پی درگذشت پدربزرگش، پادشاه هارالد، سوگند وفاداری به قانون اساسی این کشور را امضا کرد.\n\nاو پیش‌تر در همان روز در مراسم سوگند پدرش، پادشاه هاکون، در پارلمان حضور داشت. هاکون در این مراسم سوگند یاد کرد از قانون اساسی و قوانین نروژ پاسداری کند. مسعود قره‌خانی، رییس ایرانی‌تبار پارلمان نروژ، ریاست این مراسم را بر عهده داشت.\n\nپادشاه هارالد جمعه ششم شهریور در بیمارستان ملی اسلو درگذشت.\n@iranintltv",
+      "message_id": 355425,
+      "message_link": "https://t.me/IranintlTV/355425",
+      "text": "مهران عباسیان، خبرنگار ایران‌اینترنشنال از آغاز پادشاهی هاکون هشتم با ادای سوگند در پارلمان نروژ گزارش می‌دهد\n@iranintltv",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "17:47:38",
-      "gregorian_utc": "2026-09-02T14:17:38+00:00",
+      "tehran_time": "17:50:49",
+      "gregorian_utc": "2026-09-02T14:20:49+00:00",
       "media_type": "video",
-      "media_size_bytes": 1085982,
-      "media_size_human": "1.04 MB",
+      "media_size_bytes": 1979214,
+      "media_size_human": "1.89 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355424_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355424_video.mp4",
+      "media_local_path": "media/IranintlTV_355425_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355425_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T15:30:38.495879+00:00"
+      "archived_at": "2026-09-02T15:40:32.691330+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -977,7 +977,7 @@
       "media_local_path": "media/satlastnews_76377_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76377_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T15:30:38.873045+00:00"
+      "archived_at": "2026-09-02T15:40:33.180088+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -995,7 +995,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T15:30:39.252559+00:00"
+      "archived_at": "2026-09-02T15:40:33.908701+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -1013,17 +1013,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T15:30:39.592919+00:00"
+      "archived_at": "2026-09-02T15:40:34.632813+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12586,
-      "message_link": "https://t.me/zedTV/12586",
-      "text": "وزیر خزانه‌داری آمریکا: توقف فعالیت تمامی شرکت‌های هواپیمایی ایران در سراسر جهان.\nانسداد کامل مسیرهای هوایی و انزوای بین‌المللی رژیم در راه است.\nفلج شدن شریان‌های ارتباطی جمهوری اسلامی در سطح جهانی.",
+      "message_id": 12588,
+      "message_link": "https://t.me/zedTV/12588",
+      "text": "کانال ۱۴ اسرائیل: نرخ دلار تا زمستان به ۳۰۰ هزار تومان خواهد رسید.\nسقوط تاریخی ارزش پول ملی و گسترش فقر در سایه ناکارآمدی رژیم.\nبحران معیشتی ایران را در آستانه فروپاشی اقتصادی قرار داده است.",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "16:49:06",
-      "gregorian_utc": "2026-09-02T13:19:06+00:00",
+      "tehran_time": "16:49:14",
+      "gregorian_utc": "2026-09-02T13:19:14+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -1031,25 +1031,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T15:30:38.099764+00:00"
+      "archived_at": "2026-09-02T15:40:32.342493+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355423,
-      "message_link": "https://t.me/IranintlTV/355423",
-      "text": "‏سلام وقت به خیر\n‏لطفا در تلگرام و اکس منتشر شود\n‏سپاس\n‏«برنامه» صدای شماست.\n‏ما شما را، بدون نوبت، مستقیم از ایران روی خط می‌آوریم.\n‏بیایید و روایت خود را برای همیشه ثبت کنید.\n‏تاریخ با صدای شما نوشته می‌شود.\n‏برای شرکت در برنامه، همین حالا در واتس‌اپ پیام بدهید:\n‏۰۰۴۴۷۵۲۲۱۱۰۱۱۰\n‏۰۰۴۴۷۵۴۴۱۱۰۱۱۰\n‏۰۰۴۴۷۵۱۱۱۰۲۵۵۳\n‏«برنامه با کامبیز حسینی»\n‏«یک ایران صدای شما را می‌شنود»",
+      "message_id": 355424,
+      "message_link": "https://t.me/IranintlTV/355424",
+      "text": "اینگرید الکساندرا، ولیعهد نروژ، سه‌شنبه اول سپتامبر در پی درگذشت پدربزرگش، پادشاه هارالد، سوگند وفاداری به قانون اساسی این کشور را امضا کرد.\n\nاو پیش‌تر در همان روز در مراسم سوگند پدرش، پادشاه هاکون، در پارلمان حضور داشت. هاکون در این مراسم سوگند یاد کرد از قانون اساسی و قوانین نروژ پاسداری کند. مسعود قره‌خانی، رییس ایرانی‌تبار پارلمان نروژ، ریاست این مراسم را بر عهده داشت.\n\nپادشاه هارالد جمعه ششم شهریور در بیمارستان ملی اسلو درگذشت.\n@iranintltv",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "17:44:39",
-      "gregorian_utc": "2026-09-02T14:14:39+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 247120,
-      "media_size_human": "241.33 KB",
+      "tehran_time": "17:47:38",
+      "gregorian_utc": "2026-09-02T14:17:38+00:00",
+      "media_type": "video",
+      "media_size_bytes": 1085982,
+      "media_size_human": "1.04 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355423_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355423_photo.jpg",
+      "media_local_path": "media/IranintlTV_355424_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355424_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T15:30:38.495920+00:00"
+      "archived_at": "2026-09-02T15:40:32.691404+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1067,7 +1067,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T15:30:38.873103+00:00"
+      "archived_at": "2026-09-02T15:40:33.180139+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1085,7 +1085,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T15:30:39.252623+00:00"
+      "archived_at": "2026-09-02T15:40:33.908756+00:00"
     }
   ]
 }
