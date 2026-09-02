@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T07:13:57.865539+00:00",
-  "shamsi_generated": "1405/06/11 07:13:57 تهران",
+  "generated_at": "2026-09-02T07:23:20.982096+00:00",
+  "shamsi_generated": "1405/06/11 07:23:20 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -41,25 +41,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T07:10:33.848427+00:00"
+      "archived_at": "2026-09-02T07:20:34.014715+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355371,
-      "message_link": "https://t.me/IranintlTV/355371",
-      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال می‌گوید چند عدد بستنی و بیسکویت را با مقداری دوغ و پنیر به قیمت یک میلیون و ۱۱۸ هزار تومان خریده است.",
+      "message_id": 355372,
+      "message_link": "https://t.me/IranintlTV/355372",
+      "text": "حسن قشقاوی، سخنگوی کمیسیون امنیت ملی و سیاست خارجی مجلس جمهوری اسلامی، گفت تحریم‌های آمریکا برای ایران مشکل ایجاد می‌کنند، اما جمهوری اسلامی راه مقابله با آنها و دور زدن تحریم‌ها را می‌داند.\n\nقشقاوی در گفت‌وگو با خبرگزاری میزان گفت ایران سال‌هاست با تحریم و «محاصره» روبه‌رو است. به گفته او، توان جمهوری اسلامی برای تحمل فشارهای اقتصادی از تحریم‌های کنونی بیشتر است.\n\nاو گفت: «اگرچه تحریم مشکلاتی را ایجاد می‌کند اما این مشکلات دیرآشنا هستند و ما راه مقابله با آنها را بلد هستیم و تاب‎آوری ما بسیار بیشتر از این تهدیدها و تحریم‌ها است.»\n\nقشقاوی همچنین اظهارات دونالد ترامپ، رییس‌جمهوری آمریکا، درباره باز بودن تنگه هرمز و وضعیت نظامی و اقتصادی ایران را «کذب محض» خواند.\nhttps://iranintl.com/202609029410",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "10:34:40",
-      "gregorian_utc": "2026-09-02T07:04:40+00:00",
-      "media_type": "video",
-      "media_size_bytes": 8878988,
-      "media_size_human": "8.47 MB",
+      "tehran_time": "10:49:43",
+      "gregorian_utc": "2026-09-02T07:19:43+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 235690,
+      "media_size_human": "230.17 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355371_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355371_video.mp4",
+      "media_local_path": "media/IranintlTV_355372_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355372_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T07:10:34.246833+00:00"
+      "archived_at": "2026-09-02T07:20:34.300569+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -77,7 +77,7 @@
       "media_local_path": "media/satlastnews_76390_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76390_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T07:10:34.651135+00:00"
+      "archived_at": "2026-09-02T07:20:34.615379+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -95,7 +95,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T07:10:34.993875+00:00"
+      "archived_at": "2026-09-02T07:20:34.923956+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -113,7 +113,7 @@
       "media_local_path": "media/khabarsara53_11_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_11_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T07:10:35.325430+00:00"
+      "archived_at": "2026-09-02T07:20:35.181078+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -131,25 +131,25 @@
       "media_local_path": "media/zedTV_12559_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_12559_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T07:10:33.848532+00:00"
+      "archived_at": "2026-09-02T07:20:34.014826+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355370,
-      "message_link": "https://t.me/IranintlTV/355370",
-      "text": "**🗣روایت شما: وضعیت زندگی در سایه سرکوب سیاسی و تنش‌های نظامی - چهارشنبه ۱۱ شهریور\n**\n🔹من پذیرش هتل بودم، ۳۰ سالمه و دوتا زبان انگلیسی و عربی فول‌ام، ولی جنگ همه‌چیز رو تعطیل کرد. چون ۶ ماه حقوقم رو ندادن، اسنپ کار می‌کنم. اومدم جایگاه سوخت سهمیه آخرم رو بزنم و ۳ ساعت در صف بودم. بعدش هم ماشین رو پارک می‌کنم و می‌رم دست‌فروشی.\n\n🔹پریروز سرما خورده بودم و مجبور شدم برم دکتر که ۲ میلیون و ۸۰۰ هزار تومان هزینه کردم. ویزیت ۳۸۸ هزار تومان، دارو یک میلیون و ۲۸۰ هزار تومان، تزریق یک میلیون و ۱۸۰ هزار تومان. دیگه نمی‌شه زندگی کرد.\n\n🔹من دانشجوی ورودی مهر ۱۴۰۴ دانشگاه علوم‌پزشکی هرمزگان هستم. در روز ثبت‌نام به ما گفته شد به شما خوابگاه نمی‌دیم و خوابگاه دولتی پس از یک سال داده خواهد شد. حالا باز هم قرار نیست به ما خوابگاه بدن و باید در خوابگاه‌های خودگردان که گران و بسیار شلوغ هستند، بمونیم.\n\n🔹۱۴ سالمه و کلاس بسکتبال می‌رم. گفتن باید لباس بخرید، نمی‌دونم چیکار کنم. دیگه خجالت می‌کشم از بقیه پول بگیرم برای باشگاه و لباس باشگاه. وضعیت خیلی بده، به امید روزهای بهتر.\n\n🔹۴ عدد تخم‌مرغ و یک تن ماهی شد ۷۰۰ هزار تومان. پریشب رفتم سوسیس بگیرم، ۴ عدد حدود ۳۰۰ هزار تومان. انتظار دارید مردم بلند نشن؟ فقط بلدن بچه‌های ما رو پرپر کنن.\n\n🔹من پدر دو فرزند هستم که یکی‌شون اوتیسم داره و باید ماهیانه ۲۰ میلیون هزینه کنم، با حداقل حقوق وزارت کار. چیکار کنم با این گرونی و هزینه‌های سنگین؟ لعنت به جمهوری اسلامی.\n\n🔹بابا، این چه وضعشه؟ من یه دختر ۱۳ ساله هستم که امسال می‌رم پایه هفتم. هزینه کتاب‌هام شده نزدیک ۲ میلیون تومان. هزینه فرم مدرسه‌ام هم می‌شه حداقل ۲.۵ میلیون تومان. شما چیکار دارید می‌کنید با ما؟",
+      "message_id": 355371,
+      "message_link": "https://t.me/IranintlTV/355371",
+      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال می‌گوید چند عدد بستنی و بیسکویت را با مقداری دوغ و پنیر به قیمت یک میلیون و ۱۱۸ هزار تومان خریده است.",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "10:24:29",
-      "gregorian_utc": "2026-09-02T06:54:29+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T07:10:34.295560+00:00"
+      "tehran_time": "10:34:40",
+      "gregorian_utc": "2026-09-02T07:04:40+00:00",
+      "media_type": "video",
+      "media_size_bytes": 8878988,
+      "media_size_human": "8.47 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/IranintlTV_355371_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355371_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-09-02T07:20:34.300616+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -167,7 +167,7 @@
       "media_local_path": "media/satlastnews_76389_sticker.webp",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76389_sticker.webp",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T07:10:34.651180+00:00"
+      "archived_at": "2026-09-02T07:20:34.615421+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -185,7 +185,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T07:10:34.993946+00:00"
+      "archived_at": "2026-09-02T07:20:34.924015+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -203,7 +203,7 @@
       "media_local_path": "media/khabarsara53_10_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_10_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T07:10:35.325482+00:00"
+      "archived_at": "2026-09-02T07:20:35.181129+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -221,25 +221,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T07:10:33.848559+00:00"
+      "archived_at": "2026-09-02T07:20:34.014853+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355369,
-      "message_link": "https://t.me/IranintlTV/355369",
-      "text": "🔻منچسترسیتی انتقال انزو فرناندز از چلسی را به ارزش ۱۲۵ میلیون پوند نهایی کرد. این هافبک ۲۵ سالهٔ آرژانتینی که پیش‌تر زیر نظر انزو مارسکا در چلسی بازی می‌کرد، برای تقویت خط هافبک سیتی، به این تیم ملحق شد.\n\n🔹این دومین بار در دو ماه گذشته است که سیتی رکورد نقل‌وانتقالات خود را می‌شکند؛ رکوردی که پیش از این با پیوستن ۱۱۶ میلیون پوندی الیوت اندرسون از ناتینگام فارست در ماه ژوئیه جابه‌جا شده بود.\n\n🔹فرناندز چهارمین بازیکنی است که در این تابستان با قراردادی به ارزش دست‌کم ۱۰۰ میلیون پوند به یک باشگاه لیگ برتری می‌پیوندد؛ پس از مورگان راجرز (۱۱۷ میلیون پوند) به چلسی، بردلی بارکولا (۱۲۳ میلیون پوند) به لیورپول و پیوستن اندرسون به سیتی.\n\n🔹با این انتقال، مجموع هزینه‌های منچسترسیتی در این پنجره به رکورد ۴۵۸ میلیون پوند رسید. آن‌ها همچنین حدود ۳۰۰ میلیون پوند نیز از فروش بازیکنان کسب کردند. \n\n🔹ادامه این گزارش را در [سایت](https://www.iranintl.com/202609021542) بخوانید.\n\n[@iranintltvsport](https://t.me/iranintltvsport)",
+      "message_id": 355370,
+      "message_link": "https://t.me/IranintlTV/355370",
+      "text": "**🗣روایت شما: وضعیت زندگی در سایه سرکوب سیاسی و تنش‌های نظامی - چهارشنبه ۱۱ شهریور\n**\n🔹من پذیرش هتل بودم، ۳۰ سالمه و دوتا زبان انگلیسی و عربی فول‌ام، ولی جنگ همه‌چیز رو تعطیل کرد. چون ۶ ماه حقوقم رو ندادن، اسنپ کار می‌کنم. اومدم جایگاه سوخت سهمیه آخرم رو بزنم و ۳ ساعت در صف بودم. بعدش هم ماشین رو پارک می‌کنم و می‌رم دست‌فروشی.\n\n🔹پریروز سرما خورده بودم و مجبور شدم برم دکتر که ۲ میلیون و ۸۰۰ هزار تومان هزینه کردم. ویزیت ۳۸۸ هزار تومان، دارو یک میلیون و ۲۸۰ هزار تومان، تزریق یک میلیون و ۱۸۰ هزار تومان. دیگه نمی‌شه زندگی کرد.\n\n🔹من دانشجوی ورودی مهر ۱۴۰۴ دانشگاه علوم‌پزشکی هرمزگان هستم. در روز ثبت‌نام به ما گفته شد به شما خوابگاه نمی‌دیم و خوابگاه دولتی پس از یک سال داده خواهد شد. حالا باز هم قرار نیست به ما خوابگاه بدن و باید در خوابگاه‌های خودگردان که گران و بسیار شلوغ هستند، بمونیم.\n\n🔹۱۴ سالمه و کلاس بسکتبال می‌رم. گفتن باید لباس بخرید، نمی‌دونم چیکار کنم. دیگه خجالت می‌کشم از بقیه پول بگیرم برای باشگاه و لباس باشگاه. وضعیت خیلی بده، به امید روزهای بهتر.\n\n🔹۴ عدد تخم‌مرغ و یک تن ماهی شد ۷۰۰ هزار تومان. پریشب رفتم سوسیس بگیرم، ۴ عدد حدود ۳۰۰ هزار تومان. انتظار دارید مردم بلند نشن؟ فقط بلدن بچه‌های ما رو پرپر کنن.\n\n🔹من پدر دو فرزند هستم که یکی‌شون اوتیسم داره و باید ماهیانه ۲۰ میلیون هزینه کنم، با حداقل حقوق وزارت کار. چیکار کنم با این گرونی و هزینه‌های سنگین؟ لعنت به جمهوری اسلامی.\n\n🔹بابا، این چه وضعشه؟ من یه دختر ۱۳ ساله هستم که امسال می‌رم پایه هفتم. هزینه کتاب‌هام شده نزدیک ۲ میلیون تومان. هزینه فرم مدرسه‌ام هم می‌شه حداقل ۲.۵ میلیون تومان. شما چیکار دارید می‌کنید با ما؟",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "10:15:27",
-      "gregorian_utc": "2026-09-02T06:45:27+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 185801,
-      "media_size_human": "181.45 KB",
-      "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355369_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355369_photo.jpg",
-      "no_media_reason": null,
-      "archived_at": "2026-09-02T07:10:34.295757+00:00"
+      "tehran_time": "10:24:29",
+      "gregorian_utc": "2026-09-02T06:54:29+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-09-02T07:20:34.318692+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -257,7 +257,7 @@
       "media_local_path": "media/satlastnews_76388_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76388_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T07:10:34.651228+00:00"
+      "archived_at": "2026-09-02T07:20:34.615469+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -275,7 +275,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T07:10:34.993985+00:00"
+      "archived_at": "2026-09-02T07:20:34.924052+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -293,7 +293,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T07:10:35.325503+00:00"
+      "archived_at": "2026-09-02T07:20:35.181150+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -311,25 +311,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T07:10:33.848584+00:00"
+      "archived_at": "2026-09-02T07:20:34.014879+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355368,
-      "message_link": "https://t.me/IranintlTV/355368",
-      "text": "🎧نسخه صوتی اخبار بامدادی | چهارشنبه ۱۱ شهریور\n@iranintlTV",
+      "message_id": 355369,
+      "message_link": "https://t.me/IranintlTV/355369",
+      "text": "🔻منچسترسیتی انتقال انزو فرناندز از چلسی را به ارزش ۱۲۵ میلیون پوند نهایی کرد. این هافبک ۲۵ سالهٔ آرژانتینی که پیش‌تر زیر نظر انزو مارسکا در چلسی بازی می‌کرد، برای تقویت خط هافبک سیتی، به این تیم ملحق شد.\n\n🔹این دومین بار در دو ماه گذشته است که سیتی رکورد نقل‌وانتقالات خود را می‌شکند؛ رکوردی که پیش از این با پیوستن ۱۱۶ میلیون پوندی الیوت اندرسون از ناتینگام فارست در ماه ژوئیه جابه‌جا شده بود.\n\n🔹فرناندز چهارمین بازیکنی است که در این تابستان با قراردادی به ارزش دست‌کم ۱۰۰ میلیون پوند به یک باشگاه لیگ برتری می‌پیوندد؛ پس از مورگان راجرز (۱۱۷ میلیون پوند) به چلسی، بردلی بارکولا (۱۲۳ میلیون پوند) به لیورپول و پیوستن اندرسون به سیتی.\n\n🔹با این انتقال، مجموع هزینه‌های منچسترسیتی در این پنجره به رکورد ۴۵۸ میلیون پوند رسید. آن‌ها همچنین حدود ۳۰۰ میلیون پوند نیز از فروش بازیکنان کسب کردند. \n\n🔹ادامه این گزارش را در [سایت](https://www.iranintl.com/202609021542) بخوانید.\n\n[@iranintltvsport](https://t.me/iranintltvsport)",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "09:56:11",
-      "gregorian_utc": "2026-09-02T06:26:11+00:00",
-      "media_type": "audio",
-      "media_size_bytes": 30092387,
-      "media_size_human": "28.70 MB",
+      "tehran_time": "10:15:27",
+      "gregorian_utc": "2026-09-02T06:45:27+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 185801,
+      "media_size_human": "181.45 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355368_audio.mp3",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355368_audio.mp3",
+      "media_local_path": "media/IranintlTV_355369_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355369_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T07:10:34.295816+00:00"
+      "archived_at": "2026-09-02T07:20:34.318877+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -347,7 +347,7 @@
       "media_local_path": "media/satlastnews_76387_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76387_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T07:10:34.651271+00:00"
+      "archived_at": "2026-09-02T07:20:34.615514+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -365,7 +365,7 @@
       "media_local_path": "media/Mellig_120526_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120526_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T07:10:34.994088+00:00"
+      "archived_at": "2026-09-02T07:20:34.924159+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -383,7 +383,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T07:10:35.325520+00:00"
+      "archived_at": "2026-09-02T07:20:35.181168+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -401,25 +401,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T07:10:33.848603+00:00"
+      "archived_at": "2026-09-02T07:20:34.014899+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355366,
-      "message_link": "https://t.me/IranintlTV/355366",
-      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال در بامداد چهارشنبه ۱۱ شهریور، صف کیلومتری خودروها را برای دریافت بنزین نشان می‌دهد.",
+      "message_id": 355368,
+      "message_link": "https://t.me/IranintlTV/355368",
+      "text": "🎧نسخه صوتی اخبار بامدادی | چهارشنبه ۱۱ شهریور\n@iranintlTV",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "09:46:31",
-      "gregorian_utc": "2026-09-02T06:16:31+00:00",
-      "media_type": "video",
-      "media_size_bytes": 6085983,
-      "media_size_human": "5.80 MB",
+      "tehran_time": "09:56:11",
+      "gregorian_utc": "2026-09-02T06:26:11+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 30092387,
+      "media_size_human": "28.70 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355366_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355366_video.mp4",
+      "media_local_path": "media/IranintlTV_355368_audio.mp3",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355368_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T07:10:34.295844+00:00"
+      "archived_at": "2026-09-02T07:20:34.318934+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -437,7 +437,7 @@
       "media_local_path": "media/satlastnews_76385_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76385_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T07:10:34.651309+00:00"
+      "archived_at": "2026-09-02T07:20:34.615551+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -455,7 +455,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T07:10:34.994128+00:00"
+      "archived_at": "2026-09-02T07:20:34.924200+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -473,7 +473,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T07:10:35.325536+00:00"
+      "archived_at": "2026-09-02T07:20:35.181185+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -491,25 +491,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T07:10:33.848631+00:00"
+      "archived_at": "2026-09-02T07:20:34.014929+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355365,
-      "message_link": "https://t.me/IranintlTV/355365",
-      "text": "🎧نسخه صوتی سیاست با مراد ویسی: آمریکا به سوی سرنگونی جمهوری‌اسلامی\n@iranintlTV",
+      "message_id": 355366,
+      "message_link": "https://t.me/IranintlTV/355366",
+      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال در بامداد چهارشنبه ۱۱ شهریور، صف کیلومتری خودروها را برای دریافت بنزین نشان می‌دهد.",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "09:45:40",
-      "gregorian_utc": "2026-09-02T06:15:40+00:00",
-      "media_type": "audio",
-      "media_size_bytes": 18825043,
-      "media_size_human": "17.95 MB",
+      "tehran_time": "09:46:31",
+      "gregorian_utc": "2026-09-02T06:16:31+00:00",
+      "media_type": "video",
+      "media_size_bytes": 6085983,
+      "media_size_human": "5.80 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355365_audio.mp3",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355365_audio.mp3",
+      "media_local_path": "media/IranintlTV_355366_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355366_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T07:10:34.295881+00:00"
+      "archived_at": "2026-09-02T07:20:34.318965+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -527,7 +527,7 @@
       "media_local_path": "media/satlastnews_76383_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76383_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T07:10:34.651339+00:00"
+      "archived_at": "2026-09-02T07:20:34.615583+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -545,7 +545,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T07:10:34.994158+00:00"
+      "archived_at": "2026-09-02T07:20:34.924232+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -563,7 +563,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T07:10:35.325552+00:00"
+      "archived_at": "2026-09-02T07:20:35.181203+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -581,25 +581,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T07:10:33.848650+00:00"
+      "archived_at": "2026-09-02T07:20:34.014948+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355364,
-      "message_link": "https://t.me/IranintlTV/355364",
-      "text": "🔻فدراسیون فوتبال عراق به‌صورت رسمی از عقد قرارداد یک‌ساله با کادر فنی ایرانی برای هدایت تیم‌های ملی دختران زیر ۱۵ و زیر ۱۷ سال این کشور خبر داد.\n\n🔹طبق این توافق، شادی مهینی (سرمربی پیشین تیم فوتبال نوجوانان ایران) به‌عنوان سرمربی، مریم آزمون (سرمربی پیشین تیم ملی بزرگسالان ایران و باشگاه پرسپولیس) به‌عنوان مربی و راشین حمیدی به‌عنوان مربی دروازه‌بان‌ها انتخاب شدند.\n\n🔹پس از علیرضا منصوریان و یحیی گل‌محمدی، این انتصاب موج حضور مربیان ایرانی در فوتبال عراق را پررنگ‌تر کرده است. نخستین مأموریت این کادر، هدایت تیم زیر ۱۷ سال عراق در رقابت‌های انتخابی جام ملت‌های آسیا از ۵ تا ۱۱ اکتبر در مالزی خواهد بود که عراق در آن با هند، مالزی و سوریه هم‌گروه است.\n\n[@iranintltvsport](https://t.me/iranintltvsport)",
+      "message_id": 355365,
+      "message_link": "https://t.me/IranintlTV/355365",
+      "text": "🎧نسخه صوتی سیاست با مراد ویسی: آمریکا به سوی سرنگونی جمهوری‌اسلامی\n@iranintlTV",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "09:22:25",
-      "gregorian_utc": "2026-09-02T05:52:25+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 173782,
-      "media_size_human": "169.71 KB",
+      "tehran_time": "09:45:40",
+      "gregorian_utc": "2026-09-02T06:15:40+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 18825043,
+      "media_size_human": "17.95 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355364_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355364_photo.jpg",
+      "media_local_path": "media/IranintlTV_355365_audio.mp3",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355365_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T07:10:34.296001+00:00"
+      "archived_at": "2026-09-02T07:20:34.319007+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -617,7 +617,7 @@
       "media_local_path": "media/satlastnews_76381_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76381_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T07:10:34.651362+00:00"
+      "archived_at": "2026-09-02T07:20:34.615607+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -635,7 +635,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T07:10:34.994174+00:00"
+      "archived_at": "2026-09-02T07:20:34.924250+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -653,7 +653,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T07:10:35.325572+00:00"
+      "archived_at": "2026-09-02T07:20:35.181219+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -671,25 +671,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T07:10:33.848677+00:00"
+      "archived_at": "2026-09-02T07:20:34.014975+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355363,
-      "message_link": "https://t.me/IranintlTV/355363",
-      "text": "مایک هاکبی، سفیر آمریکا در اسرائیل، گفت که حزب‌الله تنها مانع پیشرفت مذاکرات اسرائیل و لبنان به رهبری واشینگتن است. \n\nهاکبی، حزب‌الله را گروهی تحت حمایت جمهوری اسلامی خواند که مسئول کشته شدن صدها آمریکایی است و در انتقاد از تهران نوشت: «هر چیزی را که حکومت ایران لمس کند، به گند کشیده می‌شود.» \n\nاو افزود شامگاه سه‌شنبه ۱۰ شهریور با بنیامین نتانیاهو، نخست‌وزیر اسرائیل، و میشل عیسی، سفیر آمریکا در لبنان، درباره روند این مذاکرات گفت‌وگو کرده است.\n [iranintl.com/202609025341](https://t.co/Nd1u6LOS2G)",
+      "message_id": 355364,
+      "message_link": "https://t.me/IranintlTV/355364",
+      "text": "🔻فدراسیون فوتبال عراق به‌صورت رسمی از عقد قرارداد یک‌ساله با کادر فنی ایرانی برای هدایت تیم‌های ملی دختران زیر ۱۵ و زیر ۱۷ سال این کشور خبر داد.\n\n🔹طبق این توافق، شادی مهینی (سرمربی پیشین تیم فوتبال نوجوانان ایران) به‌عنوان سرمربی، مریم آزمون (سرمربی پیشین تیم ملی بزرگسالان ایران و باشگاه پرسپولیس) به‌عنوان مربی و راشین حمیدی به‌عنوان مربی دروازه‌بان‌ها انتخاب شدند.\n\n🔹پس از علیرضا منصوریان و یحیی گل‌محمدی، این انتصاب موج حضور مربیان ایرانی در فوتبال عراق را پررنگ‌تر کرده است. نخستین مأموریت این کادر، هدایت تیم زیر ۱۷ سال عراق در رقابت‌های انتخابی جام ملت‌های آسیا از ۵ تا ۱۱ اکتبر در مالزی خواهد بود که عراق در آن با هند، مالزی و سوریه هم‌گروه است.\n\n[@iranintltvsport](https://t.me/iranintltvsport)",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "09:09:55",
-      "gregorian_utc": "2026-09-02T05:39:55+00:00",
+      "tehran_time": "09:22:25",
+      "gregorian_utc": "2026-09-02T05:52:25+00:00",
       "media_type": "photo",
-      "media_size_bytes": 113592,
-      "media_size_human": "110.93 KB",
+      "media_size_bytes": 173782,
+      "media_size_human": "169.71 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355363_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355363_photo.jpg",
+      "media_local_path": "media/IranintlTV_355364_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355364_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T07:10:34.296079+00:00"
+      "archived_at": "2026-09-02T07:20:34.319104+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -707,7 +707,7 @@
       "media_local_path": "media/satlastnews_76380_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76380_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T07:10:34.651383+00:00"
+      "archived_at": "2026-09-02T07:20:34.615643+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -725,7 +725,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T07:10:34.994190+00:00"
+      "archived_at": "2026-09-02T07:20:34.924265+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -743,7 +743,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T07:10:35.325588+00:00"
+      "archived_at": "2026-09-02T07:20:35.181233+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -761,25 +761,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T07:10:33.848696+00:00"
+      "archived_at": "2026-09-02T07:20:34.014999+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355362,
-      "message_link": "https://t.me/IranintlTV/355362",
-      "text": "شکست شاخص‌های چشم‌انداز؛ ایران در «سند چشم‌انداز ۱۴۰۴»، ناکامی رویاهای خامنه‌ای\n\nعلی خامنه‌ای ۲۲ سال پیش سند چشم‌انداز بیست ساله جمهوری اسلامی در افق ۱۴۰۴ را ابلاغ کرد که سندی شد بر ناتوانی سیاست‌هایش. امروز تاریخ این سند منقضی‌شده و علی خامنه‌ای کشته شده است. اما سرنوشت رویاهای خامنه‌ای چه شد؟\n@iranintltv",
+      "message_id": 355363,
+      "message_link": "https://t.me/IranintlTV/355363",
+      "text": "مایک هاکبی، سفیر آمریکا در اسرائیل، گفت که حزب‌الله تنها مانع پیشرفت مذاکرات اسرائیل و لبنان به رهبری واشینگتن است. \n\nهاکبی، حزب‌الله را گروهی تحت حمایت جمهوری اسلامی خواند که مسئول کشته شدن صدها آمریکایی است و در انتقاد از تهران نوشت: «هر چیزی را که حکومت ایران لمس کند، به گند کشیده می‌شود.» \n\nاو افزود شامگاه سه‌شنبه ۱۰ شهریور با بنیامین نتانیاهو، نخست‌وزیر اسرائیل، و میشل عیسی، سفیر آمریکا در لبنان، درباره روند این مذاکرات گفت‌وگو کرده است.\n [iranintl.com/202609025341](https://t.co/Nd1u6LOS2G)",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "08:56:09",
-      "gregorian_utc": "2026-09-02T05:26:09+00:00",
-      "media_type": "video",
-      "media_size_bytes": 759460,
-      "media_size_human": "741.66 KB",
+      "tehran_time": "09:09:55",
+      "gregorian_utc": "2026-09-02T05:39:55+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 113592,
+      "media_size_human": "110.93 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355362_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355362_video.mp4",
+      "media_local_path": "media/IranintlTV_355363_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355363_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T07:10:34.296135+00:00"
+      "archived_at": "2026-09-02T07:20:34.319175+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -797,7 +797,7 @@
       "media_local_path": "media/satlastnews_76379_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76379_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T07:10:34.651404+00:00"
+      "archived_at": "2026-09-02T07:20:34.615668+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -815,7 +815,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T07:10:34.994217+00:00"
+      "archived_at": "2026-09-02T07:20:34.924290+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -833,7 +833,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T07:10:35.325603+00:00"
+      "archived_at": "2026-09-02T07:20:35.181249+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -851,25 +851,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T07:10:33.848713+00:00"
+      "archived_at": "2026-09-02T07:20:34.015016+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355361,
-      "message_link": "https://t.me/IranintlTV/355361",
-      "text": "مهدی صارمی‌فر، روزنامه‌نگار علم و فناوری، درباره فعالیت شبکه هکرهای تحت تعقیب آمریکا به ایران‌اینترنشنال گفت جمهوری اسلامی بخشی از عملیات سایبری خود را از طریق شرکت‌های پیمانکاری و شبکه‌هایی از مجرمان سایبری پیش می‌برد.\nاو تاکید می‌کند تغییر نام و ساختار شرکت‌هایی مانند مبنا و پروژه سمبل، لزوما هویت واقعی هکرها و شیوه‌های عملیاتی آنها را تغییر نمی‌دهد و این شبکه‌ها می‌توانند همزمان برای نهادهای حکومتی عملیات سایبری انجام دهند و از مهارت‌های خود برای جرایم مالی علیه مردم استفاده کنند.\n@iranintltv",
+      "message_id": 355362,
+      "message_link": "https://t.me/IranintlTV/355362",
+      "text": "شکست شاخص‌های چشم‌انداز؛ ایران در «سند چشم‌انداز ۱۴۰۴»، ناکامی رویاهای خامنه‌ای\n\nعلی خامنه‌ای ۲۲ سال پیش سند چشم‌انداز بیست ساله جمهوری اسلامی در افق ۱۴۰۴ را ابلاغ کرد که سندی شد بر ناتوانی سیاست‌هایش. امروز تاریخ این سند منقضی‌شده و علی خامنه‌ای کشته شده است. اما سرنوشت رویاهای خامنه‌ای چه شد؟\n@iranintltv",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "08:41:50",
-      "gregorian_utc": "2026-09-02T05:11:50+00:00",
+      "tehran_time": "08:56:09",
+      "gregorian_utc": "2026-09-02T05:26:09+00:00",
       "media_type": "video",
-      "media_size_bytes": 3876462,
-      "media_size_human": "3.70 MB",
+      "media_size_bytes": 759460,
+      "media_size_human": "741.66 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355361_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355361_video.mp4",
+      "media_local_path": "media/IranintlTV_355362_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355362_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T07:10:34.296200+00:00"
+      "archived_at": "2026-09-02T07:20:34.319231+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -887,7 +887,7 @@
       "media_local_path": "media/satlastnews_76378_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76378_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T07:10:34.651426+00:00"
+      "archived_at": "2026-09-02T07:20:34.615694+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -905,7 +905,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T07:10:34.994233+00:00"
+      "archived_at": "2026-09-02T07:20:34.924307+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -923,7 +923,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T07:10:35.325618+00:00"
+      "archived_at": "2026-09-02T07:20:35.181264+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -941,25 +941,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T07:10:33.848729+00:00"
+      "archived_at": "2026-09-02T07:20:34.015032+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355360,
-      "message_link": "https://t.me/IranintlTV/355360",
-      "text": "چین هم‌زمان با تشدید فشار نظامی بر تایوان، قانون بسیج دفاع ملی را اصلاح کرده و آمادگی داخلی برای شرایط جنگی را گسترش داده است.\n\nتایوان نیز راه‌های شکستن محاصره و تداوم ورود کالاهای حیاتی را آزمایش می‌کند. شمار کشتی‌های چینی اطراف تایوان در ماه ژوئیه به رکورد ۲۴۴ فروند رسید و تنش‌ها بر سر تایوان به نشست رهبران اقیانوس آرام نیز کشیده شده است.\n\nجزییات بیشتر با علیرضا محبی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 355361,
+      "message_link": "https://t.me/IranintlTV/355361",
+      "text": "مهدی صارمی‌فر، روزنامه‌نگار علم و فناوری، درباره فعالیت شبکه هکرهای تحت تعقیب آمریکا به ایران‌اینترنشنال گفت جمهوری اسلامی بخشی از عملیات سایبری خود را از طریق شرکت‌های پیمانکاری و شبکه‌هایی از مجرمان سایبری پیش می‌برد.\nاو تاکید می‌کند تغییر نام و ساختار شرکت‌هایی مانند مبنا و پروژه سمبل، لزوما هویت واقعی هکرها و شیوه‌های عملیاتی آنها را تغییر نمی‌دهد و این شبکه‌ها می‌توانند همزمان برای نهادهای حکومتی عملیات سایبری انجام دهند و از مهارت‌های خود برای جرایم مالی علیه مردم استفاده کنند.\n@iranintltv",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "08:39:50",
-      "gregorian_utc": "2026-09-02T05:09:50+00:00",
+      "tehran_time": "08:41:50",
+      "gregorian_utc": "2026-09-02T05:11:50+00:00",
       "media_type": "video",
-      "media_size_bytes": 2876529,
-      "media_size_human": "2.74 MB",
+      "media_size_bytes": 3876462,
+      "media_size_human": "3.70 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355360_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355360_video.mp4",
+      "media_local_path": "media/IranintlTV_355361_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355361_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T07:10:34.296256+00:00"
+      "archived_at": "2026-09-02T07:20:34.319292+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -977,7 +977,7 @@
       "media_local_path": "media/satlastnews_76377_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76377_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T07:10:34.651461+00:00"
+      "archived_at": "2026-09-02T07:20:34.615732+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -995,7 +995,7 @@
       "media_local_path": "media/Mellig_120519_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120519_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T07:10:34.994257+00:00"
+      "archived_at": "2026-09-02T07:20:34.924333+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -1013,7 +1013,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T07:10:35.325635+00:00"
+      "archived_at": "2026-09-02T07:20:35.181282+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1031,25 +1031,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T07:10:33.848746+00:00"
+      "archived_at": "2026-09-02T07:20:34.015047+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355359,
-      "message_link": "https://t.me/IranintlTV/355359",
-      "text": "آرمان اشراقی، استاد اقتصاد مالی، به ایران‌اینترنشنال گفت منافع بلندمدت اقتصادی چین با ادامه تنش‌های جمهوری اسلامی در خاورمیانه همخوانی ندارد.\n\nبه گفته او، وابستگی بخش بزرگی از صادرات نفت ایران به بازار چین، قدرت چانه‌زنی بالایی به پکن داده و به نظر نمی‌رسد چین در بلندمدت حاضر باشد هزینه سیاست‌های تنش‌زای جمهوری اسلامی را بپردازد.\n@iranintltv",
+      "message_id": 355360,
+      "message_link": "https://t.me/IranintlTV/355360",
+      "text": "چین هم‌زمان با تشدید فشار نظامی بر تایوان، قانون بسیج دفاع ملی را اصلاح کرده و آمادگی داخلی برای شرایط جنگی را گسترش داده است.\n\nتایوان نیز راه‌های شکستن محاصره و تداوم ورود کالاهای حیاتی را آزمایش می‌کند. شمار کشتی‌های چینی اطراف تایوان در ماه ژوئیه به رکورد ۲۴۴ فروند رسید و تنش‌ها بر سر تایوان به نشست رهبران اقیانوس آرام نیز کشیده شده است.\n\nجزییات بیشتر با علیرضا محبی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "08:31:59",
-      "gregorian_utc": "2026-09-02T05:01:59+00:00",
+      "tehran_time": "08:39:50",
+      "gregorian_utc": "2026-09-02T05:09:50+00:00",
       "media_type": "video",
-      "media_size_bytes": 4130463,
-      "media_size_human": "3.94 MB",
+      "media_size_bytes": 2876529,
+      "media_size_human": "2.74 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355359_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355359_video.mp4",
+      "media_local_path": "media/IranintlTV_355360_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355360_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T07:10:34.296305+00:00"
+      "archived_at": "2026-09-02T07:20:34.319347+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1067,7 +1067,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T07:10:34.651502+00:00"
+      "archived_at": "2026-09-02T07:20:34.615774+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1085,7 +1085,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T07:10:34.994272+00:00"
+      "archived_at": "2026-09-02T07:20:34.924349+00:00"
     }
   ]
 }
