@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T09:03:18.606138+00:00",
-  "shamsi_generated": "1405/06/11 09:03:18 تهران",
+  "generated_at": "2026-09-02T09:11:45.425329+00:00",
+  "shamsi_generated": "1405/06/11 09:11:45 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -28,12 +28,12 @@
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12568,
-      "message_link": "https://t.me/zedTV/12568",
-      "text": "♦️ قیمت جهانی نفت: ۹۵.۴۰ دلار\n♦️ بهای هر بشکه نفت در بازارهای بین‌المللی",
+      "message_id": 12572,
+      "message_link": "https://t.me/zedTV/12572",
+      "text": "تایید کشته شدن ۳ عضو بسیج در پی حملات آمریکا به بندر دیر؛\nهدف قرار گرفتن مواضع نیروهای شبه‌نظامی رژیم در جنوب کشور؛\nگزارش تلفات جانی در میان نیروهای وابسته به سپاه.",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "12:24:38",
-      "gregorian_utc": "2026-09-02T08:54:38+00:00",
+      "tehran_time": "12:40:20",
+      "gregorian_utc": "2026-09-02T09:10:20+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -41,25 +41,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T09:00:48.284226+00:00"
+      "archived_at": "2026-09-02T09:10:27.702348+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355384,
-      "message_link": "https://t.me/IranintlTV/355384",
-      "text": "🔻**رها پوربخش، ایران اینترنشنال؛** پنج ماه پس از مسابقات جام قهرمانی زنان آسیا در استرالیا، جمهوری اسلامی در پی ساخت مستندی نمایشی برای روایت ماجرای پناهندگی اعضای تیم ملی فوتبال زنان ایران است.\n\n🔹در روزهایی که دو بازیکن تیم ملی زنان ایران با گرفتن شهروندی استرالیا تلاش می‌کنند هزاران کیلومتر دورتر از خانه و عزیزانشان زندگی تازه‌ای بسازند، فدراسیون فوتبال جمهوری اسلامی بار دیگر بازیکنان را به اردو فراخوانده تا اتفاقات استرالیا این بار با روایت حکومت مقابل دوربین ثبت شود.\n\n🔹فریده شجاعی، نایب رییس زنان فدراسیون فوتبال، تایید کرده که در این اردو مستندی درباره حضور ایران در جام قهرمانی آسیا ضبط می‌شود و هدف آن را تکمیل آرشیو مسابقات و ثبت بخشی از تاریخ فوتبال زنان ایران دانسته است.\n\n🔹فوتبال ۳۶۰ پیش‌تر گزارش داده بود این پروژه متعلق به نهادی غیرفوتبالی است و بیشتر بازیکنانی که از استرالیا بازگشته‌اند، تمایلی به نشستن روبه‌روی دوربین فدراسیون و بازگویی اتفاقات آن سفر ندارند. برگزاری همین اردو آغاز لیگ برتر فوتبال زنان را یک هفته عقب انداخته است. \n\n🔹ادامه این مطلب را در [سایت ](https://www.iranintl.com/202609025747)بخوانید. \n\n[@iranintltvsport](https://t.me/iranintltvsport)",
+      "message_id": 355385,
+      "message_link": "https://t.me/IranintlTV/355385",
+      "text": "ویدیوهای رسیده به ایران‌اینترنشنال نشان می‌دهند گروهی از ایرانیان ساکن آلمان سه‌شنبه ۱۰ شهریور در خیابان‌های شهر هامبورگ علیه جمهوری اسلامی تجمع کرده و سرود «ای ایران» را هم‌خوانی کردند.",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "12:17:07",
-      "gregorian_utc": "2026-09-02T08:47:07+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 273689,
-      "media_size_human": "267.27 KB",
+      "tehran_time": "12:32:28",
+      "gregorian_utc": "2026-09-02T09:02:28+00:00",
+      "media_type": "video",
+      "media_size_bytes": 11061999,
+      "media_size_human": "10.55 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355384_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355384_photo.jpg",
+      "media_local_path": "media/IranintlTV_355385_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355385_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T09:00:48.664493+00:00"
+      "archived_at": "2026-09-02T09:10:27.954439+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -77,7 +77,7 @@
       "media_local_path": "media/satlastnews_76390_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76390_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T09:00:49.052283+00:00"
+      "archived_at": "2026-09-02T09:10:28.208648+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -95,7 +95,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T09:00:49.401358+00:00"
+      "archived_at": "2026-09-02T09:10:28.458178+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -113,17 +113,17 @@
       "media_local_path": "media/khabarsara53_11_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_11_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T09:00:49.713734+00:00"
+      "archived_at": "2026-09-02T09:10:28.680176+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12567,
-      "message_link": "https://t.me/zedTV/12567",
-      "text": "افزایش شمار جان‌باختگان در پی تجمعات شبانه در مشهد و شیراز.\nتاکید بر مسئولیت مستقیم فراخوان‌دهندگان در قبال خون‌های ریخته شده.\nتداوم ناآرامی‌ها و بحران داخلی در شهرهای مختلف کشور.",
+      "message_id": 12571,
+      "message_link": "https://t.me/zedTV/12571",
+      "text": "هلاکت ۳ عضو بسیج شهرستان دیر در جزیره لاوان؛\nتایید هویت کشته‌شدگان: مهدی بهرامی، حسین صالح‌نژاد و حسن مومنی؛\nتعدادی از نیروهای امنیتی رژیم در این حمله مجروح شدند.",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "12:24:30",
-      "gregorian_utc": "2026-09-02T08:54:30+00:00",
+      "tehran_time": "12:40:20",
+      "gregorian_utc": "2026-09-02T09:10:20+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -131,25 +131,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T09:00:48.284277+00:00"
+      "archived_at": "2026-09-02T09:10:27.702397+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355383,
-      "message_link": "https://t.me/IranintlTV/355383",
-      "text": "از شهروندان پرسیدیم پاسخ شما به پرسش ترامپ درباره زمان قیام مردم ایران چیست؟ یک شهروند با ارسال پیام صوتی به ایران‌اینترنشنال خطاب به دونالد ترامپ می‌گوید: «اگر به نتانیاهو اجازه بدهی، او بلد است با زدن تمام سران رژیم جمهوری اسلامی، به مردم کمک کند تا این رژیم سرنگون شود.»",
+      "message_id": 355384,
+      "message_link": "https://t.me/IranintlTV/355384",
+      "text": "🔻**رها پوربخش، ایران اینترنشنال؛** پنج ماه پس از مسابقات جام قهرمانی زنان آسیا در استرالیا، جمهوری اسلامی در پی ساخت مستندی نمایشی برای روایت ماجرای پناهندگی اعضای تیم ملی فوتبال زنان ایران است.\n\n🔹در روزهایی که دو بازیکن تیم ملی زنان ایران با گرفتن شهروندی استرالیا تلاش می‌کنند هزاران کیلومتر دورتر از خانه و عزیزانشان زندگی تازه‌ای بسازند، فدراسیون فوتبال جمهوری اسلامی بار دیگر بازیکنان را به اردو فراخوانده تا اتفاقات استرالیا این بار با روایت حکومت مقابل دوربین ثبت شود.\n\n🔹فریده شجاعی، نایب رییس زنان فدراسیون فوتبال، تایید کرده که در این اردو مستندی درباره حضور ایران در جام قهرمانی آسیا ضبط می‌شود و هدف آن را تکمیل آرشیو مسابقات و ثبت بخشی از تاریخ فوتبال زنان ایران دانسته است.\n\n🔹فوتبال ۳۶۰ پیش‌تر گزارش داده بود این پروژه متعلق به نهادی غیرفوتبالی است و بیشتر بازیکنانی که از استرالیا بازگشته‌اند، تمایلی به نشستن روبه‌روی دوربین فدراسیون و بازگویی اتفاقات آن سفر ندارند. برگزاری همین اردو آغاز لیگ برتر فوتبال زنان را یک هفته عقب انداخته است. \n\n🔹ادامه این مطلب را در [سایت ](https://www.iranintl.com/202609025747)بخوانید. \n\n[@iranintltvsport](https://t.me/iranintltvsport)",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "12:03:42",
-      "gregorian_utc": "2026-09-02T08:33:42+00:00",
-      "media_type": "video",
-      "media_size_bytes": 11204613,
-      "media_size_human": "10.69 MB",
+      "tehran_time": "12:17:07",
+      "gregorian_utc": "2026-09-02T08:47:07+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 273689,
+      "media_size_human": "267.27 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355383_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355383_video.mp4",
+      "media_local_path": "media/IranintlTV_355384_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355384_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T09:00:48.664566+00:00"
+      "archived_at": "2026-09-02T09:10:27.967047+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -167,7 +167,7 @@
       "media_local_path": "media/satlastnews_76389_sticker.webp",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76389_sticker.webp",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T09:00:49.052338+00:00"
+      "archived_at": "2026-09-02T09:10:28.208705+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -185,7 +185,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T09:00:49.401436+00:00"
+      "archived_at": "2026-09-02T09:10:28.458258+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -203,17 +203,17 @@
       "media_local_path": "media/khabarsara53_10_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_10_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T09:00:49.713817+00:00"
+      "archived_at": "2026-09-02T09:10:28.680247+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12566,
-      "message_link": "https://t.me/zedTV/12566",
-      "text": "نرخ دلار به رکورد ۲۱۹ هزار تومان رسید.\nتداوم سقوط پول ملی در سایه ناکارآمدی رژیم.\nتشدید بی‌سابقه فشار معیشتی بر شهروندان.",
+      "message_id": 12570,
+      "message_link": "https://t.me/zedTV/12570",
+      "text": "تایید کشته شدن ۷ نیروی نظامی در خوزستان؛\nتلفات جانی در میان نیروهای مسلح در جنوب کشور گزارش شد.",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "12:24:30",
-      "gregorian_utc": "2026-09-02T08:54:30+00:00",
+      "tehran_time": "12:40:11",
+      "gregorian_utc": "2026-09-02T09:10:11+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -221,25 +221,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T09:00:48.284316+00:00"
+      "archived_at": "2026-09-02T09:10:27.702430+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355382,
-      "message_link": "https://t.me/IranintlTV/355382",
-      "text": "فرماندهی مرکزی آمریکا، سنتکام، با انتشار ویدیویی در شبکه اجتماعی ایکس اعلام کرد مراکز نظامی جمهوری اسلامی را هدف قرار داده است.\n\nسنتکام نوشت: «نیروهای آمریکایی اهدافی متعلق به سپاه پاسداران، از جمله مواضع پدافند هوایی، سامانه‌های راداری، تجهیزات و تاسیسات دریایی، قابلیت‌های مین‌گذاری و مراکز ارتباطی را هدف قرار دادند.»\n@iranintltv",
+      "message_id": 355383,
+      "message_link": "https://t.me/IranintlTV/355383",
+      "text": "از شهروندان پرسیدیم پاسخ شما به پرسش ترامپ درباره زمان قیام مردم ایران چیست؟ یک شهروند با ارسال پیام صوتی به ایران‌اینترنشنال خطاب به دونالد ترامپ می‌گوید: «اگر به نتانیاهو اجازه بدهی، او بلد است با زدن تمام سران رژیم جمهوری اسلامی، به مردم کمک کند تا این رژیم سرنگون شود.»",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "11:51:59",
-      "gregorian_utc": "2026-09-02T08:21:59+00:00",
+      "tehran_time": "12:03:42",
+      "gregorian_utc": "2026-09-02T08:33:42+00:00",
       "media_type": "video",
-      "media_size_bytes": 421222,
-      "media_size_human": "411.35 KB",
+      "media_size_bytes": 11204613,
+      "media_size_human": "10.69 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355382_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355382_video.mp4",
+      "media_local_path": "media/IranintlTV_355383_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355383_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T09:00:48.664658+00:00"
+      "archived_at": "2026-09-02T09:10:27.967141+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -257,7 +257,7 @@
       "media_local_path": "media/satlastnews_76388_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76388_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T09:00:49.052406+00:00"
+      "archived_at": "2026-09-02T09:10:28.208772+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -275,7 +275,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T09:00:49.401497+00:00"
+      "archived_at": "2026-09-02T09:10:28.458320+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -293,17 +293,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T09:00:49.713849+00:00"
+      "archived_at": "2026-09-02T09:10:28.680279+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12565,
-      "message_link": "https://t.me/zedTV/12565",
-      "text": "ادعای سپاه: انفجار و آتش‌سوزی ۲ نفتکش در پی برخورد با مین‌های دریایی.\nاتهام‌زنی رژیم به آمریکا مبنی بر تحریک خدمه برای ورود به منطقه مین‌گذاری شده.\nتداوم اخلال در امنیت دریانوردی بین‌المللی توسط جمهوری اسلامی.",
+      "message_id": 12569,
+      "message_link": "https://t.me/zedTV/12569",
+      "text": "نرخ دلار به رکورد تاریخی ۲۲۰ هزار تومان رسید.\nسقوط بی‌سابقه ارزش پول ملی در سایه ناکارآمدی رژیم.\nتشدید فشارهای معیشتی بر شهروندان در پی بحران اقتصادی.",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "12:08:00",
-      "gregorian_utc": "2026-09-02T08:38:00+00:00",
+      "tehran_time": "12:39:54",
+      "gregorian_utc": "2026-09-02T09:09:54+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -311,25 +311,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T09:00:48.284354+00:00"
+      "archived_at": "2026-09-02T09:10:27.702473+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355381,
-      "message_link": "https://t.me/IranintlTV/355381",
+      "message_id": 355382,
+      "message_link": "https://t.me/IranintlTV/355382",
       "text": "فرماندهی مرکزی آمریکا، سنتکام، با انتشار ویدیویی در شبکه اجتماعی ایکس اعلام کرد مراکز نظامی جمهوری اسلامی را هدف قرار داده است.\n\nسنتکام نوشت: «نیروهای آمریکایی اهدافی متعلق به سپاه پاسداران، از جمله مواضع پدافند هوایی، سامانه‌های راداری، تجهیزات و تاسیسات دریایی، قابلیت‌های مین‌گذاری و مراکز ارتباطی را هدف قرار دادند.»\n@iranintltv",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "11:51:10",
-      "gregorian_utc": "2026-09-02T08:21:10+00:00",
+      "tehran_time": "11:51:59",
+      "gregorian_utc": "2026-09-02T08:21:59+00:00",
       "media_type": "video",
       "media_size_bytes": 421222,
       "media_size_human": "411.35 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355381_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355381_video.mp4",
+      "media_local_path": "media/IranintlTV_355382_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355382_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T09:00:48.664743+00:00"
+      "archived_at": "2026-09-02T09:10:27.967236+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -347,7 +347,7 @@
       "media_local_path": "media/satlastnews_76387_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76387_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T09:00:49.052471+00:00"
+      "archived_at": "2026-09-02T09:10:28.208836+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -365,7 +365,7 @@
       "media_local_path": "media/Mellig_120526_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120526_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T09:00:49.401629+00:00"
+      "archived_at": "2026-09-02T09:10:28.458457+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -383,17 +383,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T09:00:49.713875+00:00"
+      "archived_at": "2026-09-02T09:10:28.680304+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12564,
-      "message_link": "https://t.me/zedTV/12564",
-      "text": "افزایش ۸ هزار تومانی نرخ دلار پس از ادعای همتی درباره کفایت ذخایر ارزی.\nبی‌اثری وعده‌های مقامات رژیم در کنترل سقوط ارزش پول ملی.",
+      "message_id": 12568,
+      "message_link": "https://t.me/zedTV/12568",
+      "text": "♦️ قیمت جهانی نفت: ۹۵.۴۰ دلار\n♦️ بهای هر بشکه نفت در بازارهای بین‌المللی",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "12:07:54",
-      "gregorian_utc": "2026-09-02T08:37:54+00:00",
+      "tehran_time": "12:24:38",
+      "gregorian_utc": "2026-09-02T08:54:38+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -401,25 +401,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T09:00:48.284388+00:00"
+      "archived_at": "2026-09-02T09:10:27.702504+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355380,
-      "message_link": "https://t.me/IranintlTV/355380",
-      "text": "🔻مهدی جمالی‌نژاد، استاندار اصفهان، در گفت‌وگو با خبرگزاری مهر شایعات منتشرشده دربارهٔ احتمال برگزاری بدون تماشاگر دیدار استقلال و پرسپولیس در ورزشگاه نقش‌جهان را تکذیب کرد. جمالی‌نژاد گفت: «تمام تمهیدات لازم از سوی دستگاه‌های اجرایی، انتظامی، امنیتی و ورزشی استان اندیشیده شده و هیچ تصمیمی مبنی بر برگزاری بازی بدون تماشاگر اتخاذ نشده است.»\n\n🔹پس از آغاز دور جدید حملات آمریکا علیه جمهوری اسلامی، شایعاتی مبنی بر برگزاری بدون‌تماشاگر دربی ۱۰۷ منتشر شد. استقلال و پرسپولیس از ساعت ۱۹:۳۰ روز چهارشنبه ۱۱ شهریور در ورزشگاه نقش‌جهان اصفهان به مصاف یکدیگر می‌روند. تمامی ۳۵ هزار بلیت این مسابقه در کمتر از دو ساعت فروخته شد.\n\n🔹ظرفیت ورزشگاه نقش‌جهان حدود ۷۵ هزار نفر است، ولی به‌رغم استقبال گستردهٔ مردمی از دربی ۱۰۷ تهران، تنها از کمتر از نصف ظرفیت این ورزشگاه استفاده می‌شود. پس از انقلاب ملی ایرانیان در دی ۱۴۰۴، جمهوری اسلامی به‌دلیل هراس از گسترش اعتراضات، مسابقات فوتبال را بدون حضور تماشاگران یا با محدودیت‌های ویژه برگزار کرده است.\n\n[@iranintltvsport](https://t.me/iranintltvsport)",
+      "message_id": 355381,
+      "message_link": "https://t.me/IranintlTV/355381",
+      "text": "فرماندهی مرکزی آمریکا، سنتکام، با انتشار ویدیویی در شبکه اجتماعی ایکس اعلام کرد مراکز نظامی جمهوری اسلامی را هدف قرار داده است.\n\nسنتکام نوشت: «نیروهای آمریکایی اهدافی متعلق به سپاه پاسداران، از جمله مواضع پدافند هوایی، سامانه‌های راداری، تجهیزات و تاسیسات دریایی، قابلیت‌های مین‌گذاری و مراکز ارتباطی را هدف قرار دادند.»\n@iranintltv",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "11:35:23",
-      "gregorian_utc": "2026-09-02T08:05:23+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 263753,
-      "media_size_human": "257.57 KB",
+      "tehran_time": "11:51:10",
+      "gregorian_utc": "2026-09-02T08:21:10+00:00",
+      "media_type": "video",
+      "media_size_bytes": 421222,
+      "media_size_human": "411.35 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355380_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355380_photo.jpg",
+      "media_local_path": "media/IranintlTV_355381_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355381_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T09:00:48.664928+00:00"
+      "archived_at": "2026-09-02T09:10:27.967315+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -437,7 +437,7 @@
       "media_local_path": "media/satlastnews_76385_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76385_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T09:00:49.052529+00:00"
+      "archived_at": "2026-09-02T09:10:28.208894+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -455,7 +455,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T09:00:49.401690+00:00"
+      "archived_at": "2026-09-02T09:10:28.458519+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -473,17 +473,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T09:00:49.713899+00:00"
+      "archived_at": "2026-09-02T09:10:28.680328+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12563,
-      "message_link": "https://t.me/zedTV/12563",
-      "text": "هشدار اسرائیل: احتمال حمله رژیم ایران در ایام تعطیلات.\nآمادگی کامل برای دفاع و تهاجم در هماهنگی با آمریکا.\nرصد مستمر تحرکات نظامی رژیم توسط ارتش اسرائیل.",
+      "message_id": 12567,
+      "message_link": "https://t.me/zedTV/12567",
+      "text": "افزایش شمار جان‌باختگان در پی تجمعات شبانه در مشهد و شیراز.\nتاکید بر مسئولیت مستقیم فراخوان‌دهندگان در قبال خون‌های ریخته شده.\nتداوم ناآرامی‌ها و بحران داخلی در شهرهای مختلف کشور.",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "11:52:05",
-      "gregorian_utc": "2026-09-02T08:22:05+00:00",
+      "tehran_time": "12:24:30",
+      "gregorian_utc": "2026-09-02T08:54:30+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -491,25 +491,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T09:00:48.284423+00:00"
+      "archived_at": "2026-09-02T09:10:27.702540+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355379,
-      "message_link": "https://t.me/IranintlTV/355379",
-      "text": "از شهروندان پرسیدیم پاسخ شما به پرسش ترامپ درباره زمان قیام مردم ایران چیست؟ یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال خطاب به دونالد ترامپ می‌گوید: «تو باید سمت مردم باشی. اگر سران رژیم را بزنی، زمینه قیام آنها فراهم می‌شود.»",
+      "message_id": 355380,
+      "message_link": "https://t.me/IranintlTV/355380",
+      "text": "🔻مهدی جمالی‌نژاد، استاندار اصفهان، در گفت‌وگو با خبرگزاری مهر شایعات منتشرشده دربارهٔ احتمال برگزاری بدون تماشاگر دیدار استقلال و پرسپولیس در ورزشگاه نقش‌جهان را تکذیب کرد. جمالی‌نژاد گفت: «تمام تمهیدات لازم از سوی دستگاه‌های اجرایی، انتظامی، امنیتی و ورزشی استان اندیشیده شده و هیچ تصمیمی مبنی بر برگزاری بازی بدون تماشاگر اتخاذ نشده است.»\n\n🔹پس از آغاز دور جدید حملات آمریکا علیه جمهوری اسلامی، شایعاتی مبنی بر برگزاری بدون‌تماشاگر دربی ۱۰۷ منتشر شد. استقلال و پرسپولیس از ساعت ۱۹:۳۰ روز چهارشنبه ۱۱ شهریور در ورزشگاه نقش‌جهان اصفهان به مصاف یکدیگر می‌روند. تمامی ۳۵ هزار بلیت این مسابقه در کمتر از دو ساعت فروخته شد.\n\n🔹ظرفیت ورزشگاه نقش‌جهان حدود ۷۵ هزار نفر است، ولی به‌رغم استقبال گستردهٔ مردمی از دربی ۱۰۷ تهران، تنها از کمتر از نصف ظرفیت این ورزشگاه استفاده می‌شود. پس از انقلاب ملی ایرانیان در دی ۱۴۰۴، جمهوری اسلامی به‌دلیل هراس از گسترش اعتراضات، مسابقات فوتبال را بدون حضور تماشاگران یا با محدودیت‌های ویژه برگزار کرده است.\n\n[@iranintltvsport](https://t.me/iranintltvsport)",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "11:31:21",
-      "gregorian_utc": "2026-09-02T08:01:21+00:00",
-      "media_type": "video",
-      "media_size_bytes": 15055504,
-      "media_size_human": "14.36 MB",
+      "tehran_time": "11:35:23",
+      "gregorian_utc": "2026-09-02T08:05:23+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 263753,
+      "media_size_human": "257.57 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355379_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355379_video.mp4",
+      "media_local_path": "media/IranintlTV_355380_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355380_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T09:00:48.664974+00:00"
+      "archived_at": "2026-09-02T09:10:27.967486+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -527,7 +527,7 @@
       "media_local_path": "media/satlastnews_76383_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76383_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T09:00:49.052579+00:00"
+      "archived_at": "2026-09-02T09:10:28.208965+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -545,7 +545,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T09:00:49.401736+00:00"
+      "archived_at": "2026-09-02T09:10:28.458564+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -563,17 +563,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T09:00:49.713923+00:00"
+      "archived_at": "2026-09-02T09:10:28.680352+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12562,
-      "message_link": "https://t.me/zedTV/12562",
-      "text": "سقوط آزاد ریال؛ دلار در بازار تهران به آستانه ۲۱۵ هزار تومان رسید\nرکوردشکنی سکه ۲۲۳ میلیون تومانی و توقف فعالیت صرافی‌ها در پی وحشت از جنگ\nانسداد شبکه‌های ارزی و بحران معیشتی همزمان با جهش قیمت جهانی نفت",
+      "message_id": 12566,
+      "message_link": "https://t.me/zedTV/12566",
+      "text": "نرخ دلار به رکورد ۲۱۹ هزار تومان رسید.\nتداوم سقوط پول ملی در سایه ناکارآمدی رژیم.\nتشدید بی‌سابقه فشار معیشتی بر شهروندان.",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "11:51:54",
-      "gregorian_utc": "2026-09-02T08:21:54+00:00",
+      "tehran_time": "12:24:30",
+      "gregorian_utc": "2026-09-02T08:54:30+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -581,25 +581,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T09:00:48.284451+00:00"
+      "archived_at": "2026-09-02T09:10:27.702569+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355378,
-      "message_link": "https://t.me/IranintlTV/355378",
-      "text": "**🗣روایت شما: وضعیت زندگی در سایه سرکوب سیاسی و تنش‌های نظامی - چهارشنبه ۱۱ شهریور\n**\n🔹با اینکه آموزش باید رایگان باشه، مدرسه دولتی پیدا نمی‌شه. حکومتی‌ها کلی مدرسه غیرانتفاعی زدن و پول خون پدرشون رو از مردم می‌گیرن. منطقه ۵ تهران برای متوسطه دوم ۳۰۰ میلیون تومان پول می‌گیرن، لعنت بر پدرشون.\n\n🔹یک کشاورز این‌همه زحمت می‌کشه و خرج می‌کنه که آخر پزشکیان بگه برنج پاکستانی میاریم تا برنج داخلی گرون نشه. کشاورز باید همه‌چیز رو وحشتناک گرون بخره، اما برنجش گرون نشه.\n\n🔹خدا نکنه یک بیماری ساده آدم بگیره در این وضعیت، فقط ۱۸ میلیون هزینه نمونه‌برداری و آزمایشگاه شد. بعد گروهی احمق پرچم تکون می‌دن و به خیالشون دارن از وطن دفاع می‌کنن.\n\n🔹بی‌کیفیت‌ترین و آشغال‌ترین نون‌ها رو به مردم می‌دن و می‌گن تشکر هم باید بکنید.\n\n🔹من یک جوان ایرانی هستم که در شرکت کار می‌کنم؛ ۱۲ ظهر از خونه می‌زنم بیرون تا ۱۱ شب با حقوق ماهیانه ۲۵ میلیون تومان. واقعاً انصافه؟",
+      "message_id": 355379,
+      "message_link": "https://t.me/IranintlTV/355379",
+      "text": "از شهروندان پرسیدیم پاسخ شما به پرسش ترامپ درباره زمان قیام مردم ایران چیست؟ یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال خطاب به دونالد ترامپ می‌گوید: «تو باید سمت مردم باشی. اگر سران رژیم را بزنی، زمینه قیام آنها فراهم می‌شود.»",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "11:24:17",
-      "gregorian_utc": "2026-09-02T07:54:17+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T09:00:48.665117+00:00"
+      "tehran_time": "11:31:21",
+      "gregorian_utc": "2026-09-02T08:01:21+00:00",
+      "media_type": "video",
+      "media_size_bytes": 15055504,
+      "media_size_human": "14.36 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/IranintlTV_355379_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355379_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-09-02T09:10:27.967539+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -617,7 +617,7 @@
       "media_local_path": "media/satlastnews_76381_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76381_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T09:00:49.052617+00:00"
+      "archived_at": "2026-09-02T09:10:28.209022+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -635,7 +635,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T09:00:49.401765+00:00"
+      "archived_at": "2026-09-02T09:10:28.458593+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -653,17 +653,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T09:00:49.713949+00:00"
+      "archived_at": "2026-09-02T09:10:28.680375+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12561,
-      "message_link": "https://t.me/zedTV/12561",
-      "text": "شهریه ۳۰۰ میلیونی مدارس و هزینه‌های ۱۸ میلیونی درمان؛ غارت جیب مردم توسط رژیم.\nنابودی کشاورزان با واردات بی‌رویه و دستمزدهای ناچیز در برابر تورم کمرشکن.\nکیفیت پایین نان و استثمار جوانان؛ بحران معیشتی حاصل فساد و ناکارآمدی سیستماتیک.",
+      "message_id": 12565,
+      "message_link": "https://t.me/zedTV/12565",
+      "text": "ادعای سپاه: انفجار و آتش‌سوزی ۲ نفتکش در پی برخورد با مین‌های دریایی.\nاتهام‌زنی رژیم به آمریکا مبنی بر تحریک خدمه برای ورود به منطقه مین‌گذاری شده.\nتداوم اخلال در امنیت دریانوردی بین‌المللی توسط جمهوری اسلامی.",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "11:36:35",
-      "gregorian_utc": "2026-09-02T08:06:35+00:00",
+      "tehran_time": "12:08:00",
+      "gregorian_utc": "2026-09-02T08:38:00+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -671,25 +671,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T09:00:48.284491+00:00"
+      "archived_at": "2026-09-02T09:10:27.702609+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355377,
-      "message_link": "https://t.me/IranintlTV/355377",
-      "text": "ارتش اسرائیل اعلام کرد به زیرساخت‌های حزب‌الله در منطقه نبطیه در جنوب لبنان حمله کرده است.\n\nسخنگوی ارتش اسرائیل گفت این زیرساخت‌ها برای حمله به نیروهای نظامی و شهروندان اسرائیل استفاده می‌شد. به گفته ارتش اسرائیل، این حمله در واکنش به پرتاب دو پهپاد انتحاری حزب‌الله انجام شد که یکی از آنها رهگیری و منهدم شده است.\n\nجزییات بیشتر با بابک اسحاقی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 355378,
+      "message_link": "https://t.me/IranintlTV/355378",
+      "text": "**🗣روایت شما: وضعیت زندگی در سایه سرکوب سیاسی و تنش‌های نظامی - چهارشنبه ۱۱ شهریور\n**\n🔹با اینکه آموزش باید رایگان باشه، مدرسه دولتی پیدا نمی‌شه. حکومتی‌ها کلی مدرسه غیرانتفاعی زدن و پول خون پدرشون رو از مردم می‌گیرن. منطقه ۵ تهران برای متوسطه دوم ۳۰۰ میلیون تومان پول می‌گیرن، لعنت بر پدرشون.\n\n🔹یک کشاورز این‌همه زحمت می‌کشه و خرج می‌کنه که آخر پزشکیان بگه برنج پاکستانی میاریم تا برنج داخلی گرون نشه. کشاورز باید همه‌چیز رو وحشتناک گرون بخره، اما برنجش گرون نشه.\n\n🔹خدا نکنه یک بیماری ساده آدم بگیره در این وضعیت، فقط ۱۸ میلیون هزینه نمونه‌برداری و آزمایشگاه شد. بعد گروهی احمق پرچم تکون می‌دن و به خیالشون دارن از وطن دفاع می‌کنن.\n\n🔹بی‌کیفیت‌ترین و آشغال‌ترین نون‌ها رو به مردم می‌دن و می‌گن تشکر هم باید بکنید.\n\n🔹من یک جوان ایرانی هستم که در شرکت کار می‌کنم؛ ۱۲ ظهر از خونه می‌زنم بیرون تا ۱۱ شب با حقوق ماهیانه ۲۵ میلیون تومان. واقعاً انصافه؟",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "11:20:29",
-      "gregorian_utc": "2026-09-02T07:50:29+00:00",
-      "media_type": "video",
-      "media_size_bytes": 2252655,
-      "media_size_human": "2.15 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355377_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355377_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-09-02T09:00:48.665237+00:00"
+      "tehran_time": "11:24:17",
+      "gregorian_utc": "2026-09-02T07:54:17+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-09-02T09:10:27.967667+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -707,7 +707,7 @@
       "media_local_path": "media/satlastnews_76380_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76380_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T09:00:49.052653+00:00"
+      "archived_at": "2026-09-02T09:10:28.209059+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -725,7 +725,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T09:00:49.401795+00:00"
+      "archived_at": "2026-09-02T09:10:28.458618+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -743,17 +743,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T09:00:49.713974+00:00"
+      "archived_at": "2026-09-02T09:10:28.680399+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12560,
-      "message_link": "https://t.me/zedTV/12560",
-      "text": "بحران معیشت: هزینه‌های میلیونی درمان و تحصیل در کنار تورم بی‌سابقه اقلام خوراکی.\nفروپاشی رفاه اجتماعی: بی‌خانمانی دانشجویان و صف‌های طولانی بنزین در پی فلج شدن اقتصاد.\nافزایش خشم عمومی: ناتوانی خانواده‌ها در تأمین هزینه‌های اولیه و گسترش فقر در سراسر کشور.",
+      "message_id": 12564,
+      "message_link": "https://t.me/zedTV/12564",
+      "text": "افزایش ۸ هزار تومانی نرخ دلار پس از ادعای همتی درباره کفایت ذخایر ارزی.\nبی‌اثری وعده‌های مقامات رژیم در کنترل سقوط ارزش پول ملی.",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "10:35:23",
-      "gregorian_utc": "2026-09-02T07:05:23+00:00",
+      "tehran_time": "12:07:54",
+      "gregorian_utc": "2026-09-02T08:37:54+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -761,25 +761,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T09:00:48.284518+00:00"
+      "archived_at": "2026-09-02T09:10:27.702637+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355376,
-      "message_link": "https://t.me/IranintlTV/355376",
-      "text": "محمدجواد اکبرین، عضو تحریریه ایران‌اینترنشنال، با اشاره به واکنش رسانه‌های عربی به حملات اخیر جمهوری اسلامی گفت کشورهای منطقه در مقایسه با گذشته آمادگی بیشتری برای مقابله با حملات موشکی پیدا کرده‌اند.\n\nاو همچنین با اشاره به حمله به غیرنظامیان و افزایش نگرانی‌ها در قطر، معتقد است امید به میانجیگری میان جمهوری اسلامی و آمریکا بیش از گذشته کاهش یافته است.\n@iranintltv",
+      "message_id": 355377,
+      "message_link": "https://t.me/IranintlTV/355377",
+      "text": "ارتش اسرائیل اعلام کرد به زیرساخت‌های حزب‌الله در منطقه نبطیه در جنوب لبنان حمله کرده است.\n\nسخنگوی ارتش اسرائیل گفت این زیرساخت‌ها برای حمله به نیروهای نظامی و شهروندان اسرائیل استفاده می‌شد. به گفته ارتش اسرائیل، این حمله در واکنش به پرتاب دو پهپاد انتحاری حزب‌الله انجام شد که یکی از آنها رهگیری و منهدم شده است.\n\nجزییات بیشتر با بابک اسحاقی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "11:19:47",
-      "gregorian_utc": "2026-09-02T07:49:47+00:00",
+      "tehran_time": "11:20:29",
+      "gregorian_utc": "2026-09-02T07:50:29+00:00",
       "media_type": "video",
-      "media_size_bytes": 4063395,
-      "media_size_human": "3.88 MB",
+      "media_size_bytes": 2252655,
+      "media_size_human": "2.15 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355376_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355376_video.mp4",
+      "media_local_path": "media/IranintlTV_355377_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355377_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T09:00:48.665325+00:00"
+      "archived_at": "2026-09-02T09:10:27.967757+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -797,7 +797,7 @@
       "media_local_path": "media/satlastnews_76379_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76379_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T09:00:49.052688+00:00"
+      "archived_at": "2026-09-02T09:10:28.209095+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -815,7 +815,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T09:00:49.401836+00:00"
+      "archived_at": "2026-09-02T09:10:28.458659+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -833,43 +833,43 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T09:00:49.713999+00:00"
+      "archived_at": "2026-09-02T09:10:28.680423+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12559,
-      "message_link": "https://t.me/zedTV/12559",
-      "text": "برای دانلود: \nwww.zemzeme.app/download.html\n\n\nبرای ارتباط با بات زمزمه اینجا را کلیک کنید: \n\nhttps://t.me/Zemzeme_app_bot?start=3",
+      "message_id": 12563,
+      "message_link": "https://t.me/zedTV/12563",
+      "text": "هشدار اسرائیل: احتمال حمله رژیم ایران در ایام تعطیلات.\nآمادگی کامل برای دفاع و تهاجم در هماهنگی با آمریکا.\nرصد مستمر تحرکات نظامی رژیم توسط ارتش اسرائیل.",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "10:29:38",
-      "gregorian_utc": "2026-09-02T06:59:38+00:00",
-      "media_type": "video",
-      "media_size_bytes": 18999023,
-      "media_size_human": "18.12 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/zedTV_12559_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_12559_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-09-02T09:00:48.284620+00:00"
+      "tehran_time": "11:52:05",
+      "gregorian_utc": "2026-09-02T08:22:05+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-09-02T09:10:27.702662+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355375,
-      "message_link": "https://t.me/IranintlTV/355375",
-      "text": "همزمان با ادامه افزایش نرخ ارز در ایران، قیمت یورو در بازار آزاد برای نخستین بار از مرز ۲۵۰ هزار تومان عبور کرد و تا زمان تنظیم این گزارش به ۲۵۱ هزار و ۲۰۰ تومان رسید. \n\nدر همین حال، دلار در بازار آزاد با قیمت ۲۱۷ هزار تومان معامله شد و قیمت پوند نیز از ۲۹۲ هزار و ۹۱۰ تومان عبور کرد. \n\nبر اساس قیمت‌های ثبت‌شده تا زمان تنظیم این گزارش، درهم امارات به ۵۹ هزار و ۶۵۰ تومان و لیر ترکیه به چهار هزار و ۴۹۵ تومان رسید.\n [iranintl.com/202609028062](https://t.co/87fxtkD2Oj)",
+      "message_id": 355376,
+      "message_link": "https://t.me/IranintlTV/355376",
+      "text": "محمدجواد اکبرین، عضو تحریریه ایران‌اینترنشنال، با اشاره به واکنش رسانه‌های عربی به حملات اخیر جمهوری اسلامی گفت کشورهای منطقه در مقایسه با گذشته آمادگی بیشتری برای مقابله با حملات موشکی پیدا کرده‌اند.\n\nاو همچنین با اشاره به حمله به غیرنظامیان و افزایش نگرانی‌ها در قطر، معتقد است امید به میانجیگری میان جمهوری اسلامی و آمریکا بیش از گذشته کاهش یافته است.\n@iranintltv",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "11:07:24",
-      "gregorian_utc": "2026-09-02T07:37:24+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 162304,
-      "media_size_human": "158.50 KB",
+      "tehran_time": "11:19:47",
+      "gregorian_utc": "2026-09-02T07:49:47+00:00",
+      "media_type": "video",
+      "media_size_bytes": 4063395,
+      "media_size_human": "3.88 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355375_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355375_photo.jpg",
+      "media_local_path": "media/IranintlTV_355376_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355376_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T09:00:48.665420+00:00"
+      "archived_at": "2026-09-02T09:10:27.967847+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -887,7 +887,7 @@
       "media_local_path": "media/satlastnews_76378_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76378_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T09:00:49.052724+00:00"
+      "archived_at": "2026-09-02T09:10:28.209133+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -905,7 +905,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T09:00:49.401863+00:00"
+      "archived_at": "2026-09-02T09:10:28.458686+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -923,17 +923,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T09:00:49.714022+00:00"
+      "archived_at": "2026-09-02T09:10:28.680447+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12558,
-      "message_link": "https://t.me/zedTV/12558",
-      "text": "تحلیلگران نظامی: حملات برق‌آسای ارتش آمریکا اکثر اهداف از پیش تعیین‌شده را نابود کرد.\nناتوانی جمهوری اسلامی در پاسخگویی و بی‌اثری موشک‌های رژیم در برابر حملات سنگین.\nکارشناسان: زمان تسلیم و پذیرش شکست کامل فرا رسیده است.",
+      "message_id": 12562,
+      "message_link": "https://t.me/zedTV/12562",
+      "text": "سقوط آزاد ریال؛ دلار در بازار تهران به آستانه ۲۱۵ هزار تومان رسید\nرکوردشکنی سکه ۲۲۳ میلیون تومانی و توقف فعالیت صرافی‌ها در پی وحشت از جنگ\nانسداد شبکه‌های ارزی و بحران معیشتی همزمان با جهش قیمت جهانی نفت",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "09:06:14",
-      "gregorian_utc": "2026-09-02T05:36:14+00:00",
+      "tehran_time": "11:51:54",
+      "gregorian_utc": "2026-09-02T08:21:54+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -941,25 +941,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T09:00:48.284653+00:00"
+      "archived_at": "2026-09-02T09:10:27.702686+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355374,
-      "message_link": "https://t.me/IranintlTV/355374",
-      "text": "مرتضی کاظمیان، عضو تحریریه ایران‌اینترنشنال، با اشاره به اظهارات تازه دونالد ترامپ درباره مردم ایران می‌گوید رییس‌جمهوری آمریکا در ماه‌های اخیر برای نخستین‌بار با صراحت بیشتری از نقش مردم ایران در منازعه با جمهوری اسلامی سخن گفته است.\n\nبه گفته کاظمیان، همزمانی این مواضع با تشدید فشارهای اقتصادی آمریکا نشان می‌دهد توجه دولت ترامپ بیش از گذشته به شرایط داخلی ایران و واکنش جامعه معترض معطوف شده است.\n@iranintltv",
+      "message_id": 355375,
+      "message_link": "https://t.me/IranintlTV/355375",
+      "text": "همزمان با ادامه افزایش نرخ ارز در ایران، قیمت یورو در بازار آزاد برای نخستین بار از مرز ۲۵۰ هزار تومان عبور کرد و تا زمان تنظیم این گزارش به ۲۵۱ هزار و ۲۰۰ تومان رسید. \n\nدر همین حال، دلار در بازار آزاد با قیمت ۲۱۷ هزار تومان معامله شد و قیمت پوند نیز از ۲۹۲ هزار و ۹۱۰ تومان عبور کرد. \n\nبر اساس قیمت‌های ثبت‌شده تا زمان تنظیم این گزارش، درهم امارات به ۵۹ هزار و ۶۵۰ تومان و لیر ترکیه به چهار هزار و ۴۹۵ تومان رسید.\n [iranintl.com/202609028062](https://t.co/87fxtkD2Oj)",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "11:05:20",
-      "gregorian_utc": "2026-09-02T07:35:20+00:00",
-      "media_type": "video",
-      "media_size_bytes": 3967595,
-      "media_size_human": "3.78 MB",
+      "tehran_time": "11:07:24",
+      "gregorian_utc": "2026-09-02T07:37:24+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 162304,
+      "media_size_human": "158.50 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355374_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355374_video.mp4",
+      "media_local_path": "media/IranintlTV_355375_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355375_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T09:00:48.665501+00:00"
+      "archived_at": "2026-09-02T09:10:27.967964+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -977,7 +977,7 @@
       "media_local_path": "media/satlastnews_76377_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76377_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T09:00:49.052781+00:00"
+      "archived_at": "2026-09-02T09:10:28.209191+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -995,7 +995,7 @@
       "media_local_path": "media/Mellig_120519_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120519_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T09:00:49.401902+00:00"
+      "archived_at": "2026-09-02T09:10:28.458725+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -1013,17 +1013,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T09:00:49.714047+00:00"
+      "archived_at": "2026-09-02T09:10:28.680473+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12557,
-      "message_link": "https://t.me/zedTV/12557",
-      "text": "آکسیوس: حمله موشکی ایالات متحده به دو ابرنفتکش رژیم در نزدیکی سواحل ایران.\nآغاز دور جدید حملات علیه اهداف جمهوری اسلامی.",
+      "message_id": 12561,
+      "message_link": "https://t.me/zedTV/12561",
+      "text": "شهریه ۳۰۰ میلیونی مدارس و هزینه‌های ۱۸ میلیونی درمان؛ غارت جیب مردم توسط رژیم.\nنابودی کشاورزان با واردات بی‌رویه و دستمزدهای ناچیز در برابر تورم کمرشکن.\nکیفیت پایین نان و استثمار جوانان؛ بحران معیشتی حاصل فساد و ناکارآمدی سیستماتیک.",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "08:37:25",
-      "gregorian_utc": "2026-09-02T05:07:25+00:00",
+      "tehran_time": "11:36:35",
+      "gregorian_utc": "2026-09-02T08:06:35+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -1031,25 +1031,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T09:00:48.284680+00:00"
+      "archived_at": "2026-09-02T09:10:27.702715+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355373,
-      "message_link": "https://t.me/IranintlTV/355373",
-      "text": "ویدیوهای رسیده به ایران‌اینترنشنال نشان می‌دهند گروهی از ایرانیان ساکن آلمان سه‌شنبه ۱۰ شهریور در خیابان‌های شهر هانوفر علیه جمهوری اسلامی تجمع کردند و فریاد «جاوید شاه» سردادند.",
+      "message_id": 355374,
+      "message_link": "https://t.me/IranintlTV/355374",
+      "text": "مرتضی کاظمیان، عضو تحریریه ایران‌اینترنشنال، با اشاره به اظهارات تازه دونالد ترامپ درباره مردم ایران می‌گوید رییس‌جمهوری آمریکا در ماه‌های اخیر برای نخستین‌بار با صراحت بیشتری از نقش مردم ایران در منازعه با جمهوری اسلامی سخن گفته است.\n\nبه گفته کاظمیان، همزمانی این مواضع با تشدید فشارهای اقتصادی آمریکا نشان می‌دهد توجه دولت ترامپ بیش از گذشته به شرایط داخلی ایران و واکنش جامعه معترض معطوف شده است.\n@iranintltv",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "11:00:58",
-      "gregorian_utc": "2026-09-02T07:30:58+00:00",
+      "tehran_time": "11:05:20",
+      "gregorian_utc": "2026-09-02T07:35:20+00:00",
       "media_type": "video",
-      "media_size_bytes": 6135153,
-      "media_size_human": "5.85 MB",
+      "media_size_bytes": 3967595,
+      "media_size_human": "3.78 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355373_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355373_video.mp4",
+      "media_local_path": "media/IranintlTV_355374_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355374_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T09:00:48.665544+00:00"
+      "archived_at": "2026-09-02T09:10:27.968055+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1067,7 +1067,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T09:00:49.052838+00:00"
+      "archived_at": "2026-09-02T09:10:28.209250+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1085,7 +1085,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T09:00:49.401928+00:00"
+      "archived_at": "2026-09-02T09:10:28.458752+00:00"
     }
   ]
 }
