@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T00:02:24.081791+00:00",
-  "shamsi_generated": "1405/06/11 00:02:24 تهران",
+  "generated_at": "2026-09-02T00:11:59.151712+00:00",
+  "shamsi_generated": "1405/06/11 00:11:59 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -41,25 +41,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T00:00:48.293152+00:00"
+      "archived_at": "2026-09-02T00:10:30.409557+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355335,
-      "message_link": "https://t.me/IranintlTV/355335",
-      "text": "شی جین‌پینگ، رییس‌جمهوری چین، سه‌شنبه وارد مصر شد؛ نخستین سفر او به این کشور طی یک دهه گذشته که هم‌زمان با بازنگری کشورهای منطقه در روابط امنیتی و اقتصادی خود در پی جنگ ایران انجام می‌شود.\n\nرویترز نوشت عبدالفتاح السیسی، رییس‌جمهوری مصر، در فرودگاه قاهره از شی استقبال کرد. دو کشور طی سال‌های اخیر روابط اقتصادی و نظامی خود را گسترش داده‌اند و ماه گذشته دومین رزمایش نظامی سالانه مشترک را برگزار کردند.\n\nاین سفر پس از حضور شی در اجلاس سازمان همکاری شانگهای در قرقیزستان انجام شد. نحوه دیدار کوتاه او با مسعود پزشکیان، رییس‌جمهور جمهوری اسلامی، در حاشیه اجلاس، پرسش‌هایی درباره روابط پکن و تهران ایجاد کرده است.\n\nهم‌زمان، حسین مرعشی، دبیرکل حزب کارگزاران سازندگی، گفت چین از جمهوری اسلامی خواسته است تنگه هرمز را بدون دریافت عوارض باز کند و مشکلات خود با عربستان و آمریکا را حل کند.\n\nاسکات بسنت، وزیر خزانه‌داری آمریکا، نیز گفت واشینگتن و پکن درباره جلوگیری از دستیابی ایران به سلاح هسته‌ای و آزادی کشتیرانی در تنگه هرمز اشتراک نظر دارند.\nhttps://iranintl.com/202609018417",
+      "message_id": 355336,
+      "message_link": "https://t.me/IranintlTV/355336",
+      "text": "اسکات بسنت، وزیر خزانه‌داری آمریکا، گفت: «یادداشت تفاهم شکست خورد، زیرا ایران آماده امضای توافق نبود» و افزود: «خواهیم دید [تهران] چه زمانی برای دستیابی به توافق آماده خواهد شد.»\n\nاو اضافه کرد: «ما به فشار و خفه کردن اقتصادی نظام ایران ادامه خواهیم داد؛ در حالی که در نتیجه تحریم‌ها و تاخیر در پرداخت حقوق‌ها، فشار بر مقام‌ها و نیروهای آن رو به افزایش است.»\n\nبسنت گفت: «آنچه در ایران در حال رخ دادن است، فقط مساله زمان است و حکومت در حال گذراندن مراحل پایانی خود است.»\nhttps://iranintl.com/202609015738",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "02:57:26",
-      "gregorian_utc": "2026-09-01T23:27:26+00:00",
+      "tehran_time": "03:36:23",
+      "gregorian_utc": "2026-09-02T00:06:23+00:00",
       "media_type": "photo",
-      "media_size_bytes": 142906,
-      "media_size_human": "139.56 KB",
+      "media_size_bytes": 127027,
+      "media_size_human": "124.05 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355335_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355335_photo.jpg",
+      "media_local_path": "media/IranintlTV_355336_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355336_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T00:00:48.586049+00:00"
+      "archived_at": "2026-09-02T00:10:30.658463+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -77,7 +77,7 @@
       "media_local_path": "media/satlastnews_76390_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76390_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T00:00:48.978900+00:00"
+      "archived_at": "2026-09-02T00:10:30.959902+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -95,7 +95,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T00:00:49.297422+00:00"
+      "archived_at": "2026-09-02T00:10:31.233171+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -113,7 +113,7 @@
       "media_local_path": "media/khabarsara53_11_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_11_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T00:00:49.596542+00:00"
+      "archived_at": "2026-09-02T00:10:31.497114+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -131,25 +131,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T00:00:48.293186+00:00"
+      "archived_at": "2026-09-02T00:10:30.409610+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355333,
-      "message_link": "https://t.me/IranintlTV/355333",
-      "text": "علیرضا از تهران: مشاور املاکم؛ من و همکارانم گاهی با دیدن وضعیت مردم گریه‌مان می‌گیرد\n\n«یک ایران صدای شما را می‌شنود»\n\nدوشنبه تا پنجشنبه ۱۱ شب تهران\n\nاز تلویزیون ایران اینترنشنال\n\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\n\nhttps://youtu.be/8WXHP9dyVbA\n@iranintltv",
+      "message_id": 355335,
+      "message_link": "https://t.me/IranintlTV/355335",
+      "text": "شی جین‌پینگ، رییس‌جمهوری چین، سه‌شنبه وارد مصر شد؛ نخستین سفر او به این کشور طی یک دهه گذشته که هم‌زمان با بازنگری کشورهای منطقه در روابط امنیتی و اقتصادی خود در پی جنگ ایران انجام می‌شود.\n\nرویترز نوشت عبدالفتاح السیسی، رییس‌جمهوری مصر، در فرودگاه قاهره از شی استقبال کرد. دو کشور طی سال‌های اخیر روابط اقتصادی و نظامی خود را گسترش داده‌اند و ماه گذشته دومین رزمایش نظامی سالانه مشترک را برگزار کردند.\n\nاین سفر پس از حضور شی در اجلاس سازمان همکاری شانگهای در قرقیزستان انجام شد. نحوه دیدار کوتاه او با مسعود پزشکیان، رییس‌جمهور جمهوری اسلامی، در حاشیه اجلاس، پرسش‌هایی درباره روابط پکن و تهران ایجاد کرده است.\n\nهم‌زمان، حسین مرعشی، دبیرکل حزب کارگزاران سازندگی، گفت چین از جمهوری اسلامی خواسته است تنگه هرمز را بدون دریافت عوارض باز کند و مشکلات خود با عربستان و آمریکا را حل کند.\n\nاسکات بسنت، وزیر خزانه‌داری آمریکا، نیز گفت واشینگتن و پکن درباره جلوگیری از دستیابی ایران به سلاح هسته‌ای و آزادی کشتیرانی در تنگه هرمز اشتراک نظر دارند.\nhttps://iranintl.com/202609018417",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "02:45:16",
-      "gregorian_utc": "2026-09-01T23:15:16+00:00",
-      "media_type": "video",
-      "media_size_bytes": 5113185,
-      "media_size_human": "4.88 MB",
+      "tehran_time": "02:57:26",
+      "gregorian_utc": "2026-09-01T23:27:26+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 142906,
+      "media_size_human": "139.56 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355333_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355333_video.mp4",
+      "media_local_path": "media/IranintlTV_355335_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355335_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T00:00:48.586125+00:00"
+      "archived_at": "2026-09-02T00:10:30.658642+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -167,7 +167,7 @@
       "media_local_path": "media/satlastnews_76389_sticker.webp",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76389_sticker.webp",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T00:00:48.978937+00:00"
+      "archived_at": "2026-09-02T00:10:30.959957+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -185,7 +185,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T00:00:49.297446+00:00"
+      "archived_at": "2026-09-02T00:10:31.233208+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -203,7 +203,7 @@
       "media_local_path": "media/khabarsara53_10_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_10_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T00:00:49.596596+00:00"
+      "archived_at": "2026-09-02T00:10:31.497181+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -221,25 +221,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T00:00:48.293206+00:00"
+      "archived_at": "2026-09-02T00:10:30.409643+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355332,
-      "message_link": "https://t.me/IranintlTV/355332",
-      "text": "فرانسه اعلام کرد شورای امنیت سازمان ملل متحد در ماه جاری درباره تمدید ماموریت هیات کارشناسان ناظر بر تحریم‌های جمهوری اسلامی رای‌گیری خواهد کرد.\n\nرویترز نوشت این اقدام می‌تواند به رویارویی با روسیه و چین منجر شود؛ دو کشوری که با رژیم تحریم‌ها و سازوکارهای نظارتی آن مخالف‌اند. ماموریت این هیات ۲۶ سپتامبر، چهارم مهر، منقضی می‌شود و دیپلمات‌ها انتظار دارند رای‌گیری ۱۷ سپتامبر، ۲۶ شهریور، انجام شود.\n\nژروم بونافون، سفیر فرانسه در سازمان ملل، گفت موضوع هسته‌ای و پایبند نبودن تهران به تعهداتش در قبال سازمان ملل، محور اصلی بحث‌ها درباره جمهوری اسلامی خواهد بود.\n\nبه گفته دیپلمات‌ها، احتمال دارد روسیه و چین این تمدید را وتو کنند. مسکو و پکن معتقدند شورای امنیت دیگر اختیاری برای بررسی موضوع هسته‌ای ایران ندارد و پیش‌تر اعلام کرده‌اند این شورا نمی‌تواند روند احیای کمیته تحریم‌ها یا هیات کارشناسان آن را ادامه دهد.\nhttps://iranintl.com/202609018667",
+      "message_id": 355333,
+      "message_link": "https://t.me/IranintlTV/355333",
+      "text": "علیرضا از تهران: مشاور املاکم؛ من و همکارانم گاهی با دیدن وضعیت مردم گریه‌مان می‌گیرد\n\n«یک ایران صدای شما را می‌شنود»\n\nدوشنبه تا پنجشنبه ۱۱ شب تهران\n\nاز تلویزیون ایران اینترنشنال\n\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\n\nhttps://youtu.be/8WXHP9dyVbA\n@iranintltv",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "02:44:05",
-      "gregorian_utc": "2026-09-01T23:14:05+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 212199,
-      "media_size_human": "207.23 KB",
+      "tehran_time": "02:45:16",
+      "gregorian_utc": "2026-09-01T23:15:16+00:00",
+      "media_type": "video",
+      "media_size_bytes": 5113185,
+      "media_size_human": "4.88 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355332_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355332_photo.jpg",
+      "media_local_path": "media/IranintlTV_355333_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355333_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T00:00:48.586210+00:00"
+      "archived_at": "2026-09-02T00:10:30.658725+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -257,7 +257,7 @@
       "media_local_path": "media/satlastnews_76388_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76388_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T00:00:48.978978+00:00"
+      "archived_at": "2026-09-02T00:10:30.960035+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -275,7 +275,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T00:00:49.297466+00:00"
+      "archived_at": "2026-09-02T00:10:31.233234+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -293,7 +293,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T00:00:49.596614+00:00"
+      "archived_at": "2026-09-02T00:10:31.497207+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -311,25 +311,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T00:00:48.293231+00:00"
+      "archived_at": "2026-09-02T00:10:30.409681+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355331,
-      "message_link": "https://t.me/IranintlTV/355331",
-      "text": "اسماعیل بقایی، سخنگوی وزارت خارجه جمهوری اسلامی، در شبکه اجتماعی ایکس درباره حمله آمریکا به کوهستک سیریک که دست‌کم پنج کشته و ۶۸ زخمی بر جای گذاشته است، نوشت امشب یک منزل مسکونی در حالی هدف حمله قرار گرفت که مردم در آن مشغول برگزاری جشن عروسی بودند.\n\nاو اشاره کرد که این حمله را نمی‌توان از «زنجیره حملاتی که پیش از آن در میناب، لامرد، قشم و دیگر نقاط رخ داده است، جدا کرد» و هشدار داد که جمهوری اسلامی «قاطعانه پاسخ خواهد داد».\nhttps://iranintl.com/202609016305",
+      "message_id": 355332,
+      "message_link": "https://t.me/IranintlTV/355332",
+      "text": "فرانسه اعلام کرد شورای امنیت سازمان ملل متحد در ماه جاری درباره تمدید ماموریت هیات کارشناسان ناظر بر تحریم‌های جمهوری اسلامی رای‌گیری خواهد کرد.\n\nرویترز نوشت این اقدام می‌تواند به رویارویی با روسیه و چین منجر شود؛ دو کشوری که با رژیم تحریم‌ها و سازوکارهای نظارتی آن مخالف‌اند. ماموریت این هیات ۲۶ سپتامبر، چهارم مهر، منقضی می‌شود و دیپلمات‌ها انتظار دارند رای‌گیری ۱۷ سپتامبر، ۲۶ شهریور، انجام شود.\n\nژروم بونافون، سفیر فرانسه در سازمان ملل، گفت موضوع هسته‌ای و پایبند نبودن تهران به تعهداتش در قبال سازمان ملل، محور اصلی بحث‌ها درباره جمهوری اسلامی خواهد بود.\n\nبه گفته دیپلمات‌ها، احتمال دارد روسیه و چین این تمدید را وتو کنند. مسکو و پکن معتقدند شورای امنیت دیگر اختیاری برای بررسی موضوع هسته‌ای ایران ندارد و پیش‌تر اعلام کرده‌اند این شورا نمی‌تواند روند احیای کمیته تحریم‌ها یا هیات کارشناسان آن را ادامه دهد.\nhttps://iranintl.com/202609018667",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "02:35:18",
-      "gregorian_utc": "2026-09-01T23:05:18+00:00",
+      "tehran_time": "02:44:05",
+      "gregorian_utc": "2026-09-01T23:14:05+00:00",
       "media_type": "photo",
-      "media_size_bytes": 161362,
-      "media_size_human": "157.58 KB",
+      "media_size_bytes": 212199,
+      "media_size_human": "207.23 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355331_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355331_photo.jpg",
+      "media_local_path": "media/IranintlTV_355332_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355332_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T00:00:48.586267+00:00"
+      "archived_at": "2026-09-02T00:10:30.658847+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -347,7 +347,7 @@
       "media_local_path": "media/satlastnews_76387_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76387_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T00:00:48.979021+00:00"
+      "archived_at": "2026-09-02T00:10:30.960095+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -365,7 +365,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T00:00:49.297503+00:00"
+      "archived_at": "2026-09-02T00:10:31.233282+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -383,7 +383,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T00:00:49.596628+00:00"
+      "archived_at": "2026-09-02T00:10:31.497230+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -401,25 +401,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T00:00:48.293246+00:00"
+      "archived_at": "2026-09-02T00:10:30.409707+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355330,
-      "message_link": "https://t.me/IranintlTV/355330",
-      "text": "فرماندهی مرکزی ایالات متحده (سنتکام) در بیانیه‌ای در شبکه اجتماعی ایکس نوشت که نیروهای آمریکایی «حملات علیه اهداف نظامی ایران را با موفقیت اجرا کردند.»\n\nسنتکام نوشت: «نیروهای آمریکایی اهدافی متعلق به سپاه پاسداران، از جمله مواضع پدافند هوایی، سامانه‌های راداری، تجهیزات و تاسیسات دریایی، قابلیت‌های مین‌گذاری و مراکز ارتباطی را هدف قرار دادند.»\n\nدر همین حال، رسانه‌های داخل ایران گزارش دادند که در پی حمله آمریکا به کوهستک سیریک، دست‌کم پنج نفر کشته و ۶۸ نفر دیگر زخمی شده‌اند.\n\nسنتکام در بیانیه خود نوشت: «این حملات پس از تلاش‌های اخیر سپاه پاسداران برای حمله به کشتی‌های تجاری در تنگه هرمز و همچنین حمله به نیروهای نظامی آمریکا انجام شد.»\n\nدر این بیانیه آمده است: «در حال حاضر بیش از ۵۰ هزار نیروی نظامی آمریکا در سراسر خاورمیانه در حال فعالیت هستند و همچنان هوشیار، آماده اجرای عملیات و دارای توان رزمی بالا باقی می‌مانند و آمادگی دارند به اجرای عملیات‌های ابلاغ‌شده از سوی فرمانده کل قوا ادامه دهند.»\nhttps://iranintl.com/202609017160",
+      "message_id": 355331,
+      "message_link": "https://t.me/IranintlTV/355331",
+      "text": "اسماعیل بقایی، سخنگوی وزارت خارجه جمهوری اسلامی، در شبکه اجتماعی ایکس درباره حمله آمریکا به کوهستک سیریک که دست‌کم پنج کشته و ۶۸ زخمی بر جای گذاشته است، نوشت امشب یک منزل مسکونی در حالی هدف حمله قرار گرفت که مردم در آن مشغول برگزاری جشن عروسی بودند.\n\nاو اشاره کرد که این حمله را نمی‌توان از «زنجیره حملاتی که پیش از آن در میناب، لامرد، قشم و دیگر نقاط رخ داده است، جدا کرد» و هشدار داد که جمهوری اسلامی «قاطعانه پاسخ خواهد داد».\nhttps://iranintl.com/202609016305",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "02:28:32",
-      "gregorian_utc": "2026-09-01T22:58:32+00:00",
+      "tehran_time": "02:35:18",
+      "gregorian_utc": "2026-09-01T23:05:18+00:00",
       "media_type": "photo",
-      "media_size_bytes": 63456,
-      "media_size_human": "61.97 KB",
+      "media_size_bytes": 161362,
+      "media_size_human": "157.58 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355330_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355330_photo.jpg",
+      "media_local_path": "media/IranintlTV_355331_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355331_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T00:00:48.586359+00:00"
+      "archived_at": "2026-09-02T00:10:30.658928+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -437,7 +437,7 @@
       "media_local_path": "media/satlastnews_76385_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76385_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T00:00:48.979053+00:00"
+      "archived_at": "2026-09-02T00:10:30.960143+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -455,7 +455,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T00:00:49.297518+00:00"
+      "archived_at": "2026-09-02T00:10:31.233306+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -473,7 +473,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T00:00:49.596641+00:00"
+      "archived_at": "2026-09-02T00:10:31.497252+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -491,25 +491,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T00:00:48.293267+00:00"
+      "archived_at": "2026-09-02T00:10:30.409739+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355328,
-      "message_link": "https://t.me/IranintlTV/355328",
-      "text": "ستاد کل ارتش کویت در بیانیه‌ای اعلام کرد که پدافند هوایی این کشور «در پی تجاوز ایران، با حملات پهپادی خصمانه مقابله می‌کند.»\n\nستاد کل ارتش کویت اشاره کرد هرگونه صدای انفجاری که شنیده می‌شود، نتیجه رهگیری «حملات خصمانه» از سوی سامانه‌های پدافند هوایی است.\n\nدر این بیانیه آمده است: «از همه خواسته می‌شود که به دستورالعمل‌های ایمنی و امنیتی صادرشده از سوی مقام‌های مربوط پایبند باشند.»\nhttps://iranintl.com/202609015194",
+      "message_id": 355330,
+      "message_link": "https://t.me/IranintlTV/355330",
+      "text": "فرماندهی مرکزی ایالات متحده (سنتکام) در بیانیه‌ای در شبکه اجتماعی ایکس نوشت که نیروهای آمریکایی «حملات علیه اهداف نظامی ایران را با موفقیت اجرا کردند.»\n\nسنتکام نوشت: «نیروهای آمریکایی اهدافی متعلق به سپاه پاسداران، از جمله مواضع پدافند هوایی، سامانه‌های راداری، تجهیزات و تاسیسات دریایی، قابلیت‌های مین‌گذاری و مراکز ارتباطی را هدف قرار دادند.»\n\nدر همین حال، رسانه‌های داخل ایران گزارش دادند که در پی حمله آمریکا به کوهستک سیریک، دست‌کم پنج نفر کشته و ۶۸ نفر دیگر زخمی شده‌اند.\n\nسنتکام در بیانیه خود نوشت: «این حملات پس از تلاش‌های اخیر سپاه پاسداران برای حمله به کشتی‌های تجاری در تنگه هرمز و همچنین حمله به نیروهای نظامی آمریکا انجام شد.»\n\nدر این بیانیه آمده است: «در حال حاضر بیش از ۵۰ هزار نیروی نظامی آمریکا در سراسر خاورمیانه در حال فعالیت هستند و همچنان هوشیار، آماده اجرای عملیات و دارای توان رزمی بالا باقی می‌مانند و آمادگی دارند به اجرای عملیات‌های ابلاغ‌شده از سوی فرمانده کل قوا ادامه دهند.»\nhttps://iranintl.com/202609017160",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "02:20:46",
-      "gregorian_utc": "2026-09-01T22:50:46+00:00",
+      "tehran_time": "02:28:32",
+      "gregorian_utc": "2026-09-01T22:58:32+00:00",
       "media_type": "photo",
-      "media_size_bytes": 58435,
-      "media_size_human": "57.07 KB",
+      "media_size_bytes": 63456,
+      "media_size_human": "61.97 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355328_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355328_photo.jpg",
+      "media_local_path": "media/IranintlTV_355330_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355330_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T00:00:48.586406+00:00"
+      "archived_at": "2026-09-02T00:10:30.659072+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -527,7 +527,7 @@
       "media_local_path": "media/satlastnews_76383_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76383_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T00:00:48.979080+00:00"
+      "archived_at": "2026-09-02T00:10:30.960181+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -545,7 +545,7 @@
       "media_local_path": "media/Mellig_120519_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120519_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T00:00:49.297569+00:00"
+      "archived_at": "2026-09-02T00:10:31.233356+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -563,7 +563,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T00:00:49.596656+00:00"
+      "archived_at": "2026-09-02T00:10:31.497273+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -581,25 +581,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T00:00:48.293283+00:00"
+      "archived_at": "2026-09-02T00:10:30.409762+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355327,
-      "message_link": "https://t.me/IranintlTV/355327",
-      "text": "ارتش اردن در بیانیه‌ای اعلام کرد که سامانه‌های پدافند هوایی این کشور با ۱۳ موشک بالستیک که وارد حریم هوایی اردن شده بودند، مقابله کردند و موفق شدند ۱۰ فروند از آنها را رهگیری و منهدم کنند.\n\nارتش اردن گفت سه موشک دیگر در مناطق دورافتاده و به دور از مناطق مسکونی سقوط کردند.\n\nدر این ارتباط، دو مقام آمریکایی به خبرگزاری رویترز گفتند که تاکنون هیچ تلفاتی در حمله جمهوری اسلامی به تاسیسات ایالات متحده در اردن گزارش نشده است.\n\nدر همین حال، ارتش اردن از مردم خواست به هیچ‌گونه اشیا یا بقایای ناشناخته نزدیک نشوند و آنها را لمس یا جابه‌جا نکنند و در صورت یافتن چنین مواردی، بلافاصله موضوع را به نهادهای مربوط اطلاع دهند.\n\nارتش اردن همچنین از مردم خواست از انتشار اطلاعات غیرموثق خودداری کنند و اخبار و اطلاعات را از بیانیه‌های صادرشده از سوی نهادهای رسمی دنبال کنند.\nhttps://iranintl.com/202609015139",
+      "message_id": 355328,
+      "message_link": "https://t.me/IranintlTV/355328",
+      "text": "ستاد کل ارتش کویت در بیانیه‌ای اعلام کرد که پدافند هوایی این کشور «در پی تجاوز ایران، با حملات پهپادی خصمانه مقابله می‌کند.»\n\nستاد کل ارتش کویت اشاره کرد هرگونه صدای انفجاری که شنیده می‌شود، نتیجه رهگیری «حملات خصمانه» از سوی سامانه‌های پدافند هوایی است.\n\nدر این بیانیه آمده است: «از همه خواسته می‌شود که به دستورالعمل‌های ایمنی و امنیتی صادرشده از سوی مقام‌های مربوط پایبند باشند.»\nhttps://iranintl.com/202609015194",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "02:04:43",
-      "gregorian_utc": "2026-09-01T22:34:43+00:00",
+      "tehran_time": "02:20:46",
+      "gregorian_utc": "2026-09-01T22:50:46+00:00",
       "media_type": "photo",
-      "media_size_bytes": 55309,
-      "media_size_human": "54.01 KB",
+      "media_size_bytes": 58435,
+      "media_size_human": "57.07 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355327_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355327_photo.jpg",
+      "media_local_path": "media/IranintlTV_355328_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355328_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T00:00:48.586475+00:00"
+      "archived_at": "2026-09-02T00:10:30.659150+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -617,7 +617,7 @@
       "media_local_path": "media/satlastnews_76381_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76381_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T00:00:48.979100+00:00"
+      "archived_at": "2026-09-02T00:10:30.960210+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -635,7 +635,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T00:00:49.297586+00:00"
+      "archived_at": "2026-09-02T00:10:31.233380+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -653,7 +653,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T00:00:49.596669+00:00"
+      "archived_at": "2026-09-02T00:10:31.497295+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -671,25 +671,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T00:00:48.293310+00:00"
+      "archived_at": "2026-09-02T00:10:30.409804+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355326,
-      "message_link": "https://t.me/IranintlTV/355326",
-      "text": "رسانه‌های حکومتی در ایران گزارش دادند که شمار کشته‌شدگان حمله آمریکا به مراسم عروسی در کوهستک سیریک به پنج تن رسیده است.\n\nهمچنین احمد نفیسی، معاون سیاسی، امنیتی و اجتماعی استانداری هرمزگان، اعلام کرد که شمار مجروحان این حمله به ۶۸ نفر افزایش یافته است.\n\nرسانه‌های حکومتی در ایران می‌گویند دست‌کم ۱۵ نفر از مجروحان کودک هستند.\n\nدر همین حال، جمعیت هلال‌احمر جمهوری اسلامی اعلام کرد که مجروحان به بیمارستان‌های سیریک و میناب منتقل شده‌اند.\nhttps://iranintl.com/202609017953",
+      "message_id": 355327,
+      "message_link": "https://t.me/IranintlTV/355327",
+      "text": "ارتش اردن در بیانیه‌ای اعلام کرد که سامانه‌های پدافند هوایی این کشور با ۱۳ موشک بالستیک که وارد حریم هوایی اردن شده بودند، مقابله کردند و موفق شدند ۱۰ فروند از آنها را رهگیری و منهدم کنند.\n\nارتش اردن گفت سه موشک دیگر در مناطق دورافتاده و به دور از مناطق مسکونی سقوط کردند.\n\nدر این ارتباط، دو مقام آمریکایی به خبرگزاری رویترز گفتند که تاکنون هیچ تلفاتی در حمله جمهوری اسلامی به تاسیسات ایالات متحده در اردن گزارش نشده است.\n\nدر همین حال، ارتش اردن از مردم خواست به هیچ‌گونه اشیا یا بقایای ناشناخته نزدیک نشوند و آنها را لمس یا جابه‌جا نکنند و در صورت یافتن چنین مواردی، بلافاصله موضوع را به نهادهای مربوط اطلاع دهند.\n\nارتش اردن همچنین از مردم خواست از انتشار اطلاعات غیرموثق خودداری کنند و اخبار و اطلاعات را از بیانیه‌های صادرشده از سوی نهادهای رسمی دنبال کنند.\nhttps://iranintl.com/202609015139",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "01:59:46",
-      "gregorian_utc": "2026-09-01T22:29:46+00:00",
+      "tehran_time": "02:04:43",
+      "gregorian_utc": "2026-09-01T22:34:43+00:00",
       "media_type": "photo",
-      "media_size_bytes": 124603,
-      "media_size_human": "121.68 KB",
+      "media_size_bytes": 55309,
+      "media_size_human": "54.01 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355326_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355326_photo.jpg",
+      "media_local_path": "media/IranintlTV_355327_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355327_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T00:00:48.586531+00:00"
+      "archived_at": "2026-09-02T00:10:30.659260+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -707,7 +707,7 @@
       "media_local_path": "media/satlastnews_76380_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76380_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T00:00:48.979134+00:00"
+      "archived_at": "2026-09-02T00:10:30.960238+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -725,7 +725,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 151.91 MB)",
-      "archived_at": "2026-09-02T00:00:49.297636+00:00"
+      "archived_at": "2026-09-02T00:10:31.233446+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -743,7 +743,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T00:00:49.596682+00:00"
+      "archived_at": "2026-09-02T00:10:31.497318+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -761,25 +761,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T00:00:48.293326+00:00"
+      "archived_at": "2026-09-02T00:10:30.409830+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355325,
-      "message_link": "https://t.me/IranintlTV/355325",
-      "text": "🎧نسخه صوتی برنامه با کامبیز حسینی | برنامه‌ای برای اجاره‌نشین‌ها در شب بزن‌بزن سنتکام و سپاه\n@iranintlTV",
+      "message_id": 355326,
+      "message_link": "https://t.me/IranintlTV/355326",
+      "text": "رسانه‌های حکومتی در ایران گزارش دادند که شمار کشته‌شدگان حمله آمریکا به مراسم عروسی در کوهستک سیریک به پنج تن رسیده است.\n\nهمچنین احمد نفیسی، معاون سیاسی، امنیتی و اجتماعی استانداری هرمزگان، اعلام کرد که شمار مجروحان این حمله به ۶۸ نفر افزایش یافته است.\n\nرسانه‌های حکومتی در ایران می‌گویند دست‌کم ۱۵ نفر از مجروحان کودک هستند.\n\nدر همین حال، جمعیت هلال‌احمر جمهوری اسلامی اعلام کرد که مجروحان به بیمارستان‌های سیریک و میناب منتقل شده‌اند.\nhttps://iranintl.com/202609017953",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "01:54:42",
-      "gregorian_utc": "2026-09-01T22:24:42+00:00",
-      "media_type": "audio",
-      "media_size_bytes": 44782130,
-      "media_size_human": "42.71 MB",
+      "tehran_time": "01:59:46",
+      "gregorian_utc": "2026-09-01T22:29:46+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 124603,
+      "media_size_human": "121.68 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355325_audio.mp3",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355325_audio.mp3",
+      "media_local_path": "media/IranintlTV_355326_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355326_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T00:00:48.610921+00:00"
+      "archived_at": "2026-09-02T00:10:30.659338+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -797,7 +797,7 @@
       "media_local_path": "media/satlastnews_76379_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76379_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T00:00:48.979156+00:00"
+      "archived_at": "2026-09-02T00:10:30.960264+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -815,7 +815,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T00:00:49.297662+00:00"
+      "archived_at": "2026-09-02T00:10:31.233485+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -833,7 +833,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T00:00:49.596694+00:00"
+      "archived_at": "2026-09-02T00:10:31.497339+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -851,25 +851,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T00:00:48.293341+00:00"
+      "archived_at": "2026-09-02T00:10:30.409853+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355324,
-      "message_link": "https://t.me/IranintlTV/355324",
-      "text": "مراد ویسی، تحلیلگر ارشد ایران‌اینترنشنال، گفت: «آمریکا با تشدید محاصره، جمهوری اسلامی را بدون اشاره رسمی به عبارت سرنگونی یا تغییر رژیم، به سمت فروپاشی و به زانو درآمدن سوق می دهد.»\n\nاو افزود: «این راهبرد همزمان بر محاصره شدید، بی اثر کردن کارت تنگه هرمز و نمایش اراده قاطع برای پشتیبانی نظامی از این اقدامات استوار است.»\n@iranintltv",
+      "message_id": 355325,
+      "message_link": "https://t.me/IranintlTV/355325",
+      "text": "🎧نسخه صوتی برنامه با کامبیز حسینی | برنامه‌ای برای اجاره‌نشین‌ها در شب بزن‌بزن سنتکام و سپاه\n@iranintlTV",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "01:51:11",
-      "gregorian_utc": "2026-09-01T22:21:11+00:00",
-      "media_type": "video",
-      "media_size_bytes": 628615,
-      "media_size_human": "613.88 KB",
+      "tehran_time": "01:54:42",
+      "gregorian_utc": "2026-09-01T22:24:42+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 44782130,
+      "media_size_human": "42.71 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355324_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355324_video.mp4",
+      "media_local_path": "media/IranintlTV_355325_audio.mp3",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355325_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T00:00:48.611031+00:00"
+      "archived_at": "2026-09-02T00:10:30.706373+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -887,7 +887,7 @@
       "media_local_path": "media/satlastnews_76378_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76378_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T00:00:48.979176+00:00"
+      "archived_at": "2026-09-02T00:10:30.960293+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -905,7 +905,7 @@
       "media_local_path": "media/Mellig_120515_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120515_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T00:00:49.297685+00:00"
+      "archived_at": "2026-09-02T00:10:31.233518+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -923,7 +923,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T00:00:49.596707+00:00"
+      "archived_at": "2026-09-02T00:10:31.497359+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -941,25 +941,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T00:00:48.293355+00:00"
+      "archived_at": "2026-09-02T00:10:30.409877+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355323,
-      "message_link": "https://t.me/IranintlTV/355323",
-      "text": "رویترز با استناد به گزارش‌های محرمانه آژانس بین‌المللی انرژی اتمی نوشت این نهاد پرسش‌های باقی‌مانده درباره فعالیت‌های مخفی هسته‌ای سوریه در دوران حکومت اسد را حل‌وفصل کرده، اما در پرونده ایران پیشرفتی حاصل نشده است.\n\nآژانس از مقام‌های جدید سوریه به‌دلیل «شفافیت و همکاری» تمجید و تایید کرده است سایت بمباران‌شده دیرالزور در سال ۲۰۰۷، یک راکتور هسته‌ای در حال ساخت بوده است. آژانس همچنین وجود حدود ۷۳ تن فلز اورانیوم طبیعی مرتبط با این تاسیسات را تایید کرده که اکنون تحت نظارت قرار دارد.\n\nدر مقابل، بازرسان آژانس هنوز به سایت‌های هسته‌ای ایران که در خرداد ۱۴۰۴ هدف حملات آمریکا و اسرائیل قرار گرفتند، بازنگشته‌اند.\n\nآژانس پیش از حملات برآورد کرده بود جمهوری اسلامی ۴۴۰.۹ کیلوگرم اورانیوم غنی‌شده تا سطح ۶۰ درصد در اختیار دارد. وضعیت کنونی این مواد مشخص نیست و آژانس نبود اطلاعات و دسترسی برای راستی‌آزمایی آنها را مایه نگرانی از منظر اشاعه هسته‌ای خوانده و خواستار رسیدگی فوری به این موضوع شده است.\nhttps://iranintl.com/202609014528",
+      "message_id": 355324,
+      "message_link": "https://t.me/IranintlTV/355324",
+      "text": "مراد ویسی، تحلیلگر ارشد ایران‌اینترنشنال، گفت: «آمریکا با تشدید محاصره، جمهوری اسلامی را بدون اشاره رسمی به عبارت سرنگونی یا تغییر رژیم، به سمت فروپاشی و به زانو درآمدن سوق می دهد.»\n\nاو افزود: «این راهبرد همزمان بر محاصره شدید، بی اثر کردن کارت تنگه هرمز و نمایش اراده قاطع برای پشتیبانی نظامی از این اقدامات استوار است.»\n@iranintltv",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "01:48:47",
-      "gregorian_utc": "2026-09-01T22:18:47+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 148468,
-      "media_size_human": "144.99 KB",
+      "tehran_time": "01:51:11",
+      "gregorian_utc": "2026-09-01T22:21:11+00:00",
+      "media_type": "video",
+      "media_size_bytes": 628615,
+      "media_size_human": "613.88 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355323_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355323_photo.jpg",
+      "media_local_path": "media/IranintlTV_355324_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355324_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T00:00:48.611155+00:00"
+      "archived_at": "2026-09-02T00:10:30.706518+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -977,7 +977,7 @@
       "media_local_path": "media/satlastnews_76377_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76377_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T00:00:48.979209+00:00"
+      "archived_at": "2026-09-02T00:10:30.960338+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -995,7 +995,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-09-02T00:00:49.297760+00:00"
+      "archived_at": "2026-09-02T00:10:31.233627+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -1013,7 +1013,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T00:00:49.596722+00:00"
+      "archived_at": "2026-09-02T00:10:31.497384+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1031,25 +1031,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T00:00:48.293368+00:00"
+      "archived_at": "2026-09-02T00:10:30.409898+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355322,
-      "message_link": "https://t.me/IranintlTV/355322",
-      "text": "روزنامه فایننشال‌تایمز گزارش داد روسیه به‌طور مخفیانه به جمهوری اسلامی برای توسعه موشک‌های کروز مافوق صوت پیشرفته کمک کرده است.\n\nبر اساس این گزارش، برنامه محرمانه‌ای با نام رمز C430L از سال ۲۰۲۳ آغاز شده و متخصصان موشکی روسیه را برای کمک به توسعه سامانه پیشران رم‌جت به کار گرفته است. این فناوری می‌تواند در موشک‌های کروز ضدکشتی و حمله به اهداف زمینی استفاده شود و شناورهای نیروی دریایی آمریکا را تهدید کند.\n\nفایننشال‌تایمز نوشت تحقیقاتش بر مکاتبات افشاشده روسیه، سوابق سفر و اختراعات نظامی ثبت‌شده استوار است و گفت‌وگوها درباره این برنامه تا تابستان امسال ادامه داشته است.\n\nبه نوشته این روزنامه، روس‌آبارون‌اکسپورت این برنامه را ترتیب داده و شرکت ان‌پی‌او ماشینوسترونیا اجرای آن را هماهنگ کرده است. مهندسان این شرکت داده‌های آزمایش پروازی جمهوری اسلامی را نیز بررسی کرده‌اند.\n\nبا این حال، مدرکی وجود ندارد که نشان دهد موشک کروز مافوق صوت ساخته‌شده با کمک روسیه تاکنون به‌طور عملیاتی مستقر شده باشد.\nhttps://iranintl.com/202609015275",
+      "message_id": 355323,
+      "message_link": "https://t.me/IranintlTV/355323",
+      "text": "رویترز با استناد به گزارش‌های محرمانه آژانس بین‌المللی انرژی اتمی نوشت این نهاد پرسش‌های باقی‌مانده درباره فعالیت‌های مخفی هسته‌ای سوریه در دوران حکومت اسد را حل‌وفصل کرده، اما در پرونده ایران پیشرفتی حاصل نشده است.\n\nآژانس از مقام‌های جدید سوریه به‌دلیل «شفافیت و همکاری» تمجید و تایید کرده است سایت بمباران‌شده دیرالزور در سال ۲۰۰۷، یک راکتور هسته‌ای در حال ساخت بوده است. آژانس همچنین وجود حدود ۷۳ تن فلز اورانیوم طبیعی مرتبط با این تاسیسات را تایید کرده که اکنون تحت نظارت قرار دارد.\n\nدر مقابل، بازرسان آژانس هنوز به سایت‌های هسته‌ای ایران که در خرداد ۱۴۰۴ هدف حملات آمریکا و اسرائیل قرار گرفتند، بازنگشته‌اند.\n\nآژانس پیش از حملات برآورد کرده بود جمهوری اسلامی ۴۴۰.۹ کیلوگرم اورانیوم غنی‌شده تا سطح ۶۰ درصد در اختیار دارد. وضعیت کنونی این مواد مشخص نیست و آژانس نبود اطلاعات و دسترسی برای راستی‌آزمایی آنها را مایه نگرانی از منظر اشاعه هسته‌ای خوانده و خواستار رسیدگی فوری به این موضوع شده است.\nhttps://iranintl.com/202609014528",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "01:45:26",
-      "gregorian_utc": "2026-09-01T22:15:26+00:00",
+      "tehran_time": "01:48:47",
+      "gregorian_utc": "2026-09-01T22:18:47+00:00",
       "media_type": "photo",
-      "media_size_bytes": 158639,
-      "media_size_human": "154.92 KB",
+      "media_size_bytes": 148468,
+      "media_size_human": "144.99 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355322_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355322_photo.jpg",
+      "media_local_path": "media/IranintlTV_355323_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355323_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T00:00:48.611235+00:00"
+      "archived_at": "2026-09-02T00:10:30.706674+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1067,7 +1067,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T00:00:48.979246+00:00"
+      "archived_at": "2026-09-02T00:10:30.960401+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1085,7 +1085,7 @@
       "media_local_path": "media/Mellig_120513_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120513_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T00:00:49.297797+00:00"
+      "archived_at": "2026-09-02T00:10:31.233676+00:00"
     }
   ]
 }
