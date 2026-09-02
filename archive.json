@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T02:20:56.313096+00:00",
-  "shamsi_generated": "1405/06/11 02:20:56 تهران",
+  "generated_at": "2026-09-02T02:31:09.862596+00:00",
+  "shamsi_generated": "1405/06/11 02:31:09 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -41,25 +41,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T02:20:26.208944+00:00"
+      "archived_at": "2026-09-02T02:30:36.132229+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355348,
-      "message_link": "https://t.me/IranintlTV/355348",
-      "text": "حسین مرعشی، دبیرکل حزب کارگزاران سازندگی، در گفتگو با «اکوایران» درباره شروط چین برای سفر قالیباف به پکن گفت: «خیلی روشن به ما گفته‌اند که تنگه هرمز را باز می‌کنید، عوارض نمی‌گیرید، با عربستان سعودی و آمریکا مسئله‌تان را حل می‌کنید، بعد قالیباف به چین بیاید.»\nhttps://iranintl.com/202609020152",
+      "message_id": 355349,
+      "message_link": "https://t.me/IranintlTV/355349",
+      "text": "دولت پرو اعلام کرد در چارچوب تعهد به صلح، قوانین بین‌المللی و دفاع از دموکراسی، روابط دیپلماتیک خود را با جمهوری اسلامی قطع کرده است.\n\nوزارت خارجه پرو در بیانیه‌ای اعلام کرد وضعیت خاورمیانه ثبات منطقه و صلح و امنیت بین‌المللی را تهدید می‌کند. این کشور همچنین از آنچه «فرسایش دموکراسی» در ایران خواند، ابراز نگرانی کرد و به سرکوب اعتراضات، نقض آزادی مطبوعات، تبعیض علیه زنان و دختران و پیگرد مخالفان سیاسی اشاره کرد.\n\nپرو همچنین محدودیت‌های اعمال‌شده از سوی جمهوری اسلامی و اختلال در تجارت بین‌المللی از طریق تنگه هرمز از مارس ۲۰۲۶ را مغایر با آزادی کشتیرانی و حق عبور از تنگه‌های بین‌المللی دانست و درباره تاثیر آن بر قیمت انرژی و زنجیره‌های تامین جهانی هشدار داد.\n\nدولت پرو همچنین آنچه «تحریک به خشونت و تشدید درگیری‌ها در خاورمیانه از سوی ایران» خواند و ممانعت تهران از فعالیت آژانس بین‌المللی انرژی اتمی را محکوم کرد و گفت جلوگیری از دسترسی بازرسان، روند راستی‌آزمایی برای جلوگیری از تولید سلاح هسته‌ای را با مانع مواجه کرده است.",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "05:37:26",
-      "gregorian_utc": "2026-09-02T02:07:26+00:00",
+      "tehran_time": "05:57:37",
+      "gregorian_utc": "2026-09-02T02:27:37+00:00",
       "media_type": "photo",
-      "media_size_bytes": 190717,
-      "media_size_human": "186.25 KB",
+      "media_size_bytes": 93118,
+      "media_size_human": "90.94 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355348_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355348_photo.jpg",
+      "media_local_path": "media/IranintlTV_355349_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355349_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T02:20:26.596086+00:00"
+      "archived_at": "2026-09-02T02:30:36.479012+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -77,7 +77,7 @@
       "media_local_path": "media/satlastnews_76390_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76390_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T02:20:27.372353+00:00"
+      "archived_at": "2026-09-02T02:30:36.842530+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -95,7 +95,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T02:20:27.668926+00:00"
+      "archived_at": "2026-09-02T02:30:37.193786+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -113,7 +113,7 @@
       "media_local_path": "media/khabarsara53_11_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_11_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T02:20:27.934735+00:00"
+      "archived_at": "2026-09-02T02:30:37.528579+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -131,25 +131,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T02:20:26.208992+00:00"
+      "archived_at": "2026-09-02T02:30:36.132278+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355347,
-      "message_link": "https://t.me/IranintlTV/355347",
-      "text": "یک مقام ارشد آمریکایی به فاکس‌نیوز گفت پس از حملات تلافی‌جویانه تهران، وضعیت تمامی نیروهای آمریکایی مشخص است و ایالات متحده «بیشتر» موشک‌های شلیک‌شده از سوی جمهوری اسلامی را رهگیری کرده است.\n\nاو تاکید کرد بیشتر موشک‌ها و پهپادهایی که جمهوری اسلامی شلیک کرد، پیش از آنکه سرنگون شوند، به سمت اردن در حرکت بودند.\n\nاین مقام ارشد آمریکایی افزود هیچ‌یک از پایگاه‌های ایالات متحده در خاورمیانه آسیب عمده‌ای ندیده‌اند.\n\nاو در پاسخ به این پرسش که چه کسی دستور ادامه حملات جمهوری اسلامی به کشتی‌های تجاری را صادر کرده است، گفت ساختار فرماندهی و کنترل در ایران متمرکز نیست و همچنان مشخص نیست چه کسانی در سپاه پاسداران زنده مانده یا کشته شده‌اند.\nhttps://iranintl.com/202609023524",
+      "message_id": 355348,
+      "message_link": "https://t.me/IranintlTV/355348",
+      "text": "حسین مرعشی، دبیرکل حزب کارگزاران سازندگی، در گفتگو با «اکوایران» درباره شروط چین برای سفر قالیباف به پکن گفت: «خیلی روشن به ما گفته‌اند که تنگه هرمز را باز می‌کنید، عوارض نمی‌گیرید، با عربستان سعودی و آمریکا مسئله‌تان را حل می‌کنید، بعد قالیباف به چین بیاید.»\nhttps://iranintl.com/202609020152",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "05:31:12",
-      "gregorian_utc": "2026-09-02T02:01:12+00:00",
+      "tehran_time": "05:37:26",
+      "gregorian_utc": "2026-09-02T02:07:26+00:00",
       "media_type": "photo",
-      "media_size_bytes": 253074,
-      "media_size_human": "247.14 KB",
+      "media_size_bytes": 190717,
+      "media_size_human": "186.25 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355347_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355347_photo.jpg",
+      "media_local_path": "media/IranintlTV_355348_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355348_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T02:20:26.596226+00:00"
+      "archived_at": "2026-09-02T02:30:36.479130+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -167,7 +167,7 @@
       "media_local_path": "media/satlastnews_76389_sticker.webp",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76389_sticker.webp",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T02:20:27.372485+00:00"
+      "archived_at": "2026-09-02T02:30:36.842607+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -185,7 +185,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T02:20:27.668984+00:00"
+      "archived_at": "2026-09-02T02:30:37.193847+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -203,7 +203,7 @@
       "media_local_path": "media/khabarsara53_10_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_10_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T02:20:27.934802+00:00"
+      "archived_at": "2026-09-02T02:30:37.528694+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -221,25 +221,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T02:20:26.209040+00:00"
+      "archived_at": "2026-09-02T02:30:36.132318+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355346,
-      "message_link": "https://t.me/IranintlTV/355346",
-      "text": "تیم هاوکینز، سخنگوی فرماندهی مرکزی آمریکا (سنتکام)، در مورد گزارش‌های مربوط به کشته شدن پنج نفر و زخمی شدن ۶۸ نفر در یک مراسم عروسی در جنوب ایران به اکسیوس گفت: «ما از این گزارش‌ها که منشا آنها رسانه‌های دولتی ایران است، مطلع هستیم.»\n\nاین مقام نظامی ایالات متحده گفت: «ارتش آمریکا برخلاف سپاه پاسداران هرگز غیرنظامیان را هدف قرار نمی‌دهد.»\nhttps://iranintl.com/202609027323",
+      "message_id": 355347,
+      "message_link": "https://t.me/IranintlTV/355347",
+      "text": "یک مقام ارشد آمریکایی به فاکس‌نیوز گفت پس از حملات تلافی‌جویانه تهران، وضعیت تمامی نیروهای آمریکایی مشخص است و ایالات متحده «بیشتر» موشک‌های شلیک‌شده از سوی جمهوری اسلامی را رهگیری کرده است.\n\nاو تاکید کرد بیشتر موشک‌ها و پهپادهایی که جمهوری اسلامی شلیک کرد، پیش از آنکه سرنگون شوند، به سمت اردن در حرکت بودند.\n\nاین مقام ارشد آمریکایی افزود هیچ‌یک از پایگاه‌های ایالات متحده در خاورمیانه آسیب عمده‌ای ندیده‌اند.\n\nاو در پاسخ به این پرسش که چه کسی دستور ادامه حملات جمهوری اسلامی به کشتی‌های تجاری را صادر کرده است، گفت ساختار فرماندهی و کنترل در ایران متمرکز نیست و همچنان مشخص نیست چه کسانی در سپاه پاسداران زنده مانده یا کشته شده‌اند.\nhttps://iranintl.com/202609023524",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "05:24:13",
-      "gregorian_utc": "2026-09-02T01:54:13+00:00",
+      "tehran_time": "05:31:12",
+      "gregorian_utc": "2026-09-02T02:01:12+00:00",
       "media_type": "photo",
-      "media_size_bytes": 151027,
-      "media_size_human": "147.49 KB",
+      "media_size_bytes": 253074,
+      "media_size_human": "247.14 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355346_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355346_photo.jpg",
+      "media_local_path": "media/IranintlTV_355347_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355347_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T02:20:26.596310+00:00"
+      "archived_at": "2026-09-02T02:30:36.479261+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -257,7 +257,7 @@
       "media_local_path": "media/satlastnews_76388_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76388_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T02:20:27.372566+00:00"
+      "archived_at": "2026-09-02T02:30:36.842722+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -275,7 +275,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T02:20:27.669012+00:00"
+      "archived_at": "2026-09-02T02:30:37.193879+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -293,7 +293,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T02:20:27.934829+00:00"
+      "archived_at": "2026-09-02T02:30:37.528736+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -311,25 +311,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T02:20:26.209078+00:00"
+      "archived_at": "2026-09-02T02:30:36.132357+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355345,
-      "message_link": "https://t.me/IranintlTV/355345",
-      "text": "دونالد ترامپ، رییس‌جمهوری آمریکا، در تروت سوشال نوشت: «من، برخلاف آنچه شبکه ای‌بی‌سی موسوم به «اخبار جعلی» گزارش کرده است، تلاش نمی‌کنم ایران را پای میز مذاکره بکشانم.»\n\nاو افزود: «برای من هیچ اهمیتی ندارد اگر آنها توافقی بی‌ارزش ــ از نظر خودشان ــ را امضا کنند. من اکنون موقعیت خودمان را بسیار بیشتر می‌پسندم؛ با کنترل تقریبا کامل بر تنگه هرمز و اقتصادی که در ایران کاملا در حال فروپاشی است.»\n\nترامپ همچنین نوشت: «آنها فقط در حال پشت سر گذاشتن روندی هستند که اجتناب‌ناپذیر است. مردم ایران چه زمانی قرار است قیام کنند و مبارزه کنند؟»\nhttps://iranintl.com/202609028658",
+      "message_id": 355346,
+      "message_link": "https://t.me/IranintlTV/355346",
+      "text": "تیم هاوکینز، سخنگوی فرماندهی مرکزی آمریکا (سنتکام)، در مورد گزارش‌های مربوط به کشته شدن پنج نفر و زخمی شدن ۶۸ نفر در یک مراسم عروسی در جنوب ایران به اکسیوس گفت: «ما از این گزارش‌ها که منشا آنها رسانه‌های دولتی ایران است، مطلع هستیم.»\n\nاین مقام نظامی ایالات متحده گفت: «ارتش آمریکا برخلاف سپاه پاسداران هرگز غیرنظامیان را هدف قرار نمی‌دهد.»\nhttps://iranintl.com/202609027323",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "05:13:17",
-      "gregorian_utc": "2026-09-02T01:43:17+00:00",
+      "tehran_time": "05:24:13",
+      "gregorian_utc": "2026-09-02T01:54:13+00:00",
       "media_type": "photo",
-      "media_size_bytes": 148215,
-      "media_size_human": "144.74 KB",
+      "media_size_bytes": 151027,
+      "media_size_human": "147.49 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355345_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355345_photo.jpg",
+      "media_local_path": "media/IranintlTV_355346_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355346_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T02:20:26.596408+00:00"
+      "archived_at": "2026-09-02T02:30:36.479350+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -347,7 +347,7 @@
       "media_local_path": "media/satlastnews_76387_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76387_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T02:20:27.372627+00:00"
+      "archived_at": "2026-09-02T02:30:36.842808+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -365,7 +365,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T02:20:27.669049+00:00"
+      "archived_at": "2026-09-02T02:30:37.193907+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -383,7 +383,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T02:20:27.934852+00:00"
+      "archived_at": "2026-09-02T02:30:37.528772+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -401,25 +401,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T02:20:26.209104+00:00"
+      "archived_at": "2026-09-02T02:30:36.132387+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355344,
-      "message_link": "https://t.me/IranintlTV/355344",
-      "text": "کریس رایت، وزیر انرژی آمریکا، گفت روز دوشنبه ۱۷ میلیون بشکه نفت از تنگه هرمز صادر شد.\n\nبه گزارش خبرگزاری رویترز، او اشاره کرد: «این بالاترین سطح عبور نفت خام از این آبراه از زمان آغاز جنگ ایران و کاهش جریان نفت بوده است.»\nhttps://iranintl.com/202609024807",
+      "message_id": 355345,
+      "message_link": "https://t.me/IranintlTV/355345",
+      "text": "دونالد ترامپ، رییس‌جمهوری آمریکا، در تروت سوشال نوشت: «من، برخلاف آنچه شبکه ای‌بی‌سی موسوم به «اخبار جعلی» گزارش کرده است، تلاش نمی‌کنم ایران را پای میز مذاکره بکشانم.»\n\nاو افزود: «برای من هیچ اهمیتی ندارد اگر آنها توافقی بی‌ارزش ــ از نظر خودشان ــ را امضا کنند. من اکنون موقعیت خودمان را بسیار بیشتر می‌پسندم؛ با کنترل تقریبا کامل بر تنگه هرمز و اقتصادی که در ایران کاملا در حال فروپاشی است.»\n\nترامپ همچنین نوشت: «آنها فقط در حال پشت سر گذاشتن روندی هستند که اجتناب‌ناپذیر است. مردم ایران چه زمانی قرار است قیام کنند و مبارزه کنند؟»\nhttps://iranintl.com/202609028658",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "04:56:44",
-      "gregorian_utc": "2026-09-02T01:26:44+00:00",
+      "tehran_time": "05:13:17",
+      "gregorian_utc": "2026-09-02T01:43:17+00:00",
       "media_type": "photo",
-      "media_size_bytes": 175410,
-      "media_size_human": "171.30 KB",
+      "media_size_bytes": 148215,
+      "media_size_human": "144.74 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355344_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355344_photo.jpg",
+      "media_local_path": "media/IranintlTV_355345_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355345_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T02:20:26.596470+00:00"
+      "archived_at": "2026-09-02T02:30:36.479455+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -437,7 +437,7 @@
       "media_local_path": "media/satlastnews_76385_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76385_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T02:20:27.372680+00:00"
+      "archived_at": "2026-09-02T02:30:36.842876+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -455,7 +455,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T02:20:27.669088+00:00"
+      "archived_at": "2026-09-02T02:30:37.193952+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -473,7 +473,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T02:20:27.934873+00:00"
+      "archived_at": "2026-09-02T02:30:37.528805+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -491,25 +491,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T02:20:26.209138+00:00"
+      "archived_at": "2026-09-02T02:30:36.132423+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355343,
-      "message_link": "https://t.me/IranintlTV/355343",
-      "text": "اکسیوس به نقل از مقام‌های آمریکایی گزارش داد ارتش ایالات متحده در حملات سه‌شنبه دو نفتکش متعلق به جمهوری اسلامی را هدف قرار داد. به گفته این مقام‌ها، این نخستین بار بود که آمریکا در واکنش مستقیم به حملات جمهوری اسلامی به کشتی‌ها در تنگه هرمز، نفتکش‌های ایرانی را هدف قرار داد.\n\nنفتکش‌ها در نزدیکی سواحل ایران و شمال خط محاصره دریایی آمریکا لنگر انداخته بودند و موشک‌های شلیک‌شده از پهپادهای آمریکایی به موتورخانه آنها اصابت کردند.\n\nیک مقام آمریکایی گفت این حمله بخشی از سیاست جدید «نفتکش در برابر نفتکش» است که دونالد ترامپ، رییس‌جمهوری آمریکا، برای بازدارندگی در برابر حملات جمهوری اسلامی به نفتکش‌ها تایید کرده است.\n\nاکسیوس نوشت در حملات سه‌شنبه حدود ۱۰۰ هدف مورد حمله قرار گرفت. یک مقام آمریکایی گفت این حملات توانایی تهران برای حمله در تنگه هرمز را تضعیف و سطح تهدید علیه کشتی‌های تجاری را دست‌کم برای یک ماه کاهش داده است.\n\nبه گفته یک مقام آمریکایی، حدود ۴۰ کشتی حامل میلیون‌ها بشکه نفت سه‌شنبه از تنگه هرمز عبور کردند و نیروهای آمریکایی چند موشک و پهپاد شلیک‌شده از سوی سپاه پاسداران به سمت کشتی‌ها را رهگیری کردند.\nh",
+      "message_id": 355344,
+      "message_link": "https://t.me/IranintlTV/355344",
+      "text": "کریس رایت، وزیر انرژی آمریکا، گفت روز دوشنبه ۱۷ میلیون بشکه نفت از تنگه هرمز صادر شد.\n\nبه گزارش خبرگزاری رویترز، او اشاره کرد: «این بالاترین سطح عبور نفت خام از این آبراه از زمان آغاز جنگ ایران و کاهش جریان نفت بوده است.»\nhttps://iranintl.com/202609024807",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "04:44:35",
-      "gregorian_utc": "2026-09-02T01:14:35+00:00",
+      "tehran_time": "04:56:44",
+      "gregorian_utc": "2026-09-02T01:26:44+00:00",
       "media_type": "photo",
-      "media_size_bytes": 142518,
-      "media_size_human": "139.18 KB",
+      "media_size_bytes": 175410,
+      "media_size_human": "171.30 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355343_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355343_photo.jpg",
+      "media_local_path": "media/IranintlTV_355344_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355344_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T02:20:26.596502+00:00"
+      "archived_at": "2026-09-02T02:30:36.479528+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -527,7 +527,7 @@
       "media_local_path": "media/satlastnews_76383_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76383_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T02:20:27.372724+00:00"
+      "archived_at": "2026-09-02T02:30:36.842930+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -545,7 +545,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T02:20:27.669112+00:00"
+      "archived_at": "2026-09-02T02:30:37.193983+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -563,7 +563,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T02:20:27.934894+00:00"
+      "archived_at": "2026-09-02T02:30:37.528838+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -581,25 +581,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T02:20:26.209163+00:00"
+      "archived_at": "2026-09-02T02:30:36.132454+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355342,
-      "message_link": "https://t.me/IranintlTV/355342",
-      "text": "شبکه خبری بلومبرگ گزارش داد دولت کویت با صدور فرمانی اجازه داده است برای حمایت از منابع مالی دولت، از صندوق ثروت ملی این کشور با دارایی بیش از یک تریلیون دلار وام گرفته شود. این فرمان اصلاحیه‌ای بر قانون سال ۱۹۷۶ مربوط به «صندوق نسل‌های آینده» است که مدیریت آن بر عهده سازمان سرمایه‌گذاری کویت است.\n\nبر اساس این فرمان، هر وام گرفته‌شده از صندوق باید در صورت ایجاد مازاد در بودجه دولت بازپرداخت شود و بازپرداخت آن در اولویت قرار گیرد. همچنین حذف یا بخشش این وام بدون مجوز قانونی جدید ممنوع است.\n\nبلومبرگ نوشت این اصلاحات بخشی از اصلاحات مالی و حقوقی کویت به شمار می‌رود.\n\nکویت پیش از این تنها در جریان حمله عراق در سال ۱۹۹۰ از صندوق نسل‌های آینده برداشت کرده بود.\n\nاین شبکه خبری اشاره کرد اقتصاد کویت در پی جنگ بیش از شش‌ماهه آمریکا و ایران و بسته شدن تنگه هرمز با فشار مواجه شده و صادرات این کشور کاهش یافته است.\nhttps://iranintl.com/202609020337",
+      "message_id": 355343,
+      "message_link": "https://t.me/IranintlTV/355343",
+      "text": "اکسیوس به نقل از مقام‌های آمریکایی گزارش داد ارتش ایالات متحده در حملات سه‌شنبه دو نفتکش متعلق به جمهوری اسلامی را هدف قرار داد. به گفته این مقام‌ها، این نخستین بار بود که آمریکا در واکنش مستقیم به حملات جمهوری اسلامی به کشتی‌ها در تنگه هرمز، نفتکش‌های ایرانی را هدف قرار داد.\n\nنفتکش‌ها در نزدیکی سواحل ایران و شمال خط محاصره دریایی آمریکا لنگر انداخته بودند و موشک‌های شلیک‌شده از پهپادهای آمریکایی به موتورخانه آنها اصابت کردند.\n\nیک مقام آمریکایی گفت این حمله بخشی از سیاست جدید «نفتکش در برابر نفتکش» است که دونالد ترامپ، رییس‌جمهوری آمریکا، برای بازدارندگی در برابر حملات جمهوری اسلامی به نفتکش‌ها تایید کرده است.\n\nاکسیوس نوشت در حملات سه‌شنبه حدود ۱۰۰ هدف مورد حمله قرار گرفت. یک مقام آمریکایی گفت این حملات توانایی تهران برای حمله در تنگه هرمز را تضعیف و سطح تهدید علیه کشتی‌های تجاری را دست‌کم برای یک ماه کاهش داده است.\n\nبه گفته یک مقام آمریکایی، حدود ۴۰ کشتی حامل میلیون‌ها بشکه نفت سه‌شنبه از تنگه هرمز عبور کردند و نیروهای آمریکایی چند موشک و پهپاد شلیک‌شده از سوی سپاه پاسداران به سمت کشتی‌ها را رهگیری کردند.\nh",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "04:37:27",
-      "gregorian_utc": "2026-09-02T01:07:27+00:00",
+      "tehran_time": "04:44:35",
+      "gregorian_utc": "2026-09-02T01:14:35+00:00",
       "media_type": "photo",
-      "media_size_bytes": 232607,
-      "media_size_human": "227.16 KB",
+      "media_size_bytes": 142518,
+      "media_size_human": "139.18 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355342_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355342_photo.jpg",
+      "media_local_path": "media/IranintlTV_355343_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355343_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T02:20:26.596627+00:00"
+      "archived_at": "2026-09-02T02:30:36.479571+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -617,7 +617,7 @@
       "media_local_path": "media/satlastnews_76381_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76381_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T02:20:27.372756+00:00"
+      "archived_at": "2026-09-02T02:30:36.842971+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -635,7 +635,7 @@
       "media_local_path": "media/Mellig_120519_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120519_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T02:20:27.669163+00:00"
+      "archived_at": "2026-09-02T02:30:37.194038+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -653,7 +653,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T02:20:27.934916+00:00"
+      "archived_at": "2026-09-02T02:30:37.528863+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -671,25 +671,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T02:20:26.209202+00:00"
+      "archived_at": "2026-09-02T02:30:36.132497+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355341,
-      "message_link": "https://t.me/IranintlTV/355341",
-      "text": "وزیران دارایی گروه ۲۰ بر ضرورت حفظ عبور آزاد، امن و قابل پیش‌بینی کشتی‌ها از تنگه هرمز تاکید کردند.\n\nدر بیانیه پایانی نشست گروه ۲۰ در اشویل، ایالت کارولینای شمالی، گفته شد ادامه اختلال در تجارت انرژی مایه نگرانی است و حفظ کشتیرانی امن در تنگه هرمز و دیگر آبراه‌های جهان برای تداوم رشد اقتصادی ضروری است.\n\nبر اساس گزارش‌ها، همه اعضای حاضر گروه ۲۰ به جز چین با این بیانیه موافقت کردند. پکن با بخش مربوط به تنگه هرمز و سه بخش دیگر بیانیه مخالفت کرد.\nhttps://iranintl.com/202609026157",
+      "message_id": 355342,
+      "message_link": "https://t.me/IranintlTV/355342",
+      "text": "شبکه خبری بلومبرگ گزارش داد دولت کویت با صدور فرمانی اجازه داده است برای حمایت از منابع مالی دولت، از صندوق ثروت ملی این کشور با دارایی بیش از یک تریلیون دلار وام گرفته شود. این فرمان اصلاحیه‌ای بر قانون سال ۱۹۷۶ مربوط به «صندوق نسل‌های آینده» است که مدیریت آن بر عهده سازمان سرمایه‌گذاری کویت است.\n\nبر اساس این فرمان، هر وام گرفته‌شده از صندوق باید در صورت ایجاد مازاد در بودجه دولت بازپرداخت شود و بازپرداخت آن در اولویت قرار گیرد. همچنین حذف یا بخشش این وام بدون مجوز قانونی جدید ممنوع است.\n\nبلومبرگ نوشت این اصلاحات بخشی از اصلاحات مالی و حقوقی کویت به شمار می‌رود.\n\nکویت پیش از این تنها در جریان حمله عراق در سال ۱۹۹۰ از صندوق نسل‌های آینده برداشت کرده بود.\n\nاین شبکه خبری اشاره کرد اقتصاد کویت در پی جنگ بیش از شش‌ماهه آمریکا و ایران و بسته شدن تنگه هرمز با فشار مواجه شده و صادرات این کشور کاهش یافته است.\nhttps://iranintl.com/202609020337",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "04:14:33",
-      "gregorian_utc": "2026-09-02T00:44:33+00:00",
+      "tehran_time": "04:37:27",
+      "gregorian_utc": "2026-09-02T01:07:27+00:00",
       "media_type": "photo",
-      "media_size_bytes": 224224,
-      "media_size_human": "218.97 KB",
+      "media_size_bytes": 232607,
+      "media_size_human": "227.16 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355341_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355341_photo.jpg",
+      "media_local_path": "media/IranintlTV_355342_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355342_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T02:20:26.596713+00:00"
+      "archived_at": "2026-09-02T02:30:36.479726+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -707,7 +707,7 @@
       "media_local_path": "media/satlastnews_76380_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76380_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T02:20:27.372786+00:00"
+      "archived_at": "2026-09-02T02:30:36.843011+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -725,7 +725,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T02:20:27.669185+00:00"
+      "archived_at": "2026-09-02T02:30:37.194066+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -743,7 +743,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T02:20:27.934938+00:00"
+      "archived_at": "2026-09-02T02:30:37.528889+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -761,25 +761,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T02:20:26.209228+00:00"
+      "archived_at": "2026-09-02T02:30:36.132532+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355340,
-      "message_link": "https://t.me/IranintlTV/355340",
-      "text": "خبرگزاری بحرین اعلام کرد سامانه‌های پدافند هوایی این کشور پهپادهای ایرانی را بر فراز بحرین رهگیری و منهدم کردند.\n\nاین خبرگزاری اشاره کرد سامانه‌های پدافند هوایی برای حفاظت از امنیت بحرین در آمادگی کامل به سر می‌برند.\nhttps://iranintl.com/202609029853",
+      "message_id": 355341,
+      "message_link": "https://t.me/IranintlTV/355341",
+      "text": "وزیران دارایی گروه ۲۰ بر ضرورت حفظ عبور آزاد، امن و قابل پیش‌بینی کشتی‌ها از تنگه هرمز تاکید کردند.\n\nدر بیانیه پایانی نشست گروه ۲۰ در اشویل، ایالت کارولینای شمالی، گفته شد ادامه اختلال در تجارت انرژی مایه نگرانی است و حفظ کشتیرانی امن در تنگه هرمز و دیگر آبراه‌های جهان برای تداوم رشد اقتصادی ضروری است.\n\nبر اساس گزارش‌ها، همه اعضای حاضر گروه ۲۰ به جز چین با این بیانیه موافقت کردند. پکن با بخش مربوط به تنگه هرمز و سه بخش دیگر بیانیه مخالفت کرد.\nhttps://iranintl.com/202609026157",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "03:57:05",
-      "gregorian_utc": "2026-09-02T00:27:05+00:00",
+      "tehran_time": "04:14:33",
+      "gregorian_utc": "2026-09-02T00:44:33+00:00",
       "media_type": "photo",
-      "media_size_bytes": 61576,
-      "media_size_human": "60.13 KB",
+      "media_size_bytes": 224224,
+      "media_size_human": "218.97 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355340_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355340_photo.jpg",
+      "media_local_path": "media/IranintlTV_355341_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355341_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T02:20:26.596769+00:00"
+      "archived_at": "2026-09-02T02:30:36.479821+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -797,7 +797,7 @@
       "media_local_path": "media/satlastnews_76379_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76379_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T02:20:27.372813+00:00"
+      "archived_at": "2026-09-02T02:30:36.843050+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -815,7 +815,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 151.91 MB)",
-      "archived_at": "2026-09-02T02:20:27.669250+00:00"
+      "archived_at": "2026-09-02T02:30:37.194186+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -833,7 +833,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T02:20:27.934959+00:00"
+      "archived_at": "2026-09-02T02:30:37.528915+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -851,25 +851,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T02:20:26.209251+00:00"
+      "archived_at": "2026-09-02T02:30:36.132561+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355339,
-      "message_link": "https://t.me/IranintlTV/355339",
-      "text": "مراد ویسی، تحلیلگر ارشد ایران‌اینترنشنال، گفت:«شاید به نظر برسد مهم ترین خبر امروز، آغاز دوباره حملات هوایی آمریکا به پایگاه های سپاه در جنوب ایران است؛ اما به نظر می رسد سخنان امروز اسکات بسنت، وزیر خزانه داری آمریکا، اهمیت بیشتری دارد.»\n\nاو افزود: «آمریکا در حال ترکیب فشارهای بسیار شدید اقتصادی با حضور گسترده نظامی در دریای عمان و حملات هوایی مانند حملات امروز است؛ ترکیبی از فشار اقتصادی و قدرت نظامی. این روند یک پرسش مهم را مطرح می کند: آیا آمریکا، بدون آنکه رسما از تغییر رژیم سخن بگوید، عملا در مسیر سرنگونی جمهوری اسلامی گام برمی دارد؟»",
+      "message_id": 355340,
+      "message_link": "https://t.me/IranintlTV/355340",
+      "text": "خبرگزاری بحرین اعلام کرد سامانه‌های پدافند هوایی این کشور پهپادهای ایرانی را بر فراز بحرین رهگیری و منهدم کردند.\n\nاین خبرگزاری اشاره کرد سامانه‌های پدافند هوایی برای حفاظت از امنیت بحرین در آمادگی کامل به سر می‌برند.\nhttps://iranintl.com/202609029853",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "03:46:22",
-      "gregorian_utc": "2026-09-02T00:16:22+00:00",
-      "media_type": "video",
-      "media_size_bytes": 1415903,
-      "media_size_human": "1.35 MB",
+      "tehran_time": "03:57:05",
+      "gregorian_utc": "2026-09-02T00:27:05+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 61576,
+      "media_size_human": "60.13 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355339_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355339_video.mp4",
+      "media_local_path": "media/IranintlTV_355340_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355340_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T02:20:26.596810+00:00"
+      "archived_at": "2026-09-02T02:30:36.479890+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -887,7 +887,7 @@
       "media_local_path": "media/satlastnews_76378_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76378_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T02:20:27.372843+00:00"
+      "archived_at": "2026-09-02T02:30:36.843089+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -905,7 +905,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T02:20:27.669288+00:00"
+      "archived_at": "2026-09-02T02:30:37.194244+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -923,7 +923,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T02:20:27.934979+00:00"
+      "archived_at": "2026-09-02T02:30:37.528940+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -941,25 +941,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T02:20:26.209272+00:00"
+      "archived_at": "2026-09-02T02:30:36.132587+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355338,
-      "message_link": "https://t.me/IranintlTV/355338",
-      "text": "روزنامه روسی ایزوستیا در گزارشی درباره ازسرگیری درگیری‌های آمریکا و جمهوری اسلامی و تشدید تحریم‌های واشینگتن علیه تهران، این تحولات را نشانه «فقدان یک راهبرد بلندمدت» از سوی دونالد ترامپ، رییس‌جمهوری آمریکا، دانست.\n\nاین روزنامه به نقل از کنستانتین بلوخین، پژوهشگر ارشد مرکز مطالعات امنیتی آکادمی علوم روسیه، نوشت ترامپ از یک دستور کار سیاست خارجی به دستور کاری دیگر می‌رود و آمریکا نمی‌تواند تنها بر خاورمیانه تمرکز کند.\n\nبلوخین درباره تشدید تحریم‌ها پیش‌بینی کرد جمهوری اسلامی از طریق کشورهای ثالث به دریافت کالا، خدمات و حمایت سیاسی مورد نیاز خود ادامه خواهد داد.\n\nایزوستیا همچنین نوشت تشدید تنش‌ها در خاورمیانه نشان‌دهنده شکست تلاش‌های دیپلماتیک و بازگشت واشینگتن به رویکرد مبتنی بر زور است. این روزنامه افزود بعید است این راهبرد جمهوری اسلامی را به تسلیم وادار کند، اما می‌تواند بازارهای جهانی انرژی را بی‌ثبات و رقابت‌های انتخاباتی آمریکا را در آستانه انتخابات میان‌دوره‌ای تشدید کند.\nhttps://iranintl.com/202609010623",
+      "message_id": 355339,
+      "message_link": "https://t.me/IranintlTV/355339",
+      "text": "مراد ویسی، تحلیلگر ارشد ایران‌اینترنشنال، گفت:«شاید به نظر برسد مهم ترین خبر امروز، آغاز دوباره حملات هوایی آمریکا به پایگاه های سپاه در جنوب ایران است؛ اما به نظر می رسد سخنان امروز اسکات بسنت، وزیر خزانه داری آمریکا، اهمیت بیشتری دارد.»\n\nاو افزود: «آمریکا در حال ترکیب فشارهای بسیار شدید اقتصادی با حضور گسترده نظامی در دریای عمان و حملات هوایی مانند حملات امروز است؛ ترکیبی از فشار اقتصادی و قدرت نظامی. این روند یک پرسش مهم را مطرح می کند: آیا آمریکا، بدون آنکه رسما از تغییر رژیم سخن بگوید، عملا در مسیر سرنگونی جمهوری اسلامی گام برمی دارد؟»",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "03:45:59",
-      "gregorian_utc": "2026-09-02T00:15:59+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 154950,
-      "media_size_human": "151.32 KB",
+      "tehran_time": "03:46:22",
+      "gregorian_utc": "2026-09-02T00:16:22+00:00",
+      "media_type": "video",
+      "media_size_bytes": 1415903,
+      "media_size_human": "1.35 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355338_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355338_photo.jpg",
+      "media_local_path": "media/IranintlTV_355339_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355339_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T02:20:26.596929+00:00"
+      "archived_at": "2026-09-02T02:30:36.479938+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -977,7 +977,7 @@
       "media_local_path": "media/satlastnews_76377_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76377_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T02:20:27.372890+00:00"
+      "archived_at": "2026-09-02T02:30:36.843153+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -995,7 +995,7 @@
       "media_local_path": "media/Mellig_120515_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120515_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T02:20:27.669319+00:00"
+      "archived_at": "2026-09-02T02:30:37.194289+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -1013,7 +1013,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T02:20:27.935002+00:00"
+      "archived_at": "2026-09-02T02:30:37.528967+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1031,25 +1031,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T02:20:26.209293+00:00"
+      "archived_at": "2026-09-02T02:30:36.132612+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355337,
-      "message_link": "https://t.me/IranintlTV/355337",
-      "text": "مراد ویسی، تحلیلگر ارشد ایران‌اینترنشنال گفت: «حرکت جمهوری اسلامی به سمت درگیری و جنگ بیشتر، با هدف وادار کردن آمریکا به شکستن محاصره یا ازسرگیری صادرات نفت، بعید است موفق شود، زیرا کارت تنگه هرمز تا حد زیادی سوخته و آمریکا دیگر مانند گذشته به دنبال توافق بر سر آن نیست.»\n\nاو افزود: «تشدید درگیری از سوی سپاه نه تنها مشکلات اقتصادی حکومت را حل نمی کند، بلکه اوضاع را وخیم تر کرده و تا زمان سقوط جمهوری اسلامی، درد و رنج مردم را افزایش خواهد داد.»",
+      "message_id": 355338,
+      "message_link": "https://t.me/IranintlTV/355338",
+      "text": "روزنامه روسی ایزوستیا در گزارشی درباره ازسرگیری درگیری‌های آمریکا و جمهوری اسلامی و تشدید تحریم‌های واشینگتن علیه تهران، این تحولات را نشانه «فقدان یک راهبرد بلندمدت» از سوی دونالد ترامپ، رییس‌جمهوری آمریکا، دانست.\n\nاین روزنامه به نقل از کنستانتین بلوخین، پژوهشگر ارشد مرکز مطالعات امنیتی آکادمی علوم روسیه، نوشت ترامپ از یک دستور کار سیاست خارجی به دستور کاری دیگر می‌رود و آمریکا نمی‌تواند تنها بر خاورمیانه تمرکز کند.\n\nبلوخین درباره تشدید تحریم‌ها پیش‌بینی کرد جمهوری اسلامی از طریق کشورهای ثالث به دریافت کالا، خدمات و حمایت سیاسی مورد نیاز خود ادامه خواهد داد.\n\nایزوستیا همچنین نوشت تشدید تنش‌ها در خاورمیانه نشان‌دهنده شکست تلاش‌های دیپلماتیک و بازگشت واشینگتن به رویکرد مبتنی بر زور است. این روزنامه افزود بعید است این راهبرد جمهوری اسلامی را به تسلیم وادار کند، اما می‌تواند بازارهای جهانی انرژی را بی‌ثبات و رقابت‌های انتخاباتی آمریکا را در آستانه انتخابات میان‌دوره‌ای تشدید کند.\nhttps://iranintl.com/202609010623",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "03:44:59",
-      "gregorian_utc": "2026-09-02T00:14:59+00:00",
-      "media_type": "video",
-      "media_size_bytes": 1497527,
-      "media_size_human": "1.43 MB",
+      "tehran_time": "03:45:59",
+      "gregorian_utc": "2026-09-02T00:15:59+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 154950,
+      "media_size_human": "151.32 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355337_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355337_video.mp4",
+      "media_local_path": "media/IranintlTV_355338_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355338_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-02T02:20:26.596958+00:00"
+      "archived_at": "2026-09-02T02:30:36.480067+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1067,7 +1067,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-02T02:20:27.372942+00:00"
+      "archived_at": "2026-09-02T02:30:36.843224+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1085,7 +1085,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-09-02T02:20:27.669434+00:00"
+      "archived_at": "2026-09-02T02:30:37.194412+00:00"
     }
   ]
 }
