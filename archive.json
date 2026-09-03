@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T15:02:24.070541+00:00",
-  "shamsi_generated": "1405/06/12 15:02:24 تهران",
+  "generated_at": "2026-09-03T15:12:50.271732+00:00",
+  "shamsi_generated": "1405/06/12 15:12:50 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -28,38 +28,38 @@
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12661,
-      "message_link": "https://t.me/zedTV/12661",
-      "text": "",
+      "message_id": 12662,
+      "message_link": "https://t.me/zedTV/12662",
+      "text": "محاصره مقامات ارشد نیروی قدس سپاه و نیروهای حزب‌الله در جنوب لبنان.\nوضعیت بحرانی ۱۲ عضو سپاه پاسداران در مرکز فرماندهی جبل علی‌ طاهر.\nتشدید عملیات اسرائیل برای تصرف تونل‌های استراتژیک منطقه.",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "18:12:50",
-      "gregorian_utc": "2026-09-03T14:42:50+00:00",
-      "media_type": "unsupported",
+      "tehran_time": "18:31:12",
+      "gregorian_utc": "2026-09-03T15:01:12+00:00",
+      "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
       "media_downloaded": false,
       "media_local_path": null,
       "media_link": null,
-      "no_media_reason": "نوع رسانه پشتیبانی نمی‌شود (نظرسنجی، موقعیت مکانی، مخاطب و...).",
-      "archived_at": "2026-09-03T15:00:47.644220+00:00"
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-09-03T15:10:46.344117+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355590,
-      "message_link": "https://t.me/IranintlTV/355590",
-      "text": "فرماندهی مرکزی آمریکا، سنتکام، با انتشار ویدیویی در شبکه اجتماعی ایکس اعلام کرد نیروی دریایی این کشور به اجرای سختگیرانه محاصره دریایی ایران ادامه می‌دهد.\n\nبه گفته سنتکام، تا دوم سپتامبر، مصادف با ۱۱ شهریور، نیروهای آمریکایی ۸۶ کشتی تجاری را تغییر مسیر داده، سه کشتی را از کار انداخته و وارد دو کشتی شده‌اند تا از رعایت محاصره اطمینان حاصل کنند.\n@iranintltv",
+      "message_id": 355591,
+      "message_link": "https://t.me/IranintlTV/355591",
+      "text": "مادر جاویدنام فرهاد امانی با پیوستن به پویش «یک شمع، یک نام، یک یاد»، به یاد فرزندش شمع روشن کرد و گفت: «بناید بگذاریم یادشان فراموش شود.»\nفرهاد امانی، ۲۵ ساله، ۱۸ دی  ۱۴۰۴ در محله پونک تهران هدف اصابت گلوله قرار گرفت و جان باخت.",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "18:20:07",
-      "gregorian_utc": "2026-09-03T14:50:07+00:00",
+      "tehran_time": "18:34:53",
+      "gregorian_utc": "2026-09-03T15:04:53+00:00",
       "media_type": "video",
-      "media_size_bytes": 252487,
-      "media_size_human": "246.57 KB",
+      "media_size_bytes": 10247091,
+      "media_size_human": "9.77 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355590_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355590_video.mp4",
+      "media_local_path": "media/IranintlTV_355591_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355591_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T15:00:48.047534+00:00"
+      "archived_at": "2026-09-03T15:10:46.732110+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -77,7 +77,7 @@
       "media_local_path": "media/satlastnews_76400_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76400_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T15:00:48.414902+00:00"
+      "archived_at": "2026-09-03T15:10:47.142902+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -95,7 +95,7 @@
       "media_local_path": "media/Mellig_120565_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120565_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T15:00:48.759700+00:00"
+      "archived_at": "2026-09-03T15:10:47.508728+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -113,43 +113,43 @@
       "media_local_path": "media/khabarsara53_11_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_11_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T15:00:49.145953+00:00"
+      "archived_at": "2026-09-03T15:10:47.850257+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12660,
-      "message_link": "https://t.me/zedTV/12660",
-      "text": "ترامپ: بازگشت حجم انتقال نفت از تنگه هرمز به ۱۸ میلیون بشکه در روز و سطح پیش از جنگ.\nرئیس‌جمهور آمریکا: تنگه هرمز در کنترل کامل ایالات متحده است و ادعاهای رژیم مبنی بر انسداد آن صحت ندارد.\nگسترش مسیرهای جایگزین؛ طرح احداث خط لوله ۵.۷ میلیارد دلاری برای انتقال نفت به بندر بانیاس.",
+      "message_id": 12661,
+      "message_link": "https://t.me/zedTV/12661",
+      "text": "",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "17:00:56",
-      "gregorian_utc": "2026-09-03T13:30:56+00:00",
-      "media_type": null,
+      "tehran_time": "18:12:50",
+      "gregorian_utc": "2026-09-03T14:42:50+00:00",
+      "media_type": "unsupported",
       "media_size_bytes": 0,
       "media_size_human": null,
       "media_downloaded": false,
       "media_local_path": null,
       "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T15:00:47.644259+00:00"
+      "no_media_reason": "نوع رسانه پشتیبانی نمی‌شود (نظرسنجی، موقعیت مکانی، مخاطب و...).",
+      "archived_at": "2026-09-03T15:10:46.344198+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355589,
-      "message_link": "https://t.me/IranintlTV/355589",
+      "message_id": 355590,
+      "message_link": "https://t.me/IranintlTV/355590",
       "text": "فرماندهی مرکزی آمریکا، سنتکام، با انتشار ویدیویی در شبکه اجتماعی ایکس اعلام کرد نیروی دریایی این کشور به اجرای سختگیرانه محاصره دریایی ایران ادامه می‌دهد.\n\nبه گفته سنتکام، تا دوم سپتامبر، مصادف با ۱۱ شهریور، نیروهای آمریکایی ۸۶ کشتی تجاری را تغییر مسیر داده، سه کشتی را از کار انداخته و وارد دو کشتی شده‌اند تا از رعایت محاصره اطمینان حاصل کنند.\n@iranintltv",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "18:20:03",
-      "gregorian_utc": "2026-09-03T14:50:03+00:00",
+      "tehran_time": "18:20:07",
+      "gregorian_utc": "2026-09-03T14:50:07+00:00",
       "media_type": "video",
       "media_size_bytes": 252487,
       "media_size_human": "246.57 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355589_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355589_video.mp4",
+      "media_local_path": "media/IranintlTV_355590_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355590_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T15:00:48.047600+00:00"
+      "archived_at": "2026-09-03T15:10:46.732255+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -167,7 +167,7 @@
       "media_local_path": "media/satlastnews_76399_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76399_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T15:00:48.414993+00:00"
+      "archived_at": "2026-09-03T15:10:47.143010+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -185,7 +185,7 @@
       "media_local_path": "media/Mellig_120564_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120564_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T15:00:48.759735+00:00"
+      "archived_at": "2026-09-03T15:10:47.508779+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -203,17 +203,17 @@
       "media_local_path": "media/khabarsara53_10_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_10_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T15:00:49.146003+00:00"
+      "archived_at": "2026-09-03T15:10:47.850336+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12659,
-      "message_link": "https://t.me/zedTV/12659",
-      "text": "تایید هلاکت ۳ خلبان و ۶ پرسنل نیروی دریایی در حملات آمریکا؛\nکشته شدن جعفر کهریزی، فرمانده ارشد موشکی سپاه در کرمانشاه؛\nاعتراف مقامات نظامی رژیم به تلفات جانی در پی عملیات اخیر.",
+      "message_id": 12660,
+      "message_link": "https://t.me/zedTV/12660",
+      "text": "ترامپ: بازگشت حجم انتقال نفت از تنگه هرمز به ۱۸ میلیون بشکه در روز و سطح پیش از جنگ.\nرئیس‌جمهور آمریکا: تنگه هرمز در کنترل کامل ایالات متحده است و ادعاهای رژیم مبنی بر انسداد آن صحت ندارد.\nگسترش مسیرهای جایگزین؛ طرح احداث خط لوله ۵.۷ میلیارد دلاری برای انتقال نفت به بندر بانیاس.",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "16:31:10",
-      "gregorian_utc": "2026-09-03T13:01:10+00:00",
+      "tehran_time": "17:00:56",
+      "gregorian_utc": "2026-09-03T13:30:56+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -221,25 +221,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T15:00:47.644282+00:00"
+      "archived_at": "2026-09-03T15:10:46.344236+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355588,
-      "message_link": "https://t.me/IranintlTV/355588",
-      "text": "**ترامپ از مردم ایران پرسیده:«چه زمانی قیام می‌کنید؟»**\n**پاسخ شما به او چیست؟**\n**مردم ایران چه کم گذاشتند؟**\n**اگر ترامپ همین حالا روبه‌روی شما نشسته بود و این سؤال را می‌پرسید، چه جوابی به او می‌دادید؟**\n**امشب به «برنامه» بیایید و پاسخ ترامپ را بدهید.**\n**شما را بدون نوبت، مستقیم از ایران روی خط می‌آوریم.**\n**بیایید و روایت خود را برای همیشه ثبت کنید؛ تاریخ با صدای شما نوشته می‌شود.**\n**برای شرکت در برنامه، همین حالا در واتس‌اپ پیام بدهید:**\n**۰۰۴۴۷۵۲۲۱۱۰۱۱۰**\n**۰۰۴۴۷۵۴۴۱۱۰۱۱۰**\n**۰۰۴۴۷۵۱۱۱۰۲۵۵۳**\n**«برنامه با کامبیز حسینی»**\n**«یک ایران صدای شما را می‌شنود»**\n@iranintltv",
+      "message_id": 355589,
+      "message_link": "https://t.me/IranintlTV/355589",
+      "text": "فرماندهی مرکزی آمریکا، سنتکام، با انتشار ویدیویی در شبکه اجتماعی ایکس اعلام کرد نیروی دریایی این کشور به اجرای سختگیرانه محاصره دریایی ایران ادامه می‌دهد.\n\nبه گفته سنتکام، تا دوم سپتامبر، مصادف با ۱۱ شهریور، نیروهای آمریکایی ۸۶ کشتی تجاری را تغییر مسیر داده، سه کشتی را از کار انداخته و وارد دو کشتی شده‌اند تا از رعایت محاصره اطمینان حاصل کنند.\n@iranintltv",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "18:11:20",
-      "gregorian_utc": "2026-09-03T14:41:20+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 311835,
-      "media_size_human": "304.53 KB",
+      "tehran_time": "18:20:03",
+      "gregorian_utc": "2026-09-03T14:50:03+00:00",
+      "media_type": "video",
+      "media_size_bytes": 252487,
+      "media_size_human": "246.57 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355588_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355588_photo.jpg",
+      "media_local_path": "media/IranintlTV_355589_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355589_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T15:00:48.047722+00:00"
+      "archived_at": "2026-09-03T15:10:46.732345+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -257,7 +257,7 @@
       "media_local_path": "media/satlastnews_76398_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76398_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T15:00:48.415045+00:00"
+      "archived_at": "2026-09-03T15:10:47.143081+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -275,7 +275,7 @@
       "media_local_path": "media/Mellig_120563_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120563_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T15:00:48.759816+00:00"
+      "archived_at": "2026-09-03T15:10:47.508867+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -293,17 +293,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T15:00:49.146023+00:00"
+      "archived_at": "2026-09-03T15:10:47.850370+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12658,
-      "message_link": "https://t.me/zedTV/12658",
-      "text": "هشدار وزیر دفاع اسرائیل: حمله احتمالی رژیم ایران تمامی محدودیت‌ها در هدف قرار دادن زیرساخت‌های ملی و انرژی را لغو می‌کند.\nانهدام مراکز نظامی و غیرنظامی در صورت حماقت جمهوری اسلامی؛ بازگشت به «دوران تاریک».",
+      "message_id": 12659,
+      "message_link": "https://t.me/zedTV/12659",
+      "text": "تایید هلاکت ۳ خلبان و ۶ پرسنل نیروی دریایی در حملات آمریکا؛\nکشته شدن جعفر کهریزی، فرمانده ارشد موشکی سپاه در کرمانشاه؛\nاعتراف مقامات نظامی رژیم به تلفات جانی در پی عملیات اخیر.",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "16:16:34",
-      "gregorian_utc": "2026-09-03T12:46:34+00:00",
+      "tehran_time": "16:31:10",
+      "gregorian_utc": "2026-09-03T13:01:10+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -311,25 +311,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T15:00:47.644306+00:00"
+      "archived_at": "2026-09-03T15:10:46.344276+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355587,
-      "message_link": "https://t.me/IranintlTV/355587",
-      "text": "نشست «عدالت فراتر از مرزها» که در شهر برلین برگزار شد، راه‌های حقوقی موجود در آلمان و اتحادیه اروپا برای پاسخ‌گو کردن عاملان نقض حقوق بشر در ایران را بررسی کرد.\n\nگزارش احمد صمدی، خبرنگار ایران‌اینترنشنال، و گفت‌وگوی او با سینا یوسفی، وکیل دادگستری و نایب‌رییس کمیسیون حقوق بشر \n@iranintltv",
+      "message_id": 355588,
+      "message_link": "https://t.me/IranintlTV/355588",
+      "text": "**ترامپ از مردم ایران پرسیده:«چه زمانی قیام می‌کنید؟»**\n**پاسخ شما به او چیست؟**\n**مردم ایران چه کم گذاشتند؟**\n**اگر ترامپ همین حالا روبه‌روی شما نشسته بود و این سؤال را می‌پرسید، چه جوابی به او می‌دادید؟**\n**امشب به «برنامه» بیایید و پاسخ ترامپ را بدهید.**\n**شما را بدون نوبت، مستقیم از ایران روی خط می‌آوریم.**\n**بیایید و روایت خود را برای همیشه ثبت کنید؛ تاریخ با صدای شما نوشته می‌شود.**\n**برای شرکت در برنامه، همین حالا در واتس‌اپ پیام بدهید:**\n**۰۰۴۴۷۵۲۲۱۱۰۱۱۰**\n**۰۰۴۴۷۵۴۴۱۱۰۱۱۰**\n**۰۰۴۴۷۵۱۱۱۰۲۵۵۳**\n**«برنامه با کامبیز حسینی»**\n**«یک ایران صدای شما را می‌شنود»**\n@iranintltv",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "18:07:25",
-      "gregorian_utc": "2026-09-03T14:37:25+00:00",
-      "media_type": "video",
-      "media_size_bytes": 3783219,
-      "media_size_human": "3.61 MB",
+      "tehran_time": "18:11:20",
+      "gregorian_utc": "2026-09-03T14:41:20+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 311835,
+      "media_size_human": "304.53 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355587_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355587_video.mp4",
+      "media_local_path": "media/IranintlTV_355588_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355588_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T15:00:48.047798+00:00"
+      "archived_at": "2026-09-03T15:10:46.732503+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -347,7 +347,7 @@
       "media_local_path": "media/satlastnews_76397_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76397_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T15:00:48.415083+00:00"
+      "archived_at": "2026-09-03T15:10:47.143161+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -365,7 +365,7 @@
       "media_local_path": "media/Mellig_120562_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120562_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T15:00:48.759867+00:00"
+      "archived_at": "2026-09-03T15:10:47.508937+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -383,17 +383,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T15:00:49.146040+00:00"
+      "archived_at": "2026-09-03T15:10:47.850399+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12657,
-      "message_link": "https://t.me/zedTV/12657",
-      "text": "تایید هلاکت ۳ خلبان و ۶ پرسنل نیروی دریایی ارتش در حملات آمریکا؛\nکشته شدن جعفر کهریزی، فرمانده ارشد موشکی سپاه در پی حمله به کرمانشاه؛\nضربات سنگین به توان نظامی و ساختار فرماندهی نیروهای مسلح رژیم.",
+      "message_id": 12658,
+      "message_link": "https://t.me/zedTV/12658",
+      "text": "هشدار وزیر دفاع اسرائیل: حمله احتمالی رژیم ایران تمامی محدودیت‌ها در هدف قرار دادن زیرساخت‌های ملی و انرژی را لغو می‌کند.\nانهدام مراکز نظامی و غیرنظامی در صورت حماقت جمهوری اسلامی؛ بازگشت به «دوران تاریک».",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "16:16:31",
-      "gregorian_utc": "2026-09-03T12:46:31+00:00",
+      "tehran_time": "16:16:34",
+      "gregorian_utc": "2026-09-03T12:46:34+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -401,25 +401,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T15:00:47.644324+00:00"
+      "archived_at": "2026-09-03T15:10:46.344307+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355586,
-      "message_link": "https://t.me/IranintlTV/355586",
-      "text": "آیین خاکسپاری فرحناز اسپد، روزنامه‌نگار و مجری ایران‌اینترنشنال، صبح پنج‌شنبه ۱۲ شهریور در لندن برگزار شد.\n\nمراسم تشییع و تدفین پیکر فرحناز اسپد با حضور همسرش، بهنود نورپناه، و ده‌ها روزنامه‌نگار و کنشگر مدنی در آرامستانی در پایتخت بریتانیا برگزار شد.\n\n@iranintltv",
+      "message_id": 355587,
+      "message_link": "https://t.me/IranintlTV/355587",
+      "text": "نشست «عدالت فراتر از مرزها» که در شهر برلین برگزار شد، راه‌های حقوقی موجود در آلمان و اتحادیه اروپا برای پاسخ‌گو کردن عاملان نقض حقوق بشر در ایران را بررسی کرد.\n\nگزارش احمد صمدی، خبرنگار ایران‌اینترنشنال، و گفت‌وگوی او با سینا یوسفی، وکیل دادگستری و نایب‌رییس کمیسیون حقوق بشر \n@iranintltv",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "18:06:38",
-      "gregorian_utc": "2026-09-03T14:36:38+00:00",
+      "tehran_time": "18:07:25",
+      "gregorian_utc": "2026-09-03T14:37:25+00:00",
       "media_type": "video",
-      "media_size_bytes": 1263243,
-      "media_size_human": "1.20 MB",
+      "media_size_bytes": 3783219,
+      "media_size_human": "3.61 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355586_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355586_video.mp4",
+      "media_local_path": "media/IranintlTV_355587_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355587_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T15:00:48.047849+00:00"
+      "archived_at": "2026-09-03T15:10:46.732585+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -437,7 +437,7 @@
       "media_local_path": "media/satlastnews_76392_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76392_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T15:00:48.421544+00:00"
+      "archived_at": "2026-09-03T15:10:47.159674+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -455,7 +455,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T15:00:48.759905+00:00"
+      "archived_at": "2026-09-03T15:10:47.508995+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -473,17 +473,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T15:00:49.146055+00:00"
+      "archived_at": "2026-09-03T15:10:47.850427+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12656,
-      "message_link": "https://t.me/zedTV/12656",
-      "text": "محاصره مقامات ارشد نیروی قدس سپاه و نیروهای حزب‌الله در جنوب لبنان.\nتلاش ارتش اسرائیل برای تصرف تونل‌های استراتژیک در منطقه جبل علی‌ طاهر.\nگزارش‌ها از وضعیت بحرانی ۱۲ عضو سپاه پاسداران در مرکز فرماندهی حزب‌الله.",
+      "message_id": 12657,
+      "message_link": "https://t.me/zedTV/12657",
+      "text": "تایید هلاکت ۳ خلبان و ۶ پرسنل نیروی دریایی ارتش در حملات آمریکا؛\nکشته شدن جعفر کهریزی، فرمانده ارشد موشکی سپاه در پی حمله به کرمانشاه؛\nضربات سنگین به توان نظامی و ساختار فرماندهی نیروهای مسلح رژیم.",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "16:16:20",
-      "gregorian_utc": "2026-09-03T12:46:20+00:00",
+      "tehran_time": "16:16:31",
+      "gregorian_utc": "2026-09-03T12:46:31+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -491,25 +491,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T15:00:47.644349+00:00"
+      "archived_at": "2026-09-03T15:10:46.344344+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355585,
-      "message_link": "https://t.me/IranintlTV/355585",
-      "text": "مایک هاکبی، سفیر آمریکا در اسرائیل، در شبکه اجتماعی ایکس نوشت که پیشرفت در مسیر صلح میان اسرائیل و لبنان زمانی حاصل خواهد شد که «حزب‌الله، عروسک خیمه‌شب‌بازی جمهوری اسلامی، از میان برود».\n\nاین اظهارات در پی تصمیم اسرائیل برای آزادی پنج شهروند لبنانی به نشانه حسن‌نیت و در بحبوحه تلاش‌ها برای یافتن بقایای یهودیان کشته‌شده در لبنان مطرح شد.\n\nدفتر نخست‌وزیر اسرائیل پیش‌تر اعلام کرد بنیامین نتانیاهو دستور داده است در چارچوب مذاکرات با لبنان، موضوع یافتن و بازگرداندن اجساد رهبران جامعه یهودیان لبنان که در اواسط دهه ۱۹۸۰ ربوده و کشته شدند، پیگیری شود.\n\nهاکبی همچنین از میشل عیسی، سفیر آمریکا در لبنان، به دلیل تلاش‌های انجام‌شده در این زمینه تشکر کرد.\n\nهم‌زمان، دفتر وزیر دفاع اسرائیل اعلام کرد یسرائیل کاتز، وزیر دفاع، و ایال زمیر، رییس ستاد کل ارتش این کشور، جلسه‌ای برای ارزیابی وضعیت امنیتی در چند جبهه برگزار کردند.\nhttps://iranintl.com/202609036284",
+      "message_id": 355586,
+      "message_link": "https://t.me/IranintlTV/355586",
+      "text": "آیین خاکسپاری فرحناز اسپد، روزنامه‌نگار و مجری ایران‌اینترنشنال، صبح پنج‌شنبه ۱۲ شهریور در لندن برگزار شد.\n\nمراسم تشییع و تدفین پیکر فرحناز اسپد با حضور همسرش، بهنود نورپناه، و ده‌ها روزنامه‌نگار و کنشگر مدنی در آرامستانی در پایتخت بریتانیا برگزار شد.\n\n@iranintltv",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "18:03:25",
-      "gregorian_utc": "2026-09-03T14:33:25+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 183085,
-      "media_size_human": "178.79 KB",
+      "tehran_time": "18:06:38",
+      "gregorian_utc": "2026-09-03T14:36:38+00:00",
+      "media_type": "video",
+      "media_size_bytes": 1263243,
+      "media_size_human": "1.20 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355585_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355585_photo.jpg",
+      "media_local_path": "media/IranintlTV_355586_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355586_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T15:00:48.047952+00:00"
+      "archived_at": "2026-09-03T15:10:46.732656+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -527,7 +527,7 @@
       "media_local_path": "media/satlastnews_76391_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76391_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T15:00:48.421642+00:00"
+      "archived_at": "2026-09-03T15:10:47.159788+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -545,7 +545,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T15:00:48.759924+00:00"
+      "archived_at": "2026-09-03T15:10:47.509028+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -563,43 +563,43 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T15:00:49.146071+00:00"
+      "archived_at": "2026-09-03T15:10:47.850454+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12655,
-      "message_link": "https://t.me/zedTV/12655",
-      "text": "♦️ آژانس اتمی: رصد تردد مداوم خودروها در ورودی مجتمع تونلی اصفهان\n♦️ این سایت پیش از حملات نظامی محل ذخیره اورانیوم ۶۰ درصدی بود\n♦️ گزارش جدید آژانس از فعالیت‌های جاری در این مرکز حساس هسته‌ای",
+      "message_id": 12656,
+      "message_link": "https://t.me/zedTV/12656",
+      "text": "محاصره مقامات ارشد نیروی قدس سپاه و نیروهای حزب‌الله در جنوب لبنان.\nتلاش ارتش اسرائیل برای تصرف تونل‌های استراتژیک در منطقه جبل علی‌ طاهر.\nگزارش‌ها از وضعیت بحرانی ۱۲ عضو سپاه پاسداران در مرکز فرماندهی حزب‌الله.",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "15:44:10",
-      "gregorian_utc": "2026-09-03T12:14:10+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 97926,
-      "media_size_human": "95.63 KB",
-      "media_downloaded": true,
-      "media_local_path": "media/zedTV_12655_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_12655_photo.jpg",
-      "no_media_reason": null,
-      "archived_at": "2026-09-03T15:00:47.644409+00:00"
+      "tehran_time": "16:16:20",
+      "gregorian_utc": "2026-09-03T12:46:20+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-09-03T15:10:46.344376+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355583,
-      "message_link": "https://t.me/IranintlTV/355583",
-      "text": "«برنامه» صدای شماست.\n\nما شما را، بدون نوبت، مستقیم از ایران روی خط می‌آوریم.\n\nبیایید و روایت خود را برای همیشه ثبت کنید.\n\nتاریخ با صدای شما نوشته می‌شود.\n\nبرای شرکت در برنامه، همین حالا در واتس‌اپ پیام بدهید:\n\n۰۰۴۴۷۵۲۲۱۱۰۱۱۰\n\n۰۰۴۴۷۵۴۴۱۱۰۱۱۰\n\n۰۰۴۴۷۵۱۱۱۰۲۵۵۳\n\n«برنامه با کامبیز حسینی»\n\n«یک ایران صدای شما را می‌شنود»\n\n@iranintltv",
+      "message_id": 355585,
+      "message_link": "https://t.me/IranintlTV/355585",
+      "text": "مایک هاکبی، سفیر آمریکا در اسرائیل، در شبکه اجتماعی ایکس نوشت که پیشرفت در مسیر صلح میان اسرائیل و لبنان زمانی حاصل خواهد شد که «حزب‌الله، عروسک خیمه‌شب‌بازی جمهوری اسلامی، از میان برود».\n\nاین اظهارات در پی تصمیم اسرائیل برای آزادی پنج شهروند لبنانی به نشانه حسن‌نیت و در بحبوحه تلاش‌ها برای یافتن بقایای یهودیان کشته‌شده در لبنان مطرح شد.\n\nدفتر نخست‌وزیر اسرائیل پیش‌تر اعلام کرد بنیامین نتانیاهو دستور داده است در چارچوب مذاکرات با لبنان، موضوع یافتن و بازگرداندن اجساد رهبران جامعه یهودیان لبنان که در اواسط دهه ۱۹۸۰ ربوده و کشته شدند، پیگیری شود.\n\nهاکبی همچنین از میشل عیسی، سفیر آمریکا در لبنان، به دلیل تلاش‌های انجام‌شده در این زمینه تشکر کرد.\n\nهم‌زمان، دفتر وزیر دفاع اسرائیل اعلام کرد یسرائیل کاتز، وزیر دفاع، و ایال زمیر، رییس ستاد کل ارتش این کشور، جلسه‌ای برای ارزیابی وضعیت امنیتی در چند جبهه برگزار کردند.\nhttps://iranintl.com/202609036284",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "17:38:57",
-      "gregorian_utc": "2026-09-03T14:08:57+00:00",
+      "tehran_time": "18:03:25",
+      "gregorian_utc": "2026-09-03T14:33:25+00:00",
       "media_type": "photo",
-      "media_size_bytes": 271461,
-      "media_size_human": "265.10 KB",
+      "media_size_bytes": 183085,
+      "media_size_human": "178.79 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355583_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355583_photo.jpg",
+      "media_local_path": "media/IranintlTV_355585_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355585_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T15:00:48.048008+00:00"
+      "archived_at": "2026-09-03T15:10:46.732797+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -617,7 +617,7 @@
       "media_local_path": "media/satlastnews_76388_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76388_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T15:00:48.421690+00:00"
+      "archived_at": "2026-09-03T15:10:47.159884+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -635,7 +635,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 107.44 MB)",
-      "archived_at": "2026-09-03T15:00:48.759975+00:00"
+      "archived_at": "2026-09-03T15:10:47.509104+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -653,43 +653,43 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T15:00:49.146087+00:00"
+      "archived_at": "2026-09-03T15:10:47.850478+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12654,
-      "message_link": "https://t.me/zedTV/12654",
-      "text": "نصب بنرهای تهدیدآمیز در سطح شهرها با هدف ارعاب و تحمیل حجاب اجباری.\nجعل مفاد ماده ۶۳۸ قانون مجازات توسط رژیم با حذف عمدی جریمه‌های نقدی و تمرکز بر تهدید به حبس.\nتلاش نافرجام دستگاه سرکوب برای مقابله با نافرمانی مدنی از طریق نشر اکاذیب حقوقی.",
+      "message_id": 12655,
+      "message_link": "https://t.me/zedTV/12655",
+      "text": "♦️ آژانس اتمی: رصد تردد مداوم خودروها در ورودی مجتمع تونلی اصفهان\n♦️ این سایت پیش از حملات نظامی محل ذخیره اورانیوم ۶۰ درصدی بود\n♦️ گزارش جدید آژانس از فعالیت‌های جاری در این مرکز حساس هسته‌ای",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "15:42:47",
-      "gregorian_utc": "2026-09-03T12:12:47+00:00",
+      "tehran_time": "15:44:10",
+      "gregorian_utc": "2026-09-03T12:14:10+00:00",
       "media_type": "photo",
-      "media_size_bytes": 171440,
-      "media_size_human": "167.42 KB",
+      "media_size_bytes": 97926,
+      "media_size_human": "95.63 KB",
       "media_downloaded": true,
-      "media_local_path": "media/zedTV_12654_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_12654_photo.jpg",
+      "media_local_path": "media/zedTV_12655_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_12655_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T15:00:47.644457+00:00"
+      "archived_at": "2026-09-03T15:10:46.344463+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355582,
-      "message_link": "https://t.me/IranintlTV/355582",
-      "text": "پلیس اسپانیا چهارشنبه ۱۱ شهریور با معترضان به نحوه مدیریت دولت این کشور در قبال بحران مهاجران غیرقانونی در سئوتا، در مادرید درگیر شد و آن‌ها را متفرق کرد. معترضان در مادرید و سئوتا با در دست داشتن پرچم‌های اسپانیا خواستار کنترل شدیدتر مرزها شدند. هنوز آمار رسمی بازداشت‌شدگان یا مجروحان اعلام نشده است.\n@iranintltv",
+      "message_id": 355583,
+      "message_link": "https://t.me/IranintlTV/355583",
+      "text": "«برنامه» صدای شماست.\n\nما شما را، بدون نوبت، مستقیم از ایران روی خط می‌آوریم.\n\nبیایید و روایت خود را برای همیشه ثبت کنید.\n\nتاریخ با صدای شما نوشته می‌شود.\n\nبرای شرکت در برنامه، همین حالا در واتس‌اپ پیام بدهید:\n\n۰۰۴۴۷۵۲۲۱۱۰۱۱۰\n\n۰۰۴۴۷۵۴۴۱۱۰۱۱۰\n\n۰۰۴۴۷۵۱۱۱۰۲۵۵۳\n\n«برنامه با کامبیز حسینی»\n\n«یک ایران صدای شما را می‌شنود»\n\n@iranintltv",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "17:37:58",
-      "gregorian_utc": "2026-09-03T14:07:58+00:00",
-      "media_type": "video",
-      "media_size_bytes": 775973,
-      "media_size_human": "757.79 KB",
+      "tehran_time": "17:38:57",
+      "gregorian_utc": "2026-09-03T14:08:57+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 271461,
+      "media_size_human": "265.10 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355582_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355582_video.mp4",
+      "media_local_path": "media/IranintlTV_355583_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355583_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T15:00:48.048059+00:00"
+      "archived_at": "2026-09-03T15:10:46.732875+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -707,7 +707,7 @@
       "media_local_path": "media/satlastnews_76387_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76387_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T15:00:48.421740+00:00"
+      "archived_at": "2026-09-03T15:10:47.159964+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -725,7 +725,7 @@
       "media_local_path": "media/Mellig_120558_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120558_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T15:00:48.760001+00:00"
+      "archived_at": "2026-09-03T15:10:47.509176+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -743,43 +743,43 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T15:00:49.146102+00:00"
+      "archived_at": "2026-09-03T15:10:47.850506+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12653,
-      "message_link": "https://t.me/zedTV/12653",
-      "text": "بحران معیشت در ایران: سبد هزینه زندگی از ۹۰ میلیون تومان فراتر رفت.\nسقوط ارزش پول ملی و دلار ۲۲۳ هزار تومانی؛ حقوق‌ها پیش از نیمه ماه به پایان می‌رسند.\nفروپاشی توان مالی خانوارها و بن‌بست معیشتی برای معلمان، کارگران و کادر درمان.",
+      "message_id": 12654,
+      "message_link": "https://t.me/zedTV/12654",
+      "text": "نصب بنرهای تهدیدآمیز در سطح شهرها با هدف ارعاب و تحمیل حجاب اجباری.\nجعل مفاد ماده ۶۳۸ قانون مجازات توسط رژیم با حذف عمدی جریمه‌های نقدی و تمرکز بر تهدید به حبس.\nتلاش نافرجام دستگاه سرکوب برای مقابله با نافرمانی مدنی از طریق نشر اکاذیب حقوقی.",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "15:40:54",
-      "gregorian_utc": "2026-09-03T12:10:54+00:00",
+      "tehran_time": "15:42:47",
+      "gregorian_utc": "2026-09-03T12:12:47+00:00",
       "media_type": "photo",
-      "media_size_bytes": 120784,
-      "media_size_human": "117.95 KB",
+      "media_size_bytes": 171440,
+      "media_size_human": "167.42 KB",
       "media_downloaded": true,
-      "media_local_path": "media/zedTV_12653_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_12653_photo.jpg",
+      "media_local_path": "media/zedTV_12654_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_12654_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T15:00:47.644486+00:00"
+      "archived_at": "2026-09-03T15:10:46.344521+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355581,
-      "message_link": "https://t.me/IranintlTV/355581",
-      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال، در خصوص گرانی‌های روزافزون در ایران می‌گوید قیمت داروها در عرض یک‌ماه دو برابر شده است.",
+      "message_id": 355582,
+      "message_link": "https://t.me/IranintlTV/355582",
+      "text": "پلیس اسپانیا چهارشنبه ۱۱ شهریور با معترضان به نحوه مدیریت دولت این کشور در قبال بحران مهاجران غیرقانونی در سئوتا، در مادرید درگیر شد و آن‌ها را متفرق کرد. معترضان در مادرید و سئوتا با در دست داشتن پرچم‌های اسپانیا خواستار کنترل شدیدتر مرزها شدند. هنوز آمار رسمی بازداشت‌شدگان یا مجروحان اعلام نشده است.\n@iranintltv",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "17:31:39",
-      "gregorian_utc": "2026-09-03T14:01:39+00:00",
+      "tehran_time": "17:37:58",
+      "gregorian_utc": "2026-09-03T14:07:58+00:00",
       "media_type": "video",
-      "media_size_bytes": 6712207,
-      "media_size_human": "6.40 MB",
+      "media_size_bytes": 775973,
+      "media_size_human": "757.79 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355581_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355581_video.mp4",
+      "media_local_path": "media/IranintlTV_355582_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355582_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T15:00:48.048083+00:00"
+      "archived_at": "2026-09-03T15:10:46.732949+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -797,7 +797,7 @@
       "media_local_path": "media/satlastnews_76385_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76385_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T15:00:48.421833+00:00"
+      "archived_at": "2026-09-03T15:10:47.160038+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -815,7 +815,7 @@
       "media_local_path": "media/Mellig_120557_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120557_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T15:00:48.760027+00:00"
+      "archived_at": "2026-09-03T15:10:47.509218+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -833,43 +833,43 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T15:00:49.146116+00:00"
+      "archived_at": "2026-09-03T15:10:47.850531+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12652,
-      "message_link": "https://t.me/zedTV/12652",
-      "text": "جهش قیمت دارو و افزایش ۶ برابری شهریه دانشگاه‌ها در کنار تداوم معوقات مزدی کارکنان.\nاختلال گسترده در شبکه اینترنت و قطع سیگنال‌های موبایل؛ شهروندان در بن‌بست معیشتی.\nغارت سیستماتیک توسط رژیم؛ ناتوانی خانواده‌ها در تأمین دارو، شیرخشک و هزینه‌های تحصیل.",
+      "message_id": 12653,
+      "message_link": "https://t.me/zedTV/12653",
+      "text": "بحران معیشت در ایران: سبد هزینه زندگی از ۹۰ میلیون تومان فراتر رفت.\nسقوط ارزش پول ملی و دلار ۲۲۳ هزار تومانی؛ حقوق‌ها پیش از نیمه ماه به پایان می‌رسند.\nفروپاشی توان مالی خانوارها و بن‌بست معیشتی برای معلمان، کارگران و کادر درمان.",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "14:46:46",
-      "gregorian_utc": "2026-09-03T11:16:46+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T15:00:47.644505+00:00"
+      "tehran_time": "15:40:54",
+      "gregorian_utc": "2026-09-03T12:10:54+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 120784,
+      "media_size_human": "117.95 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/zedTV_12653_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_12653_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-09-03T15:10:46.344566+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355580,
-      "message_link": "https://t.me/IranintlTV/355580",
-      "text": "یسرائیل کاتس، وزیر دفاع اسرائیل، پنج‌شنبه ۱۲ شهریور در مراسم روش هشانا با کارکنان وزارت دفاع اعلام کرد حمله جمهوری اسلامی به این کشور، اسرائیل را از همه محدودیت‌ها رها خواهد کرد و این کشور حتی زیرساخت‌های انرژی را نیز هدف قرار خواهد داد.\n\nوزیر دفاع اسرائیل گفت: «تمام زیرساخت‌های ملی، نظامی و غیرنظامی، از جمله زیرساخت‌های انرژی را هدف قرار خواهیم داد و ایران را به اعماق عصر حجر و تاریکی بازخواهیم گرداند.»\n\nکاتس همچنین افزود: «فشار اقتصادی و نگرانی از قیام و سقوط حکومت ممکن است جمهوری اسلامی را به اقدامات از سر استیصال سوق دهد.»\n\nاو گفت: «حکومت آیت‌الله‌ها در ایران به‌خوبی می‌داند چرا پس از آنکه دو بار ضربات سختی به آنها وارد کردیم، برنامه هسته‌ای را نابود کردیم، خامنه‌ای را کشتیم و به توانایی‌های راهبردی آنها آسیب شدیدی زدیم، به اسرائیل حمله نمی‌کند.»",
+      "message_id": 355581,
+      "message_link": "https://t.me/IranintlTV/355581",
+      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال، در خصوص گرانی‌های روزافزون در ایران می‌گوید قیمت داروها در عرض یک‌ماه دو برابر شده است.",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "17:21:18",
-      "gregorian_utc": "2026-09-03T13:51:18+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 87139,
-      "media_size_human": "85.10 KB",
+      "tehran_time": "17:31:39",
+      "gregorian_utc": "2026-09-03T14:01:39+00:00",
+      "media_type": "video",
+      "media_size_bytes": 6712207,
+      "media_size_human": "6.40 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355580_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355580_photo.jpg",
+      "media_local_path": "media/IranintlTV_355581_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355581_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T15:00:48.048107+00:00"
+      "archived_at": "2026-09-03T15:10:46.732989+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -887,7 +887,7 @@
       "media_local_path": "media/satlastnews_76383_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76383_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T15:00:48.421869+00:00"
+      "archived_at": "2026-09-03T15:10:47.160102+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -905,7 +905,7 @@
       "media_local_path": "media/Mellig_120556_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120556_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T15:00:48.760050+00:00"
+      "archived_at": "2026-09-03T15:10:47.509256+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -923,17 +923,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T15:00:49.146133+00:00"
+      "archived_at": "2026-09-03T15:10:47.850556+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12651,
-      "message_link": "https://t.me/zedTV/12651",
-      "text": "حمله موشکی به کوهستک سیریک؛ دکل مخابراتی و منازل مسکونی هدف قرار گرفتند.\nاصابت چهار موشک به یک مراسم عروسی؛ تایید عدم وجود اهداف نظامی در محل حادثه.\nتخریب گسترده خانه‌های شهروندان در پی موج انفجارهای پیاپی در منطقه.",
+      "message_id": 12652,
+      "message_link": "https://t.me/zedTV/12652",
+      "text": "جهش قیمت دارو و افزایش ۶ برابری شهریه دانشگاه‌ها در کنار تداوم معوقات مزدی کارکنان.\nاختلال گسترده در شبکه اینترنت و قطع سیگنال‌های موبایل؛ شهروندان در بن‌بست معیشتی.\nغارت سیستماتیک توسط رژیم؛ ناتوانی خانواده‌ها در تأمین دارو، شیرخشک و هزینه‌های تحصیل.",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "14:30:19",
-      "gregorian_utc": "2026-09-03T11:00:19+00:00",
+      "tehran_time": "14:46:46",
+      "gregorian_utc": "2026-09-03T11:16:46+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -941,25 +941,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T15:00:47.644525+00:00"
+      "archived_at": "2026-09-03T15:10:46.344595+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355579,
-      "message_link": "https://t.me/IranintlTV/355579",
-      "text": "محمدرضا عارف، معاون پزشکیان، پنج‌شنبه ۱۲ شهریور در ایکس نوشت اقدامات اخیر آمریکا علیه ایران، معادلات امنیتی و دکترین دفاعی جمهوری اسلامی را تغییر داد و از این پس پاسخ جمهوری اسلامی «نامتوازن، چندلایه و سلب‌کننده امنیت متجاوز خواهد بود.»\n\nمعاون مسعود پزشکیان همچین افزود: «آمریکایی‌ها باید به فکر ذخیره بنزین و سوخت باشند؛ ماه‌های سیاهی در انتظار اقتصاد آمریکاست.»",
+      "message_id": 355580,
+      "message_link": "https://t.me/IranintlTV/355580",
+      "text": "یسرائیل کاتس، وزیر دفاع اسرائیل، پنج‌شنبه ۱۲ شهریور در مراسم روش هشانا با کارکنان وزارت دفاع اعلام کرد حمله جمهوری اسلامی به این کشور، اسرائیل را از همه محدودیت‌ها رها خواهد کرد و این کشور حتی زیرساخت‌های انرژی را نیز هدف قرار خواهد داد.\n\nوزیر دفاع اسرائیل گفت: «تمام زیرساخت‌های ملی، نظامی و غیرنظامی، از جمله زیرساخت‌های انرژی را هدف قرار خواهیم داد و ایران را به اعماق عصر حجر و تاریکی بازخواهیم گرداند.»\n\nکاتس همچنین افزود: «فشار اقتصادی و نگرانی از قیام و سقوط حکومت ممکن است جمهوری اسلامی را به اقدامات از سر استیصال سوق دهد.»\n\nاو گفت: «حکومت آیت‌الله‌ها در ایران به‌خوبی می‌داند چرا پس از آنکه دو بار ضربات سختی به آنها وارد کردیم، برنامه هسته‌ای را نابود کردیم، خامنه‌ای را کشتیم و به توانایی‌های راهبردی آنها آسیب شدیدی زدیم، به اسرائیل حمله نمی‌کند.»",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "17:20:48",
-      "gregorian_utc": "2026-09-03T13:50:48+00:00",
+      "tehran_time": "17:21:18",
+      "gregorian_utc": "2026-09-03T13:51:18+00:00",
       "media_type": "photo",
-      "media_size_bytes": 111870,
-      "media_size_human": "109.25 KB",
+      "media_size_bytes": 87139,
+      "media_size_human": "85.10 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355579_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355579_photo.jpg",
+      "media_local_path": "media/IranintlTV_355580_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355580_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T15:00:48.048129+00:00"
+      "archived_at": "2026-09-03T15:10:46.733027+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -977,7 +977,7 @@
       "media_local_path": "media/satlastnews_76381_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76381_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T15:00:48.421895+00:00"
+      "archived_at": "2026-09-03T15:10:47.160180+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -995,7 +995,7 @@
       "media_local_path": "media/Mellig_120555_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120555_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T15:00:48.760093+00:00"
+      "archived_at": "2026-09-03T15:10:47.509318+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -1013,43 +1013,43 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T15:00:49.146153+00:00"
+      "archived_at": "2026-09-03T15:10:47.850583+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12650,
-      "message_link": "https://t.me/zedTV/12650",
-      "text": "قیمت هر گرم طلای ۱۸ عیار برای نخستین بار از مرز ۲۳ میلیون تومان عبور کرد. سکه امامی با جهش ۱۱ میلیون تومانی در یک هفته، به بیش از ۲۳۵ میلیون تومان رسید. تداوم رکوردشکنی قیمت‌ها در بازار سکه و طلا همزمان با سقوط بی‌سابقه ارزش پول ملی.",
+      "message_id": 12651,
+      "message_link": "https://t.me/zedTV/12651",
+      "text": "حمله موشکی به کوهستک سیریک؛ دکل مخابراتی و منازل مسکونی هدف قرار گرفتند.\nاصابت چهار موشک به یک مراسم عروسی؛ تایید عدم وجود اهداف نظامی در محل حادثه.\nتخریب گسترده خانه‌های شهروندان در پی موج انفجارهای پیاپی در منطقه.",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "14:16:38",
-      "gregorian_utc": "2026-09-03T10:46:38+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 192381,
-      "media_size_human": "187.87 KB",
-      "media_downloaded": true,
-      "media_local_path": "media/zedTV_12650_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_12650_photo.jpg",
-      "no_media_reason": null,
-      "archived_at": "2026-09-03T15:00:47.644553+00:00"
+      "tehran_time": "14:30:19",
+      "gregorian_utc": "2026-09-03T11:00:19+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-09-03T15:10:46.344623+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355578,
-      "message_link": "https://t.me/IranintlTV/355578",
-      "text": "منوچهر متکی، نماینده مجلس جمهوری اسلامی و وزیر خارجه پیشین، پنج‌شنبه ۱۲ شهریور در گفت‌وگو با اسپوتنیک گفت نیروهای مسلح جمهوری اسلامی مسیر عمانی تنگه هرمز را برای آمریکا ناامن خواهند کرد.\n\nمتکی گفت: «نیروهای مسلح ما مسیر عمانی تنگه هرمز را چنان ناامن می‌کنند که آمریکا جرات نکند از آنجا کشتی عبور دهد.»\n\nاو درباره برنامه هسته‌ای جمهوری اسلامی نیز گفت: «همان‌طور که تنگه هرمز را از دست نخواهیم داد، غنی‌سازی را هم از دست نمی‌دهیم.»\n\nمتکی درباره شرایط بازگشت تهران و واشینگتن به مذاکره افزود: «آمریکا برای بازگشت تهران به مذاکره باید اموال بلوکه‌شده را آزاد کند، نیروهایش را از منطقه خارج کند، به تعهداتش درباره لبنان عمل کند و حاکمیت ما بر تنگه هرمز را بپذیرد.»",
+      "message_id": 355579,
+      "message_link": "https://t.me/IranintlTV/355579",
+      "text": "محمدرضا عارف، معاون پزشکیان، پنج‌شنبه ۱۲ شهریور در ایکس نوشت اقدامات اخیر آمریکا علیه ایران، معادلات امنیتی و دکترین دفاعی جمهوری اسلامی را تغییر داد و از این پس پاسخ جمهوری اسلامی «نامتوازن، چندلایه و سلب‌کننده امنیت متجاوز خواهد بود.»\n\nمعاون مسعود پزشکیان همچین افزود: «آمریکایی‌ها باید به فکر ذخیره بنزین و سوخت باشند؛ ماه‌های سیاهی در انتظار اقتصاد آمریکاست.»",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "17:20:33",
-      "gregorian_utc": "2026-09-03T13:50:33+00:00",
+      "tehran_time": "17:20:48",
+      "gregorian_utc": "2026-09-03T13:50:48+00:00",
       "media_type": "photo",
-      "media_size_bytes": 91450,
-      "media_size_human": "89.31 KB",
+      "media_size_bytes": 111870,
+      "media_size_human": "109.25 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355578_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355578_photo.jpg",
+      "media_local_path": "media/IranintlTV_355579_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355579_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T15:00:48.048151+00:00"
+      "archived_at": "2026-09-03T15:10:46.733062+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1067,7 +1067,7 @@
       "media_local_path": "media/satlastnews_76380_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76380_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T15:00:48.421919+00:00"
+      "archived_at": "2026-09-03T15:10:47.160224+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1085,7 +1085,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T15:00:48.760146+00:00"
+      "archived_at": "2026-09-03T15:10:47.509390+00:00"
     }
   ]
 }
