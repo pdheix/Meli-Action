@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T00:22:55.648446+00:00",
-  "shamsi_generated": "1405/06/12 00:22:55 تهران",
+  "generated_at": "2026-09-03T00:34:31.420353+00:00",
+  "shamsi_generated": "1405/06/12 00:34:31 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -41,25 +41,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T00:20:30.158650+00:00"
+      "archived_at": "2026-09-03T00:30:44.841891+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355497,
-      "message_link": "https://t.me/IranintlTV/355497",
-      "text": "رویترز گزارش داد جمهوری اسلامی ۱۱ کشتی دیگر را به فهرست سیاه شناورهای عبوری از تنگه هرمز اضافه کرده و شمار کشتی‌های این فهرست را به ۵۶ فروند رسانده است.\n\nبر اساس مقررات اعلام‌شده، کشتی‌های قرارگرفته در این فهرست در صورت تلاش برای عبور از تنگه هرمز ممکن است با جریمه، توقیف یا مصادره روبه‌رو شوند. تهران پیش‌تر ۴۵ نفتکش را به اتهام نقض مقررات تعیین‌شده برای عبور از این آبراه در فهرست سیاه قرار داده بود.\n\nنهاد موسوم به «اداره تنگه خلیج فارس» نیز هشدار داد کشتی‌هایی که برای انتقال محموله با شناورهای این فهرست همکاری نکنند، به فهرست سیاه اضافه خواهند شد.\n\nرویترز پیش‌تر گزارش داده بود دست‌کم سه پالایشگاه هندی و یک شرکت بزرگ بین‌المللی انرژی به‌دلیل نگرانی‌های امنیتی تصمیم گرفته‌اند استفاده از کشتی‌های قرارگرفته در این فهرست را متوقف کنند.\n\nhttps://iranintl.com/202609029067",
+      "message_id": 355499,
+      "message_link": "https://t.me/IranintlTV/355499",
+      "text": "وای‌نت گزارش داد نفتکش‌هایی که با حمایت آمریکا از تنگه هرمز عبور می‌کنند، برای کاهش خطر حملات جمهوری اسلامی عمدتا شبانه و با سامانه‌های شناسایی خودکار خاموش حرکت می‌کنند.\n\nبه نوشته وای‌نت، نفتکش‌ها با کمک نیروی دریایی آمریکا از بخش جنوبی تنگه عبور و سپس در دریای عمان محموله خود را به کشتی‌های دیگر منتقل می‌کنند. سی‌ان‌ان طی دو روز بیش از ۱۲ انتقال کشتی‌به‌کشتی را مشاهده کرده است.\n\nدونالد ترامپ، رییس‌جمهوری آمریکا، گفته است حدود ۳۰ کشتی هر شب با کمک نیروی دریایی از تنگه عبور می‌کنند. با این حال، داده‌های کپلر شمار کشتی‌های عبوری را در یک روز ۱۰ فروند و میانگین ۱۰ روزه را حدود ۱۵ کشتی اعلام کرده بود.\n\nوال‌استریت‌ژورنال نیز نوشت مقام‌های آمریکایی از عبور روزانه بیش از هشت میلیون بشکه نفت سخن می‌گویند، در حالی که برآورد شرکت‌های ردیابی بین دو تا شش میلیون بشکه بوده است.\n\nوای‌نت نوشت با وجود افزایش انتقال نفت، مسیر کنونی همچنان پرخطر، پرهزینه و وابسته به حمایت نظامی آمریکا است و میزان تردد با سطح پیش از جنگ فاصله دارد.\n\nhttps://iranintl.com/202609023329",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "03:30:32",
-      "gregorian_utc": "2026-09-03T00:00:32+00:00",
+      "tehran_time": "03:56:33",
+      "gregorian_utc": "2026-09-03T00:26:33+00:00",
       "media_type": "photo",
-      "media_size_bytes": 149075,
-      "media_size_human": "145.58 KB",
+      "media_size_bytes": 183701,
+      "media_size_human": "179.40 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355497_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355497_photo.jpg",
+      "media_local_path": "media/IranintlTV_355499_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355499_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T00:20:30.396495+00:00"
+      "archived_at": "2026-09-03T00:30:45.277486+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -77,25 +77,25 @@
       "media_local_path": "media/satlastnews_76400_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76400_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T00:20:30.690338+00:00"
+      "archived_at": "2026-09-03T00:30:46.485352+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120554,
-      "message_link": "https://t.me/Mellig/120554",
-      "text": "🔴 #خبر_فوری\nآکسیوس:\nویتکاف، فرستاده ویژه ترامپ امروز جلسه ای پنهانی با مشاور امنیت ملی دولت امارات برای افزایش فشار اقتصادی و قطع تمام شریان های مالی تهران در امارات و بسته شدن صرافی های وابسته به ایران در امارات،\nبرگزار کرد.",
+      "message_id": 120556,
+      "message_link": "https://t.me/Mellig/120556",
+      "text": "",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "03:08:21",
-      "gregorian_utc": "2026-09-02T23:38:21+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T00:20:30.938412+00:00"
+      "tehran_time": "03:56:35",
+      "gregorian_utc": "2026-09-03T00:26:35+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 123769,
+      "media_size_human": "120.87 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_120556_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120556_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-09-03T00:30:46.844093+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -113,7 +113,7 @@
       "media_local_path": "media/khabarsara53_11_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_11_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T00:20:31.152960+00:00"
+      "archived_at": "2026-09-03T00:30:47.165410+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -131,25 +131,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T00:20:30.158696+00:00"
+      "archived_at": "2026-09-03T00:30:44.841942+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355496,
-      "message_link": "https://t.me/IranintlTV/355496",
-      "text": "اکسیوس به نقل از دو منبع آگاه گزارش داد استیو ویتکاف، فرستاده ویژه ترامپ، آخر هفته گذشته در جزیره ساردینیا با شیخ طحنون بن زاید آل نهیان، مشاور امنیت ملی امارات متحده عربی، درباره گام‌های بعدی در قبال جمهوری اسلامی گفت‌وگو کرد.\nاین دیدار چند روز پس از اعلام «عملیات طرد اقتصادی» جمهوری اسلامی از سوی اسکات بسنت، وزیر خزانه‌داری آمریکا، انجام شد. به گفته یک منبع، بسنت پیش از اعلام این طرح با طحنون بن زاید گفت‌وگو کرده بود.\nاکسیوس نوشت مقام‌های اماراتی به دولت ترامپ گفته‌اند کارزار فشار اقتصادی برای موثر بودن باید همه کشورهای اصلی طرف تجارت با جمهوری اسلامی را شامل شود.\nبه گفته منابع، یک هیات ایرانی ۲۰ مرداد برای گفت‌وگو با مقام‌های اماراتی به ابوظبی سفر و ضمن درخواست کمک برای تامین غذا و دارو، خواستار همکاری نکردن امارات با تحریم‌های آمریکا شد که این درخواست رد شد.\nاکسیوس افزود چند روز بعد، سپاه پاسداران حملات به نفتکش‌های شرکت ملی نفت امارات را تشدید کرد و مقام‌های اماراتی تصمیم گرفتند روابط تجاری با ایران را تعلیق کنند. تحریم‌های ثانویه آتی آمریکا نیز یکی از عوامل موثر بر این تصمیم بود، اما دلیل اصلی آن نبود.",
+      "message_id": 355498,
+      "message_link": "https://t.me/IranintlTV/355498",
+      "text": "وال‌استریت‌ژورنال در یادداشتی نوشت دیدگاه مقام‌های دولت دونالد ترامپ، رییس‌جمهوری آمریکا، درباره دوام جمهوری اسلامی در حال تغییر است و احتمال فروپاشی حکومت ایران بار دیگر در واشینگتن مطرح شده است.\n\nاسکات بسنت، وزیر خزانه‌داری آمریکا، دوشنبه گفت فروپاشی جمهوری اسلامی ممکن است «ظرف چند هفته یا چند ماه» رخ دهد.\n\nوال‌استریت‌ژورنال نوشت زمان یا وقوع چنین تحولی قابل پیش‌بینی نیست، اما کوچک شدن اقتصاد، سقوط ارزش پول، نارضایتی شهروندان و تضعیف نیروهای نظامی، فشار بر جمهوری اسلامی را افزایش داده‌اند.\n\nاین روزنامه همچنین به اظهارات مسعود پزشکیان، رییس‌جمهور جمهوری اسلامی، درباره وضعیت وخیم اقتصاد و واکنش مجتبی خامنه‌ای، رهبر جمهوری اسلامی، به سخنان او اشاره کرد.\n\nبه نوشته وال‌استریت‌ژورنال، محاصره بنادر ایران کمبود شدید سوخت ایجاد کرده و حکومت را با چالش افزایش قیمت بنزین روبه‌رو کرده است. این روزنامه نوشت با توجه به سابقه اعتراضات پس از افزایش قیمت بنزین، شرایط کنونی می‌تواند زمینه اعتراضات تازه را فراهم کند.\n\nhttps://iranintl.com/202609026700",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "03:11:04",
-      "gregorian_utc": "2026-09-02T23:41:04+00:00",
+      "tehran_time": "03:51:16",
+      "gregorian_utc": "2026-09-03T00:21:16+00:00",
       "media_type": "photo",
-      "media_size_bytes": 170121,
-      "media_size_human": "166.13 KB",
+      "media_size_bytes": 214829,
+      "media_size_human": "209.79 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355496_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355496_photo.jpg",
+      "media_local_path": "media/IranintlTV_355498_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355498_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T00:20:30.396553+00:00"
+      "archived_at": "2026-09-03T00:30:45.277657+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -167,25 +167,25 @@
       "media_local_path": "media/satlastnews_76399_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76399_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T00:20:30.690448+00:00"
+      "archived_at": "2026-09-03T00:30:46.485462+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120553,
-      "message_link": "https://t.me/Mellig/120553",
-      "text": "🔴 #خبر_فوری\nترامپ:\nایران در حال آماده کردن موشک هایی برای پرتاب مین به تنگه هرمز است،\nچنین چیزی را هیچکس تاکنون ندیده است.",
+      "message_id": 120555,
+      "message_link": "https://t.me/Mellig/120555",
+      "text": "**حمله یک گروه مسلح به ایست بازرسی حشد الشعبی در منطقه التون کوبری در استان کرکوک، واقع در شمال عراق**\n**چندین کشته و زخمی به بیمارستان رسیدند.**",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "02:34:54",
-      "gregorian_utc": "2026-09-02T23:04:54+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T00:20:30.938471+00:00"
+      "tehran_time": "03:56:35",
+      "gregorian_utc": "2026-09-03T00:26:35+00:00",
+      "media_type": "video",
+      "media_size_bytes": 2903315,
+      "media_size_human": "2.77 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_120555_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120555_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-09-03T00:30:46.844186+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -203,7 +203,7 @@
       "media_local_path": "media/khabarsara53_10_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_10_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T00:20:31.153029+00:00"
+      "archived_at": "2026-09-03T00:30:47.165481+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -221,25 +221,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T00:20:30.158728+00:00"
+      "archived_at": "2026-09-03T00:30:44.841977+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355495,
-      "message_link": "https://t.me/IranintlTV/355495",
-      "text": "ایسنا گزارش داد اکرم الکعبی، دبیرکل گروه جنبش النجبا عراق که مورد حمایت جمهوری اسلامی است، نیروهای آمریکایی مستقر در عراق را تهدید کرد که اگر پس از ۳۰ سپتامبر در این کشور بمانند، هدف قرار خواهند گرفت.\n\nالکعبی همچنین گفت دونالد ترامپ، رییس‌جمهوری آمریکا، پس از آنکه نتوانسته جمهوری اسلامی را شکست دهد، اکنون در پی پیروزی در عراق است و افزود برنامه‌های آمریکا در این کشور محقق نخواهد شد.\n\nآمریکا در مارس ۲۰۱۹ گروه جنبش النجبا عراق و اکرم الکعبی، دبیرکل این گروه را در فهرست «تروریست‌های جهانی به‌طور ویژه تعیین‌شده» قرار داد. \nhttps://iranintl.com/202609021522",
+      "message_id": 355497,
+      "message_link": "https://t.me/IranintlTV/355497",
+      "text": "رویترز گزارش داد جمهوری اسلامی ۱۱ کشتی دیگر را به فهرست سیاه شناورهای عبوری از تنگه هرمز اضافه کرده و شمار کشتی‌های این فهرست را به ۵۶ فروند رسانده است.\n\nبر اساس مقررات اعلام‌شده، کشتی‌های قرارگرفته در این فهرست در صورت تلاش برای عبور از تنگه هرمز ممکن است با جریمه، توقیف یا مصادره روبه‌رو شوند. تهران پیش‌تر ۴۵ نفتکش را به اتهام نقض مقررات تعیین‌شده برای عبور از این آبراه در فهرست سیاه قرار داده بود.\n\nنهاد موسوم به «اداره تنگه خلیج فارس» نیز هشدار داد کشتی‌هایی که برای انتقال محموله با شناورهای این فهرست همکاری نکنند، به فهرست سیاه اضافه خواهند شد.\n\nرویترز پیش‌تر گزارش داده بود دست‌کم سه پالایشگاه هندی و یک شرکت بزرگ بین‌المللی انرژی به‌دلیل نگرانی‌های امنیتی تصمیم گرفته‌اند استفاده از کشتی‌های قرارگرفته در این فهرست را متوقف کنند.\n\nhttps://iranintl.com/202609029067",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "02:59:18",
-      "gregorian_utc": "2026-09-02T23:29:18+00:00",
+      "tehran_time": "03:30:32",
+      "gregorian_utc": "2026-09-03T00:00:32+00:00",
       "media_type": "photo",
-      "media_size_bytes": 146455,
-      "media_size_human": "143.02 KB",
+      "media_size_bytes": 149075,
+      "media_size_human": "145.58 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355495_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355495_photo.jpg",
+      "media_local_path": "media/IranintlTV_355497_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355497_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T00:20:30.396652+00:00"
+      "archived_at": "2026-09-03T00:30:45.277778+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -257,25 +257,25 @@
       "media_local_path": "media/satlastnews_76398_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76398_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T00:20:30.690511+00:00"
+      "archived_at": "2026-09-03T00:30:46.485556+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120552,
-      "message_link": "https://t.me/Mellig/120552",
-      "text": "🔸**ترامپ: حکومت ایران در مقطعی دیگر قادر نخواهد بود به مردم شلیک کند**\n\n🔻دونالد ترامپ در پاسخ به خبرنگاری که پرسید آیا از طریق سازمان سیا مردم ایران را مسلح خواهد کرد، گفت که نمی‌تواند به این پرسش پاسخ دهد.\n\n🔻او افزود که رژیم ایران روزبه‌روز ضعیف‌تر می‌شود و در مقطعی دیگر قادر نخواهد بود به مردم شلیک کند.\n\n🔻ترامپ گفت که شمار کشته‌شدگان اعتراضات ایران بیش از ۵۰ هزار نفر بوده و به نظر می‌رسد این رقم نزدیک به ۶۵ هزار نفر باشد.\n\n🔻او همچنین گفت که ایران مانند دیگر کشورها نیست که مردم بتوانند از طریق گفت‌وگو با حکومت خود مسائل را حل کنند، زیرا جمهوری اسلامی با مسلسل و تک‌تیرانداز به آنها شلیک می‌کند.",
+      "message_id": 120554,
+      "message_link": "https://t.me/Mellig/120554",
+      "text": "🔴 #خبر_فوری\nآکسیوس:\nویتکاف، فرستاده ویژه ترامپ امروز جلسه ای پنهانی با مشاور امنیت ملی دولت امارات برای افزایش فشار اقتصادی و قطع تمام شریان های مالی تهران در امارات و بسته شدن صرافی های وابسته به ایران در امارات،\nبرگزار کرد.",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "01:57:01",
-      "gregorian_utc": "2026-09-02T22:27:01+00:00",
-      "media_type": "video",
-      "media_size_bytes": 37656670,
-      "media_size_human": "35.91 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/Mellig_120552_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120552_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-09-03T00:20:30.938619+00:00"
+      "tehran_time": "03:08:21",
+      "gregorian_utc": "2026-09-02T23:38:21+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-09-03T00:30:46.844262+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -293,7 +293,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T00:20:31.153056+00:00"
+      "archived_at": "2026-09-03T00:30:47.165541+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -311,25 +311,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T00:20:30.158764+00:00"
+      "archived_at": "2026-09-03T00:30:44.842018+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355493,
-      "message_link": "https://t.me/IranintlTV/355493",
-      "text": "🔻جنجالی‌ترین صحنه دربی ۱۰۷ استقلال و پرسپولیس، زخمی و خونین شدن گلوی عارف آقاسی، مدافع استقلال در زمان توقف بازی در پایان نیمه اول و در جریان درگیری با حسین کنعانی‌زادگان، کاپیتان پرسپولیس بود.\n\n🔹موعود بنیادی‌فرد، داور مسابقه گلوی خونین آقاسی را دیده بود،‌ اما هیچ تصمیمی برای جریمه کنعانی‌زادگان نگرفت. \n\n🔹سایت فوتبالی ویدیویی منتشر کرده که نشان می‌دهد در صحنه درگیری کاپیتان پرسپولیس با مدافع استقلال چه گذشته است. این درحالی است که کنعانی‌زادگان پس از مسابقه، منکر هر حادثه‌ای شد و البته با یادآوری «قطع نخاع شدن پادوانی» در استقلال، چنین «زد و خورد»هایی را در فوتبال طبیعی دانست. \n\n🔹همچنین ورزش سه با انتشار تصویری از این صحنه در این باره نوشته که بنیادی‌فرد از تیم داوری درباره زخم شدن گلوی آقاسی سوال پرسیده که داوران اتاق وی‌ای‌آر به دلیل نداشتن تصویر مناسب و دقیق از درگیری «این صحنه را شایسته دریافت کارت قرمز تشخیص نداده‌اند.»\n\n🔹به نوشته این رسانه احتمالا حسین کنعانی‌زادگان «ناخن‌های دستش را کوتاه نکرده و این تماس باعث خراشیدگی در گلوی عارف آقاسی شده است.»\n\n@iranintltvsport",
+      "message_id": 355496,
+      "message_link": "https://t.me/IranintlTV/355496",
+      "text": "اکسیوس به نقل از دو منبع آگاه گزارش داد استیو ویتکاف، فرستاده ویژه ترامپ، آخر هفته گذشته در جزیره ساردینیا با شیخ طحنون بن زاید آل نهیان، مشاور امنیت ملی امارات متحده عربی، درباره گام‌های بعدی در قبال جمهوری اسلامی گفت‌وگو کرد.\nاین دیدار چند روز پس از اعلام «عملیات طرد اقتصادی» جمهوری اسلامی از سوی اسکات بسنت، وزیر خزانه‌داری آمریکا، انجام شد. به گفته یک منبع، بسنت پیش از اعلام این طرح با طحنون بن زاید گفت‌وگو کرده بود.\nاکسیوس نوشت مقام‌های اماراتی به دولت ترامپ گفته‌اند کارزار فشار اقتصادی برای موثر بودن باید همه کشورهای اصلی طرف تجارت با جمهوری اسلامی را شامل شود.\nبه گفته منابع، یک هیات ایرانی ۲۰ مرداد برای گفت‌وگو با مقام‌های اماراتی به ابوظبی سفر و ضمن درخواست کمک برای تامین غذا و دارو، خواستار همکاری نکردن امارات با تحریم‌های آمریکا شد که این درخواست رد شد.\nاکسیوس افزود چند روز بعد، سپاه پاسداران حملات به نفتکش‌های شرکت ملی نفت امارات را تشدید کرد و مقام‌های اماراتی تصمیم گرفتند روابط تجاری با ایران را تعلیق کنند. تحریم‌های ثانویه آتی آمریکا نیز یکی از عوامل موثر بر این تصمیم بود، اما دلیل اصلی آن نبود.",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "02:48:02",
-      "gregorian_utc": "2026-09-02T23:18:02+00:00",
-      "media_type": "video",
-      "media_size_bytes": 3806426,
-      "media_size_human": "3.63 MB",
+      "tehran_time": "03:11:04",
+      "gregorian_utc": "2026-09-02T23:41:04+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 170121,
+      "media_size_human": "166.13 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355493_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355493_video.mp4",
+      "media_local_path": "media/IranintlTV_355496_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355496_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T00:20:30.431827+00:00"
+      "archived_at": "2026-09-03T00:30:45.277825+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -347,25 +347,25 @@
       "media_local_path": "media/satlastnews_76397_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76397_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T00:20:30.690558+00:00"
+      "archived_at": "2026-09-03T00:30:46.485617+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120551,
-      "message_link": "https://t.me/Mellig/120551",
-      "text": "🔸**ترامپ: جمهوری اسلامی در حال ساخت موشکی برای رهاکردن مین بود**\n\n🔻ترامپ روز چهارشنبه، ۱۱ شهریور ۱۴۰۵، گفت که جمهوری اسلامی در تلاش بوده است موشکی بسازد که مین رها می‌کند. او افزود که ساخت این نوع موشک تقریبا تکمیل شده بود، اما ایالات متحده آن‌ها را در حملات اخیر منهدم کرده است.\n\n🔻او همچنین گفت که آمریکا تمام تجهیزات جدیدی را که جمهوری اسلامی تلاش کرده بود در امتداد تنگه هرمز مستقر کند، منهدم کرده است؛ تجهیزاتی که به گفته او، برخی دفاعی و برخی تهاجمی بودند.",
+      "message_id": 120553,
+      "message_link": "https://t.me/Mellig/120553",
+      "text": "🔴 #خبر_فوری\nترامپ:\nایران در حال آماده کردن موشک هایی برای پرتاب مین به تنگه هرمز است،\nچنین چیزی را هیچکس تاکنون ندیده است.",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "01:56:01",
-      "gregorian_utc": "2026-09-02T22:26:01+00:00",
-      "media_type": "video",
-      "media_size_bytes": 27423092,
-      "media_size_human": "26.15 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/Mellig_120551_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120551_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-09-03T00:20:30.938717+00:00"
+      "tehran_time": "02:34:54",
+      "gregorian_utc": "2026-09-02T23:04:54+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-09-03T00:30:46.844319+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -383,7 +383,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T00:20:31.153094+00:00"
+      "archived_at": "2026-09-03T00:30:47.165586+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -401,25 +401,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T00:20:30.158788+00:00"
+      "archived_at": "2026-09-03T00:30:44.842049+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355492,
-      "message_link": "https://t.me/IranintlTV/355492",
-      "text": "با «خامنه‌ای»، «فاضلاب» و «پوشک» جمله بسازید!\n\nدر جمهوری اسلامی، حتی افتتاح فاضلاب مراغه هم بدون نام علی و مجتبی خامنه‌ای پیش نمی‌رود؛ از آن طرف، قیمت پوشک از ۳۶۰ هزار تومان به ۶۵۵ هزار تومان رسیده، اما حامیان مجتبی نگران گرانی نیستند؛ نگران‌اند که چرا نام رهبرشان کنار پوشک آمده است!\n\nیکی نوشته بود: «پوشک دست‌کم فاضلاب را جمع می‌کند، نه اینکه هر روز مشکل تازه‌ای برای مردم درست کند!»\n\nکامبیز حسینی در «برنامه» به این موضوع می پردازد.\n\nحالا نوبت شماست؛ با «خامنه‌ای»، «فاضلاب» و «پوشک» جمله بسازید و در کامنت‌ها بنویسید.\n\n«یک ایران صدای شما را می‌شنود»\nدوشنبه تا پنجشنبه ۱۱ شب تهران\nاز تلویزیون ایران اینترنشنال\n\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\nhttps://youtu.be/-weX_20Nze0\n@iranintltv",
+      "message_id": 355495,
+      "message_link": "https://t.me/IranintlTV/355495",
+      "text": "ایسنا گزارش داد اکرم الکعبی، دبیرکل گروه جنبش النجبا عراق که مورد حمایت جمهوری اسلامی است، نیروهای آمریکایی مستقر در عراق را تهدید کرد که اگر پس از ۳۰ سپتامبر در این کشور بمانند، هدف قرار خواهند گرفت.\n\nالکعبی همچنین گفت دونالد ترامپ، رییس‌جمهوری آمریکا، پس از آنکه نتوانسته جمهوری اسلامی را شکست دهد، اکنون در پی پیروزی در عراق است و افزود برنامه‌های آمریکا در این کشور محقق نخواهد شد.\n\nآمریکا در مارس ۲۰۱۹ گروه جنبش النجبا عراق و اکرم الکعبی، دبیرکل این گروه را در فهرست «تروریست‌های جهانی به‌طور ویژه تعیین‌شده» قرار داد. \nhttps://iranintl.com/202609021522",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "02:37:35",
-      "gregorian_utc": "2026-09-02T23:07:35+00:00",
-      "media_type": "video",
-      "media_size_bytes": 3611241,
-      "media_size_human": "3.44 MB",
+      "tehran_time": "02:59:18",
+      "gregorian_utc": "2026-09-02T23:29:18+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 146455,
+      "media_size_human": "143.02 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355492_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355492_video.mp4",
+      "media_local_path": "media/IranintlTV_355495_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355495_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T00:20:30.431995+00:00"
+      "archived_at": "2026-09-03T00:30:45.277920+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -437,25 +437,25 @@
       "media_local_path": "media/satlastnews_76392_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76392_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T00:20:30.690652+00:00"
+      "archived_at": "2026-09-03T00:30:46.485721+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120550,
-      "message_link": "https://t.me/Mellig/120550",
-      "text": "🔴 #خبر_فوری\nخبرگزاری بین المللی وابسته به سپاه:\nهم اکنون صدای انفجارها در جنوب ایران شنیده می‌شود.",
+      "message_id": 120552,
+      "message_link": "https://t.me/Mellig/120552",
+      "text": "🔸**ترامپ: حکومت ایران در مقطعی دیگر قادر نخواهد بود به مردم شلیک کند**\n\n🔻دونالد ترامپ در پاسخ به خبرنگاری که پرسید آیا از طریق سازمان سیا مردم ایران را مسلح خواهد کرد، گفت که نمی‌تواند به این پرسش پاسخ دهد.\n\n🔻او افزود که رژیم ایران روزبه‌روز ضعیف‌تر می‌شود و در مقطعی دیگر قادر نخواهد بود به مردم شلیک کند.\n\n🔻ترامپ گفت که شمار کشته‌شدگان اعتراضات ایران بیش از ۵۰ هزار نفر بوده و به نظر می‌رسد این رقم نزدیک به ۶۵ هزار نفر باشد.\n\n🔻او همچنین گفت که ایران مانند دیگر کشورها نیست که مردم بتوانند از طریق گفت‌وگو با حکومت خود مسائل را حل کنند، زیرا جمهوری اسلامی با مسلسل و تک‌تیرانداز به آنها شلیک می‌کند.",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "01:34:06",
-      "gregorian_utc": "2026-09-02T22:04:06+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T00:20:30.938760+00:00"
+      "tehran_time": "01:57:01",
+      "gregorian_utc": "2026-09-02T22:27:01+00:00",
+      "media_type": "video",
+      "media_size_bytes": 37656670,
+      "media_size_human": "35.91 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_120552_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120552_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-09-03T00:30:46.844445+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -473,7 +473,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T00:20:31.153115+00:00"
+      "archived_at": "2026-09-03T00:30:47.165613+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -491,25 +491,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T00:20:30.158819+00:00"
+      "archived_at": "2026-09-03T00:30:44.842085+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355491,
-      "message_link": "https://t.me/IranintlTV/355491",
-      "text": "زاد و ولد موشک دوربرد «خیبر شکن» در آسمان!\n\nدر ویدئوی ۲۴ثانیه‌ای موشک‌های دوربرد «خیبرشکن» که رسانه‌های وابسته به سپاه، منتشر کرده‌اند، پنج موشک روی زمین دیده می‌شود؛ اما هنگام شلیک، شش موشک به آسمان می‌رود!\n\nجمهوری اسلامی دیگر فقط خبر پیروزی را جعل نمی‌کند؛ ظاهراً موشک را هم با هوش مصنوعی پرتاب می‌کند!\n\nکامبیز حسینی در «برنامه» به این موضوع می پردازد.\n\n«یک ایران صدای شما را می‌شنود»\nدوشنبه تا پنجشنبه ۱۱ شب تهران\nاز تلویزیون ایران اینترنشنال\n\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\nhttps://youtu.be/-weX_20Nze0\n@iranintltv",
+      "message_id": 355493,
+      "message_link": "https://t.me/IranintlTV/355493",
+      "text": "🔻جنجالی‌ترین صحنه دربی ۱۰۷ استقلال و پرسپولیس، زخمی و خونین شدن گلوی عارف آقاسی، مدافع استقلال در زمان توقف بازی در پایان نیمه اول و در جریان درگیری با حسین کنعانی‌زادگان، کاپیتان پرسپولیس بود.\n\n🔹موعود بنیادی‌فرد، داور مسابقه گلوی خونین آقاسی را دیده بود،‌ اما هیچ تصمیمی برای جریمه کنعانی‌زادگان نگرفت. \n\n🔹سایت فوتبالی ویدیویی منتشر کرده که نشان می‌دهد در صحنه درگیری کاپیتان پرسپولیس با مدافع استقلال چه گذشته است. این درحالی است که کنعانی‌زادگان پس از مسابقه، منکر هر حادثه‌ای شد و البته با یادآوری «قطع نخاع شدن پادوانی» در استقلال، چنین «زد و خورد»هایی را در فوتبال طبیعی دانست. \n\n🔹همچنین ورزش سه با انتشار تصویری از این صحنه در این باره نوشته که بنیادی‌فرد از تیم داوری درباره زخم شدن گلوی آقاسی سوال پرسیده که داوران اتاق وی‌ای‌آر به دلیل نداشتن تصویر مناسب و دقیق از درگیری «این صحنه را شایسته دریافت کارت قرمز تشخیص نداده‌اند.»\n\n🔹به نوشته این رسانه احتمالا حسین کنعانی‌زادگان «ناخن‌های دستش را کوتاه نکرده و این تماس باعث خراشیدگی در گلوی عارف آقاسی شده است.»\n\n@iranintltvsport",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "02:35:10",
-      "gregorian_utc": "2026-09-02T23:05:10+00:00",
+      "tehran_time": "02:48:02",
+      "gregorian_utc": "2026-09-02T23:18:02+00:00",
       "media_type": "video",
-      "media_size_bytes": 2445870,
-      "media_size_human": "2.33 MB",
+      "media_size_bytes": 3806426,
+      "media_size_human": "3.63 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355491_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355491_video.mp4",
+      "media_local_path": "media/IranintlTV_355493_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355493_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T00:20:30.432120+00:00"
+      "archived_at": "2026-09-03T00:30:45.293783+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -527,25 +527,25 @@
       "media_local_path": "media/satlastnews_76391_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76391_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T00:20:30.690707+00:00"
+      "archived_at": "2026-09-03T00:30:46.485790+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120549,
-      "message_link": "https://t.me/Mellig/120549",
-      "text": "دوستان عزیز از این تویت حمایت کنید \nپیشبینی دقیق از نوستاراداموس عرزشی 😁😁😁\nهمه ماندند به جز سید علی گدا و اصحاب و سردارانش.\n\nhttps://x.com/mobarez_nastooh/status/2095251354147024926",
+      "message_id": 120551,
+      "message_link": "https://t.me/Mellig/120551",
+      "text": "🔸**ترامپ: جمهوری اسلامی در حال ساخت موشکی برای رهاکردن مین بود**\n\n🔻ترامپ روز چهارشنبه، ۱۱ شهریور ۱۴۰۵، گفت که جمهوری اسلامی در تلاش بوده است موشکی بسازد که مین رها می‌کند. او افزود که ساخت این نوع موشک تقریبا تکمیل شده بود، اما ایالات متحده آن‌ها را در حملات اخیر منهدم کرده است.\n\n🔻او همچنین گفت که آمریکا تمام تجهیزات جدیدی را که جمهوری اسلامی تلاش کرده بود در امتداد تنگه هرمز مستقر کند، منهدم کرده است؛ تجهیزاتی که به گفته او، برخی دفاعی و برخی تهاجمی بودند.",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "00:15:20",
-      "gregorian_utc": "2026-09-02T20:45:20+00:00",
-      "media_type": "webpage",
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-09-03T00:20:30.938810+00:00"
+      "tehran_time": "01:56:01",
+      "gregorian_utc": "2026-09-02T22:26:01+00:00",
+      "media_type": "video",
+      "media_size_bytes": 27423092,
+      "media_size_human": "26.15 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_120551_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120551_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-09-03T00:30:46.844574+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -563,7 +563,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T00:20:31.153136+00:00"
+      "archived_at": "2026-09-03T00:30:47.165639+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -581,25 +581,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T00:20:30.158843+00:00"
+      "archived_at": "2026-09-03T00:30:44.842114+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355490,
-      "message_link": "https://t.me/IranintlTV/355490",
-      "text": "قربانی‌کردن ۱۰ هزار گوسفند برای مجتبی!\n\nبرای سلامتی مجتبی پویشی راه انداخته‌اند تا ۱۰ هزار گوسفند، هر کدام به ارزش ۲۵ میلیون تومان، قربانی شود؛ یعنی در مجموع ۲۵۰ میلیارد تومان! مردمی که پول گوشت، دارو، درمان و اجاره ندارند، حالا باید برای سلامتی آقازاده پول بدهند.\n\nکامبیز حسینی در «برنامه» به این موضوع می پردازد.\n\n«یک ایران صدای شما را می‌شنود»\nدوشنبه تا پنجشنبه ۱۱ شب تهران\nاز تلویزیون ایران اینترنشنال\n\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\nhttps://youtu.be/-weX_20Nze0\n@iranintltv",
+      "message_id": 355492,
+      "message_link": "https://t.me/IranintlTV/355492",
+      "text": "با «خامنه‌ای»، «فاضلاب» و «پوشک» جمله بسازید!\n\nدر جمهوری اسلامی، حتی افتتاح فاضلاب مراغه هم بدون نام علی و مجتبی خامنه‌ای پیش نمی‌رود؛ از آن طرف، قیمت پوشک از ۳۶۰ هزار تومان به ۶۵۵ هزار تومان رسیده، اما حامیان مجتبی نگران گرانی نیستند؛ نگران‌اند که چرا نام رهبرشان کنار پوشک آمده است!\n\nیکی نوشته بود: «پوشک دست‌کم فاضلاب را جمع می‌کند، نه اینکه هر روز مشکل تازه‌ای برای مردم درست کند!»\n\nکامبیز حسینی در «برنامه» به این موضوع می پردازد.\n\nحالا نوبت شماست؛ با «خامنه‌ای»، «فاضلاب» و «پوشک» جمله بسازید و در کامنت‌ها بنویسید.\n\n«یک ایران صدای شما را می‌شنود»\nدوشنبه تا پنجشنبه ۱۱ شب تهران\nاز تلویزیون ایران اینترنشنال\n\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\nhttps://youtu.be/-weX_20Nze0\n@iranintltv",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "02:32:59",
-      "gregorian_utc": "2026-09-02T23:02:59+00:00",
+      "tehran_time": "02:37:35",
+      "gregorian_utc": "2026-09-02T23:07:35+00:00",
       "media_type": "video",
-      "media_size_bytes": 3473678,
-      "media_size_human": "3.31 MB",
+      "media_size_bytes": 3611241,
+      "media_size_human": "3.44 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355490_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355490_video.mp4",
+      "media_local_path": "media/IranintlTV_355492_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355492_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T00:20:30.432211+00:00"
+      "archived_at": "2026-09-03T00:30:45.293924+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -617,25 +617,25 @@
       "media_local_path": "media/satlastnews_76388_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76388_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T00:20:30.690757+00:00"
+      "archived_at": "2026-09-03T00:30:46.485852+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120548,
-      "message_link": "https://t.me/Mellig/120548",
-      "text": "برنامه زنده آغاز شد بشتابید \n\nبرنامه زنده در کیک :  🦿🦿🦿\n\nhttps://kick.com/mehdimirghaderi\n\nبرنامه زنده در یوتیوب : 🖥🖥\n\nhttps://www.youtube.com/@MehdiMirghaderi",
-      "shamsi_date": "1405/06/11",
-      "tehran_time": "22:41:10",
-      "gregorian_utc": "2026-09-02T19:11:10+00:00",
-      "media_type": "webpage",
+      "message_id": 120550,
+      "message_link": "https://t.me/Mellig/120550",
+      "text": "🔴 #خبر_فوری\nخبرگزاری بین المللی وابسته به سپاه:\nهم اکنون صدای انفجارها در جنوب ایران شنیده می‌شود.",
+      "shamsi_date": "1405/06/12",
+      "tehran_time": "01:34:06",
+      "gregorian_utc": "2026-09-02T22:04:06+00:00",
+      "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
       "media_downloaded": false,
       "media_local_path": null,
       "media_link": null,
-      "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-09-03T00:20:30.938860+00:00"
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-09-03T00:30:46.844631+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -653,7 +653,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T00:20:31.153156+00:00"
+      "archived_at": "2026-09-03T00:30:47.165664+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -671,25 +671,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T00:20:30.158882+00:00"
+      "archived_at": "2026-09-03T00:30:44.842155+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355489,
-      "message_link": "https://t.me/IranintlTV/355489",
-      "text": "فرانس۲۴ در گزارشی راستی‌آزمایی نوشت هم‌زمان با ازسرگیری حملات آمریکا و جمهوری اسلامی، ویدیوهای قدیمی و نامرتبط در شبکه‌های اجتماعی به‌عنوان تصاویر حملات جدید تهران به پایگاه‌های آمریکا منتشر شده‌اند.\n\nاین رسانه نوشت ویدیویی که ادعا می‌شد پایگاهی آمریکایی در اردن را در حال سوختن نشان می‌دهد، حدود شش ماه پیش به حمله‌ای پهپادی در دبی نسبت داده شده بود. ویدیوی دیگری از حمله ادعایی به پایگاه آمریکا در اردن نیز مربوط به حمله پهپادی اوکراین به پالایشگاهی در روسیه در سال گذشته بود.\n\nفرانس۲۴ همچنین نوشت ویدیویی که به حمله جمهوری اسلامی به کنسولگری آمریکا در کویت نسبت داده شده، در واقع مربوط به انفجار یک خانه در جریان عملیات پلیس در ایالت ویرجینیا بوده است.\n\nاین رسانه ویدیویی منتسب به انفجار مین‌های دریایی جمهوری اسلامی در تنگه هرمز را نیز بررسی کرد و نوشت تصاویر مربوط به آزمایش هسته‌ای زیرآبی «واهو» آمریکا در سال ۱۹۵۸ در اقیانوس آرام است.\n\nفرانس۲۴ اعلام کرد انتشار این تصاویر گمراه‌کننده پس از دور تازه حملات آمریکا و جمهوری اسلامی شدت گرفته است.\nhttps://iranintl.com/202609022230",
+      "message_id": 355491,
+      "message_link": "https://t.me/IranintlTV/355491",
+      "text": "زاد و ولد موشک دوربرد «خیبر شکن» در آسمان!\n\nدر ویدئوی ۲۴ثانیه‌ای موشک‌های دوربرد «خیبرشکن» که رسانه‌های وابسته به سپاه، منتشر کرده‌اند، پنج موشک روی زمین دیده می‌شود؛ اما هنگام شلیک، شش موشک به آسمان می‌رود!\n\nجمهوری اسلامی دیگر فقط خبر پیروزی را جعل نمی‌کند؛ ظاهراً موشک را هم با هوش مصنوعی پرتاب می‌کند!\n\nکامبیز حسینی در «برنامه» به این موضوع می پردازد.\n\n«یک ایران صدای شما را می‌شنود»\nدوشنبه تا پنجشنبه ۱۱ شب تهران\nاز تلویزیون ایران اینترنشنال\n\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\nhttps://youtu.be/-weX_20Nze0\n@iranintltv",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "02:28:34",
-      "gregorian_utc": "2026-09-02T22:58:34+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 130181,
-      "media_size_human": "127.13 KB",
+      "tehran_time": "02:35:10",
+      "gregorian_utc": "2026-09-02T23:05:10+00:00",
+      "media_type": "video",
+      "media_size_bytes": 2445870,
+      "media_size_human": "2.33 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355489_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355489_photo.jpg",
+      "media_local_path": "media/IranintlTV_355491_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355491_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T00:20:30.432358+00:00"
+      "archived_at": "2026-09-03T00:30:45.294033+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -707,25 +707,25 @@
       "media_local_path": "media/satlastnews_76387_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76387_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T00:20:30.690809+00:00"
+      "archived_at": "2026-09-03T00:30:46.485917+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120547,
-      "message_link": "https://t.me/Mellig/120547",
-      "text": "🔴 #خبر_فوری\nهم اکنون ترامپ:\nبرای حمله دیگری به ایران آماده شده ایم.",
-      "shamsi_date": "1405/06/11",
-      "tehran_time": "22:13:11",
-      "gregorian_utc": "2026-09-02T18:43:11+00:00",
-      "media_type": null,
+      "message_id": 120549,
+      "message_link": "https://t.me/Mellig/120549",
+      "text": "دوستان عزیز از این تویت حمایت کنید \nپیشبینی دقیق از نوستاراداموس عرزشی 😁😁😁\nهمه ماندند به جز سید علی گدا و اصحاب و سردارانش.\n\nhttps://x.com/mobarez_nastooh/status/2095251354147024926",
+      "shamsi_date": "1405/06/12",
+      "tehran_time": "00:15:20",
+      "gregorian_utc": "2026-09-02T20:45:20+00:00",
+      "media_type": "webpage",
       "media_size_bytes": 0,
       "media_size_human": null,
       "media_downloaded": false,
       "media_local_path": null,
       "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T00:20:30.938894+00:00"
+      "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
+      "archived_at": "2026-09-03T00:30:46.844691+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -743,7 +743,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T00:20:31.153176+00:00"
+      "archived_at": "2026-09-03T00:30:47.165689+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -761,25 +761,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T00:20:30.158906+00:00"
+      "archived_at": "2026-09-03T00:30:44.842183+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355488,
-      "message_link": "https://t.me/IranintlTV/355488",
-      "text": "مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «حکومتی که عالی‌ترین مقام قضایی‌اش پس از خیزش مردم دستور صدور و اجرای سریع‌تر و بیشتر احکام اعدام را می‌دهد، نشان داده که نه می‌خواهد و نه می‌تواند اصلاح شود. این حکومت سال‌هاست راه اصلاح را بر خود بسته و با ادامه کشتار در خیابان و زندان، تنها راه باقی‌مانده را سرنگونی خود قرار داده است.»\n@iranintltv",
+      "message_id": 355490,
+      "message_link": "https://t.me/IranintlTV/355490",
+      "text": "قربانی‌کردن ۱۰ هزار گوسفند برای مجتبی!\n\nبرای سلامتی مجتبی پویشی راه انداخته‌اند تا ۱۰ هزار گوسفند، هر کدام به ارزش ۲۵ میلیون تومان، قربانی شود؛ یعنی در مجموع ۲۵۰ میلیارد تومان! مردمی که پول گوشت، دارو، درمان و اجاره ندارند، حالا باید برای سلامتی آقازاده پول بدهند.\n\nکامبیز حسینی در «برنامه» به این موضوع می پردازد.\n\n«یک ایران صدای شما را می‌شنود»\nدوشنبه تا پنجشنبه ۱۱ شب تهران\nاز تلویزیون ایران اینترنشنال\n\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\nhttps://youtu.be/-weX_20Nze0\n@iranintltv",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "02:24:02",
-      "gregorian_utc": "2026-09-02T22:54:02+00:00",
+      "tehran_time": "02:32:59",
+      "gregorian_utc": "2026-09-02T23:02:59+00:00",
       "media_type": "video",
-      "media_size_bytes": 767011,
-      "media_size_human": "749.03 KB",
+      "media_size_bytes": 3473678,
+      "media_size_human": "3.31 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355488_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355488_video.mp4",
+      "media_local_path": "media/IranintlTV_355490_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355490_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T00:20:30.432434+00:00"
+      "archived_at": "2026-09-03T00:30:45.294126+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -797,25 +797,25 @@
       "media_local_path": "media/satlastnews_76385_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76385_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T00:20:30.690854+00:00"
+      "archived_at": "2026-09-03T00:30:46.485975+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120546,
-      "message_link": "https://t.me/Mellig/120546",
-      "text": "🔴 #خبر_فوری\nخبرگزاری بین المللی وابسته به سپاه:\nهم اکنون نفوذ پهپادهای آمریکایی در مناطق شمال غربی ایران.",
+      "message_id": 120548,
+      "message_link": "https://t.me/Mellig/120548",
+      "text": "برنامه زنده آغاز شد بشتابید \n\nبرنامه زنده در کیک :  🦿🦿🦿\n\nhttps://kick.com/mehdimirghaderi\n\nبرنامه زنده در یوتیوب : 🖥🖥\n\nhttps://www.youtube.com/@MehdiMirghaderi",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "21:25:44",
-      "gregorian_utc": "2026-09-02T17:55:44+00:00",
-      "media_type": null,
+      "tehran_time": "22:41:10",
+      "gregorian_utc": "2026-09-02T19:11:10+00:00",
+      "media_type": "webpage",
       "media_size_bytes": 0,
       "media_size_human": null,
       "media_downloaded": false,
       "media_local_path": null,
       "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T00:20:30.938929+00:00"
+      "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
+      "archived_at": "2026-09-03T00:30:46.844750+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -833,7 +833,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T00:20:31.153195+00:00"
+      "archived_at": "2026-09-03T00:30:47.165713+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -851,25 +851,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T00:20:30.158929+00:00"
+      "archived_at": "2026-09-03T00:30:44.842209+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355487,
-      "message_link": "https://t.me/IranintlTV/355487",
-      "text": "مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «مردم پس از سال‌ها تجربه دولت‌های خاتمی، روحانی و پزشکیان، دیگر فرصتی برای آزمودن دوباره اصلاحات ندارند؛ اصلاحاتی که هر بار با شکست روبه‌رو شده است. حکومت نیز در برابر قیام‌ها و اعتراض‌های متعدد مردم، به‌جای شنیدن مطالبات و ارائه برنامه‌های اصلاحی در حوزه‌های سیاسی، اقتصادی و سیاست خارجی، همواره به سرکوب روی آورده است.»\n@iranintltv",
+      "message_id": 355489,
+      "message_link": "https://t.me/IranintlTV/355489",
+      "text": "فرانس۲۴ در گزارشی راستی‌آزمایی نوشت هم‌زمان با ازسرگیری حملات آمریکا و جمهوری اسلامی، ویدیوهای قدیمی و نامرتبط در شبکه‌های اجتماعی به‌عنوان تصاویر حملات جدید تهران به پایگاه‌های آمریکا منتشر شده‌اند.\n\nاین رسانه نوشت ویدیویی که ادعا می‌شد پایگاهی آمریکایی در اردن را در حال سوختن نشان می‌دهد، حدود شش ماه پیش به حمله‌ای پهپادی در دبی نسبت داده شده بود. ویدیوی دیگری از حمله ادعایی به پایگاه آمریکا در اردن نیز مربوط به حمله پهپادی اوکراین به پالایشگاهی در روسیه در سال گذشته بود.\n\nفرانس۲۴ همچنین نوشت ویدیویی که به حمله جمهوری اسلامی به کنسولگری آمریکا در کویت نسبت داده شده، در واقع مربوط به انفجار یک خانه در جریان عملیات پلیس در ایالت ویرجینیا بوده است.\n\nاین رسانه ویدیویی منتسب به انفجار مین‌های دریایی جمهوری اسلامی در تنگه هرمز را نیز بررسی کرد و نوشت تصاویر مربوط به آزمایش هسته‌ای زیرآبی «واهو» آمریکا در سال ۱۹۵۸ در اقیانوس آرام است.\n\nفرانس۲۴ اعلام کرد انتشار این تصاویر گمراه‌کننده پس از دور تازه حملات آمریکا و جمهوری اسلامی شدت گرفته است.\nhttps://iranintl.com/202609022230",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "02:15:15",
-      "gregorian_utc": "2026-09-02T22:45:15+00:00",
-      "media_type": "video",
-      "media_size_bytes": 735087,
-      "media_size_human": "717.86 KB",
+      "tehran_time": "02:28:34",
+      "gregorian_utc": "2026-09-02T22:58:34+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 130181,
+      "media_size_human": "127.13 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355487_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355487_video.mp4",
+      "media_local_path": "media/IranintlTV_355489_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355489_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T00:20:30.432509+00:00"
+      "archived_at": "2026-09-03T00:30:45.294266+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -887,17 +887,17 @@
       "media_local_path": "media/satlastnews_76383_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76383_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T00:20:30.690891+00:00"
+      "archived_at": "2026-09-03T00:30:46.486026+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120545,
-      "message_link": "https://t.me/Mellig/120545",
-      "text": "**مارکو روبیو**: هر کسی که به جمهوری اسلامی کمک کند را تحریم می‌کنیم - یادداشت تفاهم با جمهوری اسلامی منقضی شده است.",
+      "message_id": 120547,
+      "message_link": "https://t.me/Mellig/120547",
+      "text": "🔴 #خبر_فوری\nهم اکنون ترامپ:\nبرای حمله دیگری به ایران آماده شده ایم.",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "21:13:54",
-      "gregorian_utc": "2026-09-02T17:43:54+00:00",
+      "tehran_time": "22:13:11",
+      "gregorian_utc": "2026-09-02T18:43:11+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -905,7 +905,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T00:20:30.938966+00:00"
+      "archived_at": "2026-09-03T00:30:46.844793+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -923,7 +923,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T00:20:31.153216+00:00"
+      "archived_at": "2026-09-03T00:30:47.165737+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -941,25 +941,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T00:20:30.158953+00:00"
+      "archived_at": "2026-09-03T00:30:44.842238+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355485,
-      "message_link": "https://t.me/IranintlTV/355485",
-      "text": "مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «چرا جز سرنگونی جمهوری اسلامی، راه دیگری در ایران جواب نمی‌دهد؟ مهم‌تر اینکه چرا منطقی‌ترین راه، سرنگونی جمهوری اسلامی است؟ دلیلش این است که تجربه‌زیسته ۴۸ ساله ایرانیان نشان می‌دهد این حکومت قابل اصلاح نیست، نمی‌خواهد اصلاح شود و قصد کناره‌گیری از قدرت را هم به رغم ناکارآمدی و نارضایتی مردم ندارد.»\n@iranintltv",
+      "message_id": 355488,
+      "message_link": "https://t.me/IranintlTV/355488",
+      "text": "مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «حکومتی که عالی‌ترین مقام قضایی‌اش پس از خیزش مردم دستور صدور و اجرای سریع‌تر و بیشتر احکام اعدام را می‌دهد، نشان داده که نه می‌خواهد و نه می‌تواند اصلاح شود. این حکومت سال‌هاست راه اصلاح را بر خود بسته و با ادامه کشتار در خیابان و زندان، تنها راه باقی‌مانده را سرنگونی خود قرار داده است.»\n@iranintltv",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "02:06:16",
-      "gregorian_utc": "2026-09-02T22:36:16+00:00",
+      "tehran_time": "02:24:02",
+      "gregorian_utc": "2026-09-02T22:54:02+00:00",
       "media_type": "video",
-      "media_size_bytes": 745208,
-      "media_size_human": "727.74 KB",
+      "media_size_bytes": 767011,
+      "media_size_human": "749.03 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355485_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355485_video.mp4",
+      "media_local_path": "media/IranintlTV_355488_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355488_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T00:20:30.432576+00:00"
+      "archived_at": "2026-09-03T00:30:45.294343+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -977,17 +977,17 @@
       "media_local_path": "media/satlastnews_76381_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76381_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T00:20:30.690919+00:00"
+      "archived_at": "2026-09-03T00:30:46.486066+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120544,
-      "message_link": "https://t.me/Mellig/120544",
-      "text": "🚨🚨🚨🚨🚨🚨 بی‌بی نتانیاهو همین الان گفت:\n\n**ما جمهوری اسلامی را سرنگون خواهیم کرد.****\nاین نظام سقوط خواهد کرد.\nتمام نهادهای ما در حال تلاش برای سرنگون کردن این نظام هستن**!!",
+      "message_id": 120546,
+      "message_link": "https://t.me/Mellig/120546",
+      "text": "🔴 #خبر_فوری\nخبرگزاری بین المللی وابسته به سپاه:\nهم اکنون نفوذ پهپادهای آمریکایی در مناطق شمال غربی ایران.",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "21:09:02",
-      "gregorian_utc": "2026-09-02T17:39:02+00:00",
+      "tehran_time": "21:25:44",
+      "gregorian_utc": "2026-09-02T17:55:44+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -995,7 +995,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T00:20:30.939028+00:00"
+      "archived_at": "2026-09-03T00:30:46.844837+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -1013,7 +1013,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T00:20:31.153239+00:00"
+      "archived_at": "2026-09-03T00:30:47.165761+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1031,25 +1031,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T00:20:30.158974+00:00"
+      "archived_at": "2026-09-03T00:30:44.842264+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355484,
-      "message_link": "https://t.me/IranintlTV/355484",
-      "text": "مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «چرا جز سرنگونی جمهوری اسلامی، راه دیگری در ایران جواب نمی‌دهد؟ مهم‌تر اینکه چرا منطقی‌ترین راه، سرنگونی جمهوری اسلامی است؟ دلیلش این است که تجربه‌زیسته ۴۸ ساله ایرانیان نشان می‌دهد این حکومت قابل اصلاح نیست، نمی‌خواهد اصلاح شود و قصد کناره‌گیری از قدرت را هم به رغم ناکارآمدی و نارضایتی مردم ندارد.»\n@iranintltv",
+      "message_id": 355487,
+      "message_link": "https://t.me/IranintlTV/355487",
+      "text": "مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «مردم پس از سال‌ها تجربه دولت‌های خاتمی، روحانی و پزشکیان، دیگر فرصتی برای آزمودن دوباره اصلاحات ندارند؛ اصلاحاتی که هر بار با شکست روبه‌رو شده است. حکومت نیز در برابر قیام‌ها و اعتراض‌های متعدد مردم، به‌جای شنیدن مطالبات و ارائه برنامه‌های اصلاحی در حوزه‌های سیاسی، اقتصادی و سیاست خارجی، همواره به سرکوب روی آورده است.»\n@iranintltv",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "02:06:07",
-      "gregorian_utc": "2026-09-02T22:36:07+00:00",
+      "tehran_time": "02:15:15",
+      "gregorian_utc": "2026-09-02T22:45:15+00:00",
       "media_type": "video",
-      "media_size_bytes": 745208,
-      "media_size_human": "727.74 KB",
+      "media_size_bytes": 735087,
+      "media_size_human": "717.86 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355484_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355484_video.mp4",
+      "media_local_path": "media/IranintlTV_355487_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355487_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T00:20:30.432642+00:00"
+      "archived_at": "2026-09-03T00:30:45.294420+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1067,17 +1067,17 @@
       "media_local_path": "media/satlastnews_76380_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76380_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T00:20:30.690944+00:00"
+      "archived_at": "2026-09-03T00:30:46.486103+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120543,
-      "message_link": "https://t.me/Mellig/120543",
-      "text": "🔴 اسکات بسنت،وزیر خزانه‌داری آمریکا: ایران برخی از تجهیزات و ملزومات خود را از روسیه دریافت می‌کند؛ خطوط هوایی ایران را تعطیل می کنیم.",
+      "message_id": 120545,
+      "message_link": "https://t.me/Mellig/120545",
+      "text": "**مارکو روبیو**: هر کسی که به جمهوری اسلامی کمک کند را تحریم می‌کنیم - یادداشت تفاهم با جمهوری اسلامی منقضی شده است.",
       "shamsi_date": "1405/06/11",
-      "tehran_time": "21:00:59",
-      "gregorian_utc": "2026-09-02T17:30:59+00:00",
+      "tehran_time": "21:13:54",
+      "gregorian_utc": "2026-09-02T17:43:54+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -1085,7 +1085,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T00:20:30.939053+00:00"
+      "archived_at": "2026-09-03T00:30:46.844889+00:00"
     }
   ]
 }
