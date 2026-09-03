@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T19:33:06.482569+00:00",
-  "shamsi_generated": "1405/06/12 19:33:06 تهران",
+  "generated_at": "2026-09-03T19:43:13.470628+00:00",
+  "shamsi_generated": "1405/06/12 19:43:13 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -41,25 +41,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T19:30:41.561171+00:00"
+      "archived_at": "2026-09-03T19:40:33.290635+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355617,
-      "message_link": "https://t.me/IranintlTV/355617",
-      "text": "سکه‌های یک‌دلاری با تصویر دونالد ترامپ، رییس‌جمهور آمریکا، از روز چهارشنبه ۱۱ شهریور به‌صورت رول و کیسه‌ای عرضه شد. این سکه‌ها به‌مناسبت دویست‌وپنجاهمین سالگرد استقلال ایالات متحده در سال ۲۰۲۶ ضرب شده است. بر یک روی سکه تصویر ترامپ در کنار عبارت‌های «آزادی»، «ما به خدا ایمان داریم» و سال‌های «۱۷۷۶ ـ ۲۰۲۶» و بر روی دیگر مهر ریاست‌جمهوری و عدد «۲۵۰» نقش بسته است.\n@iranintltv",
+      "message_id": 355619,
+      "message_link": "https://t.me/IranintlTV/355619",
+      "text": "سنتکام، فرماندهی مرکزی ایالات متحده، اعلام کرد تا روز چهارشنبه ۱۲ شهریور، در جریان محاصره دریایی ایران، نیروهای ارتش آمریکا مسیر حرکت ۸۷ کشتی تجاری را تغییر داده‌اند، سه کشتی را از کار انداخته‌اند و دو کشتی را بازرسی کرده‌اند تا از اجرای کامل این محاصره اطمینان حاصل کنند.\n\nسنتکام همچنین تصویری از یک ملوان نیروی دریایی آمریکا در حال نگهبانی در ناوشکن موشک‌انداز «یواس‌اس جان پل جونز» منتشر و اعلام کرد که این ناوشکن همچنان از محاصره دریایی آمریکا علیه جمهوری اسلامی در آب‌های منطقه پشتیبانی می‌کند.\nhttps://iranintl.com/202609032417",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "22:55:02",
-      "gregorian_utc": "2026-09-03T19:25:02+00:00",
-      "media_type": "video",
-      "media_size_bytes": 1110312,
-      "media_size_human": "1.06 MB",
+      "tehran_time": "23:10:11",
+      "gregorian_utc": "2026-09-03T19:40:11+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 142801,
+      "media_size_human": "139.45 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355617_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355617_video.mp4",
+      "media_local_path": "media/IranintlTV_355619_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355619_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T19:30:42.002114+00:00"
+      "archived_at": "2026-09-03T19:40:33.578883+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -77,7 +77,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T19:30:42.376650+00:00"
+      "archived_at": "2026-09-03T19:40:33.856164+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -95,7 +95,7 @@
       "media_local_path": "media/Mellig_120585_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120585_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T19:30:42.788055+00:00"
+      "archived_at": "2026-09-03T19:40:34.128229+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -113,7 +113,7 @@
       "media_local_path": "media/khabarsara53_11_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_11_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T19:30:43.185079+00:00"
+      "archived_at": "2026-09-03T19:40:34.369499+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -131,25 +131,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T19:30:41.561226+00:00"
+      "archived_at": "2026-09-03T19:40:33.290689+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355616,
-      "message_link": "https://t.me/IranintlTV/355616",
-      "text": "یک کاسب با ارسال ویدیویی به ایران‌اینترنشنال، قیمت اجناس مغازه‌اش را با سال گذشته مقایسه می‌کند و نشان می‌دهد که قیمت‌ها چند برابر افزایش داشته‌اند.",
+      "message_id": 355618,
+      "message_link": "https://t.me/IranintlTV/355618",
+      "text": "🎧نسخه صوتی ‌‌‏﻿﻿۲۴ با فرداد فرحزاد: ترامپ: برای ادامه جنگ با ایران مهمات کافی داریم\n@iranintlTV",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "22:30:37",
-      "gregorian_utc": "2026-09-03T19:00:37+00:00",
-      "media_type": "video",
-      "media_size_bytes": 17881971,
-      "media_size_human": "17.05 MB",
+      "tehran_time": "23:08:06",
+      "gregorian_utc": "2026-09-03T19:38:06+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 31791230,
+      "media_size_human": "30.32 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355616_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355616_video.mp4",
+      "media_local_path": "media/IranintlTV_355618_audio.mp3",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355618_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T19:30:42.002168+00:00"
+      "archived_at": "2026-09-03T19:40:33.596080+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -167,7 +167,7 @@
       "media_local_path": "media/satlastnews_76400_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76400_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T19:30:42.376748+00:00"
+      "archived_at": "2026-09-03T19:40:33.856265+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -185,7 +185,7 @@
       "media_local_path": "media/Mellig_120584_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120584_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T19:30:42.788104+00:00"
+      "archived_at": "2026-09-03T19:40:34.128278+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -203,7 +203,7 @@
       "media_local_path": "media/khabarsara53_10_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_10_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T19:30:43.185153+00:00"
+      "archived_at": "2026-09-03T19:40:34.369569+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -221,25 +221,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T19:30:41.561268+00:00"
+      "archived_at": "2026-09-03T19:40:33.290729+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355615,
-      "message_link": "https://t.me/IranintlTV/355615",
-      "text": "🔻بی‌بی‌سی اسپرت گزارش داد که فیفا با ارایه اسناد حقوقی به دادگاهی در آمریکا، خواستار رد درخواست یوفا برای دسترسی به مدارک مربوط به طرح لغوشده فروش ۲۰ درصد از یک شرکت تجاری جدید فیفا به سرمایه‌گذاران خصوصی شد و یوفا را به راه‌اندازی «کارزار تخریبی» علیه جانی اینفانتینو متهم کرد.\n\n🔹هفته گذشته، یوفا اسناد حقوقی را در آمریکا ثبت و درخواست کرد شواهد و مدارک فیفا در اختیارش قرار گیرد تا از آنها در چارچوب شکایت‌های کیفری احتمالی در سوییس استفاده کند. \n\n🔹در تشدید این مناقشه، یوفا جانی اینفانتینو را در ارتباط با طرح کنار گذاشته‌شده فیفا فوروارد اینترپرایز یا FFE به «سو مدیریت مجرمانه» و «تعیین متقلبانه قیمتی خارج از عرف بازار از سوی او برای منفعت شخصی خودش» متهم کرد.\n\n🔹با این حال، فیفا اکنون با ثبت درخواستی حقوقی در آمریکا پاسخ داده و از دادگاه خواسته است تا پایان ماه با درخواست یوفا «مخالفت» کند.\n\n🔹فیفا اعلام کرد که پیش‌تر روشن کرده بود ایجاد FFE «صرفا یک پیشنهاد» بوده است و این طرح تنها در صورتی می‌توانست پیش برود که اکثریت فدراسیون‌های عضو از آن حمایت می‌کردند.\n\n[**جزییات بیشتر**](https://www.iranintl.com/202609035752)\n\n@iranintltvsport",
+      "message_id": 355617,
+      "message_link": "https://t.me/IranintlTV/355617",
+      "text": "سکه‌های یک‌دلاری با تصویر دونالد ترامپ، رییس‌جمهور آمریکا، از روز چهارشنبه ۱۱ شهریور به‌صورت رول و کیسه‌ای عرضه شد. این سکه‌ها به‌مناسبت دویست‌وپنجاهمین سالگرد استقلال ایالات متحده در سال ۲۰۲۶ ضرب شده است. بر یک روی سکه تصویر ترامپ در کنار عبارت‌های «آزادی»، «ما به خدا ایمان داریم» و سال‌های «۱۷۷۶ ـ ۲۰۲۶» و بر روی دیگر مهر ریاست‌جمهوری و عدد «۲۵۰» نقش بسته است.\n@iranintltv",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "22:29:44",
-      "gregorian_utc": "2026-09-03T18:59:44+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 150183,
-      "media_size_human": "146.66 KB",
+      "tehran_time": "22:55:02",
+      "gregorian_utc": "2026-09-03T19:25:02+00:00",
+      "media_type": "video",
+      "media_size_bytes": 1110312,
+      "media_size_human": "1.06 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355615_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355615_photo.jpg",
+      "media_local_path": "media/IranintlTV_355617_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355617_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T19:30:42.009675+00:00"
+      "archived_at": "2026-09-03T19:40:33.596242+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -257,7 +257,7 @@
       "media_local_path": "media/satlastnews_76399_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76399_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T19:30:42.376873+00:00"
+      "archived_at": "2026-09-03T19:40:33.856397+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -275,7 +275,7 @@
       "media_local_path": "media/Mellig_120583_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120583_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T19:30:42.788186+00:00"
+      "archived_at": "2026-09-03T19:40:34.128382+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -293,7 +293,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T19:30:43.185186+00:00"
+      "archived_at": "2026-09-03T19:40:34.369600+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -311,25 +311,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T19:30:41.561306+00:00"
+      "archived_at": "2026-09-03T19:40:33.290766+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355614,
-      "message_link": "https://t.me/IranintlTV/355614",
-      "text": "۲۴ با فرداد فرحزاد\n@iranintltv",
+      "message_id": 355616,
+      "message_link": "https://t.me/IranintlTV/355616",
+      "text": "یک کاسب با ارسال ویدیویی به ایران‌اینترنشنال، قیمت اجناس مغازه‌اش را با سال گذشته مقایسه می‌کند و نشان می‌دهد که قیمت‌ها چند برابر افزایش داشته‌اند.",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "22:21:05",
-      "gregorian_utc": "2026-09-03T18:51:05+00:00",
+      "tehran_time": "22:30:37",
+      "gregorian_utc": "2026-09-03T19:00:37+00:00",
       "media_type": "video",
-      "media_size_bytes": 509406,
-      "media_size_human": "497.47 KB",
+      "media_size_bytes": 17881971,
+      "media_size_human": "17.05 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355614_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355614_video.mp4",
+      "media_local_path": "media/IranintlTV_355616_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355616_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T19:30:42.009754+00:00"
+      "archived_at": "2026-09-03T19:40:33.596295+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -347,7 +347,7 @@
       "media_local_path": "media/satlastnews_76398_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76398_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T19:30:42.376948+00:00"
+      "archived_at": "2026-09-03T19:40:33.856475+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -365,7 +365,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-09-03T19:30:42.788255+00:00"
+      "archived_at": "2026-09-03T19:40:34.128455+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -383,7 +383,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T19:30:43.185213+00:00"
+      "archived_at": "2026-09-03T19:40:34.369626+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -401,25 +401,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T19:30:41.561335+00:00"
+      "archived_at": "2026-09-03T19:40:33.290796+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355613,
-      "message_link": "https://t.me/IranintlTV/355613",
-      "text": "جی‌دی ونس، معاون رییس‌جمهوری آمریکا، درباره مذاکره با جمهوری اسلامی گفت: «دونالد ترامپ، رییس‌جمهوری آمریکا، کاملا روشن گفته است که تا زمانی که شلیک به کشتی‌های تجاری متوقف نشود، نه با آن‌ها گفت‌وگو می‌کنیم و نه قصد انجام چنین گفت‌وگویی را داریم.»\n\nاو گفت: «پیام ما به جمهوری اسلامی از همان ابتدا روشن بوده است: باید شلیک به کشتی‌های تجاری را متوقف کند. آن‌ها باید این کار را متوقف کنند. موضوع به همین سادگی است.»\n\nونس افزود: «کاری که انجام خواهیم داد این نیست که به رفتار مسئولانه جمهوری اسلامی یا مذاکره با حسن نیت آن تکیه کنیم. کاری که انجام خواهیم داد، استفاده از ابزارهایی است که در اختیار داریم تا اطمینان حاصل کنیم، نخست، مردم آمریکا با تهدید برنامه هسته‌ای جمهوری اسلامی روبه‌رو نشوند و دوم، بازارهای جهانی انرژی به شکل مناسب تامین شوند.»\nhttps://iranintl.com/202609039098",
+      "message_id": 355615,
+      "message_link": "https://t.me/IranintlTV/355615",
+      "text": "🔻بی‌بی‌سی اسپرت گزارش داد که فیفا با ارایه اسناد حقوقی به دادگاهی در آمریکا، خواستار رد درخواست یوفا برای دسترسی به مدارک مربوط به طرح لغوشده فروش ۲۰ درصد از یک شرکت تجاری جدید فیفا به سرمایه‌گذاران خصوصی شد و یوفا را به راه‌اندازی «کارزار تخریبی» علیه جانی اینفانتینو متهم کرد.\n\n🔹هفته گذشته، یوفا اسناد حقوقی را در آمریکا ثبت و درخواست کرد شواهد و مدارک فیفا در اختیارش قرار گیرد تا از آنها در چارچوب شکایت‌های کیفری احتمالی در سوییس استفاده کند. \n\n🔹در تشدید این مناقشه، یوفا جانی اینفانتینو را در ارتباط با طرح کنار گذاشته‌شده فیفا فوروارد اینترپرایز یا FFE به «سو مدیریت مجرمانه» و «تعیین متقلبانه قیمتی خارج از عرف بازار از سوی او برای منفعت شخصی خودش» متهم کرد.\n\n🔹با این حال، فیفا اکنون با ثبت درخواستی حقوقی در آمریکا پاسخ داده و از دادگاه خواسته است تا پایان ماه با درخواست یوفا «مخالفت» کند.\n\n🔹فیفا اعلام کرد که پیش‌تر روشن کرده بود ایجاد FFE «صرفا یک پیشنهاد» بوده است و این طرح تنها در صورتی می‌توانست پیش برود که اکثریت فدراسیون‌های عضو از آن حمایت می‌کردند.\n\n[**جزییات بیشتر**](https://www.iranintl.com/202609035752)\n\n@iranintltvsport",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "22:09:03",
-      "gregorian_utc": "2026-09-03T18:39:03+00:00",
+      "tehran_time": "22:29:44",
+      "gregorian_utc": "2026-09-03T18:59:44+00:00",
       "media_type": "photo",
-      "media_size_bytes": 165210,
-      "media_size_human": "161.34 KB",
+      "media_size_bytes": 150183,
+      "media_size_human": "146.66 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355613_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355613_photo.jpg",
+      "media_local_path": "media/IranintlTV_355615_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355615_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T19:30:42.009927+00:00"
+      "archived_at": "2026-09-03T19:40:33.596559+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -437,7 +437,7 @@
       "media_local_path": "media/satlastnews_76397_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76397_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T19:30:42.377008+00:00"
+      "archived_at": "2026-09-03T19:40:33.856533+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -455,7 +455,7 @@
       "media_local_path": "media/Mellig_120581_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120581_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T19:30:42.788305+00:00"
+      "archived_at": "2026-09-03T19:40:34.128500+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -473,7 +473,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T19:30:43.185237+00:00"
+      "archived_at": "2026-09-03T19:40:34.369651+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -491,25 +491,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T19:30:41.561371+00:00"
+      "archived_at": "2026-09-03T19:40:33.290832+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355612,
-      "message_link": "https://t.me/IranintlTV/355612",
-      "text": "جی‌دی ونس، معاون رییس‌جمهوری آمریکا، درباره رویکرد آمریکا در برابر موضوع جمهوری اسلامی گفت: «همه گزینه‌ها روی میز است؛ فشار اقتصادی، فشار نظامی، فشار دیپلماتیک و اقدامات پنهانی. همه این‌ها ابزارهایی در اختیار رییس‌جمهوری هستند.»\n\nونس گفت: «یکی از دلایلی که این‌ها ابزار باقی می‌مانند این است که معاون رییس‌جمهوری آن‌قدر بی‌احتیاط نیست که مقابل شما و میلیون‌ها آمریکایی که در خانه این برنامه را تماشا می‌کنند، دقیقا بگوید چه برنامه‌ای برای آینده داریم.»\n\nمعاون ترامپ گستردگی عملیات نظامی آمریکا در ایران در روزهای اخیر را رد کرد و گفت: «کاری که تنها چند روز پیش انجام دادیم این بود که توان جمهوری اسلامی برای هدف قرار دادن کشتی‌های تجاری را کاهش دادیم تا جریان نفت و گاز به بازار جهانی انرژی حفظ شود.\n\nونس افزود: «همان‌طور که دونالد ترامپ، رییس‌جمهوری آمریکا، گفت، آمریکا تنها کشوری است که می‌تواند امنیت تنگه هرمز را تضمین کند. جمهوری اسلامی مایل است هیچ بشکه نفتی از تنگه هرمز عبور نکند، اما شب گذشته ۱۵ میلیون بشکه نفت از این تنگه عبور کرد و این به دلیل اقدام‌های ایالات متحده بود.»\nhttps://iranintl.com/202609039329",
+      "message_id": 355614,
+      "message_link": "https://t.me/IranintlTV/355614",
+      "text": "۲۴ با فرداد فرحزاد\n@iranintltv",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "21:58:10",
-      "gregorian_utc": "2026-09-03T18:28:10+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 190884,
-      "media_size_human": "186.41 KB",
+      "tehran_time": "22:21:05",
+      "gregorian_utc": "2026-09-03T18:51:05+00:00",
+      "media_type": "video",
+      "media_size_bytes": 509406,
+      "media_size_human": "497.47 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355612_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355612_photo.jpg",
+      "media_local_path": "media/IranintlTV_355614_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355614_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T19:30:42.010082+00:00"
+      "archived_at": "2026-09-03T19:40:33.596617+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -527,7 +527,7 @@
       "media_local_path": "media/satlastnews_76392_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76392_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T19:30:42.377118+00:00"
+      "archived_at": "2026-09-03T19:40:33.856638+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -545,7 +545,7 @@
       "media_local_path": "media/Mellig_120580_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120580_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T19:30:42.788346+00:00"
+      "archived_at": "2026-09-03T19:40:34.128541+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -563,7 +563,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T19:30:43.185262+00:00"
+      "archived_at": "2026-09-03T19:40:34.369674+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -581,25 +581,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T19:30:41.561402+00:00"
+      "archived_at": "2026-09-03T19:40:33.290862+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355611,
-      "message_link": "https://t.me/IranintlTV/355611",
-      "text": "جی‌دی ونس، معاون رییس‌جمهوری آمریکا، درباره وضعیت خلیج فارس گفت که ترامپ با دو گزینه ترک منطقه از سوی آمریکا و جلوگیری از ایجاد بحران در انرژی از سوی جمهوری اسلامی مواجه است. او گفت که کشورهای خلیج فارس گفته‌اند که ترک منطقه از سوی آمریکا بدترین اتفاق ممکن خواهد بود.\n\nونس در این باره گفت که اگر منطقه را ترک کنیم کل جهان وضعیت بسیار بدتری خواهد داشت، زیرا دیگر دسترسی تضمین‌شده‌ای به نفت و گاز وجود نخواهد داشت.\n\nاو در ادامه گفت که راه دیگر این است که بپذیریم ایرانی‌ها مانند «افراد دیوانه» به کشتی‌ها شلیک خواهند کرد و ما هر کاری لازم باشد انجام خواهیم داد تا اطمینان حاصل کنیم اقدامات آنها به یک بحران جهانی انرژی منجر نشود.\n\nونس گفت: «تا اینجا در این زمینه کاملا موفق بوده‌ایم و اگر تلاش‌های ما نبود، صادقانه بگویم، قیمت بنزین می‌توانست بسیار، بسیار بالاتر باشد.»\nhttps://iranintl.com/202609030279",
+      "message_id": 355613,
+      "message_link": "https://t.me/IranintlTV/355613",
+      "text": "جی‌دی ونس، معاون رییس‌جمهوری آمریکا، درباره مذاکره با جمهوری اسلامی گفت: «دونالد ترامپ، رییس‌جمهوری آمریکا، کاملا روشن گفته است که تا زمانی که شلیک به کشتی‌های تجاری متوقف نشود، نه با آن‌ها گفت‌وگو می‌کنیم و نه قصد انجام چنین گفت‌وگویی را داریم.»\n\nاو گفت: «پیام ما به جمهوری اسلامی از همان ابتدا روشن بوده است: باید شلیک به کشتی‌های تجاری را متوقف کند. آن‌ها باید این کار را متوقف کنند. موضوع به همین سادگی است.»\n\nونس افزود: «کاری که انجام خواهیم داد این نیست که به رفتار مسئولانه جمهوری اسلامی یا مذاکره با حسن نیت آن تکیه کنیم. کاری که انجام خواهیم داد، استفاده از ابزارهایی است که در اختیار داریم تا اطمینان حاصل کنیم، نخست، مردم آمریکا با تهدید برنامه هسته‌ای جمهوری اسلامی روبه‌رو نشوند و دوم، بازارهای جهانی انرژی به شکل مناسب تامین شوند.»\nhttps://iranintl.com/202609039098",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "21:45:46",
-      "gregorian_utc": "2026-09-03T18:15:46+00:00",
+      "tehran_time": "22:09:03",
+      "gregorian_utc": "2026-09-03T18:39:03+00:00",
       "media_type": "photo",
-      "media_size_bytes": 194642,
-      "media_size_human": "190.08 KB",
+      "media_size_bytes": 165210,
+      "media_size_human": "161.34 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355611_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355611_photo.jpg",
+      "media_local_path": "media/IranintlTV_355613_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355613_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T19:30:42.010209+00:00"
+      "archived_at": "2026-09-03T19:40:33.596749+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -617,7 +617,7 @@
       "media_local_path": "media/satlastnews_76391_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76391_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T19:30:42.377193+00:00"
+      "archived_at": "2026-09-03T19:40:33.856705+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -635,7 +635,7 @@
       "media_local_path": "media/Mellig_120579_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120579_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T19:30:42.788382+00:00"
+      "archived_at": "2026-09-03T19:40:34.128577+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -653,7 +653,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T19:30:43.185286+00:00"
+      "archived_at": "2026-09-03T19:40:34.369709+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -671,25 +671,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T19:30:41.561445+00:00"
+      "archived_at": "2026-09-03T19:40:33.290903+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355610,
-      "message_link": "https://t.me/IranintlTV/355610",
-      "text": "طوفان شدید روز چهارشنبه ۱۱ شهریور در منطقه بزرگ تورنتو کانادا خیابان‌ها را زیر آب برد و به ساختمان‌ها آسیب زد. تصاویر از برمپتون، وان و تورنتو، خودروهای غرق‌شده در خیابان‌های سیل‌زده، آوار ساختمان‌های آسیب‌دیده و تلاش پلیس برای خارج کردن سرنشینان یک خودرو از تونلی زیر آب رفته را نشان می‌دهد.\n@iranintltv",
+      "message_id": 355612,
+      "message_link": "https://t.me/IranintlTV/355612",
+      "text": "جی‌دی ونس، معاون رییس‌جمهوری آمریکا، درباره رویکرد آمریکا در برابر موضوع جمهوری اسلامی گفت: «همه گزینه‌ها روی میز است؛ فشار اقتصادی، فشار نظامی، فشار دیپلماتیک و اقدامات پنهانی. همه این‌ها ابزارهایی در اختیار رییس‌جمهوری هستند.»\n\nونس گفت: «یکی از دلایلی که این‌ها ابزار باقی می‌مانند این است که معاون رییس‌جمهوری آن‌قدر بی‌احتیاط نیست که مقابل شما و میلیون‌ها آمریکایی که در خانه این برنامه را تماشا می‌کنند، دقیقا بگوید چه برنامه‌ای برای آینده داریم.»\n\nمعاون ترامپ گستردگی عملیات نظامی آمریکا در ایران در روزهای اخیر را رد کرد و گفت: «کاری که تنها چند روز پیش انجام دادیم این بود که توان جمهوری اسلامی برای هدف قرار دادن کشتی‌های تجاری را کاهش دادیم تا جریان نفت و گاز به بازار جهانی انرژی حفظ شود.\n\nونس افزود: «همان‌طور که دونالد ترامپ، رییس‌جمهوری آمریکا، گفت، آمریکا تنها کشوری است که می‌تواند امنیت تنگه هرمز را تضمین کند. جمهوری اسلامی مایل است هیچ بشکه نفتی از تنگه هرمز عبور نکند، اما شب گذشته ۱۵ میلیون بشکه نفت از این تنگه عبور کرد و این به دلیل اقدام‌های ایالات متحده بود.»\nhttps://iranintl.com/202609039329",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "21:33:31",
-      "gregorian_utc": "2026-09-03T18:03:31+00:00",
-      "media_type": "video",
-      "media_size_bytes": 791895,
-      "media_size_human": "773.33 KB",
+      "tehran_time": "21:58:10",
+      "gregorian_utc": "2026-09-03T18:28:10+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 190884,
+      "media_size_human": "186.41 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355610_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355610_video.mp4",
+      "media_local_path": "media/IranintlTV_355612_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355612_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T19:30:42.010290+00:00"
+      "archived_at": "2026-09-03T19:40:33.596904+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -707,7 +707,7 @@
       "media_local_path": "media/satlastnews_76388_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76388_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T19:30:42.377257+00:00"
+      "archived_at": "2026-09-03T19:40:33.856765+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -725,7 +725,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T19:30:42.788448+00:00"
+      "archived_at": "2026-09-03T19:40:34.128645+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -743,7 +743,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T19:30:43.185311+00:00"
+      "archived_at": "2026-09-03T19:40:34.369736+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -761,25 +761,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T19:30:41.561473+00:00"
+      "archived_at": "2026-09-03T19:40:33.290931+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355608,
-      "message_link": "https://t.me/IranintlTV/355608",
-      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال، صف کیلومتری خودروها برای دریافت بنزین را در مشهد نشان می‌دهد و می‌گوید: «این صف در مملکتی تشکیل شده که روی نفت خوابیده است.»",
+      "message_id": 355611,
+      "message_link": "https://t.me/IranintlTV/355611",
+      "text": "جی‌دی ونس، معاون رییس‌جمهوری آمریکا، درباره وضعیت خلیج فارس گفت که ترامپ با دو گزینه ترک منطقه از سوی آمریکا و جلوگیری از ایجاد بحران در انرژی از سوی جمهوری اسلامی مواجه است. او گفت که کشورهای خلیج فارس گفته‌اند که ترک منطقه از سوی آمریکا بدترین اتفاق ممکن خواهد بود.\n\nونس در این باره گفت که اگر منطقه را ترک کنیم کل جهان وضعیت بسیار بدتری خواهد داشت، زیرا دیگر دسترسی تضمین‌شده‌ای به نفت و گاز وجود نخواهد داشت.\n\nاو در ادامه گفت که راه دیگر این است که بپذیریم ایرانی‌ها مانند «افراد دیوانه» به کشتی‌ها شلیک خواهند کرد و ما هر کاری لازم باشد انجام خواهیم داد تا اطمینان حاصل کنیم اقدامات آنها به یک بحران جهانی انرژی منجر نشود.\n\nونس گفت: «تا اینجا در این زمینه کاملا موفق بوده‌ایم و اگر تلاش‌های ما نبود، صادقانه بگویم، قیمت بنزین می‌توانست بسیار، بسیار بالاتر باشد.»\nhttps://iranintl.com/202609030279",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "21:31:23",
-      "gregorian_utc": "2026-09-03T18:01:23+00:00",
-      "media_type": "video",
-      "media_size_bytes": 11319216,
-      "media_size_human": "10.79 MB",
+      "tehran_time": "21:45:46",
+      "gregorian_utc": "2026-09-03T18:15:46+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 194642,
+      "media_size_human": "190.08 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355608_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355608_video.mp4",
+      "media_local_path": "media/IranintlTV_355611_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355611_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T19:30:42.010329+00:00"
+      "archived_at": "2026-09-03T19:40:33.597032+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -797,7 +797,7 @@
       "media_local_path": "media/satlastnews_76387_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76387_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T19:30:42.377320+00:00"
+      "archived_at": "2026-09-03T19:40:33.856826+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -815,7 +815,7 @@
       "media_local_path": "media/Mellig_120577_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120577_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T19:30:42.788585+00:00"
+      "archived_at": "2026-09-03T19:40:34.128786+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -833,7 +833,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T19:30:43.185335+00:00"
+      "archived_at": "2026-09-03T19:40:34.369760+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -851,25 +851,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T19:30:41.561501+00:00"
+      "archived_at": "2026-09-03T19:40:33.290957+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355607,
-      "message_link": "https://t.me/IranintlTV/355607",
-      "text": "برنامه «پاداش برای عدالت» وزارت خارجه آمریکا اعلام کرد برای دریافت اطلاعات از امیر یاریاب، مسئول بخش عملیات سایبری در فرماندهی سایبر-الکترونیک سپاه پاسداران، تا ۱۰ میلیون دلار پاداش می‌دهد.\n\nصفحه برنامه «پاداش برای عدالت» در ایکس نوشت که یاریاب در این جایگاه، گروه‌های سایبری مخرب نظیر «شهید همت» و «شهید شوشتری» را برای هدف قرار دادن زیرساخت‌های حیاتی ایالات متحده سازماندهی و هدایت می‌کند.\nhttps://iranintl.com/202609033397",
+      "message_id": 355610,
+      "message_link": "https://t.me/IranintlTV/355610",
+      "text": "طوفان شدید روز چهارشنبه ۱۱ شهریور در منطقه بزرگ تورنتو کانادا خیابان‌ها را زیر آب برد و به ساختمان‌ها آسیب زد. تصاویر از برمپتون، وان و تورنتو، خودروهای غرق‌شده در خیابان‌های سیل‌زده، آوار ساختمان‌های آسیب‌دیده و تلاش پلیس برای خارج کردن سرنشینان یک خودرو از تونلی زیر آب رفته را نشان می‌دهد.\n@iranintltv",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "21:31:12",
-      "gregorian_utc": "2026-09-03T18:01:12+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 244485,
-      "media_size_human": "238.75 KB",
+      "tehran_time": "21:33:31",
+      "gregorian_utc": "2026-09-03T18:03:31+00:00",
+      "media_type": "video",
+      "media_size_bytes": 791895,
+      "media_size_human": "773.33 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355607_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355607_photo.jpg",
+      "media_local_path": "media/IranintlTV_355610_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355610_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T19:30:42.010414+00:00"
+      "archived_at": "2026-09-03T19:40:33.597111+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -887,7 +887,7 @@
       "media_local_path": "media/satlastnews_76385_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76385_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T19:30:42.377379+00:00"
+      "archived_at": "2026-09-03T19:40:33.856885+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -905,7 +905,7 @@
       "media_local_path": "media/Mellig_120576_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120576_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T19:30:42.788625+00:00"
+      "archived_at": "2026-09-03T19:40:34.128826+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -923,7 +923,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T19:30:43.185359+00:00"
+      "archived_at": "2026-09-03T19:40:34.369784+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -941,25 +941,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T19:30:41.561526+00:00"
+      "archived_at": "2026-09-03T19:40:33.290982+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355606,
-      "message_link": "https://t.me/IranintlTV/355606",
-      "text": "",
+      "message_id": 355608,
+      "message_link": "https://t.me/IranintlTV/355608",
+      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال، صف کیلومتری خودروها برای دریافت بنزین را در مشهد نشان می‌دهد و می‌گوید: «این صف در مملکتی تشکیل شده که روی نفت خوابیده است.»",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "21:30:16",
-      "gregorian_utc": "2026-09-03T18:00:16+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 216235,
-      "media_size_human": "211.17 KB",
+      "tehran_time": "21:31:23",
+      "gregorian_utc": "2026-09-03T18:01:23+00:00",
+      "media_type": "video",
+      "media_size_bytes": 11319216,
+      "media_size_human": "10.79 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355606_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355606_photo.jpg",
+      "media_local_path": "media/IranintlTV_355608_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355608_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T19:30:42.010454+00:00"
+      "archived_at": "2026-09-03T19:40:33.597150+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -977,7 +977,7 @@
       "media_local_path": "media/satlastnews_76383_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76383_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T19:30:42.377427+00:00"
+      "archived_at": "2026-09-03T19:40:33.856933+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -995,7 +995,7 @@
       "media_local_path": "media/Mellig_120575_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120575_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T19:30:42.788665+00:00"
+      "archived_at": "2026-09-03T19:40:34.128866+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -1013,7 +1013,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T19:30:43.185384+00:00"
+      "archived_at": "2026-09-03T19:40:34.369810+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1031,25 +1031,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T19:30:41.561551+00:00"
+      "archived_at": "2026-09-03T19:40:33.291007+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355605,
-      "message_link": "https://t.me/IranintlTV/355605",
-      "text": "🔻تیم فوتبال تراکتور در پایان هفته پنجم لیگ برتر، با وجود تساوی در قزوین و از دست دادن دو امتیاز، همچنان صدرنشین باقی ماند.\n\n🔹استقلال می‌توانست با شکست دادن پرسپولیس در دربی پایتخت، صدرنشین شود، اما این بازی نیز مساوی شد تا نه استقلال به صدر جدول برسد و نه پرسپولیس به رده دوم صعود کند. استقلال اکنون ۱۱ امتیاز و پرسپولیس ۱۰ امتیاز دارد.\n\n🔹آلومینیوم اراک اما با شکست دادن گل‌گهر، مانند استقلال ۱۱ امتیازی شد و در رده سوم قرار گرفت. تیم پیروز قربانی نیز مانند تراکتور و استقلال هنوز در این فصل شکست نخورده است.\n\n🔹در هفته پنجم، پنج بازی با تساوی به پایان رسید و در ۹ مسابقه تنها ۱۲ گل به ثمر رسید. دربی پایتخت با وجود جذابیت و داشتن دو گل، مانند بسیاری از بازی‌های این هفته مساوی شد. به نظر می‌رسد رویکرد محافظه‌کارانه تیم‌ها از ابتدای فصل، به روندی فراگیر در لیگ برتر تبدیل شده است.\n\n@iranintltvsport",
+      "message_id": 355607,
+      "message_link": "https://t.me/IranintlTV/355607",
+      "text": "برنامه «پاداش برای عدالت» وزارت خارجه آمریکا اعلام کرد برای دریافت اطلاعات از امیر یاریاب، مسئول بخش عملیات سایبری در فرماندهی سایبر-الکترونیک سپاه پاسداران، تا ۱۰ میلیون دلار پاداش می‌دهد.\n\nصفحه برنامه «پاداش برای عدالت» در ایکس نوشت که یاریاب در این جایگاه، گروه‌های سایبری مخرب نظیر «شهید همت» و «شهید شوشتری» را برای هدف قرار دادن زیرساخت‌های حیاتی ایالات متحده سازماندهی و هدایت می‌کند.\nhttps://iranintl.com/202609033397",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "21:30:16",
-      "gregorian_utc": "2026-09-03T18:00:16+00:00",
+      "tehran_time": "21:31:12",
+      "gregorian_utc": "2026-09-03T18:01:12+00:00",
       "media_type": "photo",
-      "media_size_bytes": 243645,
-      "media_size_human": "237.93 KB",
+      "media_size_bytes": 244485,
+      "media_size_human": "238.75 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355605_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355605_photo.jpg",
+      "media_local_path": "media/IranintlTV_355607_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355607_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T19:30:42.010579+00:00"
+      "archived_at": "2026-09-03T19:40:33.597232+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1067,7 +1067,7 @@
       "media_local_path": "media/satlastnews_76381_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76381_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T19:30:42.377466+00:00"
+      "archived_at": "2026-09-03T19:40:33.856969+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1085,7 +1085,7 @@
       "media_local_path": "media/Mellig_120574_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120574_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T19:30:42.788702+00:00"
+      "archived_at": "2026-09-03T19:40:34.128904+00:00"
     }
   ]
 }
