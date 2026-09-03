@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T11:34:55.102973+00:00",
-  "shamsi_generated": "1405/06/12 11:34:55 تهران",
+  "generated_at": "2026-09-03T11:40:45.244033+00:00",
+  "shamsi_generated": "1405/06/12 11:40:45 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -41,25 +41,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T11:30:42.747272+00:00"
+      "archived_at": "2026-09-03T11:37:14.590843+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355561,
-      "message_link": "https://t.me/IranintlTV/355561",
-      "text": "وقتی یک جامعه برای مدت طولانی با خشونت، مرگ، جنگ و اضطراب روبه‌رو می‌شود، اثر آن فقط در لحظه وقوع اتفاق‌ها باقی نمی‌ماند. ترومای جمعی می‌تواند روی احساس امنیت، روابط، تمرکز، امید، توان لذت بردن از زندگی و حتی تصویری که از خودمان داریم اثر بگذارد.\n \nدر لایو اینستاگرامی با سولماز برقگیر، روان‌درمانگر و کوچ روابط، درباره ترومای جمعی، سوگ انباشته، احساس گناه بازمانده و راه‌های مراقبت از خود در چنین شرایطی گفت‌وگو می‌کنیم.\n \nجمعه ۱۳ شهریور\nساعت ۸ شب تهران | ۵:۳۰ عصر لندن\n \nسوال‌هایتان را هم در کامنت‌ها بنویسید تا در این گفت‌وگو مطرح کنیم.",
+      "message_id": 355563,
+      "message_link": "https://t.me/IranintlTV/355563",
+      "text": "🔻استقلال و پرسپولیس در دربی صدوهفتم به تساوی یک-یک رسیدند. پرسپولیس در دقیقه ۵۰ با گل محمدمهدی محبی پیش افتاد، اما استقلال ۱۰ دقیقه بعد با گل یاسر آسانی روی پاس محمدحسین اسلامی بازی را به تساوی کشاند.\n\n🔹استقلال با ۱۱ امتیاز در جایگاه دوم جدول قرار دارد و پرسپولیس با ۱۰ امتیاز چهارم است.\n\n🔹ارزیابی محمد تقوی، بازیکن پیشین تیم فوتبال ایران و استقلال، از بازی دربی\n\n@iranintltvsport",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "14:56:56",
-      "gregorian_utc": "2026-09-03T11:26:56+00:00",
+      "tehran_time": "15:03:38",
+      "gregorian_utc": "2026-09-03T11:33:38+00:00",
       "media_type": "video",
-      "media_size_bytes": 1659076,
-      "media_size_human": "1.58 MB",
+      "media_size_bytes": 2482725,
+      "media_size_human": "2.37 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355561_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355561_video.mp4",
+      "media_local_path": "media/IranintlTV_355563_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355563_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T11:30:43.112261+00:00"
+      "archived_at": "2026-09-03T11:37:14.947739+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -77,7 +77,7 @@
       "media_local_path": "media/satlastnews_76400_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76400_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T11:30:43.502931+00:00"
+      "archived_at": "2026-09-03T11:37:15.249085+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -95,7 +95,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T11:30:43.883726+00:00"
+      "archived_at": "2026-09-03T11:37:15.587974+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -113,7 +113,7 @@
       "media_local_path": "media/khabarsara53_11_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_11_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T11:30:44.204068+00:00"
+      "archived_at": "2026-09-03T11:37:15.851546+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -131,25 +131,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T11:30:42.747323+00:00"
+      "archived_at": "2026-09-03T11:37:14.590880+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355560,
-      "message_link": "https://t.me/IranintlTV/355560",
-      "text": "ویدیوهای رسیده به ایران‌اینترنشنال از تشدید بحران سوخت و تشکیل صف‌های بسیار طولانی مقابل جایگاه‌های سوخت در شهرهای مختلف ایران حکایت دارد.\n\nبر اساس گزارش‌های مردمی، صف خودروها مقابل برخی جایگاه‌ها گاهی تا پاسی از نیمه‌شب ادامه دارد.\n\nجزییات بیشتر با بهاران آزادی، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 355562,
+      "message_link": "https://t.me/IranintlTV/355562",
+      "text": "خواهر جاویدنام مجتبی روستایی با پیوستن به پویش «یک شمع، یک نام، یک یاد»، به یاد برادرش و جاویدنامان ملایر شمع روشن کرد. مجتبی روستایی، ۱۹ دی‌ ۱۴۰۴ با شلیک ماموران کشته شد.",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "14:46:41",
-      "gregorian_utc": "2026-09-03T11:16:41+00:00",
+      "tehran_time": "15:02:08",
+      "gregorian_utc": "2026-09-03T11:32:08+00:00",
       "media_type": "video",
-      "media_size_bytes": 2655449,
-      "media_size_human": "2.53 MB",
+      "media_size_bytes": 12474315,
+      "media_size_human": "11.90 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355560_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355560_video.mp4",
+      "media_local_path": "media/IranintlTV_355562_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355562_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T11:30:43.112370+00:00"
+      "archived_at": "2026-09-03T11:37:14.947832+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -167,7 +167,7 @@
       "media_local_path": "media/satlastnews_76399_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76399_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T11:30:43.503035+00:00"
+      "archived_at": "2026-09-03T11:37:15.249160+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -185,7 +185,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 107.44 MB)",
-      "archived_at": "2026-09-03T11:30:43.883828+00:00"
+      "archived_at": "2026-09-03T11:37:15.588069+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -203,7 +203,7 @@
       "media_local_path": "media/khabarsara53_10_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_10_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T11:30:44.204154+00:00"
+      "archived_at": "2026-09-03T11:37:15.851591+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -221,25 +221,25 @@
       "media_local_path": "media/zedTV_12650_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/zedTV_12650_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T11:30:42.747403+00:00"
+      "archived_at": "2026-09-03T11:37:14.590945+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355559,
-      "message_link": "https://t.me/IranintlTV/355559",
-      "text": "🔻فدراسیون فوتبال غنا به‌طور رسمی از تمدید قرارداد کیروش، سرمربی پرتغالی تیم ملی این کشور، خبر داد. کیروش هدایت غنا را در رقابت‌های قاره‌ای و بین‌المللی بر عهده خواهد داشت.\n\n🔹کیروش پیش از آغاز جام جهانی ۲۰۲۶ با قراردادی کوتاه‌مدت و چهارماهه هدایت غنا را بر عهده گرفت و پس از برکناری اوتو آدو، این تیم را در مسابقات جام جهانی هدایت کرد.\n\n🔹پس از پایان قرارداد اولیه، آینده کیروش در غنا در هاله‌ای از ابهام قرار داشت. حقوق معوقه کیروش و اعضای کادر فنی یکی از اصلی‌ترین موانع تمدید قرارداد بود که با ورود وزارت ورزش غنا و حل این مشکل مالی، مذاکرات دو طرف برای ادامه همکاری به نتیجه رسید.\n\n🔹کیروش در جام جهانی ۲۰۲۶ موفق شد غنا را به مرحله یک‌هشتم نهایی برساند، اما این تیم با شکست یک بر صفر مقابل کلمبیا از دور مسابقات کنار رفت.\n\n🔹غنا در ادامه مسیر خود در مقدماتی جام ملت‌های آفریقا، در دیداری حساس به مصاف ساحل عاج خواهد رفت.\n\n@iranintltvsport",
+      "message_id": 355561,
+      "message_link": "https://t.me/IranintlTV/355561",
+      "text": "وقتی یک جامعه برای مدت طولانی با خشونت، مرگ، جنگ و اضطراب روبه‌رو می‌شود، اثر آن فقط در لحظه وقوع اتفاق‌ها باقی نمی‌ماند. ترومای جمعی می‌تواند روی احساس امنیت، روابط، تمرکز، امید، توان لذت بردن از زندگی و حتی تصویری که از خودمان داریم اثر بگذارد.\n \nدر لایو اینستاگرامی با سولماز برقگیر، روان‌درمانگر و کوچ روابط، درباره ترومای جمعی، سوگ انباشته، احساس گناه بازمانده و راه‌های مراقبت از خود در چنین شرایطی گفت‌وگو می‌کنیم.\n \nجمعه ۱۳ شهریور\nساعت ۸ شب تهران | ۵:۳۰ عصر لندن\n \nسوال‌هایتان را هم در کامنت‌ها بنویسید تا در این گفت‌وگو مطرح کنیم.",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "14:45:18",
-      "gregorian_utc": "2026-09-03T11:15:18+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 161861,
-      "media_size_human": "158.07 KB",
+      "tehran_time": "14:56:56",
+      "gregorian_utc": "2026-09-03T11:26:56+00:00",
+      "media_type": "video",
+      "media_size_bytes": 1659076,
+      "media_size_human": "1.58 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355559_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355559_photo.jpg",
+      "media_local_path": "media/IranintlTV_355561_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355561_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T11:30:43.119336+00:00"
+      "archived_at": "2026-09-03T11:37:14.947863+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -257,7 +257,7 @@
       "media_local_path": "media/satlastnews_76398_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76398_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T11:30:43.503102+00:00"
+      "archived_at": "2026-09-03T11:37:15.249205+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -275,7 +275,7 @@
       "media_local_path": "media/Mellig_120558_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120558_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T11:30:43.883882+00:00"
+      "archived_at": "2026-09-03T11:37:15.588103+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -293,7 +293,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T11:30:44.204219+00:00"
+      "archived_at": "2026-09-03T11:37:15.851608+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -311,25 +311,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T11:30:42.747476+00:00"
+      "archived_at": "2026-09-03T11:37:14.590972+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355558,
-      "message_link": "https://t.me/IranintlTV/355558",
-      "text": "🔻وریا غفوری، کاپیتان و مربی پیشین باشگاه استقلال در ویژه برنامه ۳۶۰ برای دربی از تهیه یک خانه توسط یاسر آسانی برای یک ایرانی خبر داد.\n\n🔹آسانی در دربی ۱۰۷ ستاره استقلال بود و توانست گل تساوی این تیم برابر پرسپولیس را به ثمر برساند.\n\n@iranintltvsport",
+      "message_id": 355560,
+      "message_link": "https://t.me/IranintlTV/355560",
+      "text": "ویدیوهای رسیده به ایران‌اینترنشنال از تشدید بحران سوخت و تشکیل صف‌های بسیار طولانی مقابل جایگاه‌های سوخت در شهرهای مختلف ایران حکایت دارد.\n\nبر اساس گزارش‌های مردمی، صف خودروها مقابل برخی جایگاه‌ها گاهی تا پاسی از نیمه‌شب ادامه دارد.\n\nجزییات بیشتر با بهاران آزادی، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "14:45:07",
-      "gregorian_utc": "2026-09-03T11:15:07+00:00",
+      "tehran_time": "14:46:41",
+      "gregorian_utc": "2026-09-03T11:16:41+00:00",
       "media_type": "video",
-      "media_size_bytes": 2965964,
-      "media_size_human": "2.83 MB",
+      "media_size_bytes": 2655449,
+      "media_size_human": "2.53 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355558_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355558_video.mp4",
+      "media_local_path": "media/IranintlTV_355560_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355560_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T11:30:43.119509+00:00"
+      "archived_at": "2026-09-03T11:37:14.947919+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -347,7 +347,7 @@
       "media_local_path": "media/satlastnews_76397_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76397_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T11:30:43.503159+00:00"
+      "archived_at": "2026-09-03T11:37:15.249241+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -365,7 +365,7 @@
       "media_local_path": "media/Mellig_120557_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120557_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T11:30:43.883922+00:00"
+      "archived_at": "2026-09-03T11:37:15.588127+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -383,7 +383,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T11:30:44.204275+00:00"
+      "archived_at": "2026-09-03T11:37:15.851625+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -401,25 +401,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T11:30:42.747509+00:00"
+      "archived_at": "2026-09-03T11:37:14.590990+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355557,
-      "message_link": "https://t.me/IranintlTV/355557",
-      "text": "ویدیوی منتشرشده در رسانه‌های اجتماعی صف‌های طولانی خودروها برای دریافت بنزین را در مشهد نشان می‌دهد. یکی از شهروندان در این ویدیو با طعنه به احکام صادره در جمهوری اسلامی برای معترضان، خطاب به دیگری می‌گوید: «فحش هم بدهیم عامل موساد می‌شویم.»",
+      "message_id": 355559,
+      "message_link": "https://t.me/IranintlTV/355559",
+      "text": "🔻فدراسیون فوتبال غنا به‌طور رسمی از تمدید قرارداد کیروش، سرمربی پرتغالی تیم ملی این کشور، خبر داد. کیروش هدایت غنا را در رقابت‌های قاره‌ای و بین‌المللی بر عهده خواهد داشت.\n\n🔹کیروش پیش از آغاز جام جهانی ۲۰۲۶ با قراردادی کوتاه‌مدت و چهارماهه هدایت غنا را بر عهده گرفت و پس از برکناری اوتو آدو، این تیم را در مسابقات جام جهانی هدایت کرد.\n\n🔹پس از پایان قرارداد اولیه، آینده کیروش در غنا در هاله‌ای از ابهام قرار داشت. حقوق معوقه کیروش و اعضای کادر فنی یکی از اصلی‌ترین موانع تمدید قرارداد بود که با ورود وزارت ورزش غنا و حل این مشکل مالی، مذاکرات دو طرف برای ادامه همکاری به نتیجه رسید.\n\n🔹کیروش در جام جهانی ۲۰۲۶ موفق شد غنا را به مرحله یک‌هشتم نهایی برساند، اما این تیم با شکست یک بر صفر مقابل کلمبیا از دور مسابقات کنار رفت.\n\n🔹غنا در ادامه مسیر خود در مقدماتی جام ملت‌های آفریقا، در دیداری حساس به مصاف ساحل عاج خواهد رفت.\n\n@iranintltvsport",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "14:32:54",
-      "gregorian_utc": "2026-09-03T11:02:54+00:00",
-      "media_type": "video",
-      "media_size_bytes": 5845663,
-      "media_size_human": "5.57 MB",
+      "tehran_time": "14:45:18",
+      "gregorian_utc": "2026-09-03T11:15:18+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 161861,
+      "media_size_human": "158.07 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355557_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355557_video.mp4",
+      "media_local_path": "media/IranintlTV_355559_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355559_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T11:30:43.119564+00:00"
+      "archived_at": "2026-09-03T11:37:14.948042+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -437,7 +437,7 @@
       "media_local_path": "media/satlastnews_76392_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76392_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T11:30:43.503261+00:00"
+      "archived_at": "2026-09-03T11:37:15.249326+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -455,7 +455,7 @@
       "media_local_path": "media/Mellig_120556_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120556_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T11:30:43.883959+00:00"
+      "archived_at": "2026-09-03T11:37:15.588146+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -473,7 +473,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T11:30:44.204321+00:00"
+      "archived_at": "2026-09-03T11:37:15.851640+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -491,25 +491,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T11:30:42.747551+00:00"
+      "archived_at": "2026-09-03T11:37:14.591014+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355556,
-      "message_link": "https://t.me/IranintlTV/355556",
-      "text": "🗣روایت شما: وضعیت زندگی در سایه سرکوب سیاسی و تنش‌های نظامی - پنج‌شنبه ۱۲ شهریور\n\n🔹چهار سال پیش ۲۰۰ عدد کپسول هیدروکسی اوره تولید آلمان رو می‌خریدم ۱۱ هزار تومان، امروز نمونه بی‌کیفیت ایرانی رو خریدم ۹۰۰ هزار تومان.\n\n🔹من پدر دو دختر هستم و الان دیگه واقعاً کمرم شکسته. در این گرونی نمی‌تونم جلوی زن و بچه سرم را بالا بگیرم. گرونی اجاره‌خونه و اجاره مغازه، هزینه تحصیل بچه‌ها. بعد از ۳۳ سال کار کردن، هنوز نتونستم پس‌انداز داشته باشم. کاسبی خراب و تورم هم بالا است.\n\n🔹من یک معلم در استان سیستان و بلوچستان هستم. حقوق من هر ماه حتی تا دو روز دووم نمیاره. نمی‌تونم هم شغل دوم انجام بدم. بچه‌هام گشنه می‌خوابن.\n\n🔹از شهر خمین، استان مرکزی هستم. شهری با کمترین امکانات که سایت موشکی داره و جز بدبختی هیچی برای مردمش نداره. سرلاک قوطی ۶۰۰ هزار تومان شد.\n\n🔹هزینه روپوش مدرسه بچه آن‌قدر گران شده که ما نمی‌توانیم پرداخت کنیم. بچه‌ام میوه می‌خواهد، اما نمی‌توانم برایش بخرم. اما خوشحالم، چون اگر خوشحال نباشم، اعدامم می‌کنند تروریست‌های سپاهی.\n\n🔹اجاره خونه‌ها زیاده و حقوق کم. ۱۰ ساعت سر کارم با ماهی ۹ میلیون تومان حقوق. بعضی‌وقت‌ها هیچی نمی‌خورم که پول خرج نشه و بتونم اجاره خونه بدم. نمی‌تونم خرج زندگی پسرم رو بدم.\n\n🔹دانشگاه رودهن برای رشته عمران ترم آخر شهریه ثابت رو که یعنی باید ثابت باشه، زده ۲ میلیون و ۱۰۰ هزار تومان، ولی الان تغییر کرده به ۱۲ میلیون و ۱۰۰ هزار تومان. الان من این مبلغ رو باید پرداخت کنم که فقط ثبت‌نام شم. جمهوری اسلامی همه‌جوره داره جیب ما رو می‌زنه.\n\n🔹من آدمی هستم که دیابت دارم و باید ۶ ماهی یک مرتبه آزمایش چکاپ بدم، اما به‌خاطر گرونی نمی‌تونم و الان حالم بد شده.\n\n🔹خدا لعنتتون کنه، یه لپ‌تاپ خواستم بخرم، تا سه روز پیش ۱۵۵ میلیون تومان بود، امشب شده ۱۹۵ میلیون.\n\n🔹فروشگاه‌های زنجیره‌ای رفاه با ۸۰۰۰ نفر نیرو، الان یک ساله بیمه نداریم و ۴ ماه هم هست که حقوق نگرفتیم، هیچ‌کسی پاسخگو نیست.\n\n🔹پنج‌شنبه شب ۱۲ شهریور اینترنت به‌شدت ضعیف شده و حتی گاهی سیگنال موبایل کلاً قطع می‌شه. اینجا ایران است، مردم به گروگان گرفته شدن.",
+      "message_id": 355558,
+      "message_link": "https://t.me/IranintlTV/355558",
+      "text": "🔻وریا غفوری، کاپیتان و مربی پیشین باشگاه استقلال در ویژه برنامه ۳۶۰ برای دربی از تهیه یک خانه توسط یاسر آسانی برای یک ایرانی خبر داد.\n\n🔹آسانی در دربی ۱۰۷ ستاره استقلال بود و توانست گل تساوی این تیم برابر پرسپولیس را به ثمر برساند.\n\n@iranintltvsport",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "14:32:10",
-      "gregorian_utc": "2026-09-03T11:02:10+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T11:30:43.119595+00:00"
+      "tehran_time": "14:45:07",
+      "gregorian_utc": "2026-09-03T11:15:07+00:00",
+      "media_type": "video",
+      "media_size_bytes": 2965964,
+      "media_size_human": "2.83 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/IranintlTV_355558_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355558_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-09-03T11:37:14.948092+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -527,7 +527,7 @@
       "media_local_path": "media/satlastnews_76391_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76391_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T11:30:43.503330+00:00"
+      "archived_at": "2026-09-03T11:37:15.249372+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -545,7 +545,7 @@
       "media_local_path": "media/Mellig_120555_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120555_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T11:30:43.884033+00:00"
+      "archived_at": "2026-09-03T11:37:15.588191+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -563,7 +563,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T11:30:44.204362+00:00"
+      "archived_at": "2026-09-03T11:37:15.851661+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -581,25 +581,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T11:30:42.747581+00:00"
+      "archived_at": "2026-09-03T11:37:14.591031+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355555,
-      "message_link": "https://t.me/IranintlTV/355555",
-      "text": "عربستان سعودی در نزدیکی ریاض کارخانه‌ای برای تولید پهپادی مشابه «شاهد» جمهوری اسلامی می‌سازد.\nپهپاد «اسکای واسپ» با همکاری یک شرکت آمریکایی و سعودی تولید خواهد شد و برد آن تا هزار و ۵۰۰ کیلومتر اعلام شده.\n@iranintltv",
+      "message_id": 355557,
+      "message_link": "https://t.me/IranintlTV/355557",
+      "text": "ویدیوی منتشرشده در رسانه‌های اجتماعی صف‌های طولانی خودروها برای دریافت بنزین را در مشهد نشان می‌دهد. یکی از شهروندان در این ویدیو با طعنه به احکام صادره در جمهوری اسلامی برای معترضان، خطاب به دیگری می‌گوید: «فحش هم بدهیم عامل موساد می‌شویم.»",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "14:31:00",
-      "gregorian_utc": "2026-09-03T11:01:00+00:00",
+      "tehran_time": "14:32:54",
+      "gregorian_utc": "2026-09-03T11:02:54+00:00",
       "media_type": "video",
-      "media_size_bytes": 3326872,
-      "media_size_human": "3.17 MB",
+      "media_size_bytes": 5845663,
+      "media_size_human": "5.57 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355555_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355555_video.mp4",
+      "media_local_path": "media/IranintlTV_355557_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355557_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T11:30:43.119664+00:00"
+      "archived_at": "2026-09-03T11:37:14.948122+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -617,7 +617,7 @@
       "media_local_path": "media/satlastnews_76388_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76388_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T11:30:43.503391+00:00"
+      "archived_at": "2026-09-03T11:37:15.249409+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -635,7 +635,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T11:30:43.884105+00:00"
+      "archived_at": "2026-09-03T11:37:15.588232+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -653,7 +653,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T11:30:44.204401+00:00"
+      "archived_at": "2026-09-03T11:37:15.851683+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -671,25 +671,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T11:30:42.747623+00:00"
+      "archived_at": "2026-09-03T11:37:14.591062+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355554,
-      "message_link": "https://t.me/IranintlTV/355554",
-      "text": "ارتش جمهوری اسلامی اعلام کرد در ادامه تنش‌ها و حملات متقابل با آمریکا، پایگاه‌های نظامی ایالات متحده در امارات متحده عربی و کویت را با موشک و پهپاد هدف قرار داده است.\n\nبر اساس بیانیه ارتش، سامانه‌های ارتباطات ماهواره‌ای، انبارهای تجهیزات و آشیانه هواپیماهای جنگنده در پایگاه‌های احمدالجابر در کویت و المنهاد در امارات هدف این حملات بوده‌اند.\n\nجزییات بیشتر با تروسکه صادقی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 355556,
+      "message_link": "https://t.me/IranintlTV/355556",
+      "text": "🗣روایت شما: وضعیت زندگی در سایه سرکوب سیاسی و تنش‌های نظامی - پنج‌شنبه ۱۲ شهریور\n\n🔹چهار سال پیش ۲۰۰ عدد کپسول هیدروکسی اوره تولید آلمان رو می‌خریدم ۱۱ هزار تومان، امروز نمونه بی‌کیفیت ایرانی رو خریدم ۹۰۰ هزار تومان.\n\n🔹من پدر دو دختر هستم و الان دیگه واقعاً کمرم شکسته. در این گرونی نمی‌تونم جلوی زن و بچه سرم را بالا بگیرم. گرونی اجاره‌خونه و اجاره مغازه، هزینه تحصیل بچه‌ها. بعد از ۳۳ سال کار کردن، هنوز نتونستم پس‌انداز داشته باشم. کاسبی خراب و تورم هم بالا است.\n\n🔹من یک معلم در استان سیستان و بلوچستان هستم. حقوق من هر ماه حتی تا دو روز دووم نمیاره. نمی‌تونم هم شغل دوم انجام بدم. بچه‌هام گشنه می‌خوابن.\n\n🔹از شهر خمین، استان مرکزی هستم. شهری با کمترین امکانات که سایت موشکی داره و جز بدبختی هیچی برای مردمش نداره. سرلاک قوطی ۶۰۰ هزار تومان شد.\n\n🔹هزینه روپوش مدرسه بچه آن‌قدر گران شده که ما نمی‌توانیم پرداخت کنیم. بچه‌ام میوه می‌خواهد، اما نمی‌توانم برایش بخرم. اما خوشحالم، چون اگر خوشحال نباشم، اعدامم می‌کنند تروریست‌های سپاهی.\n\n🔹اجاره خونه‌ها زیاده و حقوق کم. ۱۰ ساعت سر کارم با ماهی ۹ میلیون تومان حقوق. بعضی‌وقت‌ها هیچی نمی‌خورم که پول خرج نشه و بتونم اجاره خونه بدم. نمی‌تونم خرج زندگی پسرم رو بدم.\n\n🔹دانشگاه رودهن برای رشته عمران ترم آخر شهریه ثابت رو که یعنی باید ثابت باشه، زده ۲ میلیون و ۱۰۰ هزار تومان، ولی الان تغییر کرده به ۱۲ میلیون و ۱۰۰ هزار تومان. الان من این مبلغ رو باید پرداخت کنم که فقط ثبت‌نام شم. جمهوری اسلامی همه‌جوره داره جیب ما رو می‌زنه.\n\n🔹من آدمی هستم که دیابت دارم و باید ۶ ماهی یک مرتبه آزمایش چکاپ بدم، اما به‌خاطر گرونی نمی‌تونم و الان حالم بد شده.\n\n🔹خدا لعنتتون کنه، یه لپ‌تاپ خواستم بخرم، تا سه روز پیش ۱۵۵ میلیون تومان بود، امشب شده ۱۹۵ میلیون.\n\n🔹فروشگاه‌های زنجیره‌ای رفاه با ۸۰۰۰ نفر نیرو، الان یک ساله بیمه نداریم و ۴ ماه هم هست که حقوق نگرفتیم، هیچ‌کسی پاسخگو نیست.\n\n🔹پنج‌شنبه شب ۱۲ شهریور اینترنت به‌شدت ضعیف شده و حتی گاهی سیگنال موبایل کلاً قطع می‌شه. اینجا ایران است، مردم به گروگان گرفته شدن.",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "14:19:36",
-      "gregorian_utc": "2026-09-03T10:49:36+00:00",
-      "media_type": "video",
-      "media_size_bytes": 3326007,
-      "media_size_human": "3.17 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355554_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355554_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-09-03T11:30:43.119752+00:00"
+      "tehran_time": "14:32:10",
+      "gregorian_utc": "2026-09-03T11:02:10+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-09-03T11:37:14.948138+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -707,7 +707,7 @@
       "media_local_path": "media/satlastnews_76387_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76387_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T11:30:43.503490+00:00"
+      "archived_at": "2026-09-03T11:37:15.249448+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -725,7 +725,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T11:30:43.884157+00:00"
+      "archived_at": "2026-09-03T11:37:15.588259+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -743,7 +743,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T11:30:44.204458+00:00"
+      "archived_at": "2026-09-03T11:37:15.851700+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -761,25 +761,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T11:30:42.747653+00:00"
+      "archived_at": "2026-09-03T11:37:14.591080+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355553,
-      "message_link": "https://t.me/IranintlTV/355553",
-      "text": "تهدیدهای موشکی و پهپادی جمهوری اسلامی، کشورهای حوزه خلیج فارس را به سمت تقویت توانمندی‌های دفاعی و  تولید پهپاد سوق داده است.\n\nهوشنگ حسن‌یاری، کارشناس خاورمیانه و امور نظامی، به ایران‌اینترنشنال گفت نسل جدید پهپادها وضعیت نظامی را در خلیج فارس تغییر داده و باعث شده کشورهای عرب منطقه برای نخستین بار به عنوان بازیگران اصلی وارد این حوزه شوند.\n@iranintltv",
+      "message_id": 355555,
+      "message_link": "https://t.me/IranintlTV/355555",
+      "text": "عربستان سعودی در نزدیکی ریاض کارخانه‌ای برای تولید پهپادی مشابه «شاهد» جمهوری اسلامی می‌سازد.\nپهپاد «اسکای واسپ» با همکاری یک شرکت آمریکایی و سعودی تولید خواهد شد و برد آن تا هزار و ۵۰۰ کیلومتر اعلام شده.\n@iranintltv",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "14:05:07",
-      "gregorian_utc": "2026-09-03T10:35:07+00:00",
+      "tehran_time": "14:31:00",
+      "gregorian_utc": "2026-09-03T11:01:00+00:00",
       "media_type": "video",
-      "media_size_bytes": 4463110,
-      "media_size_human": "4.26 MB",
+      "media_size_bytes": 3326872,
+      "media_size_human": "3.17 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355553_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355553_video.mp4",
+      "media_local_path": "media/IranintlTV_355555_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355555_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T11:30:43.119826+00:00"
+      "archived_at": "2026-09-03T11:37:14.948179+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -797,7 +797,7 @@
       "media_local_path": "media/satlastnews_76385_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76385_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T11:30:43.503550+00:00"
+      "archived_at": "2026-09-03T11:37:15.249481+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -815,7 +815,7 @@
       "media_local_path": "media/Mellig_120552_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120552_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T11:30:43.884285+00:00"
+      "archived_at": "2026-09-03T11:37:15.588350+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -833,7 +833,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T11:30:44.204485+00:00"
+      "archived_at": "2026-09-03T11:37:15.851715+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -851,25 +851,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T11:30:42.747679+00:00"
+      "archived_at": "2026-09-03T11:37:14.591099+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355552,
-      "message_link": "https://t.me/IranintlTV/355552",
-      "text": "امانوئل مکرون، رییس‌جمهوری فرانسه، در نخستین سفر خود به بریتانیا پس از روی کار آمدن اندی برنهم، نخست‌وزیر جدید این کشور، در خانه شماره ۱۰ داونینگ‌استریت با او دیدار می‌کند.\n\nدو طرف درباره مسئله مهاجران در کانال مانش، همکاری‌های دفاعی و اقتصادی، حمایت از اوکراین و تحولات خاورمیانه گفت‌وگو خواهند کرد.\n\nگزارش ساجده شریفی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 355554,
+      "message_link": "https://t.me/IranintlTV/355554",
+      "text": "ارتش جمهوری اسلامی اعلام کرد در ادامه تنش‌ها و حملات متقابل با آمریکا، پایگاه‌های نظامی ایالات متحده در امارات متحده عربی و کویت را با موشک و پهپاد هدف قرار داده است.\n\nبر اساس بیانیه ارتش، سامانه‌های ارتباطات ماهواره‌ای، انبارهای تجهیزات و آشیانه هواپیماهای جنگنده در پایگاه‌های احمدالجابر در کویت و المنهاد در امارات هدف این حملات بوده‌اند.\n\nجزییات بیشتر با تروسکه صادقی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "13:58:30",
-      "gregorian_utc": "2026-09-03T10:28:30+00:00",
+      "tehran_time": "14:19:36",
+      "gregorian_utc": "2026-09-03T10:49:36+00:00",
       "media_type": "video",
-      "media_size_bytes": 3236146,
-      "media_size_human": "3.09 MB",
+      "media_size_bytes": 3326007,
+      "media_size_human": "3.17 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355552_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355552_video.mp4",
+      "media_local_path": "media/IranintlTV_355554_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355554_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T11:30:43.119900+00:00"
+      "archived_at": "2026-09-03T11:37:14.948232+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -887,7 +887,7 @@
       "media_local_path": "media/satlastnews_76383_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76383_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T11:30:43.503599+00:00"
+      "archived_at": "2026-09-03T11:37:15.249514+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -905,7 +905,7 @@
       "media_local_path": "media/Mellig_120551_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120551_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T11:30:43.884387+00:00"
+      "archived_at": "2026-09-03T11:37:15.588412+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -923,7 +923,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T11:30:44.204509+00:00"
+      "archived_at": "2026-09-03T11:37:15.851728+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -941,25 +941,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T11:30:42.747705+00:00"
+      "archived_at": "2026-09-03T11:37:14.591114+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355551,
-      "message_link": "https://t.me/IranintlTV/355551",
-      "text": "یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال، آتش‌سوزی درختان را در ساحل شیندان آستارا در پنجشنبه ۱۲ شهریور نشان می‌دهد.",
+      "message_id": 355553,
+      "message_link": "https://t.me/IranintlTV/355553",
+      "text": "تهدیدهای موشکی و پهپادی جمهوری اسلامی، کشورهای حوزه خلیج فارس را به سمت تقویت توانمندی‌های دفاعی و  تولید پهپاد سوق داده است.\n\nهوشنگ حسن‌یاری، کارشناس خاورمیانه و امور نظامی، به ایران‌اینترنشنال گفت نسل جدید پهپادها وضعیت نظامی را در خلیج فارس تغییر داده و باعث شده کشورهای عرب منطقه برای نخستین بار به عنوان بازیگران اصلی وارد این حوزه شوند.\n@iranintltv",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "13:53:40",
-      "gregorian_utc": "2026-09-03T10:23:40+00:00",
+      "tehran_time": "14:05:07",
+      "gregorian_utc": "2026-09-03T10:35:07+00:00",
       "media_type": "video",
-      "media_size_bytes": 1990274,
-      "media_size_human": "1.90 MB",
+      "media_size_bytes": 4463110,
+      "media_size_human": "4.26 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355551_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355551_video.mp4",
+      "media_local_path": "media/IranintlTV_355553_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355553_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T11:30:43.119935+00:00"
+      "archived_at": "2026-09-03T11:37:14.948282+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -977,7 +977,7 @@
       "media_local_path": "media/satlastnews_76381_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76381_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T11:30:43.503637+00:00"
+      "archived_at": "2026-09-03T11:37:15.249536+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -995,7 +995,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T11:30:43.884461+00:00"
+      "archived_at": "2026-09-03T11:37:15.588440+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -1013,7 +1013,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T11:30:44.204535+00:00"
+      "archived_at": "2026-09-03T11:37:15.851744+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1031,25 +1031,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-03T11:30:42.747730+00:00"
+      "archived_at": "2026-09-03T11:37:14.591129+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355550,
-      "message_link": "https://t.me/IranintlTV/355550",
-      "text": "یسرائیل کاتس، وزیر دفاع اسرائیل، پنج‌شنبه ۱۲ شهریور در مراسم روش هشانا با کارکنان وزارت دفاع اعلام کرد حمله جمهوری اسلامی به این کشور، اسرائیل را از همه محدودیت‌ها رها خواهد کرد و این کشور حتی زیرساخت‌های انرژی را نیز هدف قرار خواهد داد.\n\nوزیر دفاع اسرائیل گفت: «تمام زیرساخت‌های ملی، نظامی و غیرنظامی، از جمله زیرساخت‌های انرژی را هدف قرار خواهیم داد و ایران را به اعماق عصر حجر و تاریکی بازخواهیم گرداند.»\n\nکاتس همچنین افزود: «فشار اقتصادی و نگرانی از قیام و سقوط حکومت ممکن است جمهوری اسلامی را به اقدامات از سر استیصال سوق دهد.»\n\nاو گفت: «حکومت آیت‌الله‌ها در ایران به‌خوبی می‌داند چرا پس از آنکه دو بار ضربات سختی به آنها وارد کردیم، برنامه هسته‌ای را نابود کردیم، خامنه‌ای را کشتیم و به توانایی‌های راهبردی آنها آسیب شدیدی زدیم، به اسرائیل حمله نمی‌کند.» \nhttps://iranintl.com/202609032245",
+      "message_id": 355552,
+      "message_link": "https://t.me/IranintlTV/355552",
+      "text": "امانوئل مکرون، رییس‌جمهوری فرانسه، در نخستین سفر خود به بریتانیا پس از روی کار آمدن اندی برنهم، نخست‌وزیر جدید این کشور، در خانه شماره ۱۰ داونینگ‌استریت با او دیدار می‌کند.\n\nدو طرف درباره مسئله مهاجران در کانال مانش، همکاری‌های دفاعی و اقتصادی، حمایت از اوکراین و تحولات خاورمیانه گفت‌وگو خواهند کرد.\n\nگزارش ساجده شریفی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/06/12",
-      "tehran_time": "13:51:51",
-      "gregorian_utc": "2026-09-03T10:21:51+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 128357,
-      "media_size_human": "125.35 KB",
+      "tehran_time": "13:58:30",
+      "gregorian_utc": "2026-09-03T10:28:30+00:00",
+      "media_type": "video",
+      "media_size_bytes": 3236146,
+      "media_size_human": "3.09 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355550_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355550_photo.jpg",
+      "media_local_path": "media/IranintlTV_355552_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355552_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T11:30:43.120063+00:00"
+      "archived_at": "2026-09-03T11:37:14.948368+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1067,7 +1067,7 @@
       "media_local_path": "media/satlastnews_76380_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76380_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-03T11:30:43.503671+00:00"
+      "archived_at": "2026-09-03T11:37:15.249558+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1085,7 +1085,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-09-03T11:30:43.884523+00:00"
+      "archived_at": "2026-09-03T11:37:15.588474+00:00"
     }
   ]
 }
