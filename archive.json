@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04T21:43:24.518445+00:00",
-  "shamsi_generated": "1405/06/13 21:43:24 تهران",
+  "generated_at": "2026-09-04T21:54:22.368631+00:00",
+  "shamsi_generated": "1405/06/13 21:54:22 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -28,12 +28,12 @@
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12728,
-      "message_link": "https://t.me/zedTV/12728",
-      "text": "گزارش‌ها از استقرار خودروهای نظامی پوشیده در حیاط مدرسه‌ای در تهرانپارس.\nافزایش نگرانی خانواده‌ها از تبدیل مدارس به اهداف نظامی و سپر انسانی.\nتردید در امنیت محیط‌های آموزشی با حضور تجهیزات جنگی و سرکوب.",
+      "message_id": 12729,
+      "message_link": "https://t.me/zedTV/12729",
+      "text": "گزارش‌های مردمی از شنیده شدن صدای چندین شلیک مهیب در کرج.\nتداوم صداهای انفجارگونه در محدوده فاز ۴ مهرشهر و مهدویه.\nایجاد فضای ناآرام در نزدیکی اتوبان تهران-کرج.",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "00:46:00",
-      "gregorian_utc": "2026-09-04T21:16:00+00:00",
+      "tehran_time": "01:16:24",
+      "gregorian_utc": "2026-09-04T21:46:24+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -41,25 +41,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T21:40:38.151622+00:00"
+      "archived_at": "2026-09-04T21:50:40.856333+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355788,
-      "message_link": "https://t.me/IranintlTV/355788",
-      "text": "ارتش اسرائیل از پاکسازی تونل‌های دو محور منتهی به بلندی‌های علی الطاهر در جنوب لبنان و از مناطق کلیدی گروه حزب‌الله خبر داد. پیشتر گفته شده بود جمعی از اعضای سپاه پاسداران در این محل در بین نیروهای حزب الله حضور دارند و جمهوری اسلامی از طریق عمان به آمریکا درباره تصرف علی‌الطاهر از سوی اسرائیل هشدار داده است. \n@iranintltv",
+      "message_id": 355789,
+      "message_link": "https://t.me/IranintlTV/355789",
+      "text": "سخنگوی وزارت خارجه قطر روایت جمهوری اسلامی از حملات به این کشور را رد کرد و گفت اسناد رسمی ارائه‌شده به سازمان ملل نشان می‌دهد موشک‌های جمهوری اسلامی مناطق غیرنظامی، تجاری و مسکونی قطر را هدف قرار داده‌اند. به گفته او، نامه اول مارس قطر به سازمان ملل خسارت‌ها و زخمی شدن ۱۶ نفر را ثبت کرده و در گزارش ۲۰ ژوییه نیز حملات دیگری ثبت شده است که سه نفر، از جمله یک کودک، در آنها زخمی شدند.\n\nسخنگوی وزارت خارجه قطر همچنین گفت ارزیابی امنیتی مورد استناد جمهوری اسلامی برای اهداف عملیاتی تهیه شده و «گزارش جامعی از رویدادها یا ارزیابی حقوقی» نبوده است و استناد گزینشی به آن گمراه‌کننده است. او همچنین توصیف حمله ۱۸ مارس به تاسیسات گازی راس لفان به‌عنوان حمله «ادعایی» را رد کرد و گفت این حمله به‌طور رسمی ثبت شده است.\n\nاو افزود: «قطر طرف این درگیری نیست.» سخنگوی وزارت خارجه قطر گفت حملات به خاک و زیرساخت‌های غیرنظامی این کشور را نمی‌توان به‌عنوان «پاسخ‌های مشروع» توجیه کرد.\nhttps://iranintl.com/202609041927",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "01:08:32",
-      "gregorian_utc": "2026-09-04T21:38:32+00:00",
-      "media_type": "video",
-      "media_size_bytes": 1109907,
-      "media_size_human": "1.06 MB",
+      "tehran_time": "01:15:11",
+      "gregorian_utc": "2026-09-04T21:45:11+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 205039,
+      "media_size_human": "200.23 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355788_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355788_video.mp4",
+      "media_local_path": "media/IranintlTV_355789_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355789_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T21:40:38.514610+00:00"
+      "archived_at": "2026-09-04T21:50:41.437462+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -77,7 +77,7 @@
       "media_local_path": "media/satlastnews_76405_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76405_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T21:40:38.986100+00:00"
+      "archived_at": "2026-09-04T21:50:41.872106+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -95,7 +95,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-09-04T21:40:39.277930+00:00"
+      "archived_at": "2026-09-04T21:50:42.258838+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -113,17 +113,17 @@
       "media_local_path": "media/khabarsara53_11_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_11_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T21:40:39.519999+00:00"
+      "archived_at": "2026-09-04T21:50:42.605774+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12727,
-      "message_link": "https://t.me/zedTV/12727",
-      "text": "رهگیری موشک شلیک‌شده توسط حزب‌الله به سمت نیروهای اسرائیلی در منطقه امنیتی.\nآغاز حملات هوایی تلافی‌جویانه ارتش اسرائیل علیه مواضع این گروه تروریستی.\nتداوم تنش‌آفرینی‌های بازوی نیابتی جمهوری اسلامی در منطقه.",
+      "message_id": 12728,
+      "message_link": "https://t.me/zedTV/12728",
+      "text": "گزارش‌ها از استقرار خودروهای نظامی پوشیده در حیاط مدرسه‌ای در تهرانپارس.\nافزایش نگرانی خانواده‌ها از تبدیل مدارس به اهداف نظامی و سپر انسانی.\nتردید در امنیت محیط‌های آموزشی با حضور تجهیزات جنگی و سرکوب.",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "00:30:43",
-      "gregorian_utc": "2026-09-04T21:00:43+00:00",
+      "tehran_time": "00:46:00",
+      "gregorian_utc": "2026-09-04T21:16:00+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -131,25 +131,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T21:40:38.151670+00:00"
+      "archived_at": "2026-09-04T21:50:40.856372+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355787,
-      "message_link": "https://t.me/IranintlTV/355787",
+      "message_id": 355788,
+      "message_link": "https://t.me/IranintlTV/355788",
       "text": "ارتش اسرائیل از پاکسازی تونل‌های دو محور منتهی به بلندی‌های علی الطاهر در جنوب لبنان و از مناطق کلیدی گروه حزب‌الله خبر داد. پیشتر گفته شده بود جمعی از اعضای سپاه پاسداران در این محل در بین نیروهای حزب الله حضور دارند و جمهوری اسلامی از طریق عمان به آمریکا درباره تصرف علی‌الطاهر از سوی اسرائیل هشدار داده است. \n@iranintltv",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "01:07:48",
-      "gregorian_utc": "2026-09-04T21:37:48+00:00",
+      "tehran_time": "01:08:32",
+      "gregorian_utc": "2026-09-04T21:38:32+00:00",
       "media_type": "video",
       "media_size_bytes": 1109907,
       "media_size_human": "1.06 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355787_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355787_video.mp4",
+      "media_local_path": "media/IranintlTV_355788_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355788_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T21:40:38.514707+00:00"
+      "archived_at": "2026-09-04T21:50:41.437542+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -167,7 +167,7 @@
       "media_local_path": "media/satlastnews_76404_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76404_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T21:40:38.986208+00:00"
+      "archived_at": "2026-09-04T21:50:41.872185+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -185,7 +185,7 @@
       "media_local_path": "media/Mellig_120635_audio.mp3",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120635_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T21:40:39.277997+00:00"
+      "archived_at": "2026-09-04T21:50:42.258893+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -203,17 +203,17 @@
       "media_local_path": "media/khabarsara53_10_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_10_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T21:40:39.520065+00:00"
+      "archived_at": "2026-09-04T21:50:42.605827+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12726,
-      "message_link": "https://t.me/zedTV/12726",
-      "text": "وزیر آموزش‌وپرورش: مدارس در سخت‌ترین شرایط هم به‌صورت حضوری برگزار می‌شوند.\nانتقاد از تداوم تعطیلی مجلس همزمان با اجبار دانش‌آموزان به حضور در کلاس‌ها.\nافزایش نگرانی‌ها از تلاش رژیم برای استفاده از دانش‌آموزان به‌عنوان سپر انسانی.",
+      "message_id": 12727,
+      "message_link": "https://t.me/zedTV/12727",
+      "text": "رهگیری موشک شلیک‌شده توسط حزب‌الله به سمت نیروهای اسرائیلی در منطقه امنیتی.\nآغاز حملات هوایی تلافی‌جویانه ارتش اسرائیل علیه مواضع این گروه تروریستی.\nتداوم تنش‌آفرینی‌های بازوی نیابتی جمهوری اسلامی در منطقه.",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "00:00:52",
-      "gregorian_utc": "2026-09-04T20:30:52+00:00",
+      "tehran_time": "00:30:43",
+      "gregorian_utc": "2026-09-04T21:00:43+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -221,25 +221,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T21:40:38.151702+00:00"
+      "archived_at": "2026-09-04T21:50:40.856397+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355786,
-      "message_link": "https://t.me/IranintlTV/355786",
-      "text": "اسکات بسنت، وزیر خزانه‌داری آمریکا، گفت جمهوری اسلامی اکنون در وضعیت تحریم کامل قرار دارد و با «مرگ اقتصادی» روبه‌روست.\n\nاو افزود واشینگتن قصد دارد جمهوری اسلامی را از نظر اقتصادی خفه کند و تاکید کرد متحدان آمریکا در خلیج فارس و اروپا نیز از این سیاست حمایت می‌کنند.\n\nگزارش مرضیه حسینی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 355787,
+      "message_link": "https://t.me/IranintlTV/355787",
+      "text": "ارتش اسرائیل از پاکسازی تونل‌های دو محور منتهی به بلندی‌های علی الطاهر در جنوب لبنان و از مناطق کلیدی گروه حزب‌الله خبر داد. پیشتر گفته شده بود جمعی از اعضای سپاه پاسداران در این محل در بین نیروهای حزب الله حضور دارند و جمهوری اسلامی از طریق عمان به آمریکا درباره تصرف علی‌الطاهر از سوی اسرائیل هشدار داده است. \n@iranintltv",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "00:55:58",
-      "gregorian_utc": "2026-09-04T21:25:58+00:00",
+      "tehran_time": "01:07:48",
+      "gregorian_utc": "2026-09-04T21:37:48+00:00",
       "media_type": "video",
-      "media_size_bytes": 2490879,
-      "media_size_human": "2.38 MB",
+      "media_size_bytes": 1109907,
+      "media_size_human": "1.06 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355786_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355786_video.mp4",
+      "media_local_path": "media/IranintlTV_355787_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355787_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T21:40:38.514780+00:00"
+      "archived_at": "2026-09-04T21:50:41.437601+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -257,7 +257,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T21:40:38.986240+00:00"
+      "archived_at": "2026-09-04T21:50:41.872207+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -275,7 +275,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-09-04T21:40:39.278067+00:00"
+      "archived_at": "2026-09-04T21:50:42.258948+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -293,17 +293,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T21:40:39.520093+00:00"
+      "archived_at": "2026-09-04T21:50:42.605848+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12725,
-      "message_link": "https://t.me/zedTV/12725",
-      "text": "آکسیوس: تکذیب حمله جمهوری‌اسلامی به پایگاه‌های آمریکا در اردن توسط مقام ارشد واشینگتن.\nایالات متحده وقوع هرگونه درگیری یا هدف قرار گرفتن نیروهای خود را رد کرد.",
-      "shamsi_date": "1405/06/13",
-      "tehran_time": "23:19:07",
-      "gregorian_utc": "2026-09-04T19:49:07+00:00",
+      "message_id": 12726,
+      "message_link": "https://t.me/zedTV/12726",
+      "text": "وزیر آموزش‌وپرورش: مدارس در سخت‌ترین شرایط هم به‌صورت حضوری برگزار می‌شوند.\nانتقاد از تداوم تعطیلی مجلس همزمان با اجبار دانش‌آموزان به حضور در کلاس‌ها.\nافزایش نگرانی‌ها از تلاش رژیم برای استفاده از دانش‌آموزان به‌عنوان سپر انسانی.",
+      "shamsi_date": "1405/06/14",
+      "tehran_time": "00:00:52",
+      "gregorian_utc": "2026-09-04T20:30:52+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -311,25 +311,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T21:40:38.151737+00:00"
+      "archived_at": "2026-09-04T21:50:40.856424+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355785,
-      "message_link": "https://t.me/IranintlTV/355785",
-      "text": "دونالد ترامپ از احتمال حمله به کوه «کلنگ گزلا» خبر داده؛ منطقه‌ای که به گفته او فعالیت‌های مهم هسته‌ای جمهوری اسلامی در آن متمرکز است.\n\nهوشنگ حسن‌یاری، کارشناس امور نظامی، گفت آمریکا با استفاده از بمب‌های سنگرشکن و هواپیماهای بی-۲ توان هدف قرار دادن تاسیسات عمیق این منطقه را دارد و می‌تواند با مسدود کردن ورودی تونل‌ها، برنامه هسته‌ای جمهوری اسلامی را با اختلال جدی روبه‌رو کند. او همچنین گفت حملات موشکی جمهوری اسلامی به اردن ممکن است برخلاف هدف تهران، این کشور را بیش از پیش به آمریکا نزدیک کند.\n@iranintltv",
+      "message_id": 355786,
+      "message_link": "https://t.me/IranintlTV/355786",
+      "text": "اسکات بسنت، وزیر خزانه‌داری آمریکا، گفت جمهوری اسلامی اکنون در وضعیت تحریم کامل قرار دارد و با «مرگ اقتصادی» روبه‌روست.\n\nاو افزود واشینگتن قصد دارد جمهوری اسلامی را از نظر اقتصادی خفه کند و تاکید کرد متحدان آمریکا در خلیج فارس و اروپا نیز از این سیاست حمایت می‌کنند.\n\nگزارش مرضیه حسینی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "00:53:40",
-      "gregorian_utc": "2026-09-04T21:23:40+00:00",
+      "tehran_time": "00:55:58",
+      "gregorian_utc": "2026-09-04T21:25:58+00:00",
       "media_type": "video",
-      "media_size_bytes": 2910295,
-      "media_size_human": "2.78 MB",
+      "media_size_bytes": 2490879,
+      "media_size_human": "2.38 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355785_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355785_video.mp4",
+      "media_local_path": "media/IranintlTV_355786_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355786_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T21:40:38.514894+00:00"
+      "archived_at": "2026-09-04T21:50:41.437660+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -347,7 +347,7 @@
       "media_local_path": "media/satlastnews_76400_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76400_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T21:40:38.986296+00:00"
+      "archived_at": "2026-09-04T21:50:41.872252+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -365,7 +365,7 @@
       "media_local_path": "media/Mellig_120633_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120633_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T21:40:39.278158+00:00"
+      "archived_at": "2026-09-04T21:50:42.259022+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -383,17 +383,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T21:40:39.520116+00:00"
+      "archived_at": "2026-09-04T21:50:42.605866+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12724,
-      "message_link": "https://t.me/zedTV/12724",
-      "text": "ترامپ: هدف اصلی محقق شد؛ ایران هرگز به سلاح هسته‌ای دست نخواهد یافت.\nبازسازی ویرانی‌های رژیم در صورت خروج آمریکا ۲۵ سال زمان می‌برد.\nتلاش برای حل قطعی بحران جهت رفع نگرانی رؤسای‌جمهور آینده ایالات متحده.",
+      "message_id": 12725,
+      "message_link": "https://t.me/zedTV/12725",
+      "text": "آکسیوس: تکذیب حمله جمهوری‌اسلامی به پایگاه‌های آمریکا در اردن توسط مقام ارشد واشینگتن.\nایالات متحده وقوع هرگونه درگیری یا هدف قرار گرفتن نیروهای خود را رد کرد.",
       "shamsi_date": "1405/06/13",
-      "tehran_time": "23:03:55",
-      "gregorian_utc": "2026-09-04T19:33:55+00:00",
+      "tehran_time": "23:19:07",
+      "gregorian_utc": "2026-09-04T19:49:07+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -401,25 +401,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T21:40:38.151762+00:00"
+      "archived_at": "2026-09-04T21:50:40.856455+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355784,
-      "message_link": "https://t.me/IranintlTV/355784",
-      "text": "میعاد ملکی، رییس پیشین دفتر هدف‌گذاری تحریم‌های وزارت خزانه‌داری آمریکا، گفت اتحادیه اروپا با انتشار بیانیه اخیر خود، ریسک همکاری شرکت‌های اروپایی با جمهوری اسلامی را افزایش داده و این اقدام می‌تواند به کاهش تعاملات تجاری با تهران منجر شود.\n\nاو افزود فشار وزارت خزانه‌داری آمریکا بر مسیرهای مالی جمهوری اسلامی، به‌ویژه از طریق امارات و ترکیه، می‌تواند تاثیر بیشتری نسبت به فشار بر چین داشته باشد. به گفته ملکی، چین در صورت افزایش فشارهای آمریکا، سابقه کاهش همکاری اقتصادی با جمهوری اسلامی را دارد و نشانه‌هایی نیز از همراهی پکن با این فشارها دیده می‌شود.\n@iranintltv",
+      "message_id": 355785,
+      "message_link": "https://t.me/IranintlTV/355785",
+      "text": "دونالد ترامپ از احتمال حمله به کوه «کلنگ گزلا» خبر داده؛ منطقه‌ای که به گفته او فعالیت‌های مهم هسته‌ای جمهوری اسلامی در آن متمرکز است.\n\nهوشنگ حسن‌یاری، کارشناس امور نظامی، گفت آمریکا با استفاده از بمب‌های سنگرشکن و هواپیماهای بی-۲ توان هدف قرار دادن تاسیسات عمیق این منطقه را دارد و می‌تواند با مسدود کردن ورودی تونل‌ها، برنامه هسته‌ای جمهوری اسلامی را با اختلال جدی روبه‌رو کند. او همچنین گفت حملات موشکی جمهوری اسلامی به اردن ممکن است برخلاف هدف تهران، این کشور را بیش از پیش به آمریکا نزدیک کند.\n@iranintltv",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "00:28:07",
-      "gregorian_utc": "2026-09-04T20:58:07+00:00",
+      "tehran_time": "00:53:40",
+      "gregorian_utc": "2026-09-04T21:23:40+00:00",
       "media_type": "video",
-      "media_size_bytes": 4009988,
-      "media_size_human": "3.82 MB",
+      "media_size_bytes": 2910295,
+      "media_size_human": "2.78 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355784_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355784_video.mp4",
+      "media_local_path": "media/IranintlTV_355785_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355785_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T21:40:38.514995+00:00"
+      "archived_at": "2026-09-04T21:50:41.437726+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -437,7 +437,7 @@
       "media_local_path": "media/satlastnews_76399_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76399_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T21:40:38.986384+00:00"
+      "archived_at": "2026-09-04T21:50:41.872325+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -455,7 +455,7 @@
       "media_local_path": "media/Mellig_120632_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120632_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T21:40:39.278222+00:00"
+      "archived_at": "2026-09-04T21:50:42.259072+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -473,17 +473,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T21:40:39.520138+00:00"
+      "archived_at": "2026-09-04T21:50:42.605883+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12723,
-      "message_link": "https://t.me/zedTV/12723",
-      "text": "ترامپ: انهدام دوباره رادارهای رژیم و توقف فعالیت‌ها؛ رژیم از بازسازی بیهوده رادارها خسته شده است.\nتداوم تردد کشتی‌ها و صادرات نفت در تنگه هرمز؛ امنیت کامل در مسیرهای بین‌المللی برقرار است.\nپاکسازی تمامی مین‌های دریایی توسط شناورهای پیشرفته و زیرسطحی آمریکا؛ تمامی مین‌ها جمع‌آوری شد.",
+      "message_id": 12724,
+      "message_link": "https://t.me/zedTV/12724",
+      "text": "ترامپ: هدف اصلی محقق شد؛ ایران هرگز به سلاح هسته‌ای دست نخواهد یافت.\nبازسازی ویرانی‌های رژیم در صورت خروج آمریکا ۲۵ سال زمان می‌برد.\nتلاش برای حل قطعی بحران جهت رفع نگرانی رؤسای‌جمهور آینده ایالات متحده.",
       "shamsi_date": "1405/06/13",
-      "tehran_time": "22:48:45",
-      "gregorian_utc": "2026-09-04T19:18:45+00:00",
+      "tehran_time": "23:03:55",
+      "gregorian_utc": "2026-09-04T19:33:55+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -491,25 +491,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T21:40:38.151793+00:00"
+      "archived_at": "2026-09-04T21:50:40.856481+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355783,
-      "message_link": "https://t.me/IranintlTV/355783",
-      "text": "وزارت دفاع رومانی روز جمعه ۱۳ شهریور ویدیویی منتشر کرد و گفت این تصاویر خنثی‌سازی قطعه انفجاری یک پهپاد را نشان می‌دهد که در دریای سیاه شناور بود. بر پایه اعلام این وزارتخانه، یک تیم خنثی‌سازی مواد منفجره سوار بر شناور گارد ساحلی به حدود پنج مایل دریایی شرق مدخل شاخه سولینا رفت تا جسم شناور مشکوکی را بررسی کند. این جسم در همان محل و به‌شکل ایمن خنثی شد. رومانی، بلغارستان و ترکیه، سه عضو ناتو در دریای سیاه، تاکنون بیش از ۱۵۰ مین سرگردان در مسیرهای تجاری را خنثی کرده‌اند و در ژوئیه توافق کردند نیروی مشترک مین‌روبی خود را به ماموریت حفاظت از زیرساخت‌های حیاتی هم گسترش دهند.\n@iranintltv",
+      "message_id": 355784,
+      "message_link": "https://t.me/IranintlTV/355784",
+      "text": "میعاد ملکی، رییس پیشین دفتر هدف‌گذاری تحریم‌های وزارت خزانه‌داری آمریکا، گفت اتحادیه اروپا با انتشار بیانیه اخیر خود، ریسک همکاری شرکت‌های اروپایی با جمهوری اسلامی را افزایش داده و این اقدام می‌تواند به کاهش تعاملات تجاری با تهران منجر شود.\n\nاو افزود فشار وزارت خزانه‌داری آمریکا بر مسیرهای مالی جمهوری اسلامی، به‌ویژه از طریق امارات و ترکیه، می‌تواند تاثیر بیشتری نسبت به فشار بر چین داشته باشد. به گفته ملکی، چین در صورت افزایش فشارهای آمریکا، سابقه کاهش همکاری اقتصادی با جمهوری اسلامی را دارد و نشانه‌هایی نیز از همراهی پکن با این فشارها دیده می‌شود.\n@iranintltv",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "00:15:09",
-      "gregorian_utc": "2026-09-04T20:45:09+00:00",
+      "tehran_time": "00:28:07",
+      "gregorian_utc": "2026-09-04T20:58:07+00:00",
       "media_type": "video",
-      "media_size_bytes": 199007,
-      "media_size_human": "194.34 KB",
+      "media_size_bytes": 4009988,
+      "media_size_human": "3.82 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355783_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355783_video.mp4",
+      "media_local_path": "media/IranintlTV_355784_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355784_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T21:40:38.515088+00:00"
+      "archived_at": "2026-09-04T21:50:41.437792+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -527,7 +527,7 @@
       "media_local_path": "media/satlastnews_76398_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76398_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T21:40:38.986444+00:00"
+      "archived_at": "2026-09-04T21:50:41.872374+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -545,7 +545,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T21:40:39.278249+00:00"
+      "archived_at": "2026-09-04T21:50:42.259092+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -563,17 +563,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T21:40:39.520158+00:00"
+      "archived_at": "2026-09-04T21:50:42.605899+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12722,
-      "message_link": "https://t.me/zedTV/12722",
-      "text": "ترامپ: بهره‌برداری از مسیرهای جایگزین و انتقال نفت از طریق سوریه؛ اهمیت تنگه هرمز رو به کاهش است.\nهشدار به مقامات تهران: تداوم تنش‌آفرینی منجر به حذف ضرورت جهانی این آبراه راهبردی خواهد شد.\nتوسعه گسترده زیرساخت‌های جدید؛ پایان دوران انحصار رژیم بر شریان‌های انتقال انرژی.",
+      "message_id": 12723,
+      "message_link": "https://t.me/zedTV/12723",
+      "text": "ترامپ: انهدام دوباره رادارهای رژیم و توقف فعالیت‌ها؛ رژیم از بازسازی بیهوده رادارها خسته شده است.\nتداوم تردد کشتی‌ها و صادرات نفت در تنگه هرمز؛ امنیت کامل در مسیرهای بین‌المللی برقرار است.\nپاکسازی تمامی مین‌های دریایی توسط شناورهای پیشرفته و زیرسطحی آمریکا؛ تمامی مین‌ها جمع‌آوری شد.",
       "shamsi_date": "1405/06/13",
-      "tehran_time": "22:48:41",
-      "gregorian_utc": "2026-09-04T19:18:41+00:00",
+      "tehran_time": "22:48:45",
+      "gregorian_utc": "2026-09-04T19:18:45+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -581,25 +581,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T21:40:38.151817+00:00"
+      "archived_at": "2026-09-04T21:50:40.856500+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355781,
-      "message_link": "https://t.me/IranintlTV/355781",
-      "text": "تحقیقات برنامه ۲۴ و بررسی تصاویر تازه از بنادر جنوبی ایران نشان می‌دهد هم‌زمان با ادامه محاصره دریایی آمریکا، فعالیت در بندر شهید رجایی و بندر امام خمینی به‌شدت کاهش یافته و نگرانی‌ها درباره وضعیت تجارت دریایی جمهوری اسلامی افزایش پیدا کرده است.\n\nفرزین ندیمی، تحلیلگر امور دفاعی و امنیتی، گفت بندر شهید رجایی که حدود ۸۵ درصد تجارت کانتینری ایران از طریق آن انجام می‌شود، بیشترین آسیب را دیده و ترافیک کانتینری در آن تقریبا به‌طور کامل متوقف شده است. او افزود با وجود ادامه ورود کشتی‌های حامل مواد غذایی و کالاهای بشردوستانه به بندر خمینی، افزایش هزینه‌های بیمه و محدودیت‌های ناشی از محاصره دریایی، تردد کشتی‌های تجاری به بنادر ایران را به‌شدت کاهش داده است.\n@iranintltv",
+      "message_id": 355783,
+      "message_link": "https://t.me/IranintlTV/355783",
+      "text": "وزارت دفاع رومانی روز جمعه ۱۳ شهریور ویدیویی منتشر کرد و گفت این تصاویر خنثی‌سازی قطعه انفجاری یک پهپاد را نشان می‌دهد که در دریای سیاه شناور بود. بر پایه اعلام این وزارتخانه، یک تیم خنثی‌سازی مواد منفجره سوار بر شناور گارد ساحلی به حدود پنج مایل دریایی شرق مدخل شاخه سولینا رفت تا جسم شناور مشکوکی را بررسی کند. این جسم در همان محل و به‌شکل ایمن خنثی شد. رومانی، بلغارستان و ترکیه، سه عضو ناتو در دریای سیاه، تاکنون بیش از ۱۵۰ مین سرگردان در مسیرهای تجاری را خنثی کرده‌اند و در ژوئیه توافق کردند نیروی مشترک مین‌روبی خود را به ماموریت حفاظت از زیرساخت‌های حیاتی هم گسترش دهند.\n@iranintltv",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "00:01:03",
-      "gregorian_utc": "2026-09-04T20:31:03+00:00",
+      "tehran_time": "00:15:09",
+      "gregorian_utc": "2026-09-04T20:45:09+00:00",
       "media_type": "video",
-      "media_size_bytes": 4971003,
-      "media_size_human": "4.74 MB",
+      "media_size_bytes": 199007,
+      "media_size_human": "194.34 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355781_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355781_video.mp4",
+      "media_local_path": "media/IranintlTV_355783_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355783_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T21:40:38.515187+00:00"
+      "archived_at": "2026-09-04T21:50:41.437861+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -617,7 +617,7 @@
       "media_local_path": "media/satlastnews_76397_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76397_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T21:40:38.986488+00:00"
+      "archived_at": "2026-09-04T21:50:41.872408+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -635,7 +635,7 @@
       "media_local_path": "media/Mellig_120630_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120630_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T21:40:39.278297+00:00"
+      "archived_at": "2026-09-04T21:50:42.259129+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -653,17 +653,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T21:40:39.520179+00:00"
+      "archived_at": "2026-09-04T21:50:42.605915+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12721,
-      "message_link": "https://t.me/zedTV/12721",
-      "text": "ترامپ: هدف اصلی محقق شد؛ رژیم ایران هرگز به سلاح هسته‌ای دست نخواهد یافت.\nرئیس‌جمهور آمریکا: بازسازی ویرانی‌های رژیم در صورت خروج ما ۲۵ سال زمان می‌برد.\nتأکید بر حل همیشگی بحران ایران برای پایان دادن به نگرانی‌های بین‌المللی.",
+      "message_id": 12722,
+      "message_link": "https://t.me/zedTV/12722",
+      "text": "ترامپ: بهره‌برداری از مسیرهای جایگزین و انتقال نفت از طریق سوریه؛ اهمیت تنگه هرمز رو به کاهش است.\nهشدار به مقامات تهران: تداوم تنش‌آفرینی منجر به حذف ضرورت جهانی این آبراه راهبردی خواهد شد.\nتوسعه گسترده زیرساخت‌های جدید؛ پایان دوران انحصار رژیم بر شریان‌های انتقال انرژی.",
       "shamsi_date": "1405/06/13",
-      "tehran_time": "22:48:34",
-      "gregorian_utc": "2026-09-04T19:18:34+00:00",
+      "tehran_time": "22:48:41",
+      "gregorian_utc": "2026-09-04T19:18:41+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -671,25 +671,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T21:40:38.151986+00:00"
+      "archived_at": "2026-09-04T21:50:40.856531+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355780,
-      "message_link": "https://t.me/IranintlTV/355780",
-      "text": "🎧نسخه صوتی ‌‌‏﻿﻿۲۴ با فرداد فرحزاد: اسکله‌های خالی بنادر ایران پس از «خصم اقتصادی» آمریکا\n@iranintlTV",
-      "shamsi_date": "1405/06/13",
-      "tehran_time": "23:32:08",
-      "gregorian_utc": "2026-09-04T20:02:08+00:00",
-      "media_type": "audio",
-      "media_size_bytes": 31791230,
-      "media_size_human": "30.32 MB",
+      "message_id": 355781,
+      "message_link": "https://t.me/IranintlTV/355781",
+      "text": "تحقیقات برنامه ۲۴ و بررسی تصاویر تازه از بنادر جنوبی ایران نشان می‌دهد هم‌زمان با ادامه محاصره دریایی آمریکا، فعالیت در بندر شهید رجایی و بندر امام خمینی به‌شدت کاهش یافته و نگرانی‌ها درباره وضعیت تجارت دریایی جمهوری اسلامی افزایش پیدا کرده است.\n\nفرزین ندیمی، تحلیلگر امور دفاعی و امنیتی، گفت بندر شهید رجایی که حدود ۸۵ درصد تجارت کانتینری ایران از طریق آن انجام می‌شود، بیشترین آسیب را دیده و ترافیک کانتینری در آن تقریبا به‌طور کامل متوقف شده است. او افزود با وجود ادامه ورود کشتی‌های حامل مواد غذایی و کالاهای بشردوستانه به بندر خمینی، افزایش هزینه‌های بیمه و محدودیت‌های ناشی از محاصره دریایی، تردد کشتی‌های تجاری به بنادر ایران را به‌شدت کاهش داده است.\n@iranintltv",
+      "shamsi_date": "1405/06/14",
+      "tehran_time": "00:01:03",
+      "gregorian_utc": "2026-09-04T20:31:03+00:00",
+      "media_type": "video",
+      "media_size_bytes": 4971003,
+      "media_size_human": "4.74 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355780_audio.mp3",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355780_audio.mp3",
+      "media_local_path": "media/IranintlTV_355781_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355781_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T21:40:38.559640+00:00"
+      "archived_at": "2026-09-04T21:50:41.437943+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -707,7 +707,7 @@
       "media_local_path": "media/satlastnews_76392_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76392_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T21:40:38.986583+00:00"
+      "archived_at": "2026-09-04T21:50:41.872497+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -725,7 +725,7 @@
       "media_local_path": "media/Mellig_120629_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120629_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T21:40:39.278335+00:00"
+      "archived_at": "2026-09-04T21:50:42.259160+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -743,17 +743,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T21:40:39.520202+00:00"
+      "archived_at": "2026-09-04T21:50:42.605933+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12720,
-      "message_link": "https://t.me/zedTV/12720",
-      "text": "ترامپ: استقرار پنج‌ماهه نیروها برای مقابله با تهدیدات رژیم ادامه دارد.\nگزارش‌ها از ۱۸ کشته در جریان عملیات‌های اخیر حکایت دارد.\nهدف قطعی: جلوگیری از دستیابی جمهوری اسلامی به سلاح هسته‌ای.",
+      "message_id": 12721,
+      "message_link": "https://t.me/zedTV/12721",
+      "text": "ترامپ: هدف اصلی محقق شد؛ رژیم ایران هرگز به سلاح هسته‌ای دست نخواهد یافت.\nرئیس‌جمهور آمریکا: بازسازی ویرانی‌های رژیم در صورت خروج ما ۲۵ سال زمان می‌برد.\nتأکید بر حل همیشگی بحران ایران برای پایان دادن به نگرانی‌های بین‌المللی.",
       "shamsi_date": "1405/06/13",
-      "tehran_time": "22:33:05",
-      "gregorian_utc": "2026-09-04T19:03:05+00:00",
+      "tehran_time": "22:48:34",
+      "gregorian_utc": "2026-09-04T19:18:34+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -761,25 +761,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T21:40:38.152016+00:00"
+      "archived_at": "2026-09-04T21:50:40.856550+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355778,
-      "message_link": "https://t.me/IranintlTV/355778",
-      "text": "دونالد ترامپ، رییس جمهوری ایالات متحده طی سخنانی در کاخ سفید گفت: «کاری که ما انجام داده‌ایم فوق‌العاده است. ما کنترل ونزوئلا را در اختیار گرفتیم و کنترل ایران را هم در اختیار گرفته‌ایم و حالا چند روز است که هیچ تیراندازی‌ای صورت نگرفته است.» \n\nترامپ اضافه کرد: «فعالیت راداری ایران متوقف شده است. آن‌ها رادار داشتند. ما یک بار آن را از بین برده بودیم و حالا برای بار دوم آن را از بین بردیم.» \n\nاو درباره تنگه هرمز گفت کشتی‌های زیادی در حال عبور از این تنگه هستند و نفت زیادی از آن خارج می‌شود. ترامپ افزود هیچ مین دریایی در تنگه باقی نمانده است، زیرا نیروهای آمریکایی مین‌های ایران را با مین‌روب‌ها از بین برده‌اند.\n\nرییس‌جمهوری آمریکا گفت: «ما کار بزرگی انجام می‌دهیم. ما ایران را از داشتن سلاح هسته‌ای بازداشتیم.»\n [iranintl.com/202609048052](https://t.co/4rWuAOfqSv)",
+      "message_id": 355780,
+      "message_link": "https://t.me/IranintlTV/355780",
+      "text": "🎧نسخه صوتی ‌‌‏﻿﻿۲۴ با فرداد فرحزاد: اسکله‌های خالی بنادر ایران پس از «خصم اقتصادی» آمریکا\n@iranintlTV",
       "shamsi_date": "1405/06/13",
-      "tehran_time": "23:01:20",
-      "gregorian_utc": "2026-09-04T19:31:20+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 123448,
-      "media_size_human": "120.55 KB",
+      "tehran_time": "23:32:08",
+      "gregorian_utc": "2026-09-04T20:02:08+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 31791230,
+      "media_size_human": "30.32 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355778_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355778_photo.jpg",
+      "media_local_path": "media/IranintlTV_355780_audio.mp3",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355780_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T21:40:38.559894+00:00"
+      "archived_at": "2026-09-04T21:50:41.480411+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -797,7 +797,7 @@
       "media_local_path": "media/satlastnews_76391_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76391_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T21:40:38.986653+00:00"
+      "archived_at": "2026-09-04T21:50:41.872545+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -815,7 +815,7 @@
       "media_local_path": "media/Mellig_120628_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120628_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T21:40:39.278382+00:00"
+      "archived_at": "2026-09-04T21:50:42.259198+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -833,17 +833,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T21:40:39.520223+00:00"
+      "archived_at": "2026-09-04T21:50:42.605948+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12719,
-      "message_link": "https://t.me/zedTV/12719",
-      "text": "وزیر خزانه‌داری آمریکا: پایان صبر جهانی در برابر ۴۷ سال سرکوب رژیم ایران.\nقرار گرفتن رژیم در «دهان مرگ اقتصادی»؛ سقوط ارزش پول ملی و صفر شدن صادرات نفت.\nتغییر از درون یا قیام مردمی؛ گزینه‌های پیش‌روی حکومت تهران.",
+      "message_id": 12720,
+      "message_link": "https://t.me/zedTV/12720",
+      "text": "ترامپ: استقرار پنج‌ماهه نیروها برای مقابله با تهدیدات رژیم ادامه دارد.\nگزارش‌ها از ۱۸ کشته در جریان عملیات‌های اخیر حکایت دارد.\nهدف قطعی: جلوگیری از دستیابی جمهوری اسلامی به سلاح هسته‌ای.",
       "shamsi_date": "1405/06/13",
-      "tehran_time": "21:47:05",
-      "gregorian_utc": "2026-09-04T18:17:05+00:00",
+      "tehran_time": "22:33:05",
+      "gregorian_utc": "2026-09-04T19:03:05+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -851,25 +851,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T21:40:38.152039+00:00"
+      "archived_at": "2026-09-04T21:50:40.856568+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355777,
-      "message_link": "https://t.me/IranintlTV/355777",
-      "text": "فروغ از رشت: قبلاً آدم آرامی بودم، اما حالا با کوچک‌ترین اتفاقی از کوره درمی‌روم\n\n«یک ایران صدای شما را می‌شنود»\nدوشنبه تا پنجشنبه ۱۱ شب تهران\nاز تلویزیون ایران اینترنشنال\n\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\nhttps://youtu.be/DAW2ckMY-ds\n@iranintltv",
+      "message_id": 355778,
+      "message_link": "https://t.me/IranintlTV/355778",
+      "text": "دونالد ترامپ، رییس جمهوری ایالات متحده طی سخنانی در کاخ سفید گفت: «کاری که ما انجام داده‌ایم فوق‌العاده است. ما کنترل ونزوئلا را در اختیار گرفتیم و کنترل ایران را هم در اختیار گرفته‌ایم و حالا چند روز است که هیچ تیراندازی‌ای صورت نگرفته است.» \n\nترامپ اضافه کرد: «فعالیت راداری ایران متوقف شده است. آن‌ها رادار داشتند. ما یک بار آن را از بین برده بودیم و حالا برای بار دوم آن را از بین بردیم.» \n\nاو درباره تنگه هرمز گفت کشتی‌های زیادی در حال عبور از این تنگه هستند و نفت زیادی از آن خارج می‌شود. ترامپ افزود هیچ مین دریایی در تنگه باقی نمانده است، زیرا نیروهای آمریکایی مین‌های ایران را با مین‌روب‌ها از بین برده‌اند.\n\nرییس‌جمهوری آمریکا گفت: «ما کار بزرگی انجام می‌دهیم. ما ایران را از داشتن سلاح هسته‌ای بازداشتیم.»\n [iranintl.com/202609048052](https://t.co/4rWuAOfqSv)",
       "shamsi_date": "1405/06/13",
-      "tehran_time": "22:36:27",
-      "gregorian_utc": "2026-09-04T19:06:27+00:00",
-      "media_type": "video",
-      "media_size_bytes": 2567408,
-      "media_size_human": "2.45 MB",
+      "tehran_time": "23:01:20",
+      "gregorian_utc": "2026-09-04T19:31:20+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 123448,
+      "media_size_human": "120.55 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355777_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355777_video.mp4",
+      "media_local_path": "media/IranintlTV_355778_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355778_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T21:40:38.559979+00:00"
+      "archived_at": "2026-09-04T21:50:41.480625+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -887,7 +887,7 @@
       "media_local_path": "media/satlastnews_76388_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76388_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T21:40:38.986704+00:00"
+      "archived_at": "2026-09-04T21:50:41.872585+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -905,7 +905,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T21:40:39.278440+00:00"
+      "archived_at": "2026-09-04T21:50:42.259244+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -923,17 +923,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T21:40:39.520243+00:00"
+      "archived_at": "2026-09-04T21:50:42.605962+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12718,
-      "message_link": "https://t.me/zedTV/12718",
-      "text": "♦️ نمایندگی رژیم در وین: ادعای شکست «توهم مکانیسم ماشه» توسط غرب.\n♦️ واکنش تهران به فشارهای مشترک آمریکا، بریتانیا، فرانسه و آلمان.\n♦️ اصرار مقامات رژیم بر بی‌فایده بودن اقدامات بین‌المللی.",
+      "message_id": 12719,
+      "message_link": "https://t.me/zedTV/12719",
+      "text": "وزیر خزانه‌داری آمریکا: پایان صبر جهانی در برابر ۴۷ سال سرکوب رژیم ایران.\nقرار گرفتن رژیم در «دهان مرگ اقتصادی»؛ سقوط ارزش پول ملی و صفر شدن صادرات نفت.\nتغییر از درون یا قیام مردمی؛ گزینه‌های پیش‌روی حکومت تهران.",
       "shamsi_date": "1405/06/13",
-      "tehran_time": "21:46:39",
-      "gregorian_utc": "2026-09-04T18:16:39+00:00",
+      "tehran_time": "21:47:05",
+      "gregorian_utc": "2026-09-04T18:17:05+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -941,25 +941,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T21:40:38.152061+00:00"
+      "archived_at": "2026-09-04T21:50:40.856591+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355776,
-      "message_link": "https://t.me/IranintlTV/355776",
-      "text": "دونالد ترامپ، رییس جمهوری آمریکا، شامگاه جمعه در کاخ سفید گفت: «جایگزین‌های زیادی برای تنگه هرمز در حال ایجاد شدن است. تنگه هرمز دیگر آن چیزی نیست که قبلا بود. ایران در نهایت، اگر عاقل نشود، با تنگه هرمزی روبه‌رو خواهد شد که دیگر چندان ضروری نیست.»\n\nترامپ اضافه کرد: «اکنون در سراسر خاورمیانه خطوط لوله‌ای در حال ساخت هستند تا دیگر نیازی به عبور از تنگه هرمز نباشد.»\nhttps://iranintl.com/202609045921",
+      "message_id": 355777,
+      "message_link": "https://t.me/IranintlTV/355777",
+      "text": "فروغ از رشت: قبلاً آدم آرامی بودم، اما حالا با کوچک‌ترین اتفاقی از کوره درمی‌روم\n\n«یک ایران صدای شما را می‌شنود»\nدوشنبه تا پنجشنبه ۱۱ شب تهران\nاز تلویزیون ایران اینترنشنال\n\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\nhttps://youtu.be/DAW2ckMY-ds\n@iranintltv",
       "shamsi_date": "1405/06/13",
-      "tehran_time": "22:34:14",
-      "gregorian_utc": "2026-09-04T19:04:14+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 168504,
-      "media_size_human": "164.55 KB",
+      "tehran_time": "22:36:27",
+      "gregorian_utc": "2026-09-04T19:06:27+00:00",
+      "media_type": "video",
+      "media_size_bytes": 2567408,
+      "media_size_human": "2.45 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355776_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355776_photo.jpg",
+      "media_local_path": "media/IranintlTV_355777_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355777_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T21:40:38.560064+00:00"
+      "archived_at": "2026-09-04T21:50:41.480693+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -977,7 +977,7 @@
       "media_local_path": "media/satlastnews_76387_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76387_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T21:40:38.986755+00:00"
+      "archived_at": "2026-09-04T21:50:41.872625+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -995,7 +995,7 @@
       "media_local_path": "media/Mellig_120626_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120626_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T21:40:39.278541+00:00"
+      "archived_at": "2026-09-04T21:50:42.259326+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -1013,17 +1013,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T21:40:39.520265+00:00"
+      "archived_at": "2026-09-04T21:50:42.605980+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12717,
-      "message_link": "https://t.me/zedTV/12717",
-      "text": "حمله موشکی جمهوری اسلامی به اردن تحت عنوان انتقام.\nاحتمال واکنش نظامی ایالات متحده به حملات رژیم علیه پایگاه‌های آمریکا.\nتداوم ناتوانی رژیم در رویارویی مستقیم با اهداف اصلی.",
+      "message_id": 12718,
+      "message_link": "https://t.me/zedTV/12718",
+      "text": "♦️ نمایندگی رژیم در وین: ادعای شکست «توهم مکانیسم ماشه» توسط غرب.\n♦️ واکنش تهران به فشارهای مشترک آمریکا، بریتانیا، فرانسه و آلمان.\n♦️ اصرار مقامات رژیم بر بی‌فایده بودن اقدامات بین‌المللی.",
       "shamsi_date": "1405/06/13",
-      "tehran_time": "21:34:10",
-      "gregorian_utc": "2026-09-04T18:04:10+00:00",
+      "tehran_time": "21:46:39",
+      "gregorian_utc": "2026-09-04T18:16:39+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -1031,25 +1031,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T21:40:38.152083+00:00"
+      "archived_at": "2026-09-04T21:50:40.856610+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355775,
-      "message_link": "https://t.me/IranintlTV/355775",
-      "text": "ویدیوی رسیده به ایران‌اینترنشنال نشان می‌دهد مراسم تولد جاویدنام علیرضا یزدانی بر سر مزارش در منطقه گارماسه فلاورجان در استان اصفهان برگزار شده است.\nعلیرضا یزدانی، ۱۹ ساله، شامگاه ۱۸ دی ۱۴۰۴ در فلاورجان کشته شد.",
+      "message_id": 355776,
+      "message_link": "https://t.me/IranintlTV/355776",
+      "text": "دونالد ترامپ، رییس جمهوری آمریکا، شامگاه جمعه در کاخ سفید گفت: «جایگزین‌های زیادی برای تنگه هرمز در حال ایجاد شدن است. تنگه هرمز دیگر آن چیزی نیست که قبلا بود. ایران در نهایت، اگر عاقل نشود، با تنگه هرمزی روبه‌رو خواهد شد که دیگر چندان ضروری نیست.»\n\nترامپ اضافه کرد: «اکنون در سراسر خاورمیانه خطوط لوله‌ای در حال ساخت هستند تا دیگر نیازی به عبور از تنگه هرمز نباشد.»\nhttps://iranintl.com/202609045921",
       "shamsi_date": "1405/06/13",
-      "tehran_time": "22:33:01",
-      "gregorian_utc": "2026-09-04T19:03:01+00:00",
-      "media_type": "video",
-      "media_size_bytes": 9596717,
-      "media_size_human": "9.15 MB",
+      "tehran_time": "22:34:14",
+      "gregorian_utc": "2026-09-04T19:04:14+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 168504,
+      "media_size_human": "164.55 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355775_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355775_video.mp4",
+      "media_local_path": "media/IranintlTV_355776_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355776_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T21:40:38.560100+00:00"
+      "archived_at": "2026-09-04T21:50:41.480760+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1067,7 +1067,7 @@
       "media_local_path": "media/satlastnews_76385_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76385_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T21:40:38.986798+00:00"
+      "archived_at": "2026-09-04T21:50:41.872659+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1085,7 +1085,7 @@
       "media_local_path": "media/Mellig_120625_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120625_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T21:40:39.278614+00:00"
+      "archived_at": "2026-09-04T21:50:42.259384+00:00"
     }
   ]
 }
