@@ -154,19 +154,37 @@ jobs:
 
       # ------------------------------------------------------------------
       #  Upload the video to the WordPress site (optional, when SSH config
-      #  is available). Uncomment + set secrets to have the plugin attach
-      #  the file from the WP uploads dir instead of an external URL.
+      #  is available). Have the plugin attach the file from the WP uploads
+      #  dir instead of an external URL.
+      #
+      #  NOTE: the `secrets` context is NOT available inside step `if:`
+      #  expressions, so we read the secrets via `env:` here and export a
+      #  plain boolean to GITHUB_OUTPUT. The deploy step's `if:` then only
+      #  depends on that flag (no `secrets` reference).
       # ------------------------------------------------------------------
+      - name: Check WordPress SSH deploy availability
+        id: wpdeploy
+        env:
+          WP_HOST: ${{ secrets.WP_HOST }}
+          WP_USER: ${{ secrets.WP_USER }}
+        run: |
+          if [ -n "$WP_HOST" ] && [ -n "$WP_USER" ]; then
+            echo "available=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "available=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: (Optional) Deploy video to WordPress uploads
-        if: ${{ env.LUNA_VIDEO_URL == '' && secrets.WP_HOST != '' }}
+        if: ${{ steps.wpdeploy.outputs.available == 'true' && env.LUNA_VIDEO_URL == '' }}
         env:
           WP_HOST: ${{ secrets.WP_HOST }}
           WP_USER: ${{ secrets.WP_USER }}
           WP_UPLOAD_PATH: ${{ secrets.WP_UPLOAD_PATH }}   # e.g. /var/www/html/wp-content/uploads/luna
           WP_UPLOAD_URL: ${{ secrets.WP_UPLOAD_URL }}     # e.g. https://example.com/wp-content/uploads/luna
+          WP_SSH_KEY: ${{ secrets.WP_SSH_KEY }}
         run: |
           mkdir -p ~/.ssh
-          echo "${{ secrets.WP_SSH_KEY }}" > ~/.ssh/key
+          echo "$WP_SSH_KEY" > ~/.ssh/key
           chmod 600 ~/.ssh/key
           scp -i ~/.ssh/key -o StrictHostKeyChecking=no \
             luna.mp4 "$WP_USER@$WP_HOST:$WP_UPLOAD_PATH/luna.mp4"
