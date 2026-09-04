@@ -1,70 +1,64 @@
 # =============================================================================
-#  Luna Video Builder + Email Sender  (GitHub Actions)
+#  Luna Video Builder + WordPress Email Sender   (GitHub Actions)
 #
-#  This workflow:
-#    1. Receives parameters as JSON (either via `repository_dispatch`
-#       client_payload, or via manual `workflow_dispatch` inputs).
-#    2. Builds a personalized video with Remotion (using the params as props).
-#    3. Uploads the built video as an action artifact.
-#    4. Calls the WordPress front page with GET params so the WordPress
-#       "Luna Email Sender" plugin emails the recipient the video (+ attachment).
+#  The JSON string containing ALL parameters — including the video-building
+#  settings AND the optional composition code — is sent via repository_dispatch
+#  client_payload (together with whatever other data you like).
 #
-#  Trigger with JSON (via API):
+#  The workflow:
+#    1. installs Remotion (npm ci)
+#    2. writes the received video code/config into src/ and generates a
+#       src/Root.tsx that matches the supplied fps / duration / resolution
+#    3. renders a personalized video with Remotion
+#    4. uploads the video as an artifact (and optionally deploys it to the WP
+#       uploads dir so the plugin can attach it without an external URL)
+#    5. GETs the WordPress FRONT PAGE so the "Luna Email Sender" plugin emails
+#       the recipient an HTML "دستیار لونا" mail WITH the video attached.
+#       => No SMTP secrets needed; email is processed by WordPress.
+#
+#  WordPress site (default): https://dpwp-98551.wasmer.app
+#
+#  ---- Send the payload (JSON string + extra data) via API ----
+#
 #    curl -X POST https://api.github.com/repos/<OWNER>/<REPO>/dispatches \
 #      -H 'Authorization: Bearer <TOKEN>' \
 #      -H 'Accept: application/vnd.github+json' \
 #      -d '{
 #            "event_type": "build-luna-video",
 #            "client_payload": {
-#              "name": "سارا محمدی",
-#              "video_name": "معرفی لونا",
-#              "recipient_email": "sara@example.com",
-#              "subject": "ویدیوی شما آماده است",
-#              "video_url": "https://.../luna.mp4"
+#              "note": "any other data you like",
+#              "params": "{\"name\":\"سارا محمدی\",\"video_name\":\"معرفی لونا\",\"recipient_email\":\"sara@example.com\",\"subject\":\"ویدیوی شما آماده است\",\"video\":{\"props\":{\"name\":\"سارا محمدی\"},\"settings\":{\"fps\":30,\"durationInFrames\":330,\"width\":1920,\"height\":1080},\"compositionId\":\"LunaVideo\",\"code\":\"\"}}"
 #            }
 #          }'
 #
-#  NOTE: `video_url` is the public location of the built MP4 that the WordPress
-#        plugin downloads and attaches to the email. If you deploy the video
-#        elsewhere (S3 / static host / a signed URL) set it there. The matrix
-#        below also shows how to upload the artifact before sending.
+#  Recognised `params` keys:
+#    name, video_name, recipient_email, subject, video_url   (email fields)
+#    video: { props, settings, compositionId, code }         (video build)
+#       - video.props  -> passed to the composition (e.g. recipient name)
+#       - video.settings-> fps, durationInFrames, width, height
+#       - video.code    -> OPTIONAL full TSX source written to src/LunaVideo.tsx
+#       - video.compositionId -> composition id to render (default LunaVideo)
 # =============================================================================
 
 name: Build & Send Luna Video
 
 on:
-  # Manual run with typed inputs
+  # Manual run (params is a JSON string typed into the form)
   workflow_dispatch:
     inputs:
-      name:
-        description: "Receiver name (e.g. سارا محمدی)"
+      params:
+        description: "JSON string: name, video_name, recipient_email, subject, video{...}"
         required: true
-        type: string
-      video_name:
-        description: "Video name (e.g. معرفی لونا)"
-        required: true
-        type: string
-      recipient_email:
-        description: "Receiver email"
-        required: true
-        type: string
-      subject:
-        description: "Email subject / title"
-        required: false
-        default: "ویدیوی شما آماده است"
-        type: string
-      video_url:
-        description: "Public URL of the built MP4 (attachment source)"
-        required: false
-        type: string
-      luna_secret:
-        description: "Shared secret (must match the WordPress plugin)"
-        required: false
         type: string
 
   # JSON payload via repository_dispatch (preferred for automation)
   repository_dispatch:
     types: [build-luna-video]
+
+env:
+  # Default WordPress site. Override with a WORDPRESS_URL secret if needed.
+  WORDPRESS_URL: ${{ secrets.WORDPRESS_URL }}
+  DEFAULT_WORDPRESS_URL: "https://dpwp-98551.wasmer.app"
 
 jobs:
   build-and-send:
@@ -72,6 +66,7 @@ jobs:
     timeout-minutes: 45
 
     steps:
+      # ---- 0. Checkout + install Remotion ---------------------------------
       - name: Checkout repository
         uses: actions/checkout@v4
 
@@ -81,60 +76,127 @@ jobs:
           node-version: "20"
           cache: "npm"
 
-      - name: Install dependencies
+      - name: Install dependencies (Remotion)
         run: npm ci
 
-      - name: Resolve parameters (JSON payload or manual inputs)
+      # ---- 1. Receive the JSON string + video settings/code ---------------
+      - name: Resolve parameters and video config
         id: params
         shell: bash
         env:
           PAYLOAD: ${{ toJson(github.event.client_payload) }}
-          INP: ${{ toJson(github.event.inputs) }}
+          MANUAL: ${{ toJson(github.event.inputs) }}
         run: |
-          # Use repository_dispatch JSON when present, else manual inputs.
+          # For repository_dispatch we use the full client_payload (JSON string
+          # `params` + other data). For manual runs we use the `params` input.
           if [ -n "$PAYLOAD" ] && [ "$PAYLOAD" != "null" ]; then
-            echo "$PAYLOAD" > params.json
+            echo "$PAYLOAD" > payload.json
           else
-            echo "$INP" > params.json
+            echo "$MANUAL" > payload.json
           fi
-          echo "=== received JSON params ==="
-          cat params.json
-          echo "======"
+          echo "=== received payload ==="
+          cat payload.json
+          echo "========================="
 
           python3 - <<'PY'
           import json, os
-          d = json.load(open('params.json'))
+          payload = json.load(open('payload.json'))
 
-          name        = d.get('name', '')
-          video_name  = d.get('video_name', '')
-          recipient   = d.get('recipient_email', '')
-          subject     = d.get('subject', 'ویدیوی شما آماده است')
-          video_url   = d.get('video_url', '')
-          secret      = d.get('luna_secret', '')
+          # `params` may be a JSON string OR a nested object.
+          p = payload.get('params', payload)
+          if isinstance(p, str):
+              p = json.loads(p)
 
-          with open(os.environ['GITHUB_ENV'], 'a') as env:
-              env.write(f"LUNA_NAME={name}\n")
-              env.write(f"LUNA_VIDEO_NAME={video_name}\n")
-              env.write(f"LUNA_RECIPIENT={recipient}\n")
-              env.write(f"LUNA_SUBJECT={subject}\n")
-              env.write(f"LUNA_VIDEO_URL={video_url}\n")
-              env.write(f"LUNA_SECRET={secret}\n")
+          # ---- email fields (handled by WordPress) ----
+          name         = p.get('name', '')
+          video_name   = p.get('video_name', '')
+          recipient    = p.get('recipient_email', '')
+          subject      = p.get('subject', 'ویدیوی شما آماده است')
+          video_url    = p.get('video_url', '')
 
-          # props passed to the Remotion composition
-          props = {
-              "name": name,
-              "videoName": video_name,
-          }
-          open('props.json', 'w', encoding='utf-8').write(json.dumps(props))
+          # ---- video build config ----
+          v            = p.get('video', {}) or {}
+          props        = v.get('props', {}) or {}
+          settings     = v.get('settings', {}) or {}
+          comp_id      = v.get('compositionId', 'LunaVideo')
+          code         = v.get('code', '') or ''
+
+          env = open(os.environ['GITHUB_ENV'], 'a')
+          env.write(f"LUNA_NAME={name}\n")
+          env.write(f"LUNA_VIDEO_NAME={video_name}\n")
+          env.write(f"LUNA_RECIPIENT={recipient}\n")
+          env.write(f"LUNA_SUBJECT={subject}\n")
+          env.write(f"LUNA_VIDEO_URL={video_url}\n")
+          env.write(f"LUNA_COMP_ID={comp_id}\n")
+          env.close()
+
+          # fps / duration / resolution (defaults match the sample project)
+          fps = settings.get('fps', 30)
+          dur = settings.get('durationInFrames', 330)
+          w   = settings.get('width', 1920)
+          h   = settings.get('height', 1080)
+
+          open('settings.json','w').write(json.dumps({
+              "fps":fps, "durationInFrames":dur, "width":w, "height":h,
+          }))
+
+          # props passed to the composition (recipient name is baked in)
+          if props.get('name') is None:
+              props['name'] = name
+          if props.get('videoName') is None:
+              props['videoName'] = video_name
+          open('props.json','w',encoding='utf-8').write(json.dumps(props))
+
+          # OPTIONAL: write the supplied composition code to src/
+          if code:
+              open('src/LunaVideo.tsx','w',encoding='utf-8').write(code)
+              print("Wrote custom composition code to src/LunaVideo.tsx")
+
           print("props:", json.dumps(props, ensure_ascii=False))
+          print("settings:", json.dumps({"fps":fps,"durationInFrames":dur,"width":w,"height":h}))
+          print("compositionId:", comp_id)
           PY
 
-      # ------------------------------------------------------------------
-      #  Build the video with Remotion
-      # ------------------------------------------------------------------
+      # ---- 2. Generate Root.tsx matching the supplied settings -------------
+      - name: Generate Remotion Root from settings
+        shell: bash
+        env:
+          COMP_ID: ${{ env.LUNA_COMP_ID }}
+        run: |
+          python3 - <<'PY'
+          import json, os
+          s = json.load(open('settings.json'))
+          props = json.load(open('props.json'))
+          comp = os.environ['COMP_ID']
+          props_json = json.dumps(props, ensure_ascii=False)
+          root = f'''import React from 'react';
+          import {{Composition}} from 'remotion';
+          import {{LunaVideo}} from './LunaVideo';
+
+          const defaultProps = {props_json};
+
+          export const RemotionRoot: React.FC = () => {{
+            return (
+              <Composition
+                id="{comp}"
+                component={{LunaVideo}}
+                durationInFrames={{{s['durationInFrames']}}}
+                fps={{{s['fps']}}}
+                width={{{s['width']}}}
+                height={{{s['height']}}}
+                defaultProps={{defaultProps}}
+              />
+            );
+          }};
+          '''
+          open('src/Root.tsx','w',encoding='utf-8').write(root)
+          print("Generated src/Root.tsx for composition", comp)
+          PY
+
+      # ---- 3. Render the video with Remotion -------------------------------
       - name: Render video with Remotion
         run: |
-          npx remotion render LunaVideo luna.mp4 \
+          npx remotion render "$LUNA_COMP_ID" luna.mp4 \
             --props="$(cat props.json)"
 
       - name: Confirm output
@@ -142,9 +204,7 @@ jobs:
           ls -la luna.mp4
           file luna.mp4
 
-      # ------------------------------------------------------------------
-      #  Share the artifact (also useful for debugging / manual download)
-      # ------------------------------------------------------------------
+      # ---- 4. Upload artifact (never lose the file) ------------------------
       - name: Upload video artifact
         uses: actions/upload-artifact@v4
         with:
@@ -152,16 +212,9 @@ jobs:
           path: luna.mp4
           if-no-files-found: error
 
-      # ------------------------------------------------------------------
-      #  Upload the video to the WordPress site (optional, when SSH config
-      #  is available). Have the plugin attach the file from the WP uploads
-      #  dir instead of an external URL.
-      #
-      #  NOTE: the `secrets` context is NOT available inside step `if:`
-      #  expressions, so we read the secrets via `env:` here and export a
-      #  plain boolean to GITHUB_OUTPUT. The deploy step's `if:` then only
-      #  depends on that flag (no `secrets` reference).
-      # ------------------------------------------------------------------
+      # ---- 5. (Optional) Deploy video to WP uploads dir --------------------
+      #   Used when no external `video_url` was supplied: push the MP4 into
+      #   the WordPress uploads so the plugin can attach the local file.
       - name: Check WordPress SSH deploy availability
         id: wpdeploy
         env:
@@ -179,8 +232,8 @@ jobs:
         env:
           WP_HOST: ${{ secrets.WP_HOST }}
           WP_USER: ${{ secrets.WP_USER }}
-          WP_UPLOAD_PATH: ${{ secrets.WP_UPLOAD_PATH }}   # e.g. /var/www/html/wp-content/uploads/luna
-          WP_UPLOAD_URL: ${{ secrets.WP_UPLOAD_URL }}     # e.g. https://example.com/wp-content/uploads/luna
+          WP_UPLOAD_PATH: ${{ secrets.WP_UPLOAD_PATH }}
+          WP_UPLOAD_URL: ${{ secrets.WP_UPLOAD_URL }}
           WP_SSH_KEY: ${{ secrets.WP_SSH_KEY }}
         run: |
           mkdir -p ~/.ssh
@@ -190,23 +243,22 @@ jobs:
             luna.mp4 "$WP_USER@$WP_HOST:$WP_UPLOAD_PATH/luna.mp4"
           echo "LUNA_VIDEO_URL=$WP_UPLOAD_URL/luna.mp4" >> "$GITHUB_ENV"
 
-      # ------------------------------------------------------------------
-      #  Notify WordPress -> it emails the recipient with the attachment.
-      #  IMPORTANT: this is a GET to the *root* (front page) of the site.
-      # ------------------------------------------------------------------
-      - name: Ask WordPress to send the email
+      # ---- 6. Ask WordPress (front page) to send the email -----------------
+      #   Email processing happens entirely on the WordPress side via the
+      #   "Luna Email Sender" plugin. No SMTP here.
+      - name: Trigger WordPress to email the recipient
         env:
-          WORDPRESS_URL: ${{ secrets.WORDPRESS_URL }}     # e.g. https://example.com/
-          LUNA_SECRET: ${{ env.LUNA_SECRET }}
+          WP_URL: ${{ env.WORDPRESS_URL }}
+          DEFAULT_WP_URL: ${{ env.DEFAULT_WORDPRESS_URL }}
         run: |
-          echo "Sending notification to WordPress at $WORDPRESS_URL"
-          curl -sS -G "${WORDPRESS_URL%/}/" \
+          SITE="${WP_URL:-$DEFAULT_WP_URL}"
+          echo "Notifying WordPress at ${SITE} (front page)"
+          curl -sS -G "${SITE%/}/" \
             --data-urlencode "luna_action=send" \
             --data-urlencode "name=${LUNA_NAME}" \
             --data-urlencode "video_name=${LUNA_VIDEO_NAME}" \
             --data-urlencode "recipient=${LUNA_RECIPIENT}" \
             --data-urlencode "subject=${LUNA_SUBJECT}" \
             --data-urlencode "video_url=${LUNA_VIDEO_URL}" \
-            --data-urlencode "luna_secret=${LUNA_SECRET}" \
             -w "\nHTTP %{http_code}\n" \
             || echo "WordPress notify failed (video still available as artifact)"
