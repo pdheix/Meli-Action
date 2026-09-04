@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04T18:35:30.270020+00:00",
-  "shamsi_generated": "1405/06/13 18:35:30 تهران",
+  "generated_at": "2026-09-04T18:43:36.038082+00:00",
+  "shamsi_generated": "1405/06/13 18:43:36 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -41,25 +41,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T18:30:49.172760+00:00"
+      "archived_at": "2026-09-04T18:40:35.060980+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355770,
-      "message_link": "https://t.me/IranintlTV/355770",
-      "text": "اکسیوس به نقل از دو مقام آمریکایی و دو منبع مطلع گزارش داد دولت ترامپ در حال تدوین راهبردی برای دوران پس از جنگ با ایران است که هدف آن مهار ایران و گسترش عادی‌سازی روابط اسرائیل با کشورهای منطقه است. \n\nاین گزارش به نقل از منابع نوشت که ترامپ در هفته‌های اخیر دو نشست با مشاوران ارشد خود برگزار کرده که در آن‌ها این طرح مورد بحث قرار گرفته و ایده‌هایی مطرح شده است. ترامپ در گفت‌وگوهای خصوصی گفته است که در حال کار روی «چیزی بسیار بزرگ‌تر» در خاورمیانه است.\n\nبنا بر این گزارش، سه محور اصلی این طرح شامل ایجاد هم‌سویی منطقه‌ای میان متحدان آمریکا برای مهار ایران با تضمین واشینگتن، پیشبرد مرحله بعدی طرح ترامپ برای غزه، دستیابی به توافق امنیتی میان اسرائیل و سوریه و اجرای توافق اسرائیل و لبنان است.\n\nیک منبع مطلع گفت تدوین این راهبرد چند هفته دیگر زمان می‌برد و هنوز مشخص نیست همه متحدان آمریکا در منطقه با آن همراه شوند.\nhttps://iranintl.com/202609042074",
+      "message_id": 355772,
+      "message_link": "https://t.me/IranintlTV/355772",
+      "text": "۲۴ با فرداد فرحزاد\n@iranintltv",
       "shamsi_date": "1405/06/13",
-      "tehran_time": "21:44:51",
-      "gregorian_utc": "2026-09-04T18:14:51+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 141324,
-      "media_size_human": "138.01 KB",
+      "tehran_time": "22:09:55",
+      "gregorian_utc": "2026-09-04T18:39:55+00:00",
+      "media_type": "video",
+      "media_size_bytes": 670997,
+      "media_size_human": "655.27 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355770_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355770_photo.jpg",
+      "media_local_path": "media/IranintlTV_355772_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355772_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T18:30:49.554010+00:00"
+      "archived_at": "2026-09-04T18:40:35.379590+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -77,7 +77,7 @@
       "media_local_path": "media/satlastnews_76405_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76405_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T18:30:50.047482+00:00"
+      "archived_at": "2026-09-04T18:40:35.822141+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -95,7 +95,7 @@
       "media_local_path": "media/Mellig_120630_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120630_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T18:30:50.470356+00:00"
+      "archived_at": "2026-09-04T18:40:36.167241+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -113,7 +113,7 @@
       "media_local_path": "media/khabarsara53_11_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_11_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T18:30:50.821101+00:00"
+      "archived_at": "2026-09-04T18:40:36.386714+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -131,25 +131,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T18:30:49.172809+00:00"
+      "archived_at": "2026-09-04T18:40:35.061027+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355769,
-      "message_link": "https://t.me/IranintlTV/355769",
-      "text": "کندی و فیلترینگ اینترنت در ایران دردسرهای زیادی برای کاربران ایجاده کرده است. یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال از هزینه‌ای می‌گوید که برای خرید کانفیگ داده اما تقلبی است و کار نمی‌کند.",
+      "message_id": 355771,
+      "message_link": "https://t.me/IranintlTV/355771",
+      "text": "علیرضا اعرافی، امام جمعه قم گفت: «یکی از نقاط ضعف آمریکا ناآشنایی با شیوه‌های جنگ نامتقارن است. دشمن با روش‌های جدید جنگ نامتقارن و چریکی ایران آشنا نیست و بخش‌های دیگری از آن را نیز خواهد دید.»\n\nاو ادامه داد: «یکی دیگر از نقطه ضعف‌های آمریکا نفرت و بیزاری جهانی است که از این کشور وجود دارد، به گونه‌ای که امروز اکثریت ملت‌های جهان به دلیل ستم‌های بنیادی آمریکا، قلبی مملو از نفرت نسبت به این قدرت استکباری دارند.»\nhttps://iranintl.com/202609045851",
       "shamsi_date": "1405/06/13",
-      "tehran_time": "21:33:11",
-      "gregorian_utc": "2026-09-04T18:03:11+00:00",
-      "media_type": "video",
-      "media_size_bytes": 3478474,
-      "media_size_human": "3.32 MB",
+      "tehran_time": "22:04:07",
+      "gregorian_utc": "2026-09-04T18:34:07+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 157243,
+      "media_size_human": "153.56 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355769_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355769_video.mp4",
+      "media_local_path": "media/IranintlTV_355771_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355771_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T18:30:49.554074+00:00"
+      "archived_at": "2026-09-04T18:40:35.379724+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -167,7 +167,7 @@
       "media_local_path": "media/satlastnews_76404_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76404_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T18:30:50.047582+00:00"
+      "archived_at": "2026-09-04T18:40:35.822244+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -185,7 +185,7 @@
       "media_local_path": "media/Mellig_120629_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120629_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T18:30:50.470418+00:00"
+      "archived_at": "2026-09-04T18:40:36.167303+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -203,7 +203,7 @@
       "media_local_path": "media/khabarsara53_10_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_10_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T18:30:50.821174+00:00"
+      "archived_at": "2026-09-04T18:40:36.386781+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -221,25 +221,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T18:30:49.172850+00:00"
+      "archived_at": "2026-09-04T18:40:35.061059+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355768,
-      "message_link": "https://t.me/IranintlTV/355768",
-      "text": "سامان طاهرپور، طراح و بنیانگذار کیانی کانسپت، گفت کیوان خسروانی از بنیانگذاران تلفیق مدرنیسم با هنر و سنت اصیل ایرانی بود و با همکاری شهبانو فرح، این رویکرد را به جهان معرفی کرد.\n\nاو افزود خسروانی در طراحی لباس‌های رسمی شهبانو فرح پهلوی، از جمله برای مراسم تاجگذاری و جشن‌های رسمی، از هنرهایی مانند سوزن‌دوزی بلوچستان و قلمکاری اصفهان بهره می‌گرفت و طراحی جواهرات، پارچه و لباس را به‌گونه‌ای هماهنگ می‌کرد که فرهنگ ایرانی در سطح جهانی به نمایش گذاشته شود.\n@iranintltv",
+      "message_id": 355770,
+      "message_link": "https://t.me/IranintlTV/355770",
+      "text": "اکسیوس به نقل از دو مقام آمریکایی و دو منبع مطلع گزارش داد دولت ترامپ در حال تدوین راهبردی برای دوران پس از جنگ با ایران است که هدف آن مهار ایران و گسترش عادی‌سازی روابط اسرائیل با کشورهای منطقه است. \n\nاین گزارش به نقل از منابع نوشت که ترامپ در هفته‌های اخیر دو نشست با مشاوران ارشد خود برگزار کرده که در آن‌ها این طرح مورد بحث قرار گرفته و ایده‌هایی مطرح شده است. ترامپ در گفت‌وگوهای خصوصی گفته است که در حال کار روی «چیزی بسیار بزرگ‌تر» در خاورمیانه است.\n\nبنا بر این گزارش، سه محور اصلی این طرح شامل ایجاد هم‌سویی منطقه‌ای میان متحدان آمریکا برای مهار ایران با تضمین واشینگتن، پیشبرد مرحله بعدی طرح ترامپ برای غزه، دستیابی به توافق امنیتی میان اسرائیل و سوریه و اجرای توافق اسرائیل و لبنان است.\n\nیک منبع مطلع گفت تدوین این راهبرد چند هفته دیگر زمان می‌برد و هنوز مشخص نیست همه متحدان آمریکا در منطقه با آن همراه شوند.\nhttps://iranintl.com/202609042074",
       "shamsi_date": "1405/06/13",
-      "tehran_time": "21:31:12",
-      "gregorian_utc": "2026-09-04T18:01:12+00:00",
-      "media_type": "video",
-      "media_size_bytes": 1913366,
-      "media_size_human": "1.82 MB",
+      "tehran_time": "21:44:51",
+      "gregorian_utc": "2026-09-04T18:14:51+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 141324,
+      "media_size_human": "138.01 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355768_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355768_video.mp4",
+      "media_local_path": "media/IranintlTV_355770_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355770_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T18:30:49.554168+00:00"
+      "archived_at": "2026-09-04T18:40:35.379869+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -257,7 +257,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T18:30:50.047617+00:00"
+      "archived_at": "2026-09-04T18:40:35.822274+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -275,7 +275,7 @@
       "media_local_path": "media/Mellig_120628_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120628_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T18:30:50.470489+00:00"
+      "archived_at": "2026-09-04T18:40:36.167380+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -293,7 +293,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T18:30:50.821231+00:00"
+      "archived_at": "2026-09-04T18:40:36.386809+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -311,25 +311,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T18:30:49.172891+00:00"
+      "archived_at": "2026-09-04T18:40:35.061099+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355767,
-      "message_link": "https://t.me/IranintlTV/355767",
-      "text": "هم‌زمان با ادامه کارزار آمریکا برای قطع شریان‌های مالی جمهوری اسلامی، واشینگتن یک بانک و دو شرکت مالی ترکیه‌ای در استانبول را تحریم کرد.\n\nجی‌دی ونس، معاون رییس‌جمهوری آمریکا، نیز گفت همه گزینه‌های اقتصادی، نظامی، دیپلماتیک و اقدامات پنهانی علیه جمهوری اسلامی همچنان روی میز است.\n\nگزارش سمیرا قرایی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 355769,
+      "message_link": "https://t.me/IranintlTV/355769",
+      "text": "کندی و فیلترینگ اینترنت در ایران دردسرهای زیادی برای کاربران ایجاده کرده است. یک شهروند با ارسال ویدیویی به ایران‌اینترنشنال از هزینه‌ای می‌گوید که برای خرید کانفیگ داده اما تقلبی است و کار نمی‌کند.",
       "shamsi_date": "1405/06/13",
-      "tehran_time": "21:26:52",
-      "gregorian_utc": "2026-09-04T17:56:52+00:00",
+      "tehran_time": "21:33:11",
+      "gregorian_utc": "2026-09-04T18:03:11+00:00",
       "media_type": "video",
-      "media_size_bytes": 4365386,
-      "media_size_human": "4.16 MB",
+      "media_size_bytes": 3478474,
+      "media_size_human": "3.32 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355767_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355767_video.mp4",
+      "media_local_path": "media/IranintlTV_355769_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355769_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T18:30:49.554278+00:00"
+      "archived_at": "2026-09-04T18:40:35.379908+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -347,7 +347,7 @@
       "media_local_path": "media/satlastnews_76400_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76400_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T18:30:50.047680+00:00"
+      "archived_at": "2026-09-04T18:40:35.822345+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -365,7 +365,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T18:30:50.470564+00:00"
+      "archived_at": "2026-09-04T18:40:36.167449+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -383,7 +383,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T18:30:50.821262+00:00"
+      "archived_at": "2026-09-04T18:40:36.386832+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -401,25 +401,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T18:30:49.172921+00:00"
+      "archived_at": "2026-09-04T18:40:35.061124+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355766,
-      "message_link": "https://t.me/IranintlTV/355766",
-      "text": "وزارت خارجه آمریکا در بیانیه‌ای اعلام کرد ایالات متحده همچنان متعهد به قطع دسترسی جمهوری اسلامی به نظام مالی بین‌المللی و منابعی است که به گفته این وزارتخانه، برای «بی‌ثبات‌سازی منطقه و تهدید منافع و شرکای آمریکا» استفاده می‌شود.\n\nاین وزارتخانه افزود تحریم بانک «گلدن گلوبال» مستقر در ترکیه، تازه‌ترین اقدام در چارچوب «عملیات طرد اقتصادی» است و تسهیل فعالیت‌های مالی غیرقانونی ایران «پیامدهای جدی» خواهد داشت.\n\nوزارت خارجه آمریکا اعلام کرد واشینگتن به استفاده از ابزارهای دیپلماتیک و اقتصادی برای منزوی کردن جمهوری اسلامی ادامه می‌دهد تا زمانی که این حکومت حمایت از تروریسم و فعالیت‌های بی‌ثبات‌کننده خود در منطقه را متوقف کند.\nhttps://iranintl.com/202609045446",
+      "message_id": 355768,
+      "message_link": "https://t.me/IranintlTV/355768",
+      "text": "سامان طاهرپور، طراح و بنیانگذار کیانی کانسپت، گفت کیوان خسروانی از بنیانگذاران تلفیق مدرنیسم با هنر و سنت اصیل ایرانی بود و با همکاری شهبانو فرح، این رویکرد را به جهان معرفی کرد.\n\nاو افزود خسروانی در طراحی لباس‌های رسمی شهبانو فرح پهلوی، از جمله برای مراسم تاجگذاری و جشن‌های رسمی، از هنرهایی مانند سوزن‌دوزی بلوچستان و قلمکاری اصفهان بهره می‌گرفت و طراحی جواهرات، پارچه و لباس را به‌گونه‌ای هماهنگ می‌کرد که فرهنگ ایرانی در سطح جهانی به نمایش گذاشته شود.\n@iranintltv",
       "shamsi_date": "1405/06/13",
-      "tehran_time": "21:24:43",
-      "gregorian_utc": "2026-09-04T17:54:43+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 181036,
-      "media_size_human": "176.79 KB",
+      "tehran_time": "21:31:12",
+      "gregorian_utc": "2026-09-04T18:01:12+00:00",
+      "media_type": "video",
+      "media_size_bytes": 1913366,
+      "media_size_human": "1.82 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355766_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355766_photo.jpg",
+      "media_local_path": "media/IranintlTV_355768_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355768_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T18:30:49.554399+00:00"
+      "archived_at": "2026-09-04T18:40:35.379989+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -437,7 +437,7 @@
       "media_local_path": "media/satlastnews_76399_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76399_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T18:30:50.047772+00:00"
+      "archived_at": "2026-09-04T18:40:35.822439+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -455,7 +455,7 @@
       "media_local_path": "media/Mellig_120626_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120626_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T18:30:50.470679+00:00"
+      "archived_at": "2026-09-04T18:40:36.167559+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -473,7 +473,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T18:30:50.821290+00:00"
+      "archived_at": "2026-09-04T18:40:36.386854+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -491,25 +491,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T18:30:49.172956+00:00"
+      "archived_at": "2026-09-04T18:40:35.061155+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355765,
-      "message_link": "https://t.me/IranintlTV/355765",
-      "text": "محمدباقر قالیباف، رییس مجلس، در شبکه ایکس نوشت: «چین خواهان تقویت امنیت مشترک است؛ رویکردی که جمهوری اسلامی نیز مدت‌ها از آن حمایت کرده است. کشورهای منطقه باید آینده خود را در دست بگیرند و برای ایجاد ساختار امنیتی منطقه‌ای تلاش کنند.»\n\nقالیباف در پایان متن خود نوشته که جمهوری اسلامی برای این کار آماده است.\nhttps://iranintl.com/202609040841",
+      "message_id": 355767,
+      "message_link": "https://t.me/IranintlTV/355767",
+      "text": "هم‌زمان با ادامه کارزار آمریکا برای قطع شریان‌های مالی جمهوری اسلامی، واشینگتن یک بانک و دو شرکت مالی ترکیه‌ای در استانبول را تحریم کرد.\n\nجی‌دی ونس، معاون رییس‌جمهوری آمریکا، نیز گفت همه گزینه‌های اقتصادی، نظامی، دیپلماتیک و اقدامات پنهانی علیه جمهوری اسلامی همچنان روی میز است.\n\nگزارش سمیرا قرایی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/06/13",
-      "tehran_time": "20:36:43",
-      "gregorian_utc": "2026-09-04T17:06:43+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 148585,
-      "media_size_human": "145.10 KB",
+      "tehran_time": "21:26:52",
+      "gregorian_utc": "2026-09-04T17:56:52+00:00",
+      "media_type": "video",
+      "media_size_bytes": 4365386,
+      "media_size_human": "4.16 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355765_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355765_photo.jpg",
+      "media_local_path": "media/IranintlTV_355767_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355767_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T18:30:49.554481+00:00"
+      "archived_at": "2026-09-04T18:40:35.380054+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -527,7 +527,7 @@
       "media_local_path": "media/satlastnews_76398_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76398_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T18:30:50.047839+00:00"
+      "archived_at": "2026-09-04T18:40:35.822504+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -545,7 +545,7 @@
       "media_local_path": "media/Mellig_120625_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120625_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T18:30:50.470764+00:00"
+      "archived_at": "2026-09-04T18:40:36.167640+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -563,7 +563,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T18:30:50.821315+00:00"
+      "archived_at": "2026-09-04T18:40:36.386874+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -581,25 +581,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T18:30:49.172985+00:00"
+      "archived_at": "2026-09-04T18:40:35.061179+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355764,
-      "message_link": "https://t.me/IranintlTV/355764",
-      "text": "ویدیوهای رسیده به ایران‌اینترنشنال نشان می‌دهد گروهی از ایرانیان مقیم آلمان جمعه ۱۳ شهریور در اعتراض به اعدام‌های جمهوری اسلامی، در هامبورگ تجمع کردند.",
+      "message_id": 355766,
+      "message_link": "https://t.me/IranintlTV/355766",
+      "text": "وزارت خارجه آمریکا در بیانیه‌ای اعلام کرد ایالات متحده همچنان متعهد به قطع دسترسی جمهوری اسلامی به نظام مالی بین‌المللی و منابعی است که به گفته این وزارتخانه، برای «بی‌ثبات‌سازی منطقه و تهدید منافع و شرکای آمریکا» استفاده می‌شود.\n\nاین وزارتخانه افزود تحریم بانک «گلدن گلوبال» مستقر در ترکیه، تازه‌ترین اقدام در چارچوب «عملیات طرد اقتصادی» است و تسهیل فعالیت‌های مالی غیرقانونی ایران «پیامدهای جدی» خواهد داشت.\n\nوزارت خارجه آمریکا اعلام کرد واشینگتن به استفاده از ابزارهای دیپلماتیک و اقتصادی برای منزوی کردن جمهوری اسلامی ادامه می‌دهد تا زمانی که این حکومت حمایت از تروریسم و فعالیت‌های بی‌ثبات‌کننده خود در منطقه را متوقف کند.\nhttps://iranintl.com/202609045446",
       "shamsi_date": "1405/06/13",
-      "tehran_time": "20:31:20",
-      "gregorian_utc": "2026-09-04T17:01:20+00:00",
-      "media_type": "video",
-      "media_size_bytes": 7009263,
-      "media_size_human": "6.68 MB",
+      "tehran_time": "21:24:43",
+      "gregorian_utc": "2026-09-04T17:54:43+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 181036,
+      "media_size_human": "176.79 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355764_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355764_video.mp4",
+      "media_local_path": "media/IranintlTV_355766_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355766_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T18:30:49.554523+00:00"
+      "archived_at": "2026-09-04T18:40:35.380158+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -617,7 +617,7 @@
       "media_local_path": "media/satlastnews_76397_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76397_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T18:30:50.047906+00:00"
+      "archived_at": "2026-09-04T18:40:35.822549+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -635,7 +635,7 @@
       "media_local_path": "media/Mellig_120624_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120624_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T18:30:50.470803+00:00"
+      "archived_at": "2026-09-04T18:40:36.167671+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -653,7 +653,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T18:30:50.821340+00:00"
+      "archived_at": "2026-09-04T18:40:36.386898+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -671,25 +671,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T18:30:49.173026+00:00"
+      "archived_at": "2026-09-04T18:40:35.061218+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355763,
-      "message_link": "https://t.me/IranintlTV/355763",
-      "text": "🎧نسخه صوتی اخبار شبانگاهی | جمعه ۱۳ شهریور\n@iranintlTV",
+      "message_id": 355765,
+      "message_link": "https://t.me/IranintlTV/355765",
+      "text": "محمدباقر قالیباف، رییس مجلس، در شبکه ایکس نوشت: «چین خواهان تقویت امنیت مشترک است؛ رویکردی که جمهوری اسلامی نیز مدت‌ها از آن حمایت کرده است. کشورهای منطقه باید آینده خود را در دست بگیرند و برای ایجاد ساختار امنیتی منطقه‌ای تلاش کنند.»\n\nقالیباف در پایان متن خود نوشته که جمهوری اسلامی برای این کار آماده است.\nhttps://iranintl.com/202609040841",
       "shamsi_date": "1405/06/13",
-      "tehran_time": "20:26:27",
-      "gregorian_utc": "2026-09-04T16:56:27+00:00",
-      "media_type": "audio",
-      "media_size_bytes": 30267472,
-      "media_size_human": "28.87 MB",
+      "tehran_time": "20:36:43",
+      "gregorian_utc": "2026-09-04T17:06:43+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 148585,
+      "media_size_human": "145.10 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355763_audio.mp3",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355763_audio.mp3",
+      "media_local_path": "media/IranintlTV_355765_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355765_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T18:30:49.613716+00:00"
+      "archived_at": "2026-09-04T18:40:35.380230+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -707,7 +707,7 @@
       "media_local_path": "media/satlastnews_76392_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76392_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T18:30:50.048010+00:00"
+      "archived_at": "2026-09-04T18:40:35.822645+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -725,7 +725,7 @@
       "media_local_path": "media/Mellig_120623_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120623_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T18:30:50.470837+00:00"
+      "archived_at": "2026-09-04T18:40:36.167698+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -743,7 +743,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T18:30:50.821367+00:00"
+      "archived_at": "2026-09-04T18:40:36.386921+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -761,25 +761,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T18:30:49.173054+00:00"
+      "archived_at": "2026-09-04T18:40:35.061243+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355762,
-      "message_link": "https://t.me/IranintlTV/355762",
-      "text": "العربیه شامگاه جمعه گزارش داد که موشک‌های پرتاب شده از سوی ایران، در شمال اردن رهگیری شدند. به گزارش این رسانه تصاویر رهگیری موشک‌های ایرانی در شمال اردن منتشر شد.\n\nساعاتی پیش از این گزارش، برخی کانال‌های تلگرامی نزدیک به سپاه پاسداران، اعلام کرده بودند موشک‌هایی از اصفهان، کرمان و کرمانشاه پرتاب شده است.\nhttps://iranintl.com/202609045377",
+      "message_id": 355764,
+      "message_link": "https://t.me/IranintlTV/355764",
+      "text": "ویدیوهای رسیده به ایران‌اینترنشنال نشان می‌دهد گروهی از ایرانیان مقیم آلمان جمعه ۱۳ شهریور در اعتراض به اعدام‌های جمهوری اسلامی، در هامبورگ تجمع کردند.",
       "shamsi_date": "1405/06/13",
-      "tehran_time": "20:23:44",
-      "gregorian_utc": "2026-09-04T16:53:44+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 65049,
-      "media_size_human": "63.52 KB",
+      "tehran_time": "20:31:20",
+      "gregorian_utc": "2026-09-04T17:01:20+00:00",
+      "media_type": "video",
+      "media_size_bytes": 7009263,
+      "media_size_human": "6.68 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355762_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355762_photo.jpg",
+      "media_local_path": "media/IranintlTV_355764_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355764_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T18:30:49.613871+00:00"
+      "archived_at": "2026-09-04T18:40:35.380261+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -797,7 +797,7 @@
       "media_local_path": "media/satlastnews_76391_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76391_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T18:30:50.048078+00:00"
+      "archived_at": "2026-09-04T18:40:35.822701+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -815,7 +815,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T18:30:50.470863+00:00"
+      "archived_at": "2026-09-04T18:40:36.167722+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -833,7 +833,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T18:30:50.821393+00:00"
+      "archived_at": "2026-09-04T18:40:36.386943+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -851,25 +851,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T18:30:49.173081+00:00"
+      "archived_at": "2026-09-04T18:40:35.061265+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355761,
-      "message_link": "https://t.me/IranintlTV/355761",
-      "text": "وزارت خارجه کانادا در پاسخ اختصاصی به ایران‌اینترنشنال، تهدید خبرنگاران ایرانی خارج از کشور از سوی سخنگوی نیروهای مسلح جمهوری اسلامی را به‌شدت محکوم کرد.\n\nاین وزارتخانه تاکید کرد کانادا ضمن محکوم کردن تهدیدهای حکومت ایران علیه روزنامه‌نگاران داخل و خارج از کشور، قاطعانه از حق رسانه‌ها برای فعالیت آزاد و مستقل حمایت می‌کند.\n\nگزارش مهسا مرتضوی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 355763,
+      "message_link": "https://t.me/IranintlTV/355763",
+      "text": "🎧نسخه صوتی اخبار شبانگاهی | جمعه ۱۳ شهریور\n@iranintlTV",
       "shamsi_date": "1405/06/13",
-      "tehran_time": "20:20:03",
-      "gregorian_utc": "2026-09-04T16:50:03+00:00",
-      "media_type": "video",
-      "media_size_bytes": 2645306,
-      "media_size_human": "2.52 MB",
+      "tehran_time": "20:26:27",
+      "gregorian_utc": "2026-09-04T16:56:27+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 30267472,
+      "media_size_human": "28.87 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355761_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355761_video.mp4",
+      "media_local_path": "media/IranintlTV_355763_audio.mp3",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355763_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T18:30:49.613981+00:00"
+      "archived_at": "2026-09-04T18:40:35.390892+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -887,7 +887,7 @@
       "media_local_path": "media/satlastnews_76388_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76388_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T18:30:50.048142+00:00"
+      "archived_at": "2026-09-04T18:40:35.822752+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -905,7 +905,7 @@
       "media_local_path": "media/Mellig_120621_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120621_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T18:30:50.470896+00:00"
+      "archived_at": "2026-09-04T18:40:36.167748+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -923,7 +923,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T18:30:50.821418+00:00"
+      "archived_at": "2026-09-04T18:40:36.386965+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -941,25 +941,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T18:30:49.173106+00:00"
+      "archived_at": "2026-09-04T18:40:35.061287+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355760,
-      "message_link": "https://t.me/IranintlTV/355760",
-      "text": "**چرا فرمان «انسجام اجتماعی» مجتبی خامنه‌ای جدی گرفته نمی‌شود؟**\n\nرضا حاجی‌حسینی- مجتبی خامنه‌ای در پیام هفته دولت اعلام کرد «ارتکاب هر آنچه به ضرر انسجام اجتماعی باشد، ممنوع است». اما در حکومتی که هر جناح بقای خود را در متهم کردن دیگری می‌بیند، فرمان انسجام زود نقض می‌شود؛ به‌ویژه وقتی رهبر غایب نتواند برای سرپیچی از فرمانش، هزینه‌ای فوری ایجاد کند.\nاجرای فرمان به حاکمی نیاز دارد که هزینه سرپیچی را بالا ببرد. علی خامنه‌ای، دیکتاتور کشته‌شده ایران، بیش از سه دهه در مرکز ساختار قدرت ایستاد و مقام‌های ارشد نظامی، قضایی و رسانه‌ای را منصوب کرد. با این حال، نفوذ او نیز باعث توقف نزاع و پایان آن نبود.\nاو ۱۴ خرداد ۱۴۰۳ از نامزدهای انتخابات ریاست‌جمهوری خواست از «بدگویی، تهمت‌زنی و لجن‌پراکنی» بپرهیزند، اما حملات جناحی ادامه یافت.\nاکنون مجتبی همان ساختار را بدون سابقه و سرمایه سیاسی پدر تحویل گرفته است. از زمان انتخاب او، تصویر یا صدایی هم که حضور تازه‌اش را در مقام رهبر نشان دهد، منتشر نشده است.\n\n(متن کامل این یادداشت را اینجا بخوانید)\nhttps://www.iranintl.com/202609031501",
+      "message_id": 355762,
+      "message_link": "https://t.me/IranintlTV/355762",
+      "text": "العربیه شامگاه جمعه گزارش داد که موشک‌های پرتاب شده از سوی ایران، در شمال اردن رهگیری شدند. به گزارش این رسانه تصاویر رهگیری موشک‌های ایرانی در شمال اردن منتشر شد.\n\nساعاتی پیش از این گزارش، برخی کانال‌های تلگرامی نزدیک به سپاه پاسداران، اعلام کرده بودند موشک‌هایی از اصفهان، کرمان و کرمانشاه پرتاب شده است.\nhttps://iranintl.com/202609045377",
       "shamsi_date": "1405/06/13",
-      "tehran_time": "20:17:04",
-      "gregorian_utc": "2026-09-04T16:47:04+00:00",
+      "tehran_time": "20:23:44",
+      "gregorian_utc": "2026-09-04T16:53:44+00:00",
       "media_type": "photo",
-      "media_size_bytes": 25236,
-      "media_size_human": "24.64 KB",
+      "media_size_bytes": 65049,
+      "media_size_human": "63.52 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355760_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355760_photo.jpg",
+      "media_local_path": "media/IranintlTV_355762_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355762_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T18:30:49.614181+00:00"
+      "archived_at": "2026-09-04T18:40:35.391017+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -977,7 +977,7 @@
       "media_local_path": "media/satlastnews_76387_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76387_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T18:30:50.048230+00:00"
+      "archived_at": "2026-09-04T18:40:35.822803+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -995,7 +995,7 @@
       "media_local_path": "media/Mellig_120620_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120620_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T18:30:50.470962+00:00"
+      "archived_at": "2026-09-04T18:40:36.167809+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -1013,7 +1013,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T18:30:50.821444+00:00"
+      "archived_at": "2026-09-04T18:40:36.386988+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1031,25 +1031,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T18:30:49.173131+00:00"
+      "archived_at": "2026-09-04T18:40:35.061308+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355759,
-      "message_link": "https://t.me/IranintlTV/355759",
-      "text": "فاطمه مهاجرانی، سخنگوی دولت، درباره انتشار تصویری از خود در حالی که با دستش قلب نشان داده است، گفت: «یک بار وقتی از پله‌های دولت پایین می‌آمدم، یکی از خبرنگاران به من ابراز محبت کرد. نمی‌توانستم همان‌طور پاسخ بدهم و برای او قلب نشان دادم، اما قلب من شبیه کلیه شد و کمی تپل و کشیده درآمد.» \n\nاو ادامه داد: «خیلی‌ها گفتند بلد نیستی قلب نشان بدهی؛ به خواهرزاده‌ام گفتم به من یاد بده چطور قلب نشان بدهم. او هم به من یاد داد و دفعه بعد همان کار را کردم. خیلی‌ها گفتند نباید این کار را می‌کردی، اما سوال من این است که چرا نباید؟ مگر در دنیا الزاما کسی که در یک موقعیت رسمی قرار دارد باید عصا قورت داده برود و بیاید؟.»\nhttps://iranintl.com/202609049142",
+      "message_id": 355761,
+      "message_link": "https://t.me/IranintlTV/355761",
+      "text": "وزارت خارجه کانادا در پاسخ اختصاصی به ایران‌اینترنشنال، تهدید خبرنگاران ایرانی خارج از کشور از سوی سخنگوی نیروهای مسلح جمهوری اسلامی را به‌شدت محکوم کرد.\n\nاین وزارتخانه تاکید کرد کانادا ضمن محکوم کردن تهدیدهای حکومت ایران علیه روزنامه‌نگاران داخل و خارج از کشور، قاطعانه از حق رسانه‌ها برای فعالیت آزاد و مستقل حمایت می‌کند.\n\nگزارش مهسا مرتضوی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/06/13",
-      "tehran_time": "20:16:05",
-      "gregorian_utc": "2026-09-04T16:46:05+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 175809,
-      "media_size_human": "171.69 KB",
+      "tehran_time": "20:20:03",
+      "gregorian_utc": "2026-09-04T16:50:03+00:00",
+      "media_type": "video",
+      "media_size_bytes": 2645306,
+      "media_size_human": "2.52 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355759_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355759_photo.jpg",
+      "media_local_path": "media/IranintlTV_355761_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355761_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T18:30:49.614367+00:00"
+      "archived_at": "2026-09-04T18:40:35.391107+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1067,7 +1067,7 @@
       "media_local_path": "media/satlastnews_76385_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76385_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T18:30:50.048293+00:00"
+      "archived_at": "2026-09-04T18:40:35.822848+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1085,7 +1085,7 @@
       "media_local_path": "media/Mellig_120619_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120619_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T18:30:50.471015+00:00"
+      "archived_at": "2026-09-04T18:40:36.167853+00:00"
     }
   ]
 }
