@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04T00:06:28.697807+00:00",
-  "shamsi_generated": "1405/06/13 00:06:28 تهران",
+  "generated_at": "2026-09-04T00:16:15.856899+00:00",
+  "shamsi_generated": "1405/06/13 00:16:15 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -41,25 +41,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T00:00:51.023927+00:00"
+      "archived_at": "2026-09-04T00:10:37.641667+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355659,
-      "message_link": "https://t.me/IranintlTV/355659",
-      "text": "مراسم خاکسپاری فرحناز اسپد، روزنامه‌نگار و مجری ایران‌اینترنشنال، با حضور همسرش، بهنود نورپناه، و جمعی از همکاران، روزنامه‌نگاران و کنشگران مدنی در لندن برگزار شد.\n\nفرحناز اسپد پس از تحمل یک دوره بیماری، ۲۶ مرداد در ۳۷ سالگی درگذشت. علی‌اصغر رمضان‌پور، سردبیر اجرایی ایران‌اینترنشنال، در پیامی با گرامی‌داشت یاد او، از پیام‌های همدردی و همراهی شهروندان ایرانی قدردانی کرد.\n@iranintltv",
+      "message_id": 355660,
+      "message_link": "https://t.me/IranintlTV/355660",
+      "text": "رویترز به نقل از چند رسانه کره جنوبی گزارش داد سئول در حال آماده‌سازی مقدمات لازم برای اعزام تجهیزات نظامی با هدف کمک به تامین آزادی کشتیرانی در تنگه هرمز است و قصد دارد در صورت نهایی شدن تصمیم، این ماموریت را تا پایان سال آغاز کند.\nبر اساس این گزارش‌ها، دولت کره جنوبی در حال آماده کردن روندهای لازم برای دریافت مجوز پارلمان است؛ از جمله ارایه درخواست موافقت با اعزام به مجلس در ماه جاری، پس از بررسی موضوع در کابینه.\nگزینه‌های مورد بررسی شامل اعزام هواپیمای گشت دریایی، کشتی پشتیبانی لجستیکی یا واحد شناسایی و پاک‌سازی مین است. سئول همچنین درباره مشارکت احتمالی خود با آمریکا، بریتانیا و فرانسه رایزنی کرده است.\nبا این حال، دفتر ریاست‌جمهوری کره جنوبی اعلام کرد سئول درباره راه‌های عملی کمک به آزادی کشتیرانی در تنگه هرمز گفت‌وگو کرده اما گزارش‌ها مبنی بر اینکه دولت تصمیم نهایی برای اعزام گرفته است، «با واقعیت مطابقت ندارد».\nدونالد ترامپ، در ماه اوت گفته بود بخشی از رزمایش‌های مشترک آمریکا و کره جنوبی را کاهش داده است؛ اقدامی که به گفته او تا حدی به دلیل خودداری سئول از کمک به آمریکا در جنگ علیه حکومت ایران انجام شد",
       "shamsi_date": "1405/06/13",
-      "tehran_time": "03:20:24",
-      "gregorian_utc": "2026-09-03T23:50:24+00:00",
-      "media_type": "video",
-      "media_size_bytes": 1925231,
-      "media_size_human": "1.84 MB",
+      "tehran_time": "03:35:56",
+      "gregorian_utc": "2026-09-04T00:05:56+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 192038,
+      "media_size_human": "187.54 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355659_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355659_video.mp4",
+      "media_local_path": "media/IranintlTV_355660_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355660_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T00:00:51.250707+00:00"
+      "archived_at": "2026-09-04T00:10:37.986827+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -77,7 +77,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T00:00:51.509564+00:00"
+      "archived_at": "2026-09-04T00:10:38.307400+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -95,7 +95,7 @@
       "media_local_path": "media/Mellig_120592_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120592_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T00:00:51.751129+00:00"
+      "archived_at": "2026-09-04T00:10:38.643826+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -113,7 +113,7 @@
       "media_local_path": "media/khabarsara53_11_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_11_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T00:00:51.999421+00:00"
+      "archived_at": "2026-09-04T00:10:38.919617+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -131,25 +131,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T00:00:51.024007+00:00"
+      "archived_at": "2026-09-04T00:10:37.641714+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355658,
-      "message_link": "https://t.me/IranintlTV/355658",
-      "text": "الحدث گزارش داد نیروهای دولت قانونی یمن مواضع نظامی در جبهه الطویر در منطقه مقبنه استان تعز را از حوثی‌ها بازپس گرفتند.\n\nبر اساس این گزارش، درگیری‌ها میان نیروهای دولتی یمن و حوثی‌ها در محور جبل دباس همچنان ادامه دارد.\n\nhttps://iranintl.com/202609030802",
+      "message_id": 355659,
+      "message_link": "https://t.me/IranintlTV/355659",
+      "text": "مراسم خاکسپاری فرحناز اسپد، روزنامه‌نگار و مجری ایران‌اینترنشنال، با حضور همسرش، بهنود نورپناه، و جمعی از همکاران، روزنامه‌نگاران و کنشگران مدنی در لندن برگزار شد.\n\nفرحناز اسپد پس از تحمل یک دوره بیماری، ۲۶ مرداد در ۳۷ سالگی درگذشت. علی‌اصغر رمضان‌پور، سردبیر اجرایی ایران‌اینترنشنال، در پیامی با گرامی‌داشت یاد او، از پیام‌های همدردی و همراهی شهروندان ایرانی قدردانی کرد.\n@iranintltv",
       "shamsi_date": "1405/06/13",
-      "tehran_time": "03:20:01",
-      "gregorian_utc": "2026-09-03T23:50:01+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 220672,
-      "media_size_human": "215.50 KB",
+      "tehran_time": "03:20:24",
+      "gregorian_utc": "2026-09-03T23:50:24+00:00",
+      "media_type": "video",
+      "media_size_bytes": 1925231,
+      "media_size_human": "1.84 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355658_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355658_photo.jpg",
+      "media_local_path": "media/IranintlTV_355659_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355659_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T00:00:51.250821+00:00"
+      "archived_at": "2026-09-04T00:10:37.986962+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -167,7 +167,7 @@
       "media_local_path": "media/satlastnews_76400_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76400_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T00:00:51.509653+00:00"
+      "archived_at": "2026-09-04T00:10:38.307498+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -185,7 +185,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T00:00:51.751172+00:00"
+      "archived_at": "2026-09-04T00:10:38.643863+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -203,7 +203,7 @@
       "media_local_path": "media/khabarsara53_10_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_10_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T00:00:51.999494+00:00"
+      "archived_at": "2026-09-04T00:10:38.919681+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -221,25 +221,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T00:00:51.024061+00:00"
+      "archived_at": "2026-09-04T00:10:37.641748+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355657,
-      "message_link": "https://t.me/IranintlTV/355657",
-      "text": "مراسم خاکسپاری فرحناز اسپد، روزنامه‌نگار و مجری ایران‌اینترنشنال، با حضور همسرش، بهنود نورپناه، و جمعی از همکاران، روزنامه‌نگاران و کنشگران مدنی در لندن برگزار شد.\n\nفرحناز اسپد پس از تحمل یک دوره بیماری، ۲۶ مرداد در ۳۷ سالگی درگذشت. علی‌اصغر رمضان‌پور، سردبیر اجرایی ایران‌اینترنشنال، در پیامی با گرامی‌داشت یاد او، از پیام‌های همدردی و همراهی شهروندان ایرانی قدردانی کرد.\n@iranintltv",
+      "message_id": 355658,
+      "message_link": "https://t.me/IranintlTV/355658",
+      "text": "الحدث گزارش داد نیروهای دولت قانونی یمن مواضع نظامی در جبهه الطویر در منطقه مقبنه استان تعز را از حوثی‌ها بازپس گرفتند.\n\nبر اساس این گزارش، درگیری‌ها میان نیروهای دولتی یمن و حوثی‌ها در محور جبل دباس همچنان ادامه دارد.\n\nhttps://iranintl.com/202609030802",
       "shamsi_date": "1405/06/13",
-      "tehran_time": "03:19:33",
-      "gregorian_utc": "2026-09-03T23:49:33+00:00",
-      "media_type": "video",
-      "media_size_bytes": 1925231,
-      "media_size_human": "1.84 MB",
+      "tehran_time": "03:20:01",
+      "gregorian_utc": "2026-09-03T23:50:01+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 220672,
+      "media_size_human": "215.50 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355657_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355657_video.mp4",
+      "media_local_path": "media/IranintlTV_355658_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355658_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T00:00:51.250913+00:00"
+      "archived_at": "2026-09-04T00:10:37.987063+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -257,7 +257,7 @@
       "media_local_path": "media/satlastnews_76399_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76399_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T00:00:51.509763+00:00"
+      "archived_at": "2026-09-04T00:10:38.307593+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -275,7 +275,7 @@
       "media_local_path": "media/Mellig_120590_audio.mp3",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120590_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T00:00:51.751238+00:00"
+      "archived_at": "2026-09-04T00:10:38.643924+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -293,7 +293,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T00:00:51.999526+00:00"
+      "archived_at": "2026-09-04T00:10:38.919709+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -311,25 +311,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T00:00:51.024102+00:00"
+      "archived_at": "2026-09-04T00:10:37.641779+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355655,
-      "message_link": "https://t.me/IranintlTV/355655",
-      "text": "دونالد ترامپ، رییس‌جمهوری آمریکا، گفت ایالات متحده تحرکات مربوط به تاسیسات هسته‌ای ایران را به‌طور مستمر زیر نظر دارد و گفت واشینگتن از رفت‌وآمدها در اطراف این مراکز اطلاع دقیق دارد.\n\nترامپ در پاسخ به پرسشی درباره مواد هسته‌ای که ممکن است همچنان در ایران باقی مانده باشد، گفت: «آنها سه سایت داشتند و حالا ممکن است کوه کلنگ گزلا را داشته باشند. آن سه سایت کاملا نابود شده‌اند.»\n\nاو افزود: «ما بر فراز تمام مناطق اصلی آن سه سایت دوربین داریم و بر فراز کوه کلنگ گزلا نیز دوربین داریم. می‌دانیم چه کسی به آنجا وارد می‌شود و چه کسی از آنجا خارج می‌شود.»\n\nترامپ سپس گفت توانایی‌های نظارتی آمریکا به اندازه‌ای دقیق است که حتی می‌توان از فضا جزییات بسیار ریز، از جمله نام افراد روی کارت شناسایی‌شان را تشخیص داد و افزود واشینگتن از آنچه در این مناطق می‌گذرد «اطمینان بالایی» دارد.\n\nاو گفت به همین دلیل دولت آمریکا «اطمینان زیادی» به اطلاعات خود درباره آنچه در این مناطق می‌گذرد، دارد.\n\nhttps://iranintl.com/202609032741",
+      "message_id": 355657,
+      "message_link": "https://t.me/IranintlTV/355657",
+      "text": "مراسم خاکسپاری فرحناز اسپد، روزنامه‌نگار و مجری ایران‌اینترنشنال، با حضور همسرش، بهنود نورپناه، و جمعی از همکاران، روزنامه‌نگاران و کنشگران مدنی در لندن برگزار شد.\n\nفرحناز اسپد پس از تحمل یک دوره بیماری، ۲۶ مرداد در ۳۷ سالگی درگذشت. علی‌اصغر رمضان‌پور، سردبیر اجرایی ایران‌اینترنشنال، در پیامی با گرامی‌داشت یاد او، از پیام‌های همدردی و همراهی شهروندان ایرانی قدردانی کرد.\n@iranintltv",
       "shamsi_date": "1405/06/13",
-      "tehran_time": "03:06:07",
-      "gregorian_utc": "2026-09-03T23:36:07+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 166408,
-      "media_size_human": "162.51 KB",
+      "tehran_time": "03:19:33",
+      "gregorian_utc": "2026-09-03T23:49:33+00:00",
+      "media_type": "video",
+      "media_size_bytes": 1925231,
+      "media_size_human": "1.84 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355655_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355655_photo.jpg",
+      "media_local_path": "media/IranintlTV_355657_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355657_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T00:00:51.251088+00:00"
+      "archived_at": "2026-09-04T00:10:37.987144+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -347,7 +347,7 @@
       "media_local_path": "media/satlastnews_76398_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76398_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T00:00:51.509829+00:00"
+      "archived_at": "2026-09-04T00:10:38.307653+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -365,7 +365,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T00:00:51.751270+00:00"
+      "archived_at": "2026-09-04T00:10:38.643950+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -383,7 +383,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T00:00:51.999553+00:00"
+      "archived_at": "2026-09-04T00:10:38.919731+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -401,25 +401,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T00:00:51.024133+00:00"
+      "archived_at": "2026-09-04T00:10:37.641803+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355654,
-      "message_link": "https://t.me/IranintlTV/355654",
-      "text": "دونالد ترامپ، رییس‌جمهوری آمریکا، در گفت‌وگو با شبکه بریتانیایی جی‌بی نیوز، اقدامات نظامی واشینگتن علیه جمهوری اسلامی را به امنیت بریتانیا مرتبط دانست و گفت آمریکا با جلوگیری از دستیابی تهران به سلاح هسته‌ای، بریتانیا را نیز از این تهدید نجات می‌دهد.\n\nترامپ گفت اگر جمهوری اسلامی به سلاح هسته‌ای دست پیدا می‌کرد، احتمال استفاده از آن در اروپا بیشتر از آمریکا بود و افزود: «من دارم بریتانیا را هم نجات می‌دهم.»\n\nاو همچنین گفت آمریکا مانع دستیابی جمهوری اسلامی به سلاح هسته‌ای شده و نیروی دریایی، نیروی هوایی و ساختار فرماندهی آن را در هم شکسته است.\n\nترامپ با اشاره به اهمیت تنگه هرمز برای بریتانیا و اروپا گفت آمریکا این آبراه را کنترل می‌کند و بریتانیا نیز به جریان انرژی از این مسیر وابسته است.\n\nاو همچنین از میزان همراهی بریتانیا با عملیات آمریکا انتقاد کرد و گفت لندن آمادگی کافی برای کمک به واشینگتن نشان نداده است.\n\nترامپ در ادامه با اشاره به سقوط ارزش پول ایران گفت فشار نظامی و اقتصادی بر تهران بخشی از تلاش آمریکا برای از میان بردن تهدیدهای جمهوری اسلامی علیه ایالات متحده و متحدان اروپایی آن است.\nhttps://iranintl.",
+      "message_id": 355655,
+      "message_link": "https://t.me/IranintlTV/355655",
+      "text": "دونالد ترامپ، رییس‌جمهوری آمریکا، گفت ایالات متحده تحرکات مربوط به تاسیسات هسته‌ای ایران را به‌طور مستمر زیر نظر دارد و گفت واشینگتن از رفت‌وآمدها در اطراف این مراکز اطلاع دقیق دارد.\n\nترامپ در پاسخ به پرسشی درباره مواد هسته‌ای که ممکن است همچنان در ایران باقی مانده باشد، گفت: «آنها سه سایت داشتند و حالا ممکن است کوه کلنگ گزلا را داشته باشند. آن سه سایت کاملا نابود شده‌اند.»\n\nاو افزود: «ما بر فراز تمام مناطق اصلی آن سه سایت دوربین داریم و بر فراز کوه کلنگ گزلا نیز دوربین داریم. می‌دانیم چه کسی به آنجا وارد می‌شود و چه کسی از آنجا خارج می‌شود.»\n\nترامپ سپس گفت توانایی‌های نظارتی آمریکا به اندازه‌ای دقیق است که حتی می‌توان از فضا جزییات بسیار ریز، از جمله نام افراد روی کارت شناسایی‌شان را تشخیص داد و افزود واشینگتن از آنچه در این مناطق می‌گذرد «اطمینان بالایی» دارد.\n\nاو گفت به همین دلیل دولت آمریکا «اطمینان زیادی» به اطلاعات خود درباره آنچه در این مناطق می‌گذرد، دارد.\n\nhttps://iranintl.com/202609032741",
       "shamsi_date": "1405/06/13",
-      "tehran_time": "02:57:42",
-      "gregorian_utc": "2026-09-03T23:27:42+00:00",
+      "tehran_time": "03:06:07",
+      "gregorian_utc": "2026-09-03T23:36:07+00:00",
       "media_type": "photo",
-      "media_size_bytes": 132916,
-      "media_size_human": "129.80 KB",
+      "media_size_bytes": 166408,
+      "media_size_human": "162.51 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355654_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355654_photo.jpg",
+      "media_local_path": "media/IranintlTV_355655_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355655_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T00:00:51.251141+00:00"
+      "archived_at": "2026-09-04T00:10:37.987291+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -437,7 +437,7 @@
       "media_local_path": "media/satlastnews_76397_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76397_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T00:00:51.509885+00:00"
+      "archived_at": "2026-09-04T00:10:38.307699+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -455,7 +455,7 @@
       "media_local_path": "media/Mellig_120588_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120588_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T00:00:51.751306+00:00"
+      "archived_at": "2026-09-04T00:10:38.643981+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -473,7 +473,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T00:00:51.999577+00:00"
+      "archived_at": "2026-09-04T00:10:38.919753+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -491,25 +491,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T00:00:51.024171+00:00"
+      "archived_at": "2026-09-04T00:10:37.641835+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355653,
-      "message_link": "https://t.me/IranintlTV/355653",
-      "text": "امروز تولد جاوید نام علی اباذری بود\n\nامروز تولد جاویدنام علی اباذری بود؛ اما خانواده و دوستانش به‌جای خانه یا کافه، کنار مزارش در بهشت زهرا جمع شدند. علی فقط ۱۸ سال داشت؛ دانشجوی حسابداری بود، کار می‌کرد تا کمک‌خرج خانواده‌اش باشد و تازه داشت زندگی و آینده‌اش را می‌ساخت. هجدهم دی‌ماه ۱۴۰۴، هنگام بازگشت از اعتراضات، نیروهای سرکوب از پشت به او شلیک کردند و همهٔ آرزوهایش را با یک گلوله از او گرفتند. علی فقط نامی در فهرست کشته‌شدگان نیست؛ علی یک زندگی بود، یک آینده بود و باید امروز زنده می‌بود. تولدت مبارک، علی جان.\n\n«یک ایران صدای شما را می‌شنود»\nدوشنبه تا پنجشنبه ۱۱ شب تهران\nاز تلویزیون ایران اینترنشنال\n\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\nhttps://youtu.be/DAW2ckMY-ds\n@iranintltv",
+      "message_id": 355654,
+      "message_link": "https://t.me/IranintlTV/355654",
+      "text": "دونالد ترامپ، رییس‌جمهوری آمریکا، در گفت‌وگو با شبکه بریتانیایی جی‌بی نیوز، اقدامات نظامی واشینگتن علیه جمهوری اسلامی را به امنیت بریتانیا مرتبط دانست و گفت آمریکا با جلوگیری از دستیابی تهران به سلاح هسته‌ای، بریتانیا را نیز از این تهدید نجات می‌دهد.\n\nترامپ گفت اگر جمهوری اسلامی به سلاح هسته‌ای دست پیدا می‌کرد، احتمال استفاده از آن در اروپا بیشتر از آمریکا بود و افزود: «من دارم بریتانیا را هم نجات می‌دهم.»\n\nاو همچنین گفت آمریکا مانع دستیابی جمهوری اسلامی به سلاح هسته‌ای شده و نیروی دریایی، نیروی هوایی و ساختار فرماندهی آن را در هم شکسته است.\n\nترامپ با اشاره به اهمیت تنگه هرمز برای بریتانیا و اروپا گفت آمریکا این آبراه را کنترل می‌کند و بریتانیا نیز به جریان انرژی از این مسیر وابسته است.\n\nاو همچنین از میزان همراهی بریتانیا با عملیات آمریکا انتقاد کرد و گفت لندن آمادگی کافی برای کمک به واشینگتن نشان نداده است.\n\nترامپ در ادامه با اشاره به سقوط ارزش پول ایران گفت فشار نظامی و اقتصادی بر تهران بخشی از تلاش آمریکا برای از میان بردن تهدیدهای جمهوری اسلامی علیه ایالات متحده و متحدان اروپایی آن است.\nhttps://iranintl.",
       "shamsi_date": "1405/06/13",
-      "tehran_time": "02:51:37",
-      "gregorian_utc": "2026-09-03T23:21:37+00:00",
-      "media_type": "video",
-      "media_size_bytes": 2968952,
-      "media_size_human": "2.83 MB",
+      "tehran_time": "02:57:42",
+      "gregorian_utc": "2026-09-03T23:27:42+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 132916,
+      "media_size_human": "129.80 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355653_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355653_video.mp4",
+      "media_local_path": "media/IranintlTV_355654_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355654_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T00:00:51.251258+00:00"
+      "archived_at": "2026-09-04T00:10:37.987325+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -527,7 +527,7 @@
       "media_local_path": "media/satlastnews_76392_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76392_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T00:00:51.520825+00:00"
+      "archived_at": "2026-09-04T00:10:38.315916+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -545,7 +545,7 @@
       "media_local_path": "media/Mellig_120587_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120587_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T00:00:51.751340+00:00"
+      "archived_at": "2026-09-04T00:10:38.644026+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -563,7 +563,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T00:00:51.999603+00:00"
+      "archived_at": "2026-09-04T00:10:38.919774+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -581,25 +581,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T00:00:51.024203+00:00"
+      "archived_at": "2026-09-04T00:10:37.641858+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355652,
-      "message_link": "https://t.me/IranintlTV/355652",
-      "text": "تنگهٔ ترامپ و زهرمار!\n\nترامپ گفته است حالا که تنگهٔ هرمز «تحت کنترل آمریکاست»، اسمش را بگذاریم «تنگهٔ ترامپ»!\n\nکنترل نظامی، سند شش‌دانگ مالکیت نیست. جمهوری اسلامی هم صاحب ایران نیست که تحقیرش بهانه‌ای برای دست‌درازی به تاریخ و جغرافیای ایران شود.\n\nحکومت‌ها، پادشاهان و امپراتوری‌ها آمده‌اند و رفته‌اند؛ اما نام هرمز، با بیش از ۲۳۰۰ سال قدمت، همچنان پابرجا مانده است.\n\nکامبیز حسینی در «برنامه» به این موضوع می‌پردازد.\n\n«یک ایران صدای شما را می‌شنود»\nدوشنبه تا پنجشنبه ۱۱ شب تهران\nاز تلویزیون ایران اینترنشنال\n\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\nhttps://youtu.be/DAW2ckMY-ds\n@iranintltv",
+      "message_id": 355653,
+      "message_link": "https://t.me/IranintlTV/355653",
+      "text": "امروز تولد جاوید نام علی اباذری بود\n\nامروز تولد جاویدنام علی اباذری بود؛ اما خانواده و دوستانش به‌جای خانه یا کافه، کنار مزارش در بهشت زهرا جمع شدند. علی فقط ۱۸ سال داشت؛ دانشجوی حسابداری بود، کار می‌کرد تا کمک‌خرج خانواده‌اش باشد و تازه داشت زندگی و آینده‌اش را می‌ساخت. هجدهم دی‌ماه ۱۴۰۴، هنگام بازگشت از اعتراضات، نیروهای سرکوب از پشت به او شلیک کردند و همهٔ آرزوهایش را با یک گلوله از او گرفتند. علی فقط نامی در فهرست کشته‌شدگان نیست؛ علی یک زندگی بود، یک آینده بود و باید امروز زنده می‌بود. تولدت مبارک، علی جان.\n\n«یک ایران صدای شما را می‌شنود»\nدوشنبه تا پنجشنبه ۱۱ شب تهران\nاز تلویزیون ایران اینترنشنال\n\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\nhttps://youtu.be/DAW2ckMY-ds\n@iranintltv",
       "shamsi_date": "1405/06/13",
-      "tehran_time": "02:49:59",
-      "gregorian_utc": "2026-09-03T23:19:59+00:00",
+      "tehran_time": "02:51:37",
+      "gregorian_utc": "2026-09-03T23:21:37+00:00",
       "media_type": "video",
-      "media_size_bytes": 3379780,
-      "media_size_human": "3.22 MB",
+      "media_size_bytes": 2968952,
+      "media_size_human": "2.83 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355652_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355652_video.mp4",
+      "media_local_path": "media/IranintlTV_355653_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355653_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T00:00:51.251358+00:00"
+      "archived_at": "2026-09-04T00:10:37.987427+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -617,7 +617,7 @@
       "media_local_path": "media/satlastnews_76391_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76391_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T00:00:51.520937+00:00"
+      "archived_at": "2026-09-04T00:10:38.316056+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -635,7 +635,7 @@
       "media_local_path": "media/Mellig_120586_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120586_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T00:00:51.751384+00:00"
+      "archived_at": "2026-09-04T00:10:38.644064+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -653,7 +653,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T00:00:51.999636+00:00"
+      "archived_at": "2026-09-04T00:10:38.919795+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -671,25 +671,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T00:00:51.024246+00:00"
+      "archived_at": "2026-09-04T00:10:37.641896+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355651,
-      "message_link": "https://t.me/IranintlTV/355651",
-      "text": "بهزاد از مازندران: قشر خاکستری باعث انقلاب ۵۷ شد و حالا هم درد مشترک مردم را نمی‌فهمد\n\n«یک ایران صدای شما را می‌شنود»\nدوشنبه تا پنجشنبه ۱۱ شب تهران\nاز تلویزیون ایران اینترنشنال\n\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\nhttps://youtu.be/DAW2ckMY-ds\n@iranintltv",
+      "message_id": 355652,
+      "message_link": "https://t.me/IranintlTV/355652",
+      "text": "تنگهٔ ترامپ و زهرمار!\n\nترامپ گفته است حالا که تنگهٔ هرمز «تحت کنترل آمریکاست»، اسمش را بگذاریم «تنگهٔ ترامپ»!\n\nکنترل نظامی، سند شش‌دانگ مالکیت نیست. جمهوری اسلامی هم صاحب ایران نیست که تحقیرش بهانه‌ای برای دست‌درازی به تاریخ و جغرافیای ایران شود.\n\nحکومت‌ها، پادشاهان و امپراتوری‌ها آمده‌اند و رفته‌اند؛ اما نام هرمز، با بیش از ۲۳۰۰ سال قدمت، همچنان پابرجا مانده است.\n\nکامبیز حسینی در «برنامه» به این موضوع می‌پردازد.\n\n«یک ایران صدای شما را می‌شنود»\nدوشنبه تا پنجشنبه ۱۱ شب تهران\nاز تلویزیون ایران اینترنشنال\n\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\nhttps://youtu.be/DAW2ckMY-ds\n@iranintltv",
       "shamsi_date": "1405/06/13",
-      "tehran_time": "02:48:30",
-      "gregorian_utc": "2026-09-03T23:18:30+00:00",
+      "tehran_time": "02:49:59",
+      "gregorian_utc": "2026-09-03T23:19:59+00:00",
       "media_type": "video",
-      "media_size_bytes": 3295133,
-      "media_size_human": "3.14 MB",
+      "media_size_bytes": 3379780,
+      "media_size_human": "3.22 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355651_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355651_video.mp4",
+      "media_local_path": "media/IranintlTV_355652_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355652_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T00:00:51.251431+00:00"
+      "archived_at": "2026-09-04T00:10:37.987525+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -707,7 +707,7 @@
       "media_local_path": "media/satlastnews_76388_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76388_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T00:00:51.521062+00:00"
+      "archived_at": "2026-09-04T00:10:38.316126+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -725,7 +725,7 @@
       "media_local_path": "media/Mellig_120585_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120585_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T00:00:51.751426+00:00"
+      "archived_at": "2026-09-04T00:10:38.644093+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -743,7 +743,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T00:00:51.999665+00:00"
+      "archived_at": "2026-09-04T00:10:38.919819+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -761,25 +761,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T00:00:51.024276+00:00"
+      "archived_at": "2026-09-04T00:10:37.641920+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355650,
-      "message_link": "https://t.me/IranintlTV/355650",
-      "text": "شهاب از تهران: ترامپ با حرف‌های بی‌اساس ما را فریب می‌دهد. مگر پیکر عزیزان ما را ندید؟\n\n«یک ایران صدای شما را می‌شنود»\nدوشنبه تا پنجشنبه ۱۱ شب تهران\nاز تلویزیون ایران اینترنشنال\n\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\nhttps://youtu.be/DAW2ckMY-ds\n@iranintltv",
+      "message_id": 355651,
+      "message_link": "https://t.me/IranintlTV/355651",
+      "text": "بهزاد از مازندران: قشر خاکستری باعث انقلاب ۵۷ شد و حالا هم درد مشترک مردم را نمی‌فهمد\n\n«یک ایران صدای شما را می‌شنود»\nدوشنبه تا پنجشنبه ۱۱ شب تهران\nاز تلویزیون ایران اینترنشنال\n\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\nhttps://youtu.be/DAW2ckMY-ds\n@iranintltv",
       "shamsi_date": "1405/06/13",
-      "tehran_time": "02:46:38",
-      "gregorian_utc": "2026-09-03T23:16:38+00:00",
+      "tehran_time": "02:48:30",
+      "gregorian_utc": "2026-09-03T23:18:30+00:00",
       "media_type": "video",
-      "media_size_bytes": 4110514,
-      "media_size_human": "3.92 MB",
+      "media_size_bytes": 3295133,
+      "media_size_human": "3.14 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355650_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355650_video.mp4",
+      "media_local_path": "media/IranintlTV_355651_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355651_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T00:00:51.251498+00:00"
+      "archived_at": "2026-09-04T00:10:37.987584+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -797,7 +797,7 @@
       "media_local_path": "media/satlastnews_76387_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76387_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T00:00:51.521133+00:00"
+      "archived_at": "2026-09-04T00:10:38.316185+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -815,7 +815,7 @@
       "media_local_path": "media/Mellig_120584_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120584_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T00:00:51.751463+00:00"
+      "archived_at": "2026-09-04T00:10:38.644125+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -833,7 +833,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T00:00:51.999690+00:00"
+      "archived_at": "2026-09-04T00:10:38.919839+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -851,25 +851,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T00:00:51.024306+00:00"
+      "archived_at": "2026-09-04T00:10:37.641942+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355649,
-      "message_link": "https://t.me/IranintlTV/355649",
-      "text": "دولت فدرال کانادا با انتشار بیانیه‌ای اعلام کرد معافیت موقت مالیات غیرمستقیم بر بنزین، گازوییل و سوخت هواپیما را تا پایان ژانویه ۲۰۲۷ تمدید کرده است. این تصمیم در واکنش به افزایش بهای نفت و با هدف کاهش فشار بر مصرف‌کنندگان و کسب‌وکارها اتخاذ شده است.\n\nگزارش مهسا مرتضوی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 355650,
+      "message_link": "https://t.me/IranintlTV/355650",
+      "text": "شهاب از تهران: ترامپ با حرف‌های بی‌اساس ما را فریب می‌دهد. مگر پیکر عزیزان ما را ندید؟\n\n«یک ایران صدای شما را می‌شنود»\nدوشنبه تا پنجشنبه ۱۱ شب تهران\nاز تلویزیون ایران اینترنشنال\n\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\nhttps://youtu.be/DAW2ckMY-ds\n@iranintltv",
       "shamsi_date": "1405/06/13",
-      "tehran_time": "02:38:05",
-      "gregorian_utc": "2026-09-03T23:08:05+00:00",
+      "tehran_time": "02:46:38",
+      "gregorian_utc": "2026-09-03T23:16:38+00:00",
       "media_type": "video",
-      "media_size_bytes": 1572028,
-      "media_size_human": "1.50 MB",
+      "media_size_bytes": 4110514,
+      "media_size_human": "3.92 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355649_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355649_video.mp4",
+      "media_local_path": "media/IranintlTV_355650_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355650_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T00:00:51.251566+00:00"
+      "archived_at": "2026-09-04T00:10:37.987640+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -887,7 +887,7 @@
       "media_local_path": "media/satlastnews_76385_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76385_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T00:00:51.521194+00:00"
+      "archived_at": "2026-09-04T00:10:38.316238+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -905,7 +905,7 @@
       "media_local_path": "media/Mellig_120583_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120583_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T00:00:51.751524+00:00"
+      "archived_at": "2026-09-04T00:10:38.644177+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -923,7 +923,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T00:00:51.999713+00:00"
+      "archived_at": "2026-09-04T00:10:38.919859+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -941,25 +941,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T00:00:51.024337+00:00"
+      "archived_at": "2026-09-04T00:10:37.641965+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355648,
-      "message_link": "https://t.me/IranintlTV/355648",
-      "text": "بن سبطی، پژوهشگر ایران و اسرائیل، گفت تسلط اسرائیل بر ارتفاعات مشرف به جنوب لبنان، امکان رصد تحرکات و قطع خطوط لجستیکی حزب‌الله را فراهم می‌کند و انتقال نیرو، مهمات و تسلیحات این گروه را با محدودیت بیشتری روبه‌رو خواهد کرد.\n\nاو افزود کاهش منابع مالی جمهوری اسلامی، توان حزب‌الله را تضعیف کرده و اسرائیل اکنون با اطمینان بیشتری معتقد است که هزینه در اختیار گرفتن این مناطق، از واکنش احتمالی جمهوری اسلامی و حزب‌الله کمتر است.\n@iranintltv",
+      "message_id": 355649,
+      "message_link": "https://t.me/IranintlTV/355649",
+      "text": "دولت فدرال کانادا با انتشار بیانیه‌ای اعلام کرد معافیت موقت مالیات غیرمستقیم بر بنزین، گازوییل و سوخت هواپیما را تا پایان ژانویه ۲۰۲۷ تمدید کرده است. این تصمیم در واکنش به افزایش بهای نفت و با هدف کاهش فشار بر مصرف‌کنندگان و کسب‌وکارها اتخاذ شده است.\n\nگزارش مهسا مرتضوی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/06/13",
-      "tehran_time": "02:34:15",
-      "gregorian_utc": "2026-09-03T23:04:15+00:00",
+      "tehran_time": "02:38:05",
+      "gregorian_utc": "2026-09-03T23:08:05+00:00",
       "media_type": "video",
-      "media_size_bytes": 4079730,
-      "media_size_human": "3.89 MB",
+      "media_size_bytes": 1572028,
+      "media_size_human": "1.50 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355648_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355648_video.mp4",
+      "media_local_path": "media/IranintlTV_355649_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355649_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T00:00:51.251645+00:00"
+      "archived_at": "2026-09-04T00:10:37.987699+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -977,7 +977,7 @@
       "media_local_path": "media/satlastnews_76383_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76383_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T00:00:51.521241+00:00"
+      "archived_at": "2026-09-04T00:10:38.316280+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -995,7 +995,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-09-04T00:00:51.751586+00:00"
+      "archived_at": "2026-09-04T00:10:38.644227+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -1013,7 +1013,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T00:00:51.999739+00:00"
+      "archived_at": "2026-09-04T00:10:38.919882+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1031,25 +1031,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-04T00:00:51.024368+00:00"
+      "archived_at": "2026-09-04T00:10:37.642006+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355647,
-      "message_link": "https://t.me/IranintlTV/355647",
-      "text": "دونالد ترامپ از بازگشت جریان نفت به وضعیت پیش از جنگ و کنترل تنگه هرمز توسط آمریکا سخن گفته، اما فرزین ندیمی، تحلیلگر امور دفاعی و امنیتی، می‌گوید کنترل آمریکا به حفظ کریدور جنوبی کشتیرانی، پاکسازی نسبی مین‌های دریایی و تضعیف توان موشکی و راداری سپاه پاسداران محدود است و هنوز به معنای تسلط کامل بر تنگه هرمز نیست.\n\nاو افزود عبور نفتکش‌ها در مجموع هنوز به سطح پیش از جنگ نرسیده و سپاه پاسداران همچنان توان ایجاد اختلال در کشتیرانی با موشک، پهپاد و مین‌های دریایی را حفظ کرده است.\n@iranintltv",
+      "message_id": 355648,
+      "message_link": "https://t.me/IranintlTV/355648",
+      "text": "بن سبطی، پژوهشگر ایران و اسرائیل، گفت تسلط اسرائیل بر ارتفاعات مشرف به جنوب لبنان، امکان رصد تحرکات و قطع خطوط لجستیکی حزب‌الله را فراهم می‌کند و انتقال نیرو، مهمات و تسلیحات این گروه را با محدودیت بیشتری روبه‌رو خواهد کرد.\n\nاو افزود کاهش منابع مالی جمهوری اسلامی، توان حزب‌الله را تضعیف کرده و اسرائیل اکنون با اطمینان بیشتری معتقد است که هزینه در اختیار گرفتن این مناطق، از واکنش احتمالی جمهوری اسلامی و حزب‌الله کمتر است.\n@iranintltv",
       "shamsi_date": "1405/06/13",
-      "tehran_time": "02:32:16",
-      "gregorian_utc": "2026-09-03T23:02:16+00:00",
+      "tehran_time": "02:34:15",
+      "gregorian_utc": "2026-09-03T23:04:15+00:00",
       "media_type": "video",
-      "media_size_bytes": 4691291,
-      "media_size_human": "4.47 MB",
+      "media_size_bytes": 4079730,
+      "media_size_human": "3.89 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355647_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355647_video.mp4",
+      "media_local_path": "media/IranintlTV_355648_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355648_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T00:00:51.251725+00:00"
+      "archived_at": "2026-09-04T00:10:37.987769+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1067,7 +1067,7 @@
       "media_local_path": "media/satlastnews_76381_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76381_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T00:00:51.521278+00:00"
+      "archived_at": "2026-09-04T00:10:38.316310+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1085,7 +1085,7 @@
       "media_local_path": "media/Mellig_120581_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120581_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-04T00:00:51.751625+00:00"
+      "archived_at": "2026-09-04T00:10:38.644256+00:00"
     }
   ]
 }
