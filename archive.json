@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-05T11:37:02.919680+00:00",
-  "shamsi_generated": "1405/06/14 11:37:02 تهران",
+  "generated_at": "2026-09-05T11:44:44.022428+00:00",
+  "shamsi_generated": "1405/06/14 11:44:44 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -41,25 +41,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T11:30:54.198596+00:00"
+      "archived_at": "2026-09-05T11:40:39.085504+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355845,
-      "message_link": "https://t.me/IranintlTV/355845",
-      "text": "مسعود پزشکیان، رییس‌ دولت جمهوری اسلامی، و احمدرضا رادان، فرمانده کل انتظامی جمهوری اسلامی، نخستین دبیرستان شبانه‌روزی «هوشمند» پلیس را افتتاح کردند؛ مرکزی که بر اساس گزارش‌ها با هدف شناسایی و پرورش نوجوانان برای پلیس راه‌اندازی شده است.\n\nاین دبیرستان که «محمد باقری» نام دارد، دانش‌آموزان پسر را در رشته‌های علوم تجربی، ریاضی‌فیزیک و علوم انسانی پذیرش می‌کند. دانش‌آموزان در کنار دروس نظری، اموزش‌های مهارتی، ورزشی و تخصصی از جمله تیراندازی دریافت خواهند کرد.\n\nبر اساس اعلام فرماندهی انتظامی جمهوری اسلامی، هدف این طرح تربیت «پلیس حرفه‌ای» و نیروها و فرماندهان آینده این مجموعه از دوره نوجوانی است و قرار است دبیرستان‌های پلیس در استان‌های دیگر نیز راه‌اندازی شوند.\n\nافتتاح این مرکز در شرایط جنگی انجام شده است. رادان در مراسم افتتاح گفت راه‌اندازی این دبیرستان در «ایام جنگ» نشان می‌دهد فعالیت‌های آموزشی و سازندگی متوقف نشده است. او رویکرد این مدارس را بخشی از «معماری پلیس آینده» و مبتنی بر آموزش و مهارت‌افزایی نوجوانان و جوانان توصیف کرد.",
+      "message_id": 355846,
+      "message_link": "https://t.me/IranintlTV/355846",
+      "text": "شبکه العربیه به نقل از منابع نظامی یمن گزارش داد چهار ایرانی و لبنانی در حمله به یک مرکز فرماندهی حوثی‌ها در استان الجوف در شمال یمن کشته شدند.\n\nمنابع نظامی یمن مشخص نکردند چند نفر از چهار فرد کشته‌شده ایرانی و چند نفر لبنانی بوده‌اند. همچنین جزییاتی درباره هویت، حوزه تخصص یا نقش این افراد ارائه نشده است.\n\nزمان حمله‌ای که به کشته شدن این چهار نفر منجرج شد، مشخص نشده است. نیروهای دولتی یمن جمعه ۱۳ شهریور مواضع، تجمعات، انبارهای سلاح و سکوهای پرتاب موشک حوثی‌ها را در مناطقی از الجوف هدف قرار دادند. شنبه ۱۴ شهریور نیز گزارش‌هایی از حملات هوایی به مواضع، انبارهای سلاح حوثی‌ها در شهر الحزم، مرکز استان الجوف، منتشر شد.\n\nمشخص نیست کشته شدن چهار ایرانی و لبنانی به کدام‌یک از این حملات مرتبط بوده است.\nhttps://iranintl.com/202609054259",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "14:11:50",
-      "gregorian_utc": "2026-09-05T10:41:50+00:00",
+      "tehran_time": "15:08:32",
+      "gregorian_utc": "2026-09-05T11:38:32+00:00",
       "media_type": "photo",
-      "media_size_bytes": 100127,
-      "media_size_human": "97.78 KB",
+      "media_size_bytes": 62145,
+      "media_size_human": "60.69 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355845_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355845_photo.jpg",
+      "media_local_path": "media/IranintlTV_355846_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355846_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T11:30:54.621307+00:00"
+      "archived_at": "2026-09-05T11:40:39.354577+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -77,25 +77,25 @@
       "media_local_path": "media/satlastnews_76405_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76405_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T11:30:55.065851+00:00"
+      "archived_at": "2026-09-05T11:40:39.644256+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120647,
-      "message_link": "https://t.me/Mellig/120647",
-      "text": "♦️بر اساس گزارش ها، امارات در هفته‌های اخیر به لنج‌های ایرانی اجازه پهلوگیری نمی‌دهد و حتی به برخی لنج‌ها دو روز مهلت داده شده تا امارات را ترک کنند؛ در نتیجه، واردات و صادرات دریایی میان دو کشور عملاً متوقف شده است.\n\nMellig.net",
+      "message_id": 120648,
+      "message_link": "https://t.me/Mellig/120648",
+      "text": "اقرار به شکست عرزشی ها 😁\n\nدارن دق میکنن 🤣🤣",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "12:05:48",
-      "gregorian_utc": "2026-09-05T08:35:48+00:00",
-      "media_type": "video",
-      "media_size_bytes": 3272512,
-      "media_size_human": "3.12 MB",
+      "tehran_time": "15:09:44",
+      "gregorian_utc": "2026-09-05T11:39:44+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 142701,
+      "media_size_human": "139.36 KB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120647_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120647_video.mp4",
+      "media_local_path": "media/Mellig_120648_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120648_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T11:30:55.519061+00:00"
+      "archived_at": "2026-09-05T11:40:39.992846+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -113,7 +113,7 @@
       "media_local_path": "media/khabarsara53_11_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_11_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T11:30:55.884926+00:00"
+      "archived_at": "2026-09-05T11:40:40.238084+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -131,25 +131,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T11:30:54.198651+00:00"
+      "archived_at": "2026-09-05T11:40:39.085553+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355844,
-      "message_link": "https://t.me/IranintlTV/355844",
-      "text": "علی شیرازی، عضو تحریریه ایران‌اینترنشنال، با اشاره به هشدار دونالد ترامپ، رییس‌جمهوری آمریکا، درباره تاسیسات «کوه کلنگ» گفت به نظر می‌رسد جمهوری اسلامی فعالیت‌های هسته‌ای خود را در این تاسیسات ادامه می‌دهد و با توجه به اظهارات برخی مقام‌های جمهوری اسلامی درباره ساخت بمب اتمی، احتمال داد فعالیت‌های آنجا در راستای فرایند ساخت بمب باشد.\n@iranintltv",
+      "message_id": 355845,
+      "message_link": "https://t.me/IranintlTV/355845",
+      "text": "مسعود پزشکیان، رییس‌ دولت جمهوری اسلامی، و احمدرضا رادان، فرمانده کل انتظامی جمهوری اسلامی، نخستین دبیرستان شبانه‌روزی «هوشمند» پلیس را افتتاح کردند؛ مرکزی که بر اساس گزارش‌ها با هدف شناسایی و پرورش نوجوانان برای پلیس راه‌اندازی شده است.\n\nاین دبیرستان که «محمد باقری» نام دارد، دانش‌آموزان پسر را در رشته‌های علوم تجربی، ریاضی‌فیزیک و علوم انسانی پذیرش می‌کند. دانش‌آموزان در کنار دروس نظری، اموزش‌های مهارتی، ورزشی و تخصصی از جمله تیراندازی دریافت خواهند کرد.\n\nبر اساس اعلام فرماندهی انتظامی جمهوری اسلامی، هدف این طرح تربیت «پلیس حرفه‌ای» و نیروها و فرماندهان آینده این مجموعه از دوره نوجوانی است و قرار است دبیرستان‌های پلیس در استان‌های دیگر نیز راه‌اندازی شوند.\n\nافتتاح این مرکز در شرایط جنگی انجام شده است. رادان در مراسم افتتاح گفت راه‌اندازی این دبیرستان در «ایام جنگ» نشان می‌دهد فعالیت‌های آموزشی و سازندگی متوقف نشده است. او رویکرد این مدارس را بخشی از «معماری پلیس آینده» و مبتنی بر آموزش و مهارت‌افزایی نوجوانان و جوانان توصیف کرد.",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "14:09:29",
-      "gregorian_utc": "2026-09-05T10:39:29+00:00",
-      "media_type": "video",
-      "media_size_bytes": 5132692,
-      "media_size_human": "4.89 MB",
+      "tehran_time": "14:11:50",
+      "gregorian_utc": "2026-09-05T10:41:50+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 100127,
+      "media_size_human": "97.78 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355844_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355844_video.mp4",
+      "media_local_path": "media/IranintlTV_355845_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355845_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T11:30:54.621435+00:00"
+      "archived_at": "2026-09-05T11:40:39.354635+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -167,25 +167,25 @@
       "media_local_path": "media/satlastnews_76404_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76404_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T11:30:55.065955+00:00"
+      "archived_at": "2026-09-05T11:40:39.644351+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120646,
-      "message_link": "https://t.me/Mellig/120646",
-      "text": "واقعا چرا ؟؟؟ دادن رفت 🙄\n\nMellig.net",
+      "message_id": 120647,
+      "message_link": "https://t.me/Mellig/120647",
+      "text": "♦️بر اساس گزارش ها، امارات در هفته‌های اخیر به لنج‌های ایرانی اجازه پهلوگیری نمی‌دهد و حتی به برخی لنج‌ها دو روز مهلت داده شده تا امارات را ترک کنند؛ در نتیجه، واردات و صادرات دریایی میان دو کشور عملاً متوقف شده است.\n\nMellig.net",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "11:07:01",
-      "gregorian_utc": "2026-09-05T07:37:01+00:00",
+      "tehran_time": "12:05:48",
+      "gregorian_utc": "2026-09-05T08:35:48+00:00",
       "media_type": "video",
-      "media_size_bytes": 1305001,
-      "media_size_human": "1.24 MB",
+      "media_size_bytes": 3272512,
+      "media_size_human": "3.12 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120646_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120646_video.mp4",
+      "media_local_path": "media/Mellig_120647_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120647_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T11:30:55.519138+00:00"
+      "archived_at": "2026-09-05T11:40:39.992936+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -203,7 +203,7 @@
       "media_local_path": "media/khabarsara53_10_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_10_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T11:30:55.884998+00:00"
+      "archived_at": "2026-09-05T11:40:40.238154+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -221,25 +221,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T11:30:54.198687+00:00"
+      "archived_at": "2026-09-05T11:40:39.085593+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355843,
-      "message_link": "https://t.me/IranintlTV/355843",
-      "text": "مسعود پزشکیان، رییس دولت جمهوری اسلامی، در مراسم افتتاح نخستین دبیرستان پلیس خواستار بازنگری در شیوه آموزش جوانان شد. او گفت: «جوان ما وقتی وارد خیابان می‌شود و با مشکل مواجه است، مقصر ما هستیم، نه آن جوان. ما نتوانسته‌ایم او را درست اموزش دهیم.»\n\nاو افزود: «گذشته است و آنان باید فردا بیایند و کشور را بسازند. بنابراین، باید این موضوع را بپذیریم و در نگاه خود نسبت به اموزشی که ارایه می‌دهیم، تجدیدنظر کنیم.»\nhttps://iranintl.com/202609050654",
+      "message_id": 355844,
+      "message_link": "https://t.me/IranintlTV/355844",
+      "text": "علی شیرازی، عضو تحریریه ایران‌اینترنشنال، با اشاره به هشدار دونالد ترامپ، رییس‌جمهوری آمریکا، درباره تاسیسات «کوه کلنگ» گفت به نظر می‌رسد جمهوری اسلامی فعالیت‌های هسته‌ای خود را در این تاسیسات ادامه می‌دهد و با توجه به اظهارات برخی مقام‌های جمهوری اسلامی درباره ساخت بمب اتمی، احتمال داد فعالیت‌های آنجا در راستای فرایند ساخت بمب باشد.\n@iranintltv",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "14:08:41",
-      "gregorian_utc": "2026-09-05T10:38:41+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 193470,
-      "media_size_human": "188.94 KB",
+      "tehran_time": "14:09:29",
+      "gregorian_utc": "2026-09-05T10:39:29+00:00",
+      "media_type": "video",
+      "media_size_bytes": 5132692,
+      "media_size_human": "4.89 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355843_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355843_photo.jpg",
+      "media_local_path": "media/IranintlTV_355844_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355844_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T11:30:54.621542+00:00"
+      "archived_at": "2026-09-05T11:40:39.354726+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -257,25 +257,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T11:30:55.065990+00:00"
+      "archived_at": "2026-09-05T11:40:39.644384+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120645,
-      "message_link": "https://t.me/Mellig/120645",
-      "text": "شرق استان تهران\n\nهمین الان ساعت ده صبح",
+      "message_id": 120646,
+      "message_link": "https://t.me/Mellig/120646",
+      "text": "واقعا چرا ؟؟؟ دادن رفت 🙄\n\nMellig.net",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "11:01:38",
-      "gregorian_utc": "2026-09-05T07:31:38+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 88902,
-      "media_size_human": "86.82 KB",
+      "tehran_time": "11:07:01",
+      "gregorian_utc": "2026-09-05T07:37:01+00:00",
+      "media_type": "video",
+      "media_size_bytes": 1305001,
+      "media_size_human": "1.24 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120645_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120645_photo.jpg",
+      "media_local_path": "media/Mellig_120646_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120646_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T11:30:55.519190+00:00"
+      "archived_at": "2026-09-05T11:40:39.993027+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -293,7 +293,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T11:30:55.885030+00:00"
+      "archived_at": "2026-09-05T11:40:40.238187+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -311,25 +311,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T11:30:54.198729+00:00"
+      "archived_at": "2026-09-05T11:40:39.085629+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355842,
-      "message_link": "https://t.me/IranintlTV/355842",
-      "text": "🔻برخی رسانه‌های ایران خبر داده‌اند که سهراب بختیاری‌زاده، سرمربی استقلال، صالح حردانی، کاپیتان آبی‌پوشان را به دلیل اعتراض به تصمیم‌های او در دربی ۱۰۷، برای همیشه از تیم کنار گذاشته است. دیروز خبر رسیده بود که صالح حردانی فعلا اجازه تمرین ندارد. \n\n🔹در دقیقه ۶۹ دربی، صالح حردانی بیشتر از بقیه اصرار داشت،  ضربه ایستگاهی را بزند، اما انتخاب سهراب، مانند دیگر ضربات ایستگاهی بازی، یاسر آسانی بود.\n\n🔹ویدیویی که از بازی منتشر شده نشان می‌دهد که صالح بار اول با «برو بابا!» به این انتخاب واکنش نشان می‌دهد اما در ادامه سمت نیمکت استقلال می‌گوید؛ «بذار بزنیم؛ ۱۰ تاشو می‌زنه تو دفاع!»\n\n🔹محمد تقوی، ایران اینترنشنال در برنامه هت‌تریک گفت که سهراب بختیاری‌زاده می‌توانست با شیوه دیگری با کاپیتان تیم خود برخورد کند: «این برخورد، شایسته کاپیتان تیم نیست.»\n\n🔹دیروز صالح حردانی با استوری‌هایی در صفحه اینستاگرام خود تلاش کرد از بختیاری‌زاده و دیگر بازیکنان استقلال از جمله یاسر آسانی دلجویی کند، همچنین آسانی هم در یک استوری، بر رابطه خوب خود با حردانی تاکید کرد.\n\n[**تماشای نسخه کامل هت‌تریک**](https://youtu.be/cp0SOzr7kiY)\n\n@iranintltvsport",
+      "message_id": 355843,
+      "message_link": "https://t.me/IranintlTV/355843",
+      "text": "مسعود پزشکیان، رییس دولت جمهوری اسلامی، در مراسم افتتاح نخستین دبیرستان پلیس خواستار بازنگری در شیوه آموزش جوانان شد. او گفت: «جوان ما وقتی وارد خیابان می‌شود و با مشکل مواجه است، مقصر ما هستیم، نه آن جوان. ما نتوانسته‌ایم او را درست اموزش دهیم.»\n\nاو افزود: «گذشته است و آنان باید فردا بیایند و کشور را بسازند. بنابراین، باید این موضوع را بپذیریم و در نگاه خود نسبت به اموزشی که ارایه می‌دهیم، تجدیدنظر کنیم.»\nhttps://iranintl.com/202609050654",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "13:49:10",
-      "gregorian_utc": "2026-09-05T10:19:10+00:00",
-      "media_type": "video",
-      "media_size_bytes": 3276573,
-      "media_size_human": "3.12 MB",
+      "tehran_time": "14:08:41",
+      "gregorian_utc": "2026-09-05T10:38:41+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 193470,
+      "media_size_human": "188.94 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355842_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355842_video.mp4",
+      "media_local_path": "media/IranintlTV_355843_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355843_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T11:30:54.637832+00:00"
+      "archived_at": "2026-09-05T11:40:39.354820+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -347,25 +347,25 @@
       "media_local_path": "media/satlastnews_76400_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76400_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T11:30:55.066054+00:00"
+      "archived_at": "2026-09-05T11:40:39.644448+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120644,
-      "message_link": "https://t.me/Mellig/120644",
-      "text": "",
+      "message_id": 120645,
+      "message_link": "https://t.me/Mellig/120645",
+      "text": "شرق استان تهران\n\nهمین الان ساعت ده صبح",
       "shamsi_date": "1405/06/14",
       "tehran_time": "11:01:38",
       "gregorian_utc": "2026-09-05T07:31:38+00:00",
       "media_type": "photo",
-      "media_size_bytes": 138120,
-      "media_size_human": "134.88 KB",
+      "media_size_bytes": 88902,
+      "media_size_human": "86.82 KB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120644_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120644_photo.jpg",
+      "media_local_path": "media/Mellig_120645_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120645_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T11:30:55.519229+00:00"
+      "archived_at": "2026-09-05T11:40:39.993074+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -383,7 +383,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T11:30:55.885058+00:00"
+      "archived_at": "2026-09-05T11:40:40.238213+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -401,25 +401,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T11:30:54.198761+00:00"
+      "archived_at": "2026-09-05T11:40:39.085658+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355841,
-      "message_link": "https://t.me/IranintlTV/355841",
-      "text": "در ادامه افزایش قیمت‌ها و التهاب در بازار ارز ایران، نرخ دلار آمریکا در بازار آزاد شنبه ۱۴ شهریور به رقم بی‌سابقه ۲۲۵ هزار تومان رسید.\n\nهمزمان، دیگر ارزهای عمده نیز در سطوح بالایی معامله شدند. در زمان نگارش این گزارش، قیمت یورو به ۲۶۱ هزار و ۴۴۰ تومان، پوند به ۳۰۵ هزار و ۷۶۰ تومان و درهم به ۶۱ هزار و ۷۶۰ تومان رسید.\n\nافزایش قیمت‌ها به بازار سکه نیز کشیده شد و سکه امامی روز شنبه به ۲۳۷ میلیون تومان رسید.\nhttps://iranintl.com/202609055949",
+      "message_id": 355842,
+      "message_link": "https://t.me/IranintlTV/355842",
+      "text": "🔻برخی رسانه‌های ایران خبر داده‌اند که سهراب بختیاری‌زاده، سرمربی استقلال، صالح حردانی، کاپیتان آبی‌پوشان را به دلیل اعتراض به تصمیم‌های او در دربی ۱۰۷، برای همیشه از تیم کنار گذاشته است. دیروز خبر رسیده بود که صالح حردانی فعلا اجازه تمرین ندارد. \n\n🔹در دقیقه ۶۹ دربی، صالح حردانی بیشتر از بقیه اصرار داشت،  ضربه ایستگاهی را بزند، اما انتخاب سهراب، مانند دیگر ضربات ایستگاهی بازی، یاسر آسانی بود.\n\n🔹ویدیویی که از بازی منتشر شده نشان می‌دهد که صالح بار اول با «برو بابا!» به این انتخاب واکنش نشان می‌دهد اما در ادامه سمت نیمکت استقلال می‌گوید؛ «بذار بزنیم؛ ۱۰ تاشو می‌زنه تو دفاع!»\n\n🔹محمد تقوی، ایران اینترنشنال در برنامه هت‌تریک گفت که سهراب بختیاری‌زاده می‌توانست با شیوه دیگری با کاپیتان تیم خود برخورد کند: «این برخورد، شایسته کاپیتان تیم نیست.»\n\n🔹دیروز صالح حردانی با استوری‌هایی در صفحه اینستاگرام خود تلاش کرد از بختیاری‌زاده و دیگر بازیکنان استقلال از جمله یاسر آسانی دلجویی کند، همچنین آسانی هم در یک استوری، بر رابطه خوب خود با حردانی تاکید کرد.\n\n[**تماشای نسخه کامل هت‌تریک**](https://youtu.be/cp0SOzr7kiY)\n\n@iranintltvsport",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "13:36:52",
-      "gregorian_utc": "2026-09-05T10:06:52+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 166499,
-      "media_size_human": "162.60 KB",
+      "tehran_time": "13:49:10",
+      "gregorian_utc": "2026-09-05T10:19:10+00:00",
+      "media_type": "video",
+      "media_size_bytes": 3276573,
+      "media_size_human": "3.12 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355841_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355841_photo.jpg",
+      "media_local_path": "media/IranintlTV_355842_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355842_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T11:30:54.637976+00:00"
+      "archived_at": "2026-09-05T11:40:39.366746+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -437,25 +437,25 @@
       "media_local_path": "media/satlastnews_76399_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76399_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T11:30:55.066151+00:00"
+      "archived_at": "2026-09-05T11:40:39.644540+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120643,
-      "message_link": "https://t.me/Mellig/120643",
-      "text": "تصرف تپه های الطاهر و هدر رفتن\n20 سال زحمت جمهوری اسلامی\n🖥🖥🖥\nhttps://www.youtube.com/watch?v=FaKg5hoZssA",
+      "message_id": 120644,
+      "message_link": "https://t.me/Mellig/120644",
+      "text": "",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "03:33:30",
-      "gregorian_utc": "2026-09-05T00:03:30+00:00",
-      "media_type": "video",
-      "media_size_bytes": 16162647,
-      "media_size_human": "15.41 MB",
+      "tehran_time": "11:01:38",
+      "gregorian_utc": "2026-09-05T07:31:38+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 138120,
+      "media_size_human": "134.88 KB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120643_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120643_video.mp4",
+      "media_local_path": "media/Mellig_120644_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120644_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T11:30:55.519296+00:00"
+      "archived_at": "2026-09-05T11:40:39.993114+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -473,7 +473,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T11:30:55.885083+00:00"
+      "archived_at": "2026-09-05T11:40:40.238237+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -491,25 +491,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T11:30:54.198799+00:00"
+      "archived_at": "2026-09-05T11:40:39.085699+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355840,
-      "message_link": "https://t.me/IranintlTV/355840",
-      "text": "اطلاعات رسیده نشان می‌دهد جاویدنام ابوالفضل میرآییز، از جان‌باختگان خیزش انقلابی در گرگان، یکی از خیرین و حامیان پنهان کودکان مبتلا به سرطان بوده است. \n\nبر اساس گزارش‌های رسیده، این جوان معترض به صورت ماهانه و بدون اطلاع اطرافیان و خانواده‌اش، مبالغی را برای کمک به تامین هزینه‌های سنگین دارو و شیمی‌درمانی کودکان نیازمند به حساب نهادهای حمایتی واریز می‌کرده است.\n\nاین اقدام انسان‌دوستانه چندین ماه پس از کشته‌شدن این جوان و به تازگی برای خانواده‌اش روشن شده است. خانواده میراییز تا چند روز اخیر، به هیچ‌وجه از کمک‌های مالی مستمر پسرشان به کودکان بیمار اطلاعی نداشتند.\n\nجاویدنام ابوالفضل میراییز، جوان اهل گرگان، در شامگاه ۱۸ دی‌ماه با شلیک مستقیم نیروهای حکومتی به سر و پایش جان باخت.",
+      "message_id": 355841,
+      "message_link": "https://t.me/IranintlTV/355841",
+      "text": "در ادامه افزایش قیمت‌ها و التهاب در بازار ارز ایران، نرخ دلار آمریکا در بازار آزاد شنبه ۱۴ شهریور به رقم بی‌سابقه ۲۲۵ هزار تومان رسید.\n\nهمزمان، دیگر ارزهای عمده نیز در سطوح بالایی معامله شدند. در زمان نگارش این گزارش، قیمت یورو به ۲۶۱ هزار و ۴۴۰ تومان، پوند به ۳۰۵ هزار و ۷۶۰ تومان و درهم به ۶۱ هزار و ۷۶۰ تومان رسید.\n\nافزایش قیمت‌ها به بازار سکه نیز کشیده شد و سکه امامی روز شنبه به ۲۳۷ میلیون تومان رسید.\nhttps://iranintl.com/202609055949",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "13:08:28",
-      "gregorian_utc": "2026-09-05T09:38:28+00:00",
+      "tehran_time": "13:36:52",
+      "gregorian_utc": "2026-09-05T10:06:52+00:00",
       "media_type": "photo",
-      "media_size_bytes": 128031,
-      "media_size_human": "125.03 KB",
+      "media_size_bytes": 166499,
+      "media_size_human": "162.60 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355840_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355840_photo.jpg",
+      "media_local_path": "media/IranintlTV_355841_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355841_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T11:30:54.638029+00:00"
+      "archived_at": "2026-09-05T11:40:39.366869+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -527,25 +527,25 @@
       "media_local_path": "media/satlastnews_76398_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76398_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T11:30:55.066217+00:00"
+      "archived_at": "2026-09-05T11:40:39.644608+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120642,
-      "message_link": "https://t.me/Mellig/120642",
-      "text": "لطفا اطلاع رسانی کنید\n\nویروس جدید توسط کسانی که میرن کربلا \n\nبچه شیعه واسه کشور ما مضر هست",
+      "message_id": 120643,
+      "message_link": "https://t.me/Mellig/120643",
+      "text": "تصرف تپه های الطاهر و هدر رفتن\n20 سال زحمت جمهوری اسلامی\n🖥🖥🖥\nhttps://www.youtube.com/watch?v=FaKg5hoZssA",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "03:33:02",
-      "gregorian_utc": "2026-09-05T00:03:02+00:00",
+      "tehran_time": "03:33:30",
+      "gregorian_utc": "2026-09-05T00:03:30+00:00",
       "media_type": "video",
-      "media_size_bytes": 11720174,
-      "media_size_human": "11.18 MB",
+      "media_size_bytes": 16162647,
+      "media_size_human": "15.41 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120642_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120642_video.mp4",
+      "media_local_path": "media/Mellig_120643_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120643_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T11:30:55.519335+00:00"
+      "archived_at": "2026-09-05T11:40:39.993181+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -563,7 +563,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T11:30:55.885108+00:00"
+      "archived_at": "2026-09-05T11:40:40.238261+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -581,25 +581,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T11:30:54.198830+00:00"
+      "archived_at": "2026-09-05T11:40:39.085729+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355839,
-      "message_link": "https://t.me/IranintlTV/355839",
-      "text": "سرخط خبرهای شنبه ۱۴ شهریور\n@iranintltv",
+      "message_id": 355840,
+      "message_link": "https://t.me/IranintlTV/355840",
+      "text": "اطلاعات رسیده نشان می‌دهد جاویدنام ابوالفضل میرآییز، از جان‌باختگان خیزش انقلابی در گرگان، یکی از خیرین و حامیان پنهان کودکان مبتلا به سرطان بوده است. \n\nبر اساس گزارش‌های رسیده، این جوان معترض به صورت ماهانه و بدون اطلاع اطرافیان و خانواده‌اش، مبالغی را برای کمک به تامین هزینه‌های سنگین دارو و شیمی‌درمانی کودکان نیازمند به حساب نهادهای حمایتی واریز می‌کرده است.\n\nاین اقدام انسان‌دوستانه چندین ماه پس از کشته‌شدن این جوان و به تازگی برای خانواده‌اش روشن شده است. خانواده میراییز تا چند روز اخیر، به هیچ‌وجه از کمک‌های مالی مستمر پسرشان به کودکان بیمار اطلاعی نداشتند.\n\nجاویدنام ابوالفضل میراییز، جوان اهل گرگان، در شامگاه ۱۸ دی‌ماه با شلیک مستقیم نیروهای حکومتی به سر و پایش جان باخت.",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "13:05:25",
-      "gregorian_utc": "2026-09-05T09:35:25+00:00",
-      "media_type": "video",
-      "media_size_bytes": 1006267,
-      "media_size_human": "982.68 KB",
+      "tehran_time": "13:08:28",
+      "gregorian_utc": "2026-09-05T09:38:28+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 128031,
+      "media_size_human": "125.03 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355839_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355839_video.mp4",
+      "media_local_path": "media/IranintlTV_355840_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355840_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T11:30:54.638085+00:00"
+      "archived_at": "2026-09-05T11:40:39.366927+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -617,25 +617,25 @@
       "media_local_path": "media/satlastnews_76397_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76397_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T11:30:55.066272+00:00"
+      "archived_at": "2026-09-05T11:40:39.644662+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120641,
-      "message_link": "https://t.me/Mellig/120641",
-      "text": "حمله موشکی جمهوری اسلامی از کرمان و اصفهان و کرمانشاه،اخبار لحظه به لحظه جنگ 13 شهریور 2585🖥😀\n\nMellig.net\n\n⚠️ پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 128.28 MB)",
+      "message_id": 120642,
+      "message_link": "https://t.me/Mellig/120642",
+      "text": "لطفا اطلاع رسانی کنید\n\nویروس جدید توسط کسانی که میرن کربلا \n\nبچه شیعه واسه کشور ما مضر هست",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "03:23:06",
-      "gregorian_utc": "2026-09-04T23:53:06+00:00",
-      "media_type": "audio",
-      "media_size_bytes": 134512568,
-      "media_size_human": "128.28 MB",
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 128.28 MB)",
-      "archived_at": "2026-09-05T11:30:55.519404+00:00"
+      "tehran_time": "03:33:02",
+      "gregorian_utc": "2026-09-05T00:03:02+00:00",
+      "media_type": "video",
+      "media_size_bytes": 11720174,
+      "media_size_human": "11.18 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_120642_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120642_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-09-05T11:40:39.993221+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -653,7 +653,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T11:30:55.885133+00:00"
+      "archived_at": "2026-09-05T11:40:40.238294+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -671,25 +671,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T11:30:54.198875+00:00"
+      "archived_at": "2026-09-05T11:40:39.085772+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355838,
-      "message_link": "https://t.me/IranintlTV/355838",
-      "text": "ارتش اسرائیل بلندی‌های راهبردی علی‌الطاهر و تونل‌های فرماندهی حزب‌الله را تصرف کرد. به گفته این ارتش، این حملات پس از آن انجام شد که حزب‌الله پهپادی را به سوی نیروهای اسرائیلی در جنوب لبنان شلیک کرد.\n\nجزییات بیشتر در گفت‌وگو با اشکان صفایی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 355839,
+      "message_link": "https://t.me/IranintlTV/355839",
+      "text": "سرخط خبرهای شنبه ۱۴ شهریور\n@iranintltv",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "12:57:56",
-      "gregorian_utc": "2026-09-05T09:27:56+00:00",
+      "tehran_time": "13:05:25",
+      "gregorian_utc": "2026-09-05T09:35:25+00:00",
       "media_type": "video",
-      "media_size_bytes": 2773115,
-      "media_size_human": "2.64 MB",
+      "media_size_bytes": 1006267,
+      "media_size_human": "982.68 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355838_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355838_video.mp4",
+      "media_local_path": "media/IranintlTV_355839_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355839_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T11:30:54.638166+00:00"
+      "archived_at": "2026-09-05T11:40:39.367037+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -707,25 +707,25 @@
       "media_local_path": "media/satlastnews_76392_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76392_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T11:30:55.066375+00:00"
+      "archived_at": "2026-09-05T11:40:39.644763+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120640,
-      "message_link": "https://t.me/Mellig/120640",
-      "text": "با درود بر شما\n\nهرشب صف بزنین در مشهد\n\nجاوید شاه🙏",
+      "message_id": 120641,
+      "message_link": "https://t.me/Mellig/120641",
+      "text": "حمله موشکی جمهوری اسلامی از کرمان و اصفهان و کرمانشاه،اخبار لحظه به لحظه جنگ 13 شهریور 2585🖥😀\n\nMellig.net\n\n⚠️ پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 128.28 MB)",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "02:58:13",
-      "gregorian_utc": "2026-09-04T23:28:13+00:00",
-      "media_type": "video",
-      "media_size_bytes": 10191949,
-      "media_size_human": "9.72 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/Mellig_120640_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120640_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-09-05T11:30:55.519459+00:00"
+      "tehran_time": "03:23:06",
+      "gregorian_utc": "2026-09-04T23:53:06+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 134512568,
+      "media_size_human": "128.28 MB",
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 128.28 MB)",
+      "archived_at": "2026-09-05T11:40:39.993289+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -743,7 +743,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T11:30:55.885159+00:00"
+      "archived_at": "2026-09-05T11:40:40.238322+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -761,25 +761,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T11:30:54.198904+00:00"
+      "archived_at": "2026-09-05T11:40:39.085800+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355837,
-      "message_link": "https://t.me/IranintlTV/355837",
-      "text": "مخاطبان ایران‌اینترنشنال با ارسال ویدیوهایی، از افزایش شدید قیمت‌ها، کمبود برخی کالاها و اقلام ضروری، از جمله دارو، و همچنین پوشش ناکافی خدمات بیمه گلایه کرده‌اند. آن‌ها می‌گویند فشار فزاینده هزینه‌های زندگی و حمایت محدود شرکت‌های بیمه، تامین نیازهای روزمره و خدمات درمانی را برای بسیاری از خانواده‌ها دشوار کرده است.\n\nگفت‌وگو با بابک خطی، پزشک و متخصص کودکان\n@iranintltv",
+      "message_id": 355838,
+      "message_link": "https://t.me/IranintlTV/355838",
+      "text": "ارتش اسرائیل بلندی‌های راهبردی علی‌الطاهر و تونل‌های فرماندهی حزب‌الله را تصرف کرد. به گفته این ارتش، این حملات پس از آن انجام شد که حزب‌الله پهپادی را به سوی نیروهای اسرائیلی در جنوب لبنان شلیک کرد.\n\nجزییات بیشتر در گفت‌وگو با اشکان صفایی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "12:53:02",
-      "gregorian_utc": "2026-09-05T09:23:02+00:00",
+      "tehran_time": "12:57:56",
+      "gregorian_utc": "2026-09-05T09:27:56+00:00",
       "media_type": "video",
-      "media_size_bytes": 4102854,
-      "media_size_human": "3.91 MB",
+      "media_size_bytes": 2773115,
+      "media_size_human": "2.64 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355837_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355837_video.mp4",
+      "media_local_path": "media/IranintlTV_355838_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355838_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T11:30:54.638251+00:00"
+      "archived_at": "2026-09-05T11:40:39.367113+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -797,25 +797,25 @@
       "media_local_path": "media/satlastnews_76391_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76391_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T11:30:55.066448+00:00"
+      "archived_at": "2026-09-05T11:40:39.644837+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120639,
-      "message_link": "https://t.me/Mellig/120639",
-      "text": "🚨**منابع عراقی : صدای جنگنده های ناشناس در بسیاری از شهرهای عراق شنیده میشه رفته رفته تعدادشون هم بیشتر میشه**",
+      "message_id": 120640,
+      "message_link": "https://t.me/Mellig/120640",
+      "text": "با درود بر شما\n\nهرشب صف بزنین در مشهد\n\nجاوید شاه🙏",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "02:28:05",
-      "gregorian_utc": "2026-09-04T22:58:05+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T11:30:55.519520+00:00"
+      "tehran_time": "02:58:13",
+      "gregorian_utc": "2026-09-04T23:28:13+00:00",
+      "media_type": "video",
+      "media_size_bytes": 10191949,
+      "media_size_human": "9.72 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_120640_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120640_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-09-05T11:40:39.993344+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -833,7 +833,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T11:30:55.885183+00:00"
+      "archived_at": "2026-09-05T11:40:40.238346+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -851,25 +851,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T11:30:54.198931+00:00"
+      "archived_at": "2026-09-05T11:40:39.085826+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355836,
-      "message_link": "https://t.me/IranintlTV/355836",
-      "text": "دونالد ترامپ، رییس‌جمهوری آمریکا، اعلام کرد ارتش ایالات متحده ممکن است به‌زودی تاسیسات زیرزمینی کوه کلنگ در ایران را هدف قرار دهد.\n\nترامپ گفت آمریکا کنترل ایران را در اختیار گرفته و برای دومین بار سامانه‌های راداری، تجهیزات موشکی و تجهیزات مین‌گذاری جمهوری اسلامی در خلیج فارس را هدف قرار داده است.\n\nاو همچنین کشته‌شدن ۱۸ نظامی آمریکایی در درگیری‌های اخیر را تایید کرد و گفت: «تنگه هرمز از مین‌های دریایی پاک شده است.»\n@iranintltv",
+      "message_id": 355837,
+      "message_link": "https://t.me/IranintlTV/355837",
+      "text": "مخاطبان ایران‌اینترنشنال با ارسال ویدیوهایی، از افزایش شدید قیمت‌ها، کمبود برخی کالاها و اقلام ضروری، از جمله دارو، و همچنین پوشش ناکافی خدمات بیمه گلایه کرده‌اند. آن‌ها می‌گویند فشار فزاینده هزینه‌های زندگی و حمایت محدود شرکت‌های بیمه، تامین نیازهای روزمره و خدمات درمانی را برای بسیاری از خانواده‌ها دشوار کرده است.\n\nگفت‌وگو با بابک خطی، پزشک و متخصص کودکان\n@iranintltv",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "12:45:08",
-      "gregorian_utc": "2026-09-05T09:15:08+00:00",
+      "tehran_time": "12:53:02",
+      "gregorian_utc": "2026-09-05T09:23:02+00:00",
       "media_type": "video",
-      "media_size_bytes": 661700,
-      "media_size_human": "646.19 KB",
+      "media_size_bytes": 4102854,
+      "media_size_human": "3.91 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355836_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355836_video.mp4",
+      "media_local_path": "media/IranintlTV_355837_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355837_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T11:30:54.638340+00:00"
+      "archived_at": "2026-09-05T11:40:39.367191+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -887,17 +887,17 @@
       "media_local_path": "media/satlastnews_76388_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76388_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T11:30:55.066511+00:00"
+      "archived_at": "2026-09-05T11:40:39.644900+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120638,
-      "message_link": "https://t.me/Mellig/120638",
-      "text": "🔴کاتز: منتظریم جمهوری اسلامی به تصرف ارتفاعات علی‌الطاهر واکنش نشون بده تا از غل و زنجیر و محدودیت‌های ایجاد شده توسط ترامپ آزاد بشیم",
+      "message_id": 120639,
+      "message_link": "https://t.me/Mellig/120639",
+      "text": "🚨**منابع عراقی : صدای جنگنده های ناشناس در بسیاری از شهرهای عراق شنیده میشه رفته رفته تعدادشون هم بیشتر میشه**",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "01:33:15",
-      "gregorian_utc": "2026-09-04T22:03:15+00:00",
+      "tehran_time": "02:28:05",
+      "gregorian_utc": "2026-09-04T22:58:05+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -905,7 +905,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T11:30:55.519571+00:00"
+      "archived_at": "2026-09-05T11:40:39.993405+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -923,7 +923,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T11:30:55.885207+00:00"
+      "archived_at": "2026-09-05T11:40:40.238369+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -941,25 +941,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T11:30:54.198956+00:00"
+      "archived_at": "2026-09-05T11:40:39.085852+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355835,
-      "message_link": "https://t.me/IranintlTV/355835",
-      "text": "یکی از مخاطبان ایران‌اینترنشنال در ویدیویی با انتقاد از گرانی و افزایش روزانه قیمت کالاها می‌گوید: «چه‌جوری شکم بچه‌ام را سیر کنم؟ فقط می‌توانم بگویم لعنت به جمهوری اسلامی.»",
+      "message_id": 355836,
+      "message_link": "https://t.me/IranintlTV/355836",
+      "text": "دونالد ترامپ، رییس‌جمهوری آمریکا، اعلام کرد ارتش ایالات متحده ممکن است به‌زودی تاسیسات زیرزمینی کوه کلنگ در ایران را هدف قرار دهد.\n\nترامپ گفت آمریکا کنترل ایران را در اختیار گرفته و برای دومین بار سامانه‌های راداری، تجهیزات موشکی و تجهیزات مین‌گذاری جمهوری اسلامی در خلیج فارس را هدف قرار داده است.\n\nاو همچنین کشته‌شدن ۱۸ نظامی آمریکایی در درگیری‌های اخیر را تایید کرد و گفت: «تنگه هرمز از مین‌های دریایی پاک شده است.»\n@iranintltv",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "12:44:48",
-      "gregorian_utc": "2026-09-05T09:14:48+00:00",
+      "tehran_time": "12:45:08",
+      "gregorian_utc": "2026-09-05T09:15:08+00:00",
       "media_type": "video",
-      "media_size_bytes": 50563411,
-      "media_size_human": "48.22 MB",
+      "media_size_bytes": 661700,
+      "media_size_human": "646.19 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355835_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355835_video.mp4",
+      "media_local_path": "media/IranintlTV_355836_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355836_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T11:30:54.638380+00:00"
+      "archived_at": "2026-09-05T11:40:39.367273+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -977,25 +977,25 @@
       "media_local_path": "media/satlastnews_76387_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76387_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T11:30:55.066605+00:00"
+      "archived_at": "2026-09-05T11:40:39.644994+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120637,
-      "message_link": "https://t.me/Mellig/120637",
-      "text": "۱۳ شهریور ملارد پمپ بنزین قلعه فرامرزیه",
+      "message_id": 120638,
+      "message_link": "https://t.me/Mellig/120638",
+      "text": "🔴کاتز: منتظریم جمهوری اسلامی به تصرف ارتفاعات علی‌الطاهر واکنش نشون بده تا از غل و زنجیر و محدودیت‌های ایجاد شده توسط ترامپ آزاد بشیم",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "01:25:43",
-      "gregorian_utc": "2026-09-04T21:55:43+00:00",
-      "media_type": "video",
-      "media_size_bytes": 44009446,
-      "media_size_human": "41.97 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/Mellig_120637_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120637_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-09-05T11:30:55.519615+00:00"
+      "tehran_time": "01:33:15",
+      "gregorian_utc": "2026-09-04T22:03:15+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-09-05T11:40:39.993437+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -1013,7 +1013,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T11:30:55.885232+00:00"
+      "archived_at": "2026-09-05T11:40:40.238394+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1031,25 +1031,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T11:30:54.198980+00:00"
+      "archived_at": "2026-09-05T11:40:39.085877+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355834,
-      "message_link": "https://t.me/IranintlTV/355834",
-      "text": "ایالات متحده و سه کشور اروپایی قصد دارند پرونده هسته‌ای جمهوری اسلامی را بار دیگر به شورای امنیت سازمان ملل ارجاع دهند.\n\nجزییات بیشتر در گفت‌وگو با ساجده شریفی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 355835,
+      "message_link": "https://t.me/IranintlTV/355835",
+      "text": "یکی از مخاطبان ایران‌اینترنشنال در ویدیویی با انتقاد از گرانی و افزایش روزانه قیمت کالاها می‌گوید: «چه‌جوری شکم بچه‌ام را سیر کنم؟ فقط می‌توانم بگویم لعنت به جمهوری اسلامی.»",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "12:44:25",
-      "gregorian_utc": "2026-09-05T09:14:25+00:00",
+      "tehran_time": "12:44:48",
+      "gregorian_utc": "2026-09-05T09:14:48+00:00",
       "media_type": "video",
-      "media_size_bytes": 2462852,
-      "media_size_human": "2.35 MB",
+      "media_size_bytes": 50563411,
+      "media_size_human": "48.22 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355834_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355834_video.mp4",
+      "media_local_path": "media/IranintlTV_355835_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355835_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T11:30:54.638443+00:00"
+      "archived_at": "2026-09-05T11:40:39.367310+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1067,25 +1067,25 @@
       "media_local_path": "media/satlastnews_76385_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76385_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T11:30:55.066676+00:00"
+      "archived_at": "2026-09-05T11:40:39.645055+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120636,
-      "message_link": "https://t.me/Mellig/120636",
-      "text": "دوستان لطفا از این تویت حمایت کنید \nhttps://x.com/mobarez_nastooh/status/2095982080463077531\n\nبسیاری از خانواده های کشته شدگان در ایران به خصوص در روزهای 18 و 19 دی ماه ناراحت هستند که چرا مجاهدین از نام فرزاندان آنها استفاده کرده و آنها را متعلق به این گروه میدانند. مردم ایران ذاتا از مجاهدین هم به اندازه حکومت اسلامی متنفر هستند. دلیل آن واضح است. چون آنها هم تفکر اسلامی دارند و هم تفکر سوسیالیستی . دو چیزی که باعث شد کشور رو به پیشرفت ما در سال 1979 رو به ارتجاع و نابودی برود. از پرزیدنت ترامپ میخواهیم به هیچ وجهی فریب این گروه تروریستی را نخورد.",
+      "message_id": 120637,
+      "message_link": "https://t.me/Mellig/120637",
+      "text": "۱۳ شهریور ملارد پمپ بنزین قلعه فرامرزیه",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "00:38:48",
-      "gregorian_utc": "2026-09-04T21:08:48+00:00",
-      "media_type": "webpage",
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-09-05T11:30:55.519710+00:00"
+      "tehran_time": "01:25:43",
+      "gregorian_utc": "2026-09-04T21:55:43+00:00",
+      "media_type": "video",
+      "media_size_bytes": 44009446,
+      "media_size_human": "41.97 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_120637_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120637_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-09-05T11:40:39.993474+00:00"
     }
   ]
 }
