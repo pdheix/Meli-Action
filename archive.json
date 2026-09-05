@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-05T00:54:58.094232+00:00",
-  "shamsi_generated": "1405/06/14 00:54:58 تهران",
+  "generated_at": "2026-09-05T01:05:11.110585+00:00",
+  "shamsi_generated": "1405/06/14 01:05:11 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -41,25 +41,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T00:50:41.063157+00:00"
+      "archived_at": "2026-09-05T01:00:53.741632+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355797,
-      "message_link": "https://t.me/IranintlTV/355797",
-      "text": "ستاد فرماندهی مرکزی آمریکا، سنتکام، جمعه ۱۳ شهریور با انتشار تصویری در شبکه اجتماعی ایکس اعلام کرد چتربازان ارتش آمریکا تجهیزات ارتباطی را در یک مکان دورافتاده در خاورمیانه مستقر کرده‌اند. سنتکام محل دقیق استقرار این نیروها و تجهیزات را اعلام نکرد.\n\nانتشار این تصویر هم‌زمان با ادامه حضور گسترده نظامی آمریکا در خاورمیانه و عملیات نیروهای این کشور در منطقه صورت می‌گیرد . سنتکام پیش‌تر اعلام کرده بود این نیروها برای ادامه عملیات در منطقه به دستور دونالد ترامپ، رییس‌جمهوری آمریکا، آماده‌اند.\nhttps://iranintl.com/202609047142",
+      "message_id": 355798,
+      "message_link": "https://t.me/IranintlTV/355798",
+      "text": "هم‌ز‌مان با ادامه پیشروی نیروهای دولت قانونی یمن علیه حوثی‌ها در استان تعز، الحدث به نقل از یک منبع نظامی گزارش داد نیروهای مسلح یمن کنترل تپه سعید طاهر و منطقه ذیبان در شهرستان حیفان، در جنوب تعز را به دست گرفتند و این مناطق را از کنترل حوثی‌ها خارج کردند.\nنیروهای دولت قانونی یمن روز قبل نیز مواضع نظامی در جبهه الطویر در منطقه مقبنه استان تعز را از حوثی‌ها بازپس گرفتند.\nنیروهای دولتی یمن همچنین اعلام کرد نیروی هوایی این کشور مواضع حوثی‌های وابسته به جمهوری اسلامی را در غرب تعز بمباران کرد.\nدر همین حال، العربیه به نقل از ارتش یمن گزارش داد صدها نفر از شبه‌نظامیان حوثی در ساحل غربی یمن کشته و زخمی شده‌اند.\nرییس شورای رهبری ریاست‌جمهوری یمن با هشدار درباره اینکه حوثی‌ها از قربانی کردن غیرنظامیان برای پیشبرد ماجراجویی‌های بی‌محابای خود ابایی ندارند، تاکید کرد یمن اجازه نخواهد داد جمهوری اسلامی و نیابتی‌هایش بر باب‌المندب مسلط شوند.\n\nhttps://iranintl.com/202609057742",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "04:04:00",
-      "gregorian_utc": "2026-09-05T00:34:00+00:00",
+      "tehran_time": "04:24:45",
+      "gregorian_utc": "2026-09-05T00:54:45+00:00",
       "media_type": "photo",
-      "media_size_bytes": 144491,
-      "media_size_human": "141.10 KB",
+      "media_size_bytes": 205581,
+      "media_size_human": "200.76 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355797_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355797_photo.jpg",
+      "media_local_path": "media/IranintlTV_355798_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355798_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T00:50:41.459270+00:00"
+      "archived_at": "2026-09-05T01:00:54.082123+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -77,7 +77,7 @@
       "media_local_path": "media/satlastnews_76405_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76405_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T00:50:41.970486+00:00"
+      "archived_at": "2026-09-05T01:00:54.530702+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -95,7 +95,7 @@
       "media_local_path": "media/Mellig_120643_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120643_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T00:50:42.438326+00:00"
+      "archived_at": "2026-09-05T01:00:54.880362+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -113,7 +113,7 @@
       "media_local_path": "media/khabarsara53_11_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_11_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T00:50:42.876838+00:00"
+      "archived_at": "2026-09-05T01:00:55.175527+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -131,25 +131,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T00:50:41.063214+00:00"
+      "archived_at": "2026-09-05T01:00:53.741674+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355796,
-      "message_link": "https://t.me/IranintlTV/355796",
-      "text": "نیلوفر مجاور، زن جوانی از منطقه پیرانشهر و اشنویه، ۱۰ روز پس از خروج از خانه با جراحات شدید به یک مرکز درمانی منتقل شد و بر اثر مرگ مغزی جان باخت. خانواده او مردی ۴۱ ساله را مسئول این اتفاق می‌دانند؛ موضوعی که هنوز نتیجه تحقیقات رسمی آن را تایید نکرده است.\n\nدو گزارش منتشر‌شده از سوی خبرگزاری حکومتی رکنا و سازمان حقوق بشری کردپا، روایت‌هایی با جزئیات متفاوت از چگونگی خروج نیلوفر مجاور از خانه، آسیب‌دیدن او و انتقالش به بیمارستان ارائه کرده‌اند. رکنا نوشته است که پلیس و دستگاه قضایی همچنان در حال بررسی علت جراحات و نقش افراد مرتبط با این پرونده‌اند.\n\nدر گزارش‌ها حتی درباره سن و محل سکونت نیلوفر نیز اختلاف وجود دارد. رکنا او را دختری ۲۸ ساله و اهل اشنویه معرفی کرده، اما کردپا نوشته است که او ۲۷ سال داشت و اهل و ساکن پیرانشهر بود.\nhttps://iranintl.com/202609043207",
+      "message_id": 355797,
+      "message_link": "https://t.me/IranintlTV/355797",
+      "text": "ستاد فرماندهی مرکزی آمریکا، سنتکام، جمعه ۱۳ شهریور با انتشار تصویری در شبکه اجتماعی ایکس اعلام کرد چتربازان ارتش آمریکا تجهیزات ارتباطی را در یک مکان دورافتاده در خاورمیانه مستقر کرده‌اند. سنتکام محل دقیق استقرار این نیروها و تجهیزات را اعلام نکرد.\n\nانتشار این تصویر هم‌زمان با ادامه حضور گسترده نظامی آمریکا در خاورمیانه و عملیات نیروهای این کشور در منطقه صورت می‌گیرد . سنتکام پیش‌تر اعلام کرده بود این نیروها برای ادامه عملیات در منطقه به دستور دونالد ترامپ، رییس‌جمهوری آمریکا، آماده‌اند.\nhttps://iranintl.com/202609047142",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "03:26:20",
-      "gregorian_utc": "2026-09-04T23:56:20+00:00",
+      "tehran_time": "04:04:00",
+      "gregorian_utc": "2026-09-05T00:34:00+00:00",
       "media_type": "photo",
-      "media_size_bytes": 125684,
-      "media_size_human": "122.74 KB",
+      "media_size_bytes": 144491,
+      "media_size_human": "141.10 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355796_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355796_photo.jpg",
+      "media_local_path": "media/IranintlTV_355797_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355797_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T00:50:41.459426+00:00"
+      "archived_at": "2026-09-05T01:00:54.082222+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -167,7 +167,7 @@
       "media_local_path": "media/satlastnews_76404_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76404_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T00:50:41.970593+00:00"
+      "archived_at": "2026-09-05T01:00:54.530814+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -185,7 +185,7 @@
       "media_local_path": "media/Mellig_120642_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120642_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T00:50:42.438377+00:00"
+      "archived_at": "2026-09-05T01:00:54.880403+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -203,7 +203,7 @@
       "media_local_path": "media/khabarsara53_10_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_10_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T00:50:42.876925+00:00"
+      "archived_at": "2026-09-05T01:00:55.175585+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -221,25 +221,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T00:50:41.063251+00:00"
+      "archived_at": "2026-09-05T01:00:53.741701+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355794,
-      "message_link": "https://t.me/IranintlTV/355794",
-      "text": "🔻دربی ۱۰۷ استقلال و پرسپولیس، نخستین تقابل دو تیم پس از قتل‌عام مردم ایران به دست جمهوری اسلامی در ۱۸ و ۱۹ دی ۱۴۰۴ بود. بسیاری از جاویدنامان دی‌ماه، از هواداران این دو تیم بودند.\n\n🔹گفتگوی مزدک میرزایی با محمد تقوی در برنامه هت‌تریک\n\n🔹تماشای نسخه کامل هت‌تریک؛👇\nhttps://youtu.be/cp0SOzr7kiY\n\n@iranintltvsport",
+      "message_id": 355796,
+      "message_link": "https://t.me/IranintlTV/355796",
+      "text": "نیلوفر مجاور، زن جوانی از منطقه پیرانشهر و اشنویه، ۱۰ روز پس از خروج از خانه با جراحات شدید به یک مرکز درمانی منتقل شد و بر اثر مرگ مغزی جان باخت. خانواده او مردی ۴۱ ساله را مسئول این اتفاق می‌دانند؛ موضوعی که هنوز نتیجه تحقیقات رسمی آن را تایید نکرده است.\n\nدو گزارش منتشر‌شده از سوی خبرگزاری حکومتی رکنا و سازمان حقوق بشری کردپا، روایت‌هایی با جزئیات متفاوت از چگونگی خروج نیلوفر مجاور از خانه، آسیب‌دیدن او و انتقالش به بیمارستان ارائه کرده‌اند. رکنا نوشته است که پلیس و دستگاه قضایی همچنان در حال بررسی علت جراحات و نقش افراد مرتبط با این پرونده‌اند.\n\nدر گزارش‌ها حتی درباره سن و محل سکونت نیلوفر نیز اختلاف وجود دارد. رکنا او را دختری ۲۸ ساله و اهل اشنویه معرفی کرده، اما کردپا نوشته است که او ۲۷ سال داشت و اهل و ساکن پیرانشهر بود.\nhttps://iranintl.com/202609043207",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "02:20:38",
-      "gregorian_utc": "2026-09-04T22:50:38+00:00",
-      "media_type": "video",
-      "media_size_bytes": 1874947,
-      "media_size_human": "1.79 MB",
+      "tehran_time": "03:26:20",
+      "gregorian_utc": "2026-09-04T23:56:20+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 125684,
+      "media_size_human": "122.74 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355794_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355794_video.mp4",
+      "media_local_path": "media/IranintlTV_355796_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355796_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T00:50:41.470035+00:00"
+      "archived_at": "2026-09-05T01:00:54.082322+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -257,7 +257,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T00:50:41.970629+00:00"
+      "archived_at": "2026-09-05T01:00:54.530843+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -275,7 +275,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 128.28 MB)",
-      "archived_at": "2026-09-05T00:50:42.438458+00:00"
+      "archived_at": "2026-09-05T01:00:54.880463+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -293,7 +293,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T00:50:42.876963+00:00"
+      "archived_at": "2026-09-05T01:00:55.175609+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -311,25 +311,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T00:50:41.063293+00:00"
+      "archived_at": "2026-09-05T01:00:53.741732+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355793,
-      "message_link": "https://t.me/IranintlTV/355793",
-      "text": "🔻دربی ۱۰۷ استقلال و پرسپولیس در حالی چهارشنبه ۱۱ شهریور ۱۴۰۵ در استادیوم نقش جهان اصفهان به تساوی یک - یک رسید که به صورت غافلگیرکننده‌ای، یکی از جذاب‌ترین بازی‌های دو تیم بود. \n\n🔹توضیحات مزدک میرزایی، ایران اینترنشنال در برنامه هت‌تریک\n\n🔹تماشای نسخه کامل هت‌تریک؛👇\nhttps://youtu.be/cp0SOzr7kiY\n\n@iranintltvsport",
+      "message_id": 355794,
+      "message_link": "https://t.me/IranintlTV/355794",
+      "text": "🔻دربی ۱۰۷ استقلال و پرسپولیس، نخستین تقابل دو تیم پس از قتل‌عام مردم ایران به دست جمهوری اسلامی در ۱۸ و ۱۹ دی ۱۴۰۴ بود. بسیاری از جاویدنامان دی‌ماه، از هواداران این دو تیم بودند.\n\n🔹گفتگوی مزدک میرزایی با محمد تقوی در برنامه هت‌تریک\n\n🔹تماشای نسخه کامل هت‌تریک؛👇\nhttps://youtu.be/cp0SOzr7kiY\n\n@iranintltvsport",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "02:20:28",
-      "gregorian_utc": "2026-09-04T22:50:28+00:00",
+      "tehran_time": "02:20:38",
+      "gregorian_utc": "2026-09-04T22:50:38+00:00",
       "media_type": "video",
-      "media_size_bytes": 1661877,
-      "media_size_human": "1.58 MB",
+      "media_size_bytes": 1874947,
+      "media_size_human": "1.79 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355793_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355793_video.mp4",
+      "media_local_path": "media/IranintlTV_355794_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355794_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T00:50:41.470161+00:00"
+      "archived_at": "2026-09-05T01:00:54.193340+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -347,7 +347,7 @@
       "media_local_path": "media/satlastnews_76400_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76400_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T00:50:41.970693+00:00"
+      "archived_at": "2026-09-05T01:00:54.530896+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -365,7 +365,7 @@
       "media_local_path": "media/Mellig_120640_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120640_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T00:50:42.438515+00:00"
+      "archived_at": "2026-09-05T01:00:54.880505+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -383,7 +383,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T00:50:42.877029+00:00"
+      "archived_at": "2026-09-05T01:00:55.175629+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -401,25 +401,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T00:50:41.063324+00:00"
+      "archived_at": "2026-09-05T01:00:53.741787+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355792,
-      "message_link": "https://t.me/IranintlTV/355792",
-      "text": "عطا محامد، کارشناس روابط بین‌الملل، گفت تصرف تپه علی‌الطاهر از سوی اسرائیل، توان عملیاتی حزب‌الله برای استفاده از موشک‌ها و شبکه لجستیکی خود را به‌طور جدی کاهش می‌دهد و دست برتر نظامی را به اسرائیل می‌دهد.\n\nاو افزود این تحول می‌تواند فشار بر دولت لبنان برای پیشبرد روند خلع سلاح حزب‌الله را افزایش دهد و احتمال حضور بلندمدت اسرائیل در منطقه حائل جنوب لبنان را بیشتر کند.\n@iranintltv",
+      "message_id": 355793,
+      "message_link": "https://t.me/IranintlTV/355793",
+      "text": "🔻دربی ۱۰۷ استقلال و پرسپولیس در حالی چهارشنبه ۱۱ شهریور ۱۴۰۵ در استادیوم نقش جهان اصفهان به تساوی یک - یک رسید که به صورت غافلگیرکننده‌ای، یکی از جذاب‌ترین بازی‌های دو تیم بود. \n\n🔹توضیحات مزدک میرزایی، ایران اینترنشنال در برنامه هت‌تریک\n\n🔹تماشای نسخه کامل هت‌تریک؛👇\nhttps://youtu.be/cp0SOzr7kiY\n\n@iranintltvsport",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "01:59:05",
-      "gregorian_utc": "2026-09-04T22:29:05+00:00",
+      "tehran_time": "02:20:28",
+      "gregorian_utc": "2026-09-04T22:50:28+00:00",
       "media_type": "video",
-      "media_size_bytes": 4796093,
-      "media_size_human": "4.57 MB",
+      "media_size_bytes": 1661877,
+      "media_size_human": "1.58 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355792_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355792_video.mp4",
+      "media_local_path": "media/IranintlTV_355793_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355793_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T00:50:41.470251+00:00"
+      "archived_at": "2026-09-05T01:00:54.193509+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -437,7 +437,7 @@
       "media_local_path": "media/satlastnews_76399_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76399_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T00:50:41.970786+00:00"
+      "archived_at": "2026-09-05T01:00:54.530975+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -455,7 +455,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T00:50:42.438582+00:00"
+      "archived_at": "2026-09-05T01:00:54.880554+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -473,7 +473,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T00:50:42.877064+00:00"
+      "archived_at": "2026-09-05T01:00:55.175648+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -491,25 +491,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T00:50:41.063361+00:00"
+      "archived_at": "2026-09-05T01:00:53.741820+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355791,
-      "message_link": "https://t.me/IranintlTV/355791",
-      "text": "هم‌زمان با تحریم یک بانک و دو شرکت مالی ترکیه‌ای از سوی آمریکا، واشینگتن فشار بر شبکه‌های مالی جمهوری اسلامی را گسترش داده است.\n\nسیامک جوادی، مدرس و پژوهشگر اقتصاد مالی، گفت آمریکا تمرکزش را از امارات به ترکیه تغییر نداده، بلکه با اجرای جدی‌تر تحریم‌های ثانویه، در حال هدف قرار دادن «معماری مالی» جمهوری اسلامی است. او افزود این رویکرد هزینه دور زدن تحریم‌ها را به‌شدت افزایش می‌دهد و در صورت ادامه، اقتصاد ایران را وارد چرخه‌ای از کاهش درآمدهای ارزی، تورم، افت ارزش پول ملی و فشار بیشتر بر معیشت مردم خواهد کرد.\n@iranintltv",
+      "message_id": 355792,
+      "message_link": "https://t.me/IranintlTV/355792",
+      "text": "عطا محامد، کارشناس روابط بین‌الملل، گفت تصرف تپه علی‌الطاهر از سوی اسرائیل، توان عملیاتی حزب‌الله برای استفاده از موشک‌ها و شبکه لجستیکی خود را به‌طور جدی کاهش می‌دهد و دست برتر نظامی را به اسرائیل می‌دهد.\n\nاو افزود این تحول می‌تواند فشار بر دولت لبنان برای پیشبرد روند خلع سلاح حزب‌الله را افزایش دهد و احتمال حضور بلندمدت اسرائیل در منطقه حائل جنوب لبنان را بیشتر کند.\n@iranintltv",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "01:57:02",
-      "gregorian_utc": "2026-09-04T22:27:02+00:00",
+      "tehran_time": "01:59:05",
+      "gregorian_utc": "2026-09-04T22:29:05+00:00",
       "media_type": "video",
-      "media_size_bytes": 3529246,
-      "media_size_human": "3.37 MB",
+      "media_size_bytes": 4796093,
+      "media_size_human": "4.57 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355791_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355791_video.mp4",
+      "media_local_path": "media/IranintlTV_355792_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355792_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T00:50:41.470352+00:00"
+      "archived_at": "2026-09-05T01:00:54.193585+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -527,7 +527,7 @@
       "media_local_path": "media/satlastnews_76398_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76398_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T00:50:41.970853+00:00"
+      "archived_at": "2026-09-05T01:00:54.531034+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -545,7 +545,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T00:50:42.438615+00:00"
+      "archived_at": "2026-09-05T01:00:54.880577+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -563,7 +563,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T00:50:42.877090+00:00"
+      "archived_at": "2026-09-05T01:00:55.175667+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -581,25 +581,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T00:50:41.063390+00:00"
+      "archived_at": "2026-09-05T01:00:53.741843+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355790,
-      "message_link": "https://t.me/IranintlTV/355790",
-      "text": "دونالد ترامپ در جمع خبرنگاران در کاخ سفید گفت ارتش آمریکا ممکن است به‌زودی تأسیسات زیرزمینی کوه «کلنگ‌گزلا» در ایران را هدف قرار دهد. هم‌زمان، سپاه پاسداران حملات موشکی به اردن را انجام داد.\n\nاکسیوس به نقل از دو مقام آمریکایی و دو منبع مطلع گزارش داد دولت ترامپ هم‌زمان در حال تدوین یک برنامه راهبردی جامع برای دوران پس از جنگ با جمهوری اسلامی است.\n\nجزییات بیشتر با کامبیز توانا، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 355791,
+      "message_link": "https://t.me/IranintlTV/355791",
+      "text": "هم‌زمان با تحریم یک بانک و دو شرکت مالی ترکیه‌ای از سوی آمریکا، واشینگتن فشار بر شبکه‌های مالی جمهوری اسلامی را گسترش داده است.\n\nسیامک جوادی، مدرس و پژوهشگر اقتصاد مالی، گفت آمریکا تمرکزش را از امارات به ترکیه تغییر نداده، بلکه با اجرای جدی‌تر تحریم‌های ثانویه، در حال هدف قرار دادن «معماری مالی» جمهوری اسلامی است. او افزود این رویکرد هزینه دور زدن تحریم‌ها را به‌شدت افزایش می‌دهد و در صورت ادامه، اقتصاد ایران را وارد چرخه‌ای از کاهش درآمدهای ارزی، تورم، افت ارزش پول ملی و فشار بیشتر بر معیشت مردم خواهد کرد.\n@iranintltv",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "01:55:41",
-      "gregorian_utc": "2026-09-04T22:25:41+00:00",
+      "tehran_time": "01:57:02",
+      "gregorian_utc": "2026-09-04T22:27:02+00:00",
       "media_type": "video",
-      "media_size_bytes": 3402027,
-      "media_size_human": "3.24 MB",
+      "media_size_bytes": 3529246,
+      "media_size_human": "3.37 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355790_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355790_video.mp4",
+      "media_local_path": "media/IranintlTV_355791_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355791_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T00:50:41.470439+00:00"
+      "archived_at": "2026-09-05T01:00:54.193663+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -617,7 +617,7 @@
       "media_local_path": "media/satlastnews_76397_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76397_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T00:50:41.970909+00:00"
+      "archived_at": "2026-09-05T01:00:54.531077+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -635,7 +635,7 @@
       "media_local_path": "media/Mellig_120637_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120637_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T00:50:42.438652+00:00"
+      "archived_at": "2026-09-05T01:00:54.880605+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -653,7 +653,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T00:50:42.877124+00:00"
+      "archived_at": "2026-09-05T01:00:55.175685+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -671,25 +671,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T00:50:41.063442+00:00"
+      "archived_at": "2026-09-05T01:00:53.741884+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355789,
-      "message_link": "https://t.me/IranintlTV/355789",
-      "text": "سخنگوی وزارت خارجه قطر روایت جمهوری اسلامی از حملات به این کشور را رد کرد و گفت اسناد رسمی ارائه‌شده به سازمان ملل نشان می‌دهد موشک‌های جمهوری اسلامی مناطق غیرنظامی، تجاری و مسکونی قطر را هدف قرار داده‌اند. به گفته او، نامه اول مارس قطر به سازمان ملل خسارت‌ها و زخمی شدن ۱۶ نفر را ثبت کرده و در گزارش ۲۰ ژوییه نیز حملات دیگری ثبت شده است که سه نفر، از جمله یک کودک، در آنها زخمی شدند.\n\nسخنگوی وزارت خارجه قطر همچنین گفت ارزیابی امنیتی مورد استناد جمهوری اسلامی برای اهداف عملیاتی تهیه شده و «گزارش جامعی از رویدادها یا ارزیابی حقوقی» نبوده است و استناد گزینشی به آن گمراه‌کننده است. او همچنین توصیف حمله ۱۸ مارس به تاسیسات گازی راس لفان به‌عنوان حمله «ادعایی» را رد کرد و گفت این حمله به‌طور رسمی ثبت شده است.\n\nاو افزود: «قطر طرف این درگیری نیست.» سخنگوی وزارت خارجه قطر گفت حملات به خاک و زیرساخت‌های غیرنظامی این کشور را نمی‌توان به‌عنوان «پاسخ‌های مشروع» توجیه کرد.\nhttps://iranintl.com/202609041927",
+      "message_id": 355790,
+      "message_link": "https://t.me/IranintlTV/355790",
+      "text": "دونالد ترامپ در جمع خبرنگاران در کاخ سفید گفت ارتش آمریکا ممکن است به‌زودی تأسیسات زیرزمینی کوه «کلنگ‌گزلا» در ایران را هدف قرار دهد. هم‌زمان، سپاه پاسداران حملات موشکی به اردن را انجام داد.\n\nاکسیوس به نقل از دو مقام آمریکایی و دو منبع مطلع گزارش داد دولت ترامپ هم‌زمان در حال تدوین یک برنامه راهبردی جامع برای دوران پس از جنگ با جمهوری اسلامی است.\n\nجزییات بیشتر با کامبیز توانا، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "01:15:11",
-      "gregorian_utc": "2026-09-04T21:45:11+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 205039,
-      "media_size_human": "200.23 KB",
+      "tehran_time": "01:55:41",
+      "gregorian_utc": "2026-09-04T22:25:41+00:00",
+      "media_type": "video",
+      "media_size_bytes": 3402027,
+      "media_size_human": "3.24 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355789_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355789_photo.jpg",
+      "media_local_path": "media/IranintlTV_355790_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355790_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T00:50:41.470600+00:00"
+      "archived_at": "2026-09-05T01:00:54.193782+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -707,7 +707,7 @@
       "media_local_path": "media/satlastnews_76392_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76392_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T00:50:41.971037+00:00"
+      "archived_at": "2026-09-05T01:00:54.531164+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -725,7 +725,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-09-05T00:50:42.438748+00:00"
+      "archived_at": "2026-09-05T01:00:54.880683+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -743,7 +743,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T00:50:42.877152+00:00"
+      "archived_at": "2026-09-05T01:00:55.175702+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -761,25 +761,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T00:50:41.063472+00:00"
+      "archived_at": "2026-09-05T01:00:53.741907+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355788,
-      "message_link": "https://t.me/IranintlTV/355788",
-      "text": "ارتش اسرائیل از پاکسازی تونل‌های دو محور منتهی به بلندی‌های علی الطاهر در جنوب لبنان و از مناطق کلیدی گروه حزب‌الله خبر داد. پیشتر گفته شده بود جمعی از اعضای سپاه پاسداران در این محل در بین نیروهای حزب الله حضور دارند و جمهوری اسلامی از طریق عمان به آمریکا درباره تصرف علی‌الطاهر از سوی اسرائیل هشدار داده است. \n@iranintltv",
+      "message_id": 355789,
+      "message_link": "https://t.me/IranintlTV/355789",
+      "text": "سخنگوی وزارت خارجه قطر روایت جمهوری اسلامی از حملات به این کشور را رد کرد و گفت اسناد رسمی ارائه‌شده به سازمان ملل نشان می‌دهد موشک‌های جمهوری اسلامی مناطق غیرنظامی، تجاری و مسکونی قطر را هدف قرار داده‌اند. به گفته او، نامه اول مارس قطر به سازمان ملل خسارت‌ها و زخمی شدن ۱۶ نفر را ثبت کرده و در گزارش ۲۰ ژوییه نیز حملات دیگری ثبت شده است که سه نفر، از جمله یک کودک، در آنها زخمی شدند.\n\nسخنگوی وزارت خارجه قطر همچنین گفت ارزیابی امنیتی مورد استناد جمهوری اسلامی برای اهداف عملیاتی تهیه شده و «گزارش جامعی از رویدادها یا ارزیابی حقوقی» نبوده است و استناد گزینشی به آن گمراه‌کننده است. او همچنین توصیف حمله ۱۸ مارس به تاسیسات گازی راس لفان به‌عنوان حمله «ادعایی» را رد کرد و گفت این حمله به‌طور رسمی ثبت شده است.\n\nاو افزود: «قطر طرف این درگیری نیست.» سخنگوی وزارت خارجه قطر گفت حملات به خاک و زیرساخت‌های غیرنظامی این کشور را نمی‌توان به‌عنوان «پاسخ‌های مشروع» توجیه کرد.\nhttps://iranintl.com/202609041927",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "01:08:32",
-      "gregorian_utc": "2026-09-04T21:38:32+00:00",
-      "media_type": "video",
-      "media_size_bytes": 1109907,
-      "media_size_human": "1.06 MB",
+      "tehran_time": "01:15:11",
+      "gregorian_utc": "2026-09-04T21:45:11+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 205039,
+      "media_size_human": "200.23 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355788_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355788_video.mp4",
+      "media_local_path": "media/IranintlTV_355789_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355789_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T00:50:41.470679+00:00"
+      "archived_at": "2026-09-05T01:00:54.193932+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -797,7 +797,7 @@
       "media_local_path": "media/satlastnews_76391_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76391_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T00:50:41.971109+00:00"
+      "archived_at": "2026-09-05T01:00:54.531217+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -815,7 +815,7 @@
       "media_local_path": "media/Mellig_120635_audio.mp3",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120635_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T00:50:42.438789+00:00"
+      "archived_at": "2026-09-05T01:00:54.880713+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -833,7 +833,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T00:50:42.877176+00:00"
+      "archived_at": "2026-09-05T01:00:55.175721+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -851,25 +851,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T00:50:41.063498+00:00"
+      "archived_at": "2026-09-05T01:00:53.741927+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355787,
-      "message_link": "https://t.me/IranintlTV/355787",
+      "message_id": 355788,
+      "message_link": "https://t.me/IranintlTV/355788",
       "text": "ارتش اسرائیل از پاکسازی تونل‌های دو محور منتهی به بلندی‌های علی الطاهر در جنوب لبنان و از مناطق کلیدی گروه حزب‌الله خبر داد. پیشتر گفته شده بود جمعی از اعضای سپاه پاسداران در این محل در بین نیروهای حزب الله حضور دارند و جمهوری اسلامی از طریق عمان به آمریکا درباره تصرف علی‌الطاهر از سوی اسرائیل هشدار داده است. \n@iranintltv",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "01:07:48",
-      "gregorian_utc": "2026-09-04T21:37:48+00:00",
+      "tehran_time": "01:08:32",
+      "gregorian_utc": "2026-09-04T21:38:32+00:00",
       "media_type": "video",
       "media_size_bytes": 1109907,
       "media_size_human": "1.06 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355787_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355787_video.mp4",
+      "media_local_path": "media/IranintlTV_355788_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355788_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T00:50:41.470751+00:00"
+      "archived_at": "2026-09-05T01:00:54.193993+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -887,7 +887,7 @@
       "media_local_path": "media/satlastnews_76388_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76388_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T00:50:41.971171+00:00"
+      "archived_at": "2026-09-05T01:00:54.531266+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -905,7 +905,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-09-05T00:50:42.438852+00:00"
+      "archived_at": "2026-09-05T01:00:54.880774+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -923,7 +923,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T00:50:42.877201+00:00"
+      "archived_at": "2026-09-05T01:00:55.175757+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -941,25 +941,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T00:50:41.063528+00:00"
+      "archived_at": "2026-09-05T01:00:53.741947+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355786,
-      "message_link": "https://t.me/IranintlTV/355786",
-      "text": "اسکات بسنت، وزیر خزانه‌داری آمریکا، گفت جمهوری اسلامی اکنون در وضعیت تحریم کامل قرار دارد و با «مرگ اقتصادی» روبه‌روست.\n\nاو افزود واشینگتن قصد دارد جمهوری اسلامی را از نظر اقتصادی خفه کند و تاکید کرد متحدان آمریکا در خلیج فارس و اروپا نیز از این سیاست حمایت می‌کنند.\n\nگزارش مرضیه حسینی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 355787,
+      "message_link": "https://t.me/IranintlTV/355787",
+      "text": "ارتش اسرائیل از پاکسازی تونل‌های دو محور منتهی به بلندی‌های علی الطاهر در جنوب لبنان و از مناطق کلیدی گروه حزب‌الله خبر داد. پیشتر گفته شده بود جمعی از اعضای سپاه پاسداران در این محل در بین نیروهای حزب الله حضور دارند و جمهوری اسلامی از طریق عمان به آمریکا درباره تصرف علی‌الطاهر از سوی اسرائیل هشدار داده است. \n@iranintltv",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "00:55:58",
-      "gregorian_utc": "2026-09-04T21:25:58+00:00",
+      "tehran_time": "01:07:48",
+      "gregorian_utc": "2026-09-04T21:37:48+00:00",
       "media_type": "video",
-      "media_size_bytes": 2490879,
-      "media_size_human": "2.38 MB",
+      "media_size_bytes": 1109907,
+      "media_size_human": "1.06 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355786_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355786_video.mp4",
+      "media_local_path": "media/IranintlTV_355787_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355787_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T00:50:41.470823+00:00"
+      "archived_at": "2026-09-05T01:00:54.194048+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -977,7 +977,7 @@
       "media_local_path": "media/satlastnews_76387_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76387_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T00:50:41.971230+00:00"
+      "archived_at": "2026-09-05T01:00:54.531353+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -995,7 +995,7 @@
       "media_local_path": "media/Mellig_120633_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120633_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T00:50:42.438954+00:00"
+      "archived_at": "2026-09-05T01:00:54.880856+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -1013,7 +1013,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T00:50:42.877227+00:00"
+      "archived_at": "2026-09-05T01:00:55.175797+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1031,25 +1031,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T00:50:41.063555+00:00"
+      "archived_at": "2026-09-05T01:00:53.741965+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355785,
-      "message_link": "https://t.me/IranintlTV/355785",
-      "text": "دونالد ترامپ از احتمال حمله به کوه «کلنگ گزلا» خبر داده؛ منطقه‌ای که به گفته او فعالیت‌های مهم هسته‌ای جمهوری اسلامی در آن متمرکز است.\n\nهوشنگ حسن‌یاری، کارشناس امور نظامی، گفت آمریکا با استفاده از بمب‌های سنگرشکن و هواپیماهای بی-۲ توان هدف قرار دادن تاسیسات عمیق این منطقه را دارد و می‌تواند با مسدود کردن ورودی تونل‌ها، برنامه هسته‌ای جمهوری اسلامی را با اختلال جدی روبه‌رو کند. او همچنین گفت حملات موشکی جمهوری اسلامی به اردن ممکن است برخلاف هدف تهران، این کشور را بیش از پیش به آمریکا نزدیک کند.\n@iranintltv",
+      "message_id": 355786,
+      "message_link": "https://t.me/IranintlTV/355786",
+      "text": "اسکات بسنت، وزیر خزانه‌داری آمریکا، گفت جمهوری اسلامی اکنون در وضعیت تحریم کامل قرار دارد و با «مرگ اقتصادی» روبه‌روست.\n\nاو افزود واشینگتن قصد دارد جمهوری اسلامی را از نظر اقتصادی خفه کند و تاکید کرد متحدان آمریکا در خلیج فارس و اروپا نیز از این سیاست حمایت می‌کنند.\n\nگزارش مرضیه حسینی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "00:53:40",
-      "gregorian_utc": "2026-09-04T21:23:40+00:00",
+      "tehran_time": "00:55:58",
+      "gregorian_utc": "2026-09-04T21:25:58+00:00",
       "media_type": "video",
-      "media_size_bytes": 2910295,
-      "media_size_human": "2.78 MB",
+      "media_size_bytes": 2490879,
+      "media_size_human": "2.38 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355785_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355785_video.mp4",
+      "media_local_path": "media/IranintlTV_355786_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355786_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T00:50:41.470907+00:00"
+      "archived_at": "2026-09-05T01:00:54.194105+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1067,7 +1067,7 @@
       "media_local_path": "media/satlastnews_76385_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76385_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T00:50:41.971285+00:00"
+      "archived_at": "2026-09-05T01:00:54.531401+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1085,7 +1085,7 @@
       "media_local_path": "media/Mellig_120632_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120632_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T00:50:42.439047+00:00"
+      "archived_at": "2026-09-05T01:00:54.880912+00:00"
     }
   ]
 }
