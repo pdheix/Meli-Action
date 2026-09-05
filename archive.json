@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-05T08:49:16.881272+00:00",
-  "shamsi_generated": "1405/06/14 08:49:16 تهران",
+  "generated_at": "2026-09-05T09:00:00.233446+00:00",
+  "shamsi_generated": "1405/06/14 09:00:00 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -28,12 +28,12 @@
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12751,
-      "message_link": "https://t.me/zedTV/12751",
-      "text": "♦️ چمن، رئیس شورای شهر تهران: آرایش جنگی دشمن شکل گرفته است.\n♦️ اذعان مقامات پایتخت به سازماندهی نظامی نیروهای مقابل.",
+      "message_id": 12753,
+      "message_link": "https://t.me/zedTV/12753",
+      "text": "♦️ طرح مشترک ترامپ و نتانیاهو برای سرنگونی رژیم؛ فروپاشی اقتصادی زمینه‌ساز قیام نهایی.\n♦️ لزوم نابودی مراکز سرکوب و پایگاه‌های تروریستی رژیم توسط نیروهای متحد.\n♦️ هشدار جدی به شهروندان جهت دوری از تجمعات مزدوران و مراکز حکومتی.",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "12:05:58",
-      "gregorian_utc": "2026-09-05T08:35:58+00:00",
+      "tehran_time": "12:18:24",
+      "gregorian_utc": "2026-09-05T08:48:24+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -41,25 +41,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T08:40:53.661365+00:00"
+      "archived_at": "2026-09-05T08:50:49.741211+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355827,
-      "message_link": "https://t.me/IranintlTV/355827",
-      "text": "یک شهروند با ارسال ویدیویی به ایران اینترنشنال در واکنش به گرانی روزافزون داروها خطاب به مقام‌های حکومت می‌گوید: «مرگ بر همه‌تان و مرگ بر جمهوری اسلامی»\n\n⚠️ پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 103.33 MB)",
+      "message_id": 355828,
+      "message_link": "https://t.me/IranintlTV/355828",
+      "text": "ویدیوی منتشرشده در رسانه‌های اجتماعی، صعود یک کوهنورد به قله دماوند را نشان می‌دهد که این صعود را به جاویدنامان انقلاب ملی ایران، از جمله یاسر مدیرروستا، تقدیم کرده است.\nیاسر مدیرروستا، مدرس و نوازنده تار و سه‌تار، در جریان اعتراضات ۱۸ دی در گوهردشت کرج با گلوله ماموران حکومت کشته شد.",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "12:08:19",
-      "gregorian_utc": "2026-09-05T08:38:19+00:00",
+      "tehran_time": "12:18:38",
+      "gregorian_utc": "2026-09-05T08:48:38+00:00",
       "media_type": "video",
-      "media_size_bytes": 108346571,
-      "media_size_human": "103.33 MB",
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 103.33 MB)",
-      "archived_at": "2026-09-05T08:40:54.033807+00:00"
+      "media_size_bytes": 28251569,
+      "media_size_human": "26.94 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/IranintlTV_355828_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355828_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-09-05T08:50:50.141203+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -77,7 +77,7 @@
       "media_local_path": "media/satlastnews_76405_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76405_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T08:40:54.413327+00:00"
+      "archived_at": "2026-09-05T08:50:50.529545+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -95,7 +95,7 @@
       "media_local_path": "media/Mellig_120647_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120647_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T08:40:54.820748+00:00"
+      "archived_at": "2026-09-05T08:50:50.950262+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -113,17 +113,17 @@
       "media_local_path": "media/khabarsara53_11_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_11_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T08:40:55.143921+00:00"
+      "archived_at": "2026-09-05T08:50:51.283702+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12750,
-      "message_link": "https://t.me/zedTV/12750",
-      "text": "نرخ دلار به ۲۲۴ هزار تومان رسید؛ تداوم سقوط ارزش پول ملی.\nتشدید بحران معیشتی شهروندان در سایه ناکارآمدی رژیم.",
+      "message_id": 12752,
+      "message_link": "https://t.me/zedTV/12752",
+      "text": "انسداد مسیرهای ریلی کالا از روسیه و چین به ایران توسط ترکمنستان و قزاقستان.\nپیروی همسایگان از تحریم‌های جدید آمریکا علیه جمهوری اسلامی.\nتشدید انزوای بین‌المللی و قطع شریان‌های تدارکاتی رژیم.",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "12:05:49",
-      "gregorian_utc": "2026-09-05T08:35:49+00:00",
+      "tehran_time": "12:18:16",
+      "gregorian_utc": "2026-09-05T08:48:16+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -131,25 +131,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T08:40:53.661414+00:00"
+      "archived_at": "2026-09-05T08:50:49.741260+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355826,
-      "message_link": "https://t.me/IranintlTV/355826",
-      "text": "محمدرضا عارف، معاون دولت مسعود پزشکیان، گفت حوادث دی‌ماه «بسیار سنگین» بود و بیش از سه هزار نفر جان خود را از دست دادند.\nاو با اشاره به اعلام فهرست کشته‌شدگان این حوادث گفت اعلام این فهرست با «تدبیر علی خامنه‌ای» انجام شد و افزود در حالی که اعداد اعلام‌شده از سوی «دشمن» بیش از ۳۰ هزار نفر بود، در داخل هم برخی درباره صحت رقم ۳۶ هزار کشته سوال داشتند. \n@iranintltv",
+      "message_id": 355827,
+      "message_link": "https://t.me/IranintlTV/355827",
+      "text": "یک شهروند با ارسال ویدیویی به ایران اینترنشنال در واکنش به گرانی روزافزون داروها خطاب به مقام‌های حکومت می‌گوید: «مرگ بر همه‌تان و مرگ بر جمهوری اسلامی»\n\n⚠️ پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 103.33 MB)",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "11:57:42",
-      "gregorian_utc": "2026-09-05T08:27:42+00:00",
+      "tehran_time": "12:08:19",
+      "gregorian_utc": "2026-09-05T08:38:19+00:00",
       "media_type": "video",
-      "media_size_bytes": 810243,
-      "media_size_human": "791.25 KB",
-      "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355826_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355826_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-09-05T08:40:54.033920+00:00"
+      "media_size_bytes": 108346571,
+      "media_size_human": "103.33 MB",
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 103.33 MB)",
+      "archived_at": "2026-09-05T08:50:50.141264+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -167,7 +167,7 @@
       "media_local_path": "media/satlastnews_76404_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76404_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T08:40:54.413421+00:00"
+      "archived_at": "2026-09-05T08:50:50.529639+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -185,7 +185,7 @@
       "media_local_path": "media/Mellig_120646_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120646_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T08:40:54.820815+00:00"
+      "archived_at": "2026-09-05T08:50:50.950335+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -203,17 +203,17 @@
       "media_local_path": "media/khabarsara53_10_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_10_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T08:40:55.143999+00:00"
+      "archived_at": "2026-09-05T08:50:51.283781+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12749,
-      "message_link": "https://t.me/zedTV/12749",
-      "text": "سقوط بی‌سابقه ارزش ریال؛ دلار ۲۲۴ هزار و یورو ۲۶۱ هزار تومان.\nسکه امامی ۲۳۵ میلیون و طلا ۲۳.۵ میلیون تومان؛ تشدید بحران معیشتی.\nتداوم فروپاشی اقتصادی در پی ناکارآمدی و بن‌بست کامل رژیم.",
+      "message_id": 12751,
+      "message_link": "https://t.me/zedTV/12751",
+      "text": "♦️ چمن، رئیس شورای شهر تهران: آرایش جنگی دشمن شکل گرفته است.\n♦️ اذعان مقامات پایتخت به سازماندهی نظامی نیروهای مقابل.",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "12:05:49",
-      "gregorian_utc": "2026-09-05T08:35:49+00:00",
+      "tehran_time": "12:05:58",
+      "gregorian_utc": "2026-09-05T08:35:58+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -221,25 +221,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T08:40:53.661450+00:00"
+      "archived_at": "2026-09-05T08:50:49.741295+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355825,
-      "message_link": "https://t.me/IranintlTV/355825",
-      "text": "محمدرضا عارف، معاون دولت مسعود پزشکیان، گفت حوادث دی‌ماه «بسیار سنگین» بود و بیش از سه هزار نفر جان خود را از دست دادند.\nاو با اشاره به اعلام فهرست کشته‌شدگان این حوادث گفت اعلام این فهرست با «تدبیر علی خامنه‌ای» انجام شد و افزود در حالی که اعداد اعلام‌شده از سوی «دشمن» بیش از ۳۰ هزار نفر بود، در داخل هم برخی درباره صحت رقم ۳۶ هزار کشته سوال داشتند.\n@iranintltv",
+      "message_id": 355826,
+      "message_link": "https://t.me/IranintlTV/355826",
+      "text": "محمدرضا عارف، معاون دولت مسعود پزشکیان، گفت حوادث دی‌ماه «بسیار سنگین» بود و بیش از سه هزار نفر جان خود را از دست دادند.\nاو با اشاره به اعلام فهرست کشته‌شدگان این حوادث گفت اعلام این فهرست با «تدبیر علی خامنه‌ای» انجام شد و افزود در حالی که اعداد اعلام‌شده از سوی «دشمن» بیش از ۳۰ هزار نفر بود، در داخل هم برخی درباره صحت رقم ۳۶ هزار کشته سوال داشتند. \n@iranintltv",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "11:56:52",
-      "gregorian_utc": "2026-09-05T08:26:52+00:00",
+      "tehran_time": "11:57:42",
+      "gregorian_utc": "2026-09-05T08:27:42+00:00",
       "media_type": "video",
       "media_size_bytes": 810243,
       "media_size_human": "791.25 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355825_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355825_video.mp4",
+      "media_local_path": "media/IranintlTV_355826_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355826_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T08:40:54.034008+00:00"
+      "archived_at": "2026-09-05T08:50:50.141373+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -257,7 +257,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T08:40:54.413454+00:00"
+      "archived_at": "2026-09-05T08:50:50.529703+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -275,7 +275,7 @@
       "media_local_path": "media/Mellig_120645_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120645_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T08:40:54.820867+00:00"
+      "archived_at": "2026-09-05T08:50:50.950385+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -293,17 +293,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T08:40:55.144033+00:00"
+      "archived_at": "2026-09-05T08:50:51.283813+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12748,
-      "message_link": "https://t.me/zedTV/12748",
-      "text": "عارف: مشکلات اقتصادی حل‌شدنی است و در تمامی حوزه‌ها به خودکفایی رسیده‌ایم.\nادعای معاون اول پزشکیان درباره توانمندی رژیم برای عبور از بحران‌های مالی.\nتاکید بر خودکفایی کامل در سایه تداوم فشارهای معیشتی بر شهروندان.",
+      "message_id": 12750,
+      "message_link": "https://t.me/zedTV/12750",
+      "text": "نرخ دلار به ۲۲۴ هزار تومان رسید؛ تداوم سقوط ارزش پول ملی.\nتشدید بحران معیشتی شهروندان در سایه ناکارآمدی رژیم.",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "12:05:39",
-      "gregorian_utc": "2026-09-05T08:35:39+00:00",
+      "tehran_time": "12:05:49",
+      "gregorian_utc": "2026-09-05T08:35:49+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -311,25 +311,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T08:40:53.661490+00:00"
+      "archived_at": "2026-09-05T08:50:49.741335+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355824,
-      "message_link": "https://t.me/IranintlTV/355824",
-      "text": "خواهر جاویدنام شایان آزادی با پیوستن به پویش «یک شمع، یک نام، یک یاد»، به یاد جاویدنامان ایران شمع روشن کرد.\nشایان آزادی، ۲۵ ساله، شامگاه ۱۸ دی در جریان اعتراضات کرج با گلوله مأموران حکومت کشته شد.",
+      "message_id": 355825,
+      "message_link": "https://t.me/IranintlTV/355825",
+      "text": "محمدرضا عارف، معاون دولت مسعود پزشکیان، گفت حوادث دی‌ماه «بسیار سنگین» بود و بیش از سه هزار نفر جان خود را از دست دادند.\nاو با اشاره به اعلام فهرست کشته‌شدگان این حوادث گفت اعلام این فهرست با «تدبیر علی خامنه‌ای» انجام شد و افزود در حالی که اعداد اعلام‌شده از سوی «دشمن» بیش از ۳۰ هزار نفر بود، در داخل هم برخی درباره صحت رقم ۳۶ هزار کشته سوال داشتند.\n@iranintltv",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "11:51:21",
-      "gregorian_utc": "2026-09-05T08:21:21+00:00",
+      "tehran_time": "11:56:52",
+      "gregorian_utc": "2026-09-05T08:26:52+00:00",
       "media_type": "video",
-      "media_size_bytes": 72601970,
-      "media_size_human": "69.24 MB",
+      "media_size_bytes": 810243,
+      "media_size_human": "791.25 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355824_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355824_video.mp4",
+      "media_local_path": "media/IranintlTV_355825_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355825_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T08:40:54.034053+00:00"
+      "archived_at": "2026-09-05T08:50:50.141458+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -347,7 +347,7 @@
       "media_local_path": "media/satlastnews_76400_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76400_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T08:40:54.413517+00:00"
+      "archived_at": "2026-09-05T08:50:50.529778+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -365,7 +365,7 @@
       "media_local_path": "media/Mellig_120644_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120644_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T08:40:54.820907+00:00"
+      "archived_at": "2026-09-05T08:50:50.950430+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -383,17 +383,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T08:40:55.144062+00:00"
+      "archived_at": "2026-09-05T08:50:51.283839+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12747,
-      "message_link": "https://t.me/zedTV/12747",
-      "text": "گزارش‌ها از سمنان: انتقال گسترده اتباع بیگانه برای پولشویی و تامین ارز.\nتلاش رژیم برای پوشش هویت این افراد تحت عنوان دروغین «دانشجو».\nبهره‌برداری از شبکه مخبران سمنان جهت تسهیل فعالیت‌های مالی غیرقانونی.",
+      "message_id": 12749,
+      "message_link": "https://t.me/zedTV/12749",
+      "text": "سقوط بی‌سابقه ارزش ریال؛ دلار ۲۲۴ هزار و یورو ۲۶۱ هزار تومان.\nسکه امامی ۲۳۵ میلیون و طلا ۲۳.۵ میلیون تومان؛ تشدید بحران معیشتی.\nتداوم فروپاشی اقتصادی در پی ناکارآمدی و بن‌بست کامل رژیم.",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "12:05:30",
-      "gregorian_utc": "2026-09-05T08:35:30+00:00",
+      "tehran_time": "12:05:49",
+      "gregorian_utc": "2026-09-05T08:35:49+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -401,25 +401,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T08:40:53.661521+00:00"
+      "archived_at": "2026-09-05T08:50:49.741365+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355823,
-      "message_link": "https://t.me/IranintlTV/355823",
-      "text": "علیرضا زاکانی، شهردار تهران، گفت: «مدیریت شهری به دنبال برقی‌کردن کل تهران است و انرژی مورد نیاز شهر می‌تواند از برق خورشیدی، تولید برق از گاز در محل و برق وارداتی تأمین شود.» او گفت که «تهران به دنبال برق اتمی است» و این طرح را «بازی بزرگی به نفع کشور» توصیف کرد.\n@iranintltv",
+      "message_id": 355824,
+      "message_link": "https://t.me/IranintlTV/355824",
+      "text": "خواهر جاویدنام شایان آزادی با پیوستن به پویش «یک شمع، یک نام، یک یاد»، به یاد جاویدنامان ایران شمع روشن کرد.\nشایان آزادی، ۲۵ ساله، شامگاه ۱۸ دی در جریان اعتراضات کرج با گلوله مأموران حکومت کشته شد.",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "11:35:16",
-      "gregorian_utc": "2026-09-05T08:05:16+00:00",
+      "tehran_time": "11:51:21",
+      "gregorian_utc": "2026-09-05T08:21:21+00:00",
       "media_type": "video",
-      "media_size_bytes": 539917,
-      "media_size_human": "527.26 KB",
+      "media_size_bytes": 72601970,
+      "media_size_human": "69.24 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355823_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355823_video.mp4",
+      "media_local_path": "media/IranintlTV_355824_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355824_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T08:40:54.034127+00:00"
+      "archived_at": "2026-09-05T08:50:50.141499+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -437,7 +437,7 @@
       "media_local_path": "media/satlastnews_76399_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76399_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T08:40:54.413639+00:00"
+      "archived_at": "2026-09-05T08:50:50.529884+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -455,7 +455,7 @@
       "media_local_path": "media/Mellig_120643_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120643_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T08:40:54.820972+00:00"
+      "archived_at": "2026-09-05T08:50:50.950498+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -473,17 +473,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T08:40:55.144090+00:00"
+      "archived_at": "2026-09-05T08:50:51.283865+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12746,
-      "message_link": "https://t.me/zedTV/12746",
-      "text": "خروج نانوایی‌های تهران از سهمیه آرد دولتی؛ قیمت نان در بازار آزاد جهش کرد.\nبربری ۳۰ هزار و سنگک ۳۸ هزار تومان؛ سقوط قدرت خرید شهروندان در پایتخت.\nبحران معیشتی تحت نام «مدیریت جهادی» در سایه ناکارآمدی اقتصادی رژیم.",
+      "message_id": 12748,
+      "message_link": "https://t.me/zedTV/12748",
+      "text": "عارف: مشکلات اقتصادی حل‌شدنی است و در تمامی حوزه‌ها به خودکفایی رسیده‌ایم.\nادعای معاون اول پزشکیان درباره توانمندی رژیم برای عبور از بحران‌های مالی.\nتاکید بر خودکفایی کامل در سایه تداوم فشارهای معیشتی بر شهروندان.",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "12:05:30",
-      "gregorian_utc": "2026-09-05T08:35:30+00:00",
+      "tehran_time": "12:05:39",
+      "gregorian_utc": "2026-09-05T08:35:39+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -491,25 +491,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T08:40:53.661576+00:00"
+      "archived_at": "2026-09-05T08:50:49.741406+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355822,
-      "message_link": "https://t.me/IranintlTV/355822",
-      "text": "روابط عمومی «سپاه سیدالشهدا» استان تهران شنبه ۱۴ شهریور اعلام کرد که صدای انفجار شنیده‌شده در محدوده شهرستان دماوند طی ساعت‌های گذشته، مربوط به برنامه‌های آموزشی و رزمایشی با عنوان «حیدر کرار» بوده است.\n\nبر اساس این گزارش، صداهای شنیده‌شده در چارچوب برنامه‌های از پیش تعیین‌شده این رزمایش و فعالیت‌های آموزشی مرتبط با آن ایجاد شده است.\n\nاین در حالی است که پیشتر اطلاع‌رسانی درباره شنیده شدن صدای انفجار و برگزاری رزمایش اعلام نشده بود.\n\nروابط عمومی سپاه استان تهران افزود در صورت اعلام اطلاعات درباره این رزمایش از سوی مراجع مسئول، اطلاع‌رسانی خواهد شد.\nhttps://iranintl.com/202609053838",
+      "message_id": 355823,
+      "message_link": "https://t.me/IranintlTV/355823",
+      "text": "علیرضا زاکانی، شهردار تهران، گفت: «مدیریت شهری به دنبال برقی‌کردن کل تهران است و انرژی مورد نیاز شهر می‌تواند از برق خورشیدی، تولید برق از گاز در محل و برق وارداتی تأمین شود.» او گفت که «تهران به دنبال برق اتمی است» و این طرح را «بازی بزرگی به نفع کشور» توصیف کرد.\n@iranintltv",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "11:32:56",
-      "gregorian_utc": "2026-09-05T08:02:56+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 227023,
-      "media_size_human": "221.70 KB",
+      "tehran_time": "11:35:16",
+      "gregorian_utc": "2026-09-05T08:05:16+00:00",
+      "media_type": "video",
+      "media_size_bytes": 539917,
+      "media_size_human": "527.26 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355822_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355822_photo.jpg",
+      "media_local_path": "media/IranintlTV_355823_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355823_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T08:40:54.034246+00:00"
+      "archived_at": "2026-09-05T08:50:50.141573+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -527,7 +527,7 @@
       "media_local_path": "media/satlastnews_76398_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76398_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T08:40:54.413709+00:00"
+      "archived_at": "2026-09-05T08:50:50.529959+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -545,7 +545,7 @@
       "media_local_path": "media/Mellig_120642_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120642_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T08:40:54.821012+00:00"
+      "archived_at": "2026-09-05T08:50:50.950538+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -563,17 +563,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T08:40:55.144118+00:00"
+      "archived_at": "2026-09-05T08:50:51.283889+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12745,
-      "message_link": "https://t.me/zedTV/12745",
-      "text": "دلار ۲۲۴ هزار و یورو ۲۶۱ هزار تومان؛ تداوم سقوط ارزش پول ملی.\nسکه امامی ۲۳۵ میلیون و طلا ۲۳.۵ میلیون تومان؛ تشدید بحران معیشتی.\nآشفتگی بازار در پی ناتوانی رژیم در مهار فروپاشی اقتصادی.",
+      "message_id": 12747,
+      "message_link": "https://t.me/zedTV/12747",
+      "text": "گزارش‌ها از سمنان: انتقال گسترده اتباع بیگانه برای پولشویی و تامین ارز.\nتلاش رژیم برای پوشش هویت این افراد تحت عنوان دروغین «دانشجو».\nبهره‌برداری از شبکه مخبران سمنان جهت تسهیل فعالیت‌های مالی غیرقانونی.",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "11:48:40",
-      "gregorian_utc": "2026-09-05T08:18:40+00:00",
+      "tehran_time": "12:05:30",
+      "gregorian_utc": "2026-09-05T08:35:30+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -581,25 +581,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T08:40:53.661614+00:00"
+      "archived_at": "2026-09-05T08:50:49.741438+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355821,
-      "message_link": "https://t.me/IranintlTV/355821",
-      "text": "وزارت خزانه‌داری آمریکا در چارچوب کارزار انزوای اقتصادی جمهوری اسلامی، بانک «گلدن گلوبال» و دو موسسه مالی وابسته به آن در ترکیه را تحریم کرد.\n\nبه گفته وزارت خزانه‌داری، این موسسات ده‌ها میلیون دلار تراکنش برای نیروی قدس سپاه پاسداران را تسهیل و امکان جابه‌جایی بین‌المللی منابع مالی جمهوری اسلامی را فراهم کرده‌اند.\n\nاسکات بسنت، وزیر خزانه‌داری آمریکا، گفت واشینگتن برای قطع شریان‌های مالی حکومت ایران، به شناسایی و هدف قرار دادن موسسات مالی حامی جمهوری اسلامی ادامه خواهد داد.\n\nگفت‌وگو با فرزیا ثابتی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 355822,
+      "message_link": "https://t.me/IranintlTV/355822",
+      "text": "روابط عمومی «سپاه سیدالشهدا» استان تهران شنبه ۱۴ شهریور اعلام کرد که صدای انفجار شنیده‌شده در محدوده شهرستان دماوند طی ساعت‌های گذشته، مربوط به برنامه‌های آموزشی و رزمایشی با عنوان «حیدر کرار» بوده است.\n\nبر اساس این گزارش، صداهای شنیده‌شده در چارچوب برنامه‌های از پیش تعیین‌شده این رزمایش و فعالیت‌های آموزشی مرتبط با آن ایجاد شده است.\n\nاین در حالی است که پیشتر اطلاع‌رسانی درباره شنیده شدن صدای انفجار و برگزاری رزمایش اعلام نشده بود.\n\nروابط عمومی سپاه استان تهران افزود در صورت اعلام اطلاعات درباره این رزمایش از سوی مراجع مسئول، اطلاع‌رسانی خواهد شد.\nhttps://iranintl.com/202609053838",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "11:29:37",
-      "gregorian_utc": "2026-09-05T07:59:37+00:00",
-      "media_type": "video",
-      "media_size_bytes": 2546307,
-      "media_size_human": "2.43 MB",
+      "tehran_time": "11:32:56",
+      "gregorian_utc": "2026-09-05T08:02:56+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 227023,
+      "media_size_human": "221.70 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355821_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355821_video.mp4",
+      "media_local_path": "media/IranintlTV_355822_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355822_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T08:40:54.034341+00:00"
+      "archived_at": "2026-09-05T08:50:50.141721+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -617,7 +617,7 @@
       "media_local_path": "media/satlastnews_76397_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76397_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T08:40:54.413766+00:00"
+      "archived_at": "2026-09-05T08:50:50.530015+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -635,7 +635,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 128.28 MB)",
-      "archived_at": "2026-09-05T08:40:54.821077+00:00"
+      "archived_at": "2026-09-05T08:50:50.950605+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -653,17 +653,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T08:40:55.144147+00:00"
+      "archived_at": "2026-09-05T08:50:51.283913+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12744,
-      "message_link": "https://t.me/zedTV/12744",
-      "text": "نایابی مطلق بنزین در مشهد؛ توقف عرضه سوخت پس از ساعت‌ها انتظار شهروندان در صف‌های طولانی.\nاعتراض گسترده رانندگان به بحران مدیریت انرژی و بی‌تفاوتی پلیس ۱۱۰.\nتنظیم گزارش‌های صوری توسط ماموران و رها کردن جایگاه‌های سوخت میان خشم مردم.",
+      "message_id": 12746,
+      "message_link": "https://t.me/zedTV/12746",
+      "text": "خروج نانوایی‌های تهران از سهمیه آرد دولتی؛ قیمت نان در بازار آزاد جهش کرد.\nبربری ۳۰ هزار و سنگک ۳۸ هزار تومان؛ سقوط قدرت خرید شهروندان در پایتخت.\nبحران معیشتی تحت نام «مدیریت جهادی» در سایه ناکارآمدی اقتصادی رژیم.",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "11:48:40",
-      "gregorian_utc": "2026-09-05T08:18:40+00:00",
+      "tehran_time": "12:05:30",
+      "gregorian_utc": "2026-09-05T08:35:30+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -671,25 +671,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T08:40:53.661660+00:00"
+      "archived_at": "2026-09-05T08:50:49.741479+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355820,
-      "message_link": "https://t.me/IranintlTV/355820",
-      "text": "محمدجواد اکبرین، عضو تحریریه ایران‌اینترنشنال، با اشاره به حملات اسرائیل در نزدیکی ارتفاعات علی‌الطاهر در جنوب لبنان گفت رسانه‌های منطقه تصرف این منطقه را یک پیروزی راهبردی برای اسرائیل و بزرگ‌ترین شکست حزب‌الله پس از عملیات پیجرها ارزیابی کرده‌اند.\n\nاو با اشاره به مواضع پیشین مقام‌های جمهوری اسلامی درباره حمایت از حزب‌الله گفت حکومت ایران تاکنون در برابر این تحولات سکوت کرده و چه وارد درگیری شود و چه از ورود به آن خودداری کند، با پیامدهایی روبه‌رو خواهد شد.\n@iranintltv",
+      "message_id": 355821,
+      "message_link": "https://t.me/IranintlTV/355821",
+      "text": "وزارت خزانه‌داری آمریکا در چارچوب کارزار انزوای اقتصادی جمهوری اسلامی، بانک «گلدن گلوبال» و دو موسسه مالی وابسته به آن در ترکیه را تحریم کرد.\n\nبه گفته وزارت خزانه‌داری، این موسسات ده‌ها میلیون دلار تراکنش برای نیروی قدس سپاه پاسداران را تسهیل و امکان جابه‌جایی بین‌المللی منابع مالی جمهوری اسلامی را فراهم کرده‌اند.\n\nاسکات بسنت، وزیر خزانه‌داری آمریکا، گفت واشینگتن برای قطع شریان‌های مالی حکومت ایران، به شناسایی و هدف قرار دادن موسسات مالی حامی جمهوری اسلامی ادامه خواهد داد.\n\nگفت‌وگو با فرزیا ثابتی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "11:18:57",
-      "gregorian_utc": "2026-09-05T07:48:57+00:00",
+      "tehran_time": "11:29:37",
+      "gregorian_utc": "2026-09-05T07:59:37+00:00",
       "media_type": "video",
-      "media_size_bytes": 3468040,
-      "media_size_human": "3.31 MB",
+      "media_size_bytes": 2546307,
+      "media_size_human": "2.43 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355820_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355820_video.mp4",
+      "media_local_path": "media/IranintlTV_355821_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355821_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T08:40:54.034430+00:00"
+      "archived_at": "2026-09-05T08:50:50.141826+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -707,7 +707,7 @@
       "media_local_path": "media/satlastnews_76392_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76392_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T08:40:54.426489+00:00"
+      "archived_at": "2026-09-05T08:50:50.540137+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -725,7 +725,7 @@
       "media_local_path": "media/Mellig_120640_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120640_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T08:40:54.821129+00:00"
+      "archived_at": "2026-09-05T08:50:50.950659+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -743,17 +743,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T08:40:55.144176+00:00"
+      "archived_at": "2026-09-05T08:50:51.283939+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12743,
-      "message_link": "https://t.me/zedTV/12743",
-      "text": "اصابت موشک آمریکایی به نفتکش غول‌پیکر «دانی» در لنگرگاه خارک.\nگزارش‌های میدانی از هدف قرار گرفتن مستقیم این شناور حکایت دارد.",
+      "message_id": 12745,
+      "message_link": "https://t.me/zedTV/12745",
+      "text": "دلار ۲۲۴ هزار و یورو ۲۶۱ هزار تومان؛ تداوم سقوط ارزش پول ملی.\nسکه امامی ۲۳۵ میلیون و طلا ۲۳.۵ میلیون تومان؛ تشدید بحران معیشتی.\nآشفتگی بازار در پی ناتوانی رژیم در مهار فروپاشی اقتصادی.",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "11:48:25",
-      "gregorian_utc": "2026-09-05T08:18:25+00:00",
+      "tehran_time": "11:48:40",
+      "gregorian_utc": "2026-09-05T08:18:40+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -761,25 +761,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T08:40:53.661689+00:00"
+      "archived_at": "2026-09-05T08:50:49.741508+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355819,
-      "message_link": "https://t.me/IranintlTV/355819",
-      "text": "محمدرضا عارف، معاون اول رییس دولت جمهوری اسلامی، در «جشنواره توانمندسازی و کارافرینی علوی» گفت مشکلات اقتصادی «قابل حل» است و جمهوری اسلامی در تمامی زمینه‌ها به خودکفایی و تاثیرگذاری دست یافته است.\n\nعارف گفت: «امروز مفتخریم که در راستای همان راهبرد تکیه بر نیروی انسانی، به وضعیت خودکفایی در تمامی زمینه‌ها و تاثیرگذاری دست یافته‌ایم.»\n\nاو افزود: «امروزه در هیچ‌یک از رشته‌های علمی و در هیچ فرایندی، نیاز به خارج از کشور نداریم.»\n\nعارف همچنین بر تعامل و همکاری علمی با دیگر کشورها تاکید کرد و گفت جمهوری اسلامی بارها برای پیشبرد امور علمی و فناوری با کشورهای دوست، در قالب همکاری‌های دوجانبه و چندجانبه، اعلام امادگی کرده است.\nhttps://iranintl.com/202609054080",
+      "message_id": 355820,
+      "message_link": "https://t.me/IranintlTV/355820",
+      "text": "محمدجواد اکبرین، عضو تحریریه ایران‌اینترنشنال، با اشاره به حملات اسرائیل در نزدیکی ارتفاعات علی‌الطاهر در جنوب لبنان گفت رسانه‌های منطقه تصرف این منطقه را یک پیروزی راهبردی برای اسرائیل و بزرگ‌ترین شکست حزب‌الله پس از عملیات پیجرها ارزیابی کرده‌اند.\n\nاو با اشاره به مواضع پیشین مقام‌های جمهوری اسلامی درباره حمایت از حزب‌الله گفت حکومت ایران تاکنون در برابر این تحولات سکوت کرده و چه وارد درگیری شود و چه از ورود به آن خودداری کند، با پیامدهایی روبه‌رو خواهد شد.\n@iranintltv",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "11:11:21",
-      "gregorian_utc": "2026-09-05T07:41:21+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 155046,
-      "media_size_human": "151.41 KB",
+      "tehran_time": "11:18:57",
+      "gregorian_utc": "2026-09-05T07:48:57+00:00",
+      "media_type": "video",
+      "media_size_bytes": 3468040,
+      "media_size_human": "3.31 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355819_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355819_photo.jpg",
+      "media_local_path": "media/IranintlTV_355820_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355820_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T08:40:54.034542+00:00"
+      "archived_at": "2026-09-05T08:50:50.141915+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -797,7 +797,7 @@
       "media_local_path": "media/satlastnews_76391_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76391_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T08:40:54.426615+00:00"
+      "archived_at": "2026-09-05T08:50:50.540239+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -815,7 +815,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T08:40:54.821212+00:00"
+      "archived_at": "2026-09-05T08:50:50.950750+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -833,17 +833,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T08:40:55.144204+00:00"
+      "archived_at": "2026-09-05T08:50:51.283963+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12742,
-      "message_link": "https://t.me/zedTV/12742",
-      "text": "بحران معیشت؛ بهای چند عدد بادمجان به یک میلیون ریال رسید.\nخشم فزاینده شهروندان از سقوط ارزش پول ملی و گرانی افسارگسیخته.\nتداوم اعتراضات به بی‌کفایتی رژیم در تامین نیازهای اولیه مردم.",
+      "message_id": 12744,
+      "message_link": "https://t.me/zedTV/12744",
+      "text": "نایابی مطلق بنزین در مشهد؛ توقف عرضه سوخت پس از ساعت‌ها انتظار شهروندان در صف‌های طولانی.\nاعتراض گسترده رانندگان به بحران مدیریت انرژی و بی‌تفاوتی پلیس ۱۱۰.\nتنظیم گزارش‌های صوری توسط ماموران و رها کردن جایگاه‌های سوخت میان خشم مردم.",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "11:48:21",
-      "gregorian_utc": "2026-09-05T08:18:21+00:00",
+      "tehran_time": "11:48:40",
+      "gregorian_utc": "2026-09-05T08:18:40+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -851,25 +851,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T08:40:53.661716+00:00"
+      "archived_at": "2026-09-05T08:50:49.741534+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355818,
-      "message_link": "https://t.me/IranintlTV/355818",
-      "text": "مادر جاویدنام عباس قنبری با پیوستن به پویش «یک شمع، یک نام، یک یاد»، برای پسرش شمعی روشن کرد و گفت:\n«به یاد آرزوهای پسرم این شمع را روشن می‌کنم. پسرم یک قهرمان بود و همیشه جاوید خواهد ماند و از یاد نخواهد رفت.»\nعباس قنبری، ۳۷ ساله، ۱۸ دی ۱۴۰۴ در شیراز با گلوله جنگی مأموران حکومت کشته شد.",
+      "message_id": 355819,
+      "message_link": "https://t.me/IranintlTV/355819",
+      "text": "محمدرضا عارف، معاون اول رییس دولت جمهوری اسلامی، در «جشنواره توانمندسازی و کارافرینی علوی» گفت مشکلات اقتصادی «قابل حل» است و جمهوری اسلامی در تمامی زمینه‌ها به خودکفایی و تاثیرگذاری دست یافته است.\n\nعارف گفت: «امروز مفتخریم که در راستای همان راهبرد تکیه بر نیروی انسانی، به وضعیت خودکفایی در تمامی زمینه‌ها و تاثیرگذاری دست یافته‌ایم.»\n\nاو افزود: «امروزه در هیچ‌یک از رشته‌های علمی و در هیچ فرایندی، نیاز به خارج از کشور نداریم.»\n\nعارف همچنین بر تعامل و همکاری علمی با دیگر کشورها تاکید کرد و گفت جمهوری اسلامی بارها برای پیشبرد امور علمی و فناوری با کشورهای دوست، در قالب همکاری‌های دوجانبه و چندجانبه، اعلام امادگی کرده است.\nhttps://iranintl.com/202609054080",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "11:00:26",
-      "gregorian_utc": "2026-09-05T07:30:26+00:00",
-      "media_type": "video",
-      "media_size_bytes": 62182299,
-      "media_size_human": "59.30 MB",
+      "tehran_time": "11:11:21",
+      "gregorian_utc": "2026-09-05T07:41:21+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 155046,
+      "media_size_human": "151.41 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355818_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355818_video.mp4",
+      "media_local_path": "media/IranintlTV_355819_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355819_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T08:40:54.034608+00:00"
+      "archived_at": "2026-09-05T08:50:50.142030+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -887,7 +887,7 @@
       "media_local_path": "media/satlastnews_76388_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76388_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T08:40:54.426693+00:00"
+      "archived_at": "2026-09-05T08:50:50.540308+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -905,7 +905,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T08:40:54.821248+00:00"
+      "archived_at": "2026-09-05T08:50:50.950785+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -923,17 +923,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T08:40:55.144231+00:00"
+      "archived_at": "2026-09-05T08:50:51.283987+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12741,
-      "message_link": "https://t.me/zedTV/12741",
-      "text": "حمله موشکی آمریکا به نفتکش متعلق به رژیم در نزدیکی جزیره خارک.\nهدف قرار گرفتن شریان اقتصادی جمهوری اسلامی در خلیج فارس.",
+      "message_id": 12743,
+      "message_link": "https://t.me/zedTV/12743",
+      "text": "اصابت موشک آمریکایی به نفتکش غول‌پیکر «دانی» در لنگرگاه خارک.\nگزارش‌های میدانی از هدف قرار گرفتن مستقیم این شناور حکایت دارد.",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "11:17:50",
-      "gregorian_utc": "2026-09-05T07:47:50+00:00",
+      "tehran_time": "11:48:25",
+      "gregorian_utc": "2026-09-05T08:18:25+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -941,25 +941,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T08:40:53.661741+00:00"
+      "archived_at": "2026-09-05T08:50:49.741560+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355817,
-      "message_link": "https://t.me/IranintlTV/355817",
-      "text": "مدیریت بحران استانداری اصفهان اعلام کرد شامگاه جمعه ۱۳ شهریور، هنگام عبور یک دستگاه تانکر از خیابان کاظمی این شهر، بخشی از خیابان فرونشست و چرخ‌های تانکر در حفره ایجادشده فرو رفت.\nماموران آتش‌نشانی و شرکت آب‌وفاضلاب به محل اعزام شدند و توانستند تانکر را از حفره خارج کنند. \n@iranintltv",
+      "message_id": 355818,
+      "message_link": "https://t.me/IranintlTV/355818",
+      "text": "مادر جاویدنام عباس قنبری با پیوستن به پویش «یک شمع، یک نام، یک یاد»، برای پسرش شمعی روشن کرد و گفت:\n«به یاد آرزوهای پسرم این شمع را روشن می‌کنم. پسرم یک قهرمان بود و همیشه جاوید خواهد ماند و از یاد نخواهد رفت.»\nعباس قنبری، ۳۷ ساله، ۱۸ دی ۱۴۰۴ در شیراز با گلوله جنگی مأموران حکومت کشته شد.",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "10:52:58",
-      "gregorian_utc": "2026-09-05T07:22:58+00:00",
+      "tehran_time": "11:00:26",
+      "gregorian_utc": "2026-09-05T07:30:26+00:00",
       "media_type": "video",
-      "media_size_bytes": 285178,
-      "media_size_human": "278.49 KB",
+      "media_size_bytes": 62182299,
+      "media_size_human": "59.30 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355817_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355817_video.mp4",
+      "media_local_path": "media/IranintlTV_355818_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355818_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T08:40:54.034677+00:00"
+      "archived_at": "2026-09-05T08:50:50.142073+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -977,7 +977,7 @@
       "media_local_path": "media/satlastnews_76387_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76387_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T08:40:54.426767+00:00"
+      "archived_at": "2026-09-05T08:50:50.540376+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -995,7 +995,7 @@
       "media_local_path": "media/Mellig_120637_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120637_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T08:40:54.821291+00:00"
+      "archived_at": "2026-09-05T08:50:50.950822+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -1013,17 +1013,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T08:40:55.144261+00:00"
+      "archived_at": "2026-09-05T08:50:51.284013+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12740,
-      "message_link": "https://t.me/zedTV/12740",
-      "text": "ریچارد برانسون: اعدام‌های خودسرانه در ایران باید فوراً متوقف شود.\nبنیان‌گذار گروه ویرجین از اعدام بیش از ۹۰۰ نفر در سال جاری خبر داد.\nفراخوان جهانی برای پایان دادن به مجازات مرگ و اعدام‌های گسترده در ایران.",
+      "message_id": 12742,
+      "message_link": "https://t.me/zedTV/12742",
+      "text": "بحران معیشت؛ بهای چند عدد بادمجان به یک میلیون ریال رسید.\nخشم فزاینده شهروندان از سقوط ارزش پول ملی و گرانی افسارگسیخته.\nتداوم اعتراضات به بی‌کفایتی رژیم در تامین نیازهای اولیه مردم.",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "10:47:47",
-      "gregorian_utc": "2026-09-05T07:17:47+00:00",
+      "tehran_time": "11:48:21",
+      "gregorian_utc": "2026-09-05T08:18:21+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -1031,14 +1031,14 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T08:40:53.661767+00:00"
+      "archived_at": "2026-09-05T08:50:49.741586+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355816,
-      "message_link": "https://t.me/IranintlTV/355816",
-      "text": "مدیریت بحران استانداری اصفهان اعلام کرد شامگاه جمعه ۱۳ شهریور، هنگام عبور یک دستگاه تانکر از خیابان کاظمی این شهر، بخشی از خیابان فرونشست و چرخ‌های تانکر در حفره ایجادشده فرو رفت.\nماموران آتش‌نشانی و شرکت آب‌وفاضلاب به محل اعزام شدند و توانستند تانکر را از حفره خارج کنند.\n@iranintltv",
+      "message_id": 355817,
+      "message_link": "https://t.me/IranintlTV/355817",
+      "text": "مدیریت بحران استانداری اصفهان اعلام کرد شامگاه جمعه ۱۳ شهریور، هنگام عبور یک دستگاه تانکر از خیابان کاظمی این شهر، بخشی از خیابان فرونشست و چرخ‌های تانکر در حفره ایجادشده فرو رفت.\nماموران آتش‌نشانی و شرکت آب‌وفاضلاب به محل اعزام شدند و توانستند تانکر را از حفره خارج کنند. \n@iranintltv",
       "shamsi_date": "1405/06/14",
       "tehran_time": "10:52:58",
       "gregorian_utc": "2026-09-05T07:22:58+00:00",
@@ -1049,7 +1049,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "به دلیل سقف دانلود در این اجرا، رسانه دانلود نشد.",
-      "archived_at": "2026-09-05T08:40:54.034744+00:00"
+      "archived_at": "2026-09-05T08:50:50.142142+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1067,7 +1067,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "به دلیل سقف دانلود در این اجرا، رسانه دانلود نشد.",
-      "archived_at": "2026-09-05T08:40:54.426829+00:00"
+      "archived_at": "2026-09-05T08:50:50.540437+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1085,7 +1085,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-09-05T08:40:54.821383+00:00"
+      "archived_at": "2026-09-05T08:50:50.950915+00:00"
     }
   ]
 }
