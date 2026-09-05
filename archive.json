@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-05T13:12:52.057501+00:00",
-  "shamsi_generated": "1405/06/14 13:12:52 تهران",
+  "generated_at": "2026-09-05T13:23:03.926805+00:00",
+  "shamsi_generated": "1405/06/14 13:23:03 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -41,25 +41,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T13:10:29.405671+00:00"
+      "archived_at": "2026-09-05T13:20:32.084601+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355855,
-      "message_link": "https://t.me/IranintlTV/355855",
-      "text": "ایران‌اینترنشنال به سه فایل صوتی از مکالمات ارتش آمریکا با خدمه نفت‌کش «استارک ۱» دست یافته که جزییات هشدار و دستور تخلیه این نفت‌کش را نشان می‌دهد.\n\nحسین آقایی، عضو تحریریه ایران‌اینترنشنال، در تحلیل حمله به نفت‌کش «استارک» می‌گوید تکرار حملات سنتکام به نفت‌کش‌ها و کشتی‌های مرتبط با جمهوری اسلامی می‌تواند نشانه تغییر الگوی برخورد نظامی آمریکا باشد.\n\nبه گفته آقایی، محاصره دریایی که پیش‌تر در فاصله دورتری از سواحل ایران دنبال می‌شد، اکنون به بنادر و جزایر ایران نزدیک‌تر شده و با اقدامات نظامی علیه کشتی‌ها همراه شده است؛ رویکردی که می‌توان آن را «نفت‌کش در برابر نفت‌کش» توصیف کرد.\n@iranintltv",
+      "message_id": 355857,
+      "message_link": "https://t.me/IranintlTV/355857",
+      "text": "جواد مجابی، شاعر، نویسنده، منتقد ادبی و هنرهای تجسمی، نقاش، طنزپرداز و روزنامه‌نگار ایرانی، شنبه ۱۴ شهریور پس از یک دوره بیماری درگذشت.\n\nمجابی متولد سال ۱۳۱۸ در قزوین بود و در حوزه‌های ادبیات، روزنامه‌نگاری و هنرهای تجسمی فعالیت داشت. او با نشریاتی از جمله اطلاعات، فردوسی، جهان نو، خوشه، آدینه و دنیای سخن همکاری کرده بود و آثاری چون «شناخت‌نامه احمد شاملو»، «شناخت‌نامه غلامحسین ساعدی»، «باغ گمشده» و «آینه بامداد» را منتشر کرد.\nhttps://iranintl.com/202609059917",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "16:40:20",
-      "gregorian_utc": "2026-09-05T13:10:20+00:00",
-      "media_type": "video",
-      "media_size_bytes": 5922251,
-      "media_size_human": "5.65 MB",
+      "tehran_time": "16:49:05",
+      "gregorian_utc": "2026-09-05T13:19:05+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 161326,
+      "media_size_human": "157.54 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355855_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355855_video.mp4",
+      "media_local_path": "media/IranintlTV_355857_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355857_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T13:10:29.642535+00:00"
+      "archived_at": "2026-09-05T13:20:32.401937+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -77,7 +77,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T13:10:29.903146+00:00"
+      "archived_at": "2026-09-05T13:20:32.720196+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -95,7 +95,7 @@
       "media_local_path": "media/Mellig_120653_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120653_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T13:10:30.150317+00:00"
+      "archived_at": "2026-09-05T13:20:33.032380+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -113,7 +113,7 @@
       "media_local_path": "media/khabarsara53_11_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_11_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T13:10:30.368990+00:00"
+      "archived_at": "2026-09-05T13:20:33.278148+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -131,25 +131,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T13:10:29.405709+00:00"
+      "archived_at": "2026-09-05T13:20:32.084657+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355854,
-      "message_link": "https://t.me/IranintlTV/355854",
-      "text": "🔻کمیته انضباطی فدراسیون فوتبال در ادامه صدور احکام جنسیت‌زده، باشگاه چادرملوی اردکان را به برگزاری یک دیدار خانگی فقط با حضور تماشاگران زن محکوم کرد.\n\n🔹گفت‌وگو با معصومه حسرتی، فوتبالیست پیشین تیم ملی فوتبال زنان ایران\n\n@iranintltvsport",
+      "message_id": 355856,
+      "message_link": "https://t.me/IranintlTV/355856",
+      "text": "ویدیویی که به دست ایران اینترنشنال رسیده و از داخل یک شناور نزدیک محل فیلم‌برداری شده است، هشدارهای رادیویی ارتش آمریکا به نفتکش جمهوری اسلامی STARK 1 را پیش از هدف قرار گرفتن آن در نزدیکی جزیره خارک ثبت کرده است.\n\nدر این ویدیو سه هشدار از طریق کانال VHF شنیده می‌شود. در هشدار نخست، یک هواپیمای نظامی آمریکا به نفتکش می‌گوید: «نفتکش موتوری STARK 1، اینجا هواپیمای نظامی ایالات متحده است. در حال آماده‌شدن برای شلیک به قسمت پاشنه کشتی شما هستم. سه دقیقه فرصت دارید خدمه را از قسمت پاشنه کشتی خارج کنید. تمام.»\n\nدر هشدار دوم، این زمان به یک دقیقه کاهش می‌یابد. هشدار سوم نهایی است: «این آخرین هشدار شما بود سوار قایق‌های نجات شوید و فوراً کشتی را ترک کنید.»\n\nدر فاصله میان هشدارها، صدای خدمه که به زبان‌های فارسی و اردو صحبت می‌کنند، شنیده می‌شود. یکی از آنها می‌پرسد آیا کاپیتان و معاون او در محل کار خود هستند یا نه. در پاسخ به او گفته می‌شود که کاپیتان هنوز خواب است.\n\nرسانه‌های جمهوری اسلامی صبح شنبه گزارش دادند یک نفتکش در فاصله شش مایلی جزیره خارک هدف نیروهای آمریکایی قرار گرفته است، اما نام این شناور را اعلام نکردن",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "15:44:35",
-      "gregorian_utc": "2026-09-05T12:14:35+00:00",
+      "tehran_time": "16:46:44",
+      "gregorian_utc": "2026-09-05T13:16:44+00:00",
       "media_type": "video",
-      "media_size_bytes": 1805823,
-      "media_size_human": "1.72 MB",
+      "media_size_bytes": 2563904,
+      "media_size_human": "2.45 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355854_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355854_video.mp4",
+      "media_local_path": "media/IranintlTV_355856_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355856_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T13:10:29.652663+00:00"
+      "archived_at": "2026-09-05T13:20:32.401998+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -167,7 +167,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T13:10:29.903224+00:00"
+      "archived_at": "2026-09-05T13:20:32.720292+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -185,7 +185,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T13:10:30.150375+00:00"
+      "archived_at": "2026-09-05T13:20:33.032481+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -203,7 +203,7 @@
       "media_local_path": "media/khabarsara53_10_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_10_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T13:10:30.369041+00:00"
+      "archived_at": "2026-09-05T13:20:33.278221+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -221,25 +221,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T13:10:29.405736+00:00"
+      "archived_at": "2026-09-05T13:20:32.084702+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355853,
-      "message_link": "https://t.me/IranintlTV/355853",
-      "text": "حامد اصیلی، دادستان عمومی و انقلاب فومن، با اشاره به موتورسواری زنان در کشور گفت رانندگی بدون گواهینامه رسمی جرم است و به ضابطان تاکید شده در صورت مشاهده موارد خلاف قانون، با متخلفان برخورد کنند.\n\nاصیلی گفت قانون برای رانندگی بدون گواهینامه مجازات تعیین کرده و این موضوع شامل افرادی می‌شود که بدون داشتن مجوز قانونی از موتورسیکلت استفاده می‌کنند.\n\nدادستان فومن از خانواده‌ها خواست بر «فرزندان خود نظارت داشته باشند.»\nhttps://iranintl.com/202609052595",
+      "message_id": 355855,
+      "message_link": "https://t.me/IranintlTV/355855",
+      "text": "ایران‌اینترنشنال به سه فایل صوتی از مکالمات ارتش آمریکا با خدمه نفت‌کش «استارک ۱» دست یافته که جزییات هشدار و دستور تخلیه این نفت‌کش را نشان می‌دهد.\n\nحسین آقایی، عضو تحریریه ایران‌اینترنشنال، در تحلیل حمله به نفت‌کش «استارک» می‌گوید تکرار حملات سنتکام به نفت‌کش‌ها و کشتی‌های مرتبط با جمهوری اسلامی می‌تواند نشانه تغییر الگوی برخورد نظامی آمریکا باشد.\n\nبه گفته آقایی، محاصره دریایی که پیش‌تر در فاصله دورتری از سواحل ایران دنبال می‌شد، اکنون به بنادر و جزایر ایران نزدیک‌تر شده و با اقدامات نظامی علیه کشتی‌ها همراه شده است؛ رویکردی که می‌توان آن را «نفت‌کش در برابر نفت‌کش» توصیف کرد.\n@iranintltv",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "15:44:21",
-      "gregorian_utc": "2026-09-05T12:14:21+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 137790,
-      "media_size_human": "134.56 KB",
+      "tehran_time": "16:40:20",
+      "gregorian_utc": "2026-09-05T13:10:20+00:00",
+      "media_type": "video",
+      "media_size_bytes": 5922251,
+      "media_size_human": "5.65 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355853_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355853_photo.jpg",
+      "media_local_path": "media/IranintlTV_355855_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355855_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T13:10:29.652802+00:00"
+      "archived_at": "2026-09-05T13:20:32.402109+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -257,7 +257,7 @@
       "media_local_path": "media/satlastnews_76405_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76405_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T13:10:29.903274+00:00"
+      "archived_at": "2026-09-05T13:20:32.720353+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -275,7 +275,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T13:10:30.150398+00:00"
+      "archived_at": "2026-09-05T13:20:33.032519+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -293,7 +293,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T13:10:30.369063+00:00"
+      "archived_at": "2026-09-05T13:20:33.278255+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -311,25 +311,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T13:10:29.405773+00:00"
+      "archived_at": "2026-09-05T13:20:32.084747+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355852,
-      "message_link": "https://t.me/IranintlTV/355852",
-      "text": "مسعود پزشکیان، رییس دولت جمهوری اسلامی، گفت: «جمهوری اسلامی نتوانسته این باور را در جوانان ایجاد کند که آنها سازندگان آینده کشور هستند.» او در مراسم افتتاح نخستین دبیرستان پلیس گفت: «جوان ما وقتی وارد خیابان می‌شود و با مشکل مواجه است، مقصر ما هستیم، نه آن جوان. ما نتوانسته‌ایم او را درست آموزش دهیم.»\n@iranintltv",
+      "message_id": 355854,
+      "message_link": "https://t.me/IranintlTV/355854",
+      "text": "🔻کمیته انضباطی فدراسیون فوتبال در ادامه صدور احکام جنسیت‌زده، باشگاه چادرملوی اردکان را به برگزاری یک دیدار خانگی فقط با حضور تماشاگران زن محکوم کرد.\n\n🔹گفت‌وگو با معصومه حسرتی، فوتبالیست پیشین تیم ملی فوتبال زنان ایران\n\n@iranintltvsport",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "15:43:55",
-      "gregorian_utc": "2026-09-05T12:13:55+00:00",
+      "tehran_time": "15:44:35",
+      "gregorian_utc": "2026-09-05T12:14:35+00:00",
       "media_type": "video",
-      "media_size_bytes": 369796,
-      "media_size_human": "361.13 KB",
+      "media_size_bytes": 1805823,
+      "media_size_human": "1.72 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355852_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355852_video.mp4",
+      "media_local_path": "media/IranintlTV_355854_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355854_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T13:10:29.652871+00:00"
+      "archived_at": "2026-09-05T13:20:32.411353+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -347,7 +347,7 @@
       "media_local_path": "media/satlastnews_76404_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76404_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T13:10:29.903336+00:00"
+      "archived_at": "2026-09-05T13:20:32.720463+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -365,7 +365,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T13:10:30.150417+00:00"
+      "archived_at": "2026-09-05T13:20:33.032548+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -383,7 +383,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T13:10:30.369081+00:00"
+      "archived_at": "2026-09-05T13:20:33.278282+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -401,25 +401,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T13:10:29.405796+00:00"
+      "archived_at": "2026-09-05T13:20:32.084788+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355851,
-      "message_link": "https://t.me/IranintlTV/355851",
-      "text": "علیرضا پناهیان، سخنران دفتر خامنه‌ای، در شبکه افق صدا و سیمای جمهوری اسلامی گفت: «کسانی که از انتقام رهبر شهید طفره می‌روند، چه بدانند و چه ندانند، دشمنان منافع ملی هستند. تامین امنیت با ترس و بزدلی و پرهیز از طلب انتقام و ترک آن، فراهم نمی‌شود.»\n\nپناهیان ادامه داد: «رهبری هم صراحتا از کلمه انتقام سخن گفت و مردم ما نیز فریاد زدند؛ البته مسئولان در این زمینه مقداری عقب‌مانده‌تر هستند و باید خودشان را به این ادبیات مردم و امام برسانند تا امام و امت بتوانند طمع دشمن را از بین ببرند.»\n\nاو افزود: «اگر بعضی افراد قصاص را صرفا یک امر فردی تلقی کنند، ممکن است زمینه سوءاستفاده از این مفهوم فراهم شود.»\nhttps://iranintl.com/202609053202",
+      "message_id": 355853,
+      "message_link": "https://t.me/IranintlTV/355853",
+      "text": "حامد اصیلی، دادستان عمومی و انقلاب فومن، با اشاره به موتورسواری زنان در کشور گفت رانندگی بدون گواهینامه رسمی جرم است و به ضابطان تاکید شده در صورت مشاهده موارد خلاف قانون، با متخلفان برخورد کنند.\n\nاصیلی گفت قانون برای رانندگی بدون گواهینامه مجازات تعیین کرده و این موضوع شامل افرادی می‌شود که بدون داشتن مجوز قانونی از موتورسیکلت استفاده می‌کنند.\n\nدادستان فومن از خانواده‌ها خواست بر «فرزندان خود نظارت داشته باشند.»\nhttps://iranintl.com/202609052595",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "15:42:14",
-      "gregorian_utc": "2026-09-05T12:12:14+00:00",
+      "tehran_time": "15:44:21",
+      "gregorian_utc": "2026-09-05T12:14:21+00:00",
       "media_type": "photo",
-      "media_size_bytes": 130018,
-      "media_size_human": "126.97 KB",
+      "media_size_bytes": 137790,
+      "media_size_human": "134.56 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355851_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355851_photo.jpg",
+      "media_local_path": "media/IranintlTV_355853_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355853_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T13:10:29.652968+00:00"
+      "archived_at": "2026-09-05T13:20:32.411574+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -437,7 +437,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T13:10:29.903355+00:00"
+      "archived_at": "2026-09-05T13:20:32.720498+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -455,7 +455,7 @@
       "media_local_path": "media/Mellig_120649_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120649_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T13:10:30.150445+00:00"
+      "archived_at": "2026-09-05T13:20:33.032589+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -473,7 +473,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T13:10:30.369097+00:00"
+      "archived_at": "2026-09-05T13:20:33.278307+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -491,25 +491,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T13:10:29.405821+00:00"
+      "archived_at": "2026-09-05T13:20:32.084826+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355850,
-      "message_link": "https://t.me/IranintlTV/355850",
-      "text": "🎧نسخه صوتی اخبار نیمروزی | شنبه ۱۴ شهریور\n@iranintlTV",
+      "message_id": 355852,
+      "message_link": "https://t.me/IranintlTV/355852",
+      "text": "مسعود پزشکیان، رییس دولت جمهوری اسلامی، گفت: «جمهوری اسلامی نتوانسته این باور را در جوانان ایجاد کند که آنها سازندگان آینده کشور هستند.» او در مراسم افتتاح نخستین دبیرستان پلیس گفت: «جوان ما وقتی وارد خیابان می‌شود و با مشکل مواجه است، مقصر ما هستیم، نه آن جوان. ما نتوانسته‌ایم او را درست آموزش دهیم.»\n@iranintltv",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "15:39:49",
-      "gregorian_utc": "2026-09-05T12:09:49+00:00",
-      "media_type": "audio",
-      "media_size_bytes": 30240171,
-      "media_size_human": "28.84 MB",
+      "tehran_time": "15:43:55",
+      "gregorian_utc": "2026-09-05T12:13:55+00:00",
+      "media_type": "video",
+      "media_size_bytes": 369796,
+      "media_size_human": "361.13 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355850_audio.mp3",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355850_audio.mp3",
+      "media_local_path": "media/IranintlTV_355852_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355852_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T13:10:29.653010+00:00"
+      "archived_at": "2026-09-05T13:20:32.411660+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -527,7 +527,7 @@
       "media_local_path": "media/satlastnews_76400_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76400_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T13:10:29.903397+00:00"
+      "archived_at": "2026-09-05T13:20:32.720562+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -545,7 +545,7 @@
       "media_local_path": "media/Mellig_120648_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120648_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T13:10:30.150472+00:00"
+      "archived_at": "2026-09-05T13:20:33.032632+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -563,7 +563,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T13:10:30.369114+00:00"
+      "archived_at": "2026-09-05T13:20:33.278331+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -581,25 +581,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T13:10:29.405840+00:00"
+      "archived_at": "2026-09-05T13:20:32.084857+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355849,
-      "message_link": "https://t.me/IranintlTV/355849",
-      "text": "مروری بر روزنامه‌های ایران، شنبه ۱۴ شهریور با مجتبی هاشمی، روزنامه‌نگار\n@iranintltv",
+      "message_id": 355851,
+      "message_link": "https://t.me/IranintlTV/355851",
+      "text": "علیرضا پناهیان، سخنران دفتر خامنه‌ای، در شبکه افق صدا و سیمای جمهوری اسلامی گفت: «کسانی که از انتقام رهبر شهید طفره می‌روند، چه بدانند و چه ندانند، دشمنان منافع ملی هستند. تامین امنیت با ترس و بزدلی و پرهیز از طلب انتقام و ترک آن، فراهم نمی‌شود.»\n\nپناهیان ادامه داد: «رهبری هم صراحتا از کلمه انتقام سخن گفت و مردم ما نیز فریاد زدند؛ البته مسئولان در این زمینه مقداری عقب‌مانده‌تر هستند و باید خودشان را به این ادبیات مردم و امام برسانند تا امام و امت بتوانند طمع دشمن را از بین ببرند.»\n\nاو افزود: «اگر بعضی افراد قصاص را صرفا یک امر فردی تلقی کنند، ممکن است زمینه سوءاستفاده از این مفهوم فراهم شود.»\nhttps://iranintl.com/202609053202",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "15:32:17",
-      "gregorian_utc": "2026-09-05T12:02:17+00:00",
-      "media_type": "video",
-      "media_size_bytes": 5213334,
-      "media_size_human": "4.97 MB",
+      "tehran_time": "15:42:14",
+      "gregorian_utc": "2026-09-05T12:12:14+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 130018,
+      "media_size_human": "126.97 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355849_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355849_video.mp4",
+      "media_local_path": "media/IranintlTV_355851_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355851_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T13:10:29.653046+00:00"
+      "archived_at": "2026-09-05T13:20:32.411775+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -617,7 +617,7 @@
       "media_local_path": "media/satlastnews_76399_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76399_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T13:10:29.903461+00:00"
+      "archived_at": "2026-09-05T13:20:32.720655+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -635,7 +635,7 @@
       "media_local_path": "media/Mellig_120647_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120647_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T13:10:30.150520+00:00"
+      "archived_at": "2026-09-05T13:20:33.032699+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -653,7 +653,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T13:10:30.369129+00:00"
+      "archived_at": "2026-09-05T13:20:33.278355+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -671,25 +671,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T13:10:29.405870+00:00"
+      "archived_at": "2026-09-05T13:20:32.084900+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355848,
-      "message_link": "https://t.me/IranintlTV/355848",
-      "text": "**🗣روایت شما: وضعیت زندگی در سایه سرکوب سیاسی و تنش‌های نظامی - شنبه ۱۴ شهریور\n**\n🔹من یک جراح و متخصص ارتوپدی هستم؛ متأسفانه ساده‌ترین داروهای این رشته، مثل یک شل‌کننده عضلانی یا داروهای غضروف‌ساز، یا وجود ندارند و داروخانه از بازار سیاه تهیه می‌کنند که اون هم در این ۶ ماه سیر نزولی داشته و در واقع حتی داروی قاچاق هم کم شده است\n\n🔹من دانش‌آموز هستم که وارد پایه نهم دبیرستان می‌شوم. شهریه ما که داخل منطقه ۱۲ هست، به‌قدری گران هست که واقعاً ما نمی‌توانیم پرداختش کنیم و مدرسه امکاناتی را به ما ارائه نمی‌دهد و فقط شهریه می‌گیرد\n\n🔹تا مغازه‌داران در مغازه رو نبندن و کامیون‌داران دستی رو نکشن و مردم بلند نشن هیچ‌چیز درست‌شدنی نیست\n\n🔹علاوه بر گوشت، اقلامی مثل ذرت و سویا خیلی افزایش داشتن. هر نوع ذرت حدود ۵ الی ۶ برابر شده و الان کیلویی ۵۰۰ هزار تومنه\n\n🔹آقای ترامپ، کاش یک‌بار به مردم ایران گوش می‌کردی تا به شما بگویند ۴۷ سال کشتار و اعدام در ج ا، امیدی به اصلاح و رسیدن به تفاهم با این تروریست‌ها نیست. دل بکن آقای ترامپ\n\n🔹من دختر ۱۷ ساله رشته تجربی هستم که امسال سال آخرم هست. آن‌قدر کتاب‌های تست گران شدند که من حتی نمی‌توانم آینده‌ام را تضمین کنم؛ چون هیچ خدماتی در اختیار من نیست. دیگر خسته شدیم از آینده پوچی که برایمان ساختید\n\n🔹دیگه تحمل ندارم؛ این‌قدر گرونی و تورم، هر روز دلار گرون می‌شه، غذا از سال پیش تا الان ۳ برابر شده. لعنت به جمهوری اسلامی، مرگ بر جمهوری اسلامی. الان فقط با دین دارن سر مردم رو گرم می‌کنن\n\n🔹امروز تاریخ ۱۴ام، برق ما از ساعت ۹ صبح رفته، تا همین الان که ۴ ساعت گذشته هنوز نیومده. ما محله جیحون تهران هستیم و این اختلال برق واقعاً داره آسیب می‌زنه به وسایل ما\n\n🔹صدای دو جنگنده در ارتفاع پایین، ساعت ۱۲:۴۷ شنبه",
+      "message_id": 355850,
+      "message_link": "https://t.me/IranintlTV/355850",
+      "text": "🎧نسخه صوتی اخبار نیمروزی | شنبه ۱۴ شهریور\n@iranintlTV",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "15:21:32",
-      "gregorian_utc": "2026-09-05T11:51:32+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T13:10:29.653228+00:00"
+      "tehran_time": "15:39:49",
+      "gregorian_utc": "2026-09-05T12:09:49+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 30240171,
+      "media_size_human": "28.84 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/IranintlTV_355850_audio.mp3",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355850_audio.mp3",
+      "no_media_reason": null,
+      "archived_at": "2026-09-05T13:20:32.411851+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -707,7 +707,7 @@
       "media_local_path": "media/satlastnews_76398_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76398_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T13:10:29.903507+00:00"
+      "archived_at": "2026-09-05T13:20:32.720723+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -725,7 +725,7 @@
       "media_local_path": "media/Mellig_120646_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120646_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T13:10:30.150553+00:00"
+      "archived_at": "2026-09-05T13:20:33.032753+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -743,7 +743,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T13:10:30.369159+00:00"
+      "archived_at": "2026-09-05T13:20:33.278380+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -761,25 +761,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T13:10:29.405890+00:00"
+      "archived_at": "2026-09-05T13:20:32.084929+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355847,
-      "message_link": "https://t.me/IranintlTV/355847",
-      "text": "آمریکا، بریتانیا، فرانسه و آلمان قصد دارند پرونده هسته‌ای جمهوری اسلامی را بار دیگر به شورای امنیت سازمان ملل ارجاع دهند. به گفته دیپلمات‌ها، متن قطعنامه هنوز نهایی نشده و رایزنی‌ها پیش از آغاز نشست شورای حکام در وین ادامه دارد.\n\nجزییات بیشتر در گفت‌وگو با احمد صمدی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 355849,
+      "message_link": "https://t.me/IranintlTV/355849",
+      "text": "مروری بر روزنامه‌های ایران، شنبه ۱۴ شهریور با مجتبی هاشمی، روزنامه‌نگار\n@iranintltv",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "15:16:23",
-      "gregorian_utc": "2026-09-05T11:46:23+00:00",
+      "tehran_time": "15:32:17",
+      "gregorian_utc": "2026-09-05T12:02:17+00:00",
       "media_type": "video",
-      "media_size_bytes": 2640202,
-      "media_size_human": "2.52 MB",
+      "media_size_bytes": 5213334,
+      "media_size_human": "4.97 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355847_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355847_video.mp4",
+      "media_local_path": "media/IranintlTV_355849_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355849_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T13:10:29.653286+00:00"
+      "archived_at": "2026-09-05T13:20:32.411909+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -797,7 +797,7 @@
       "media_local_path": "media/satlastnews_76397_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76397_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T13:10:29.903539+00:00"
+      "archived_at": "2026-09-05T13:20:32.720777+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -815,7 +815,7 @@
       "media_local_path": "media/Mellig_120645_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120645_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T13:10:30.150576+00:00"
+      "archived_at": "2026-09-05T13:20:33.032796+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -833,7 +833,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T13:10:30.369175+00:00"
+      "archived_at": "2026-09-05T13:20:33.278404+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -851,25 +851,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T13:10:29.405907+00:00"
+      "archived_at": "2026-09-05T13:20:32.084957+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355846,
-      "message_link": "https://t.me/IranintlTV/355846",
-      "text": "شبکه العربیه به نقل از منابع نظامی یمن گزارش داد چهار ایرانی و لبنانی در حمله به یک مرکز فرماندهی حوثی‌ها در استان الجوف در شمال یمن کشته شدند.\n\nمنابع نظامی یمن مشخص نکردند چند نفر از چهار فرد کشته‌شده ایرانی و چند نفر لبنانی بوده‌اند. همچنین جزییاتی درباره هویت، حوزه تخصص یا نقش این افراد ارائه نشده است.\n\nزمان حمله‌ای که به کشته شدن این چهار نفر منجرج شد، مشخص نشده است. نیروهای دولتی یمن جمعه ۱۳ شهریور مواضع، تجمعات، انبارهای سلاح و سکوهای پرتاب موشک حوثی‌ها را در مناطقی از الجوف هدف قرار دادند. شنبه ۱۴ شهریور نیز گزارش‌هایی از حملات هوایی به مواضع، انبارهای سلاح حوثی‌ها در شهر الحزم، مرکز استان الجوف، منتشر شد.\n\nمشخص نیست کشته شدن چهار ایرانی و لبنانی به کدام‌یک از این حملات مرتبط بوده است.\nhttps://iranintl.com/202609054259",
+      "message_id": 355848,
+      "message_link": "https://t.me/IranintlTV/355848",
+      "text": "**🗣روایت شما: وضعیت زندگی در سایه سرکوب سیاسی و تنش‌های نظامی - شنبه ۱۴ شهریور\n**\n🔹من یک جراح و متخصص ارتوپدی هستم؛ متأسفانه ساده‌ترین داروهای این رشته، مثل یک شل‌کننده عضلانی یا داروهای غضروف‌ساز، یا وجود ندارند و داروخانه از بازار سیاه تهیه می‌کنند که اون هم در این ۶ ماه سیر نزولی داشته و در واقع حتی داروی قاچاق هم کم شده است\n\n🔹من دانش‌آموز هستم که وارد پایه نهم دبیرستان می‌شوم. شهریه ما که داخل منطقه ۱۲ هست، به‌قدری گران هست که واقعاً ما نمی‌توانیم پرداختش کنیم و مدرسه امکاناتی را به ما ارائه نمی‌دهد و فقط شهریه می‌گیرد\n\n🔹تا مغازه‌داران در مغازه رو نبندن و کامیون‌داران دستی رو نکشن و مردم بلند نشن هیچ‌چیز درست‌شدنی نیست\n\n🔹علاوه بر گوشت، اقلامی مثل ذرت و سویا خیلی افزایش داشتن. هر نوع ذرت حدود ۵ الی ۶ برابر شده و الان کیلویی ۵۰۰ هزار تومنه\n\n🔹آقای ترامپ، کاش یک‌بار به مردم ایران گوش می‌کردی تا به شما بگویند ۴۷ سال کشتار و اعدام در ج ا، امیدی به اصلاح و رسیدن به تفاهم با این تروریست‌ها نیست. دل بکن آقای ترامپ\n\n🔹من دختر ۱۷ ساله رشته تجربی هستم که امسال سال آخرم هست. آن‌قدر کتاب‌های تست گران شدند که من حتی نمی‌توانم آینده‌ام را تضمین کنم؛ چون هیچ خدماتی در اختیار من نیست. دیگر خسته شدیم از آینده پوچی که برایمان ساختید\n\n🔹دیگه تحمل ندارم؛ این‌قدر گرونی و تورم، هر روز دلار گرون می‌شه، غذا از سال پیش تا الان ۳ برابر شده. لعنت به جمهوری اسلامی، مرگ بر جمهوری اسلامی. الان فقط با دین دارن سر مردم رو گرم می‌کنن\n\n🔹امروز تاریخ ۱۴ام، برق ما از ساعت ۹ صبح رفته، تا همین الان که ۴ ساعت گذشته هنوز نیومده. ما محله جیحون تهران هستیم و این اختلال برق واقعاً داره آسیب می‌زنه به وسایل ما\n\n🔹صدای دو جنگنده در ارتفاع پایین، ساعت ۱۲:۴۷ شنبه",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "15:08:32",
-      "gregorian_utc": "2026-09-05T11:38:32+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 62145,
-      "media_size_human": "60.69 KB",
-      "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355846_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355846_photo.jpg",
-      "no_media_reason": null,
-      "archived_at": "2026-09-05T13:10:29.653370+00:00"
+      "tehran_time": "15:21:32",
+      "gregorian_utc": "2026-09-05T11:51:32+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-09-05T13:20:32.412131+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -887,7 +887,7 @@
       "media_local_path": "media/satlastnews_76392_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76392_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T13:10:29.903605+00:00"
+      "archived_at": "2026-09-05T13:20:32.720874+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -905,7 +905,7 @@
       "media_local_path": "media/Mellig_120644_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120644_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T13:10:30.150599+00:00"
+      "archived_at": "2026-09-05T13:20:33.032834+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -923,7 +923,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T13:10:30.369191+00:00"
+      "archived_at": "2026-09-05T13:20:33.278453+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -941,25 +941,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T13:10:29.405923+00:00"
+      "archived_at": "2026-09-05T13:20:32.084983+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355845,
-      "message_link": "https://t.me/IranintlTV/355845",
-      "text": "مسعود پزشکیان، رییس‌ دولت جمهوری اسلامی، و احمدرضا رادان، فرمانده کل انتظامی جمهوری اسلامی، نخستین دبیرستان شبانه‌روزی «هوشمند» پلیس را افتتاح کردند؛ مرکزی که بر اساس گزارش‌ها با هدف شناسایی و پرورش نوجوانان برای پلیس راه‌اندازی شده است.\n\nاین دبیرستان که «محمد باقری» نام دارد، دانش‌آموزان پسر را در رشته‌های علوم تجربی، ریاضی‌فیزیک و علوم انسانی پذیرش می‌کند. دانش‌آموزان در کنار دروس نظری، اموزش‌های مهارتی، ورزشی و تخصصی از جمله تیراندازی دریافت خواهند کرد.\n\nبر اساس اعلام فرماندهی انتظامی جمهوری اسلامی، هدف این طرح تربیت «پلیس حرفه‌ای» و نیروها و فرماندهان آینده این مجموعه از دوره نوجوانی است و قرار است دبیرستان‌های پلیس در استان‌های دیگر نیز راه‌اندازی شوند.\n\nافتتاح این مرکز در شرایط جنگی انجام شده است. رادان در مراسم افتتاح گفت راه‌اندازی این دبیرستان در «ایام جنگ» نشان می‌دهد فعالیت‌های آموزشی و سازندگی متوقف نشده است. او رویکرد این مدارس را بخشی از «معماری پلیس آینده» و مبتنی بر آموزش و مهارت‌افزایی نوجوانان و جوانان توصیف کرد.",
+      "message_id": 355847,
+      "message_link": "https://t.me/IranintlTV/355847",
+      "text": "آمریکا، بریتانیا، فرانسه و آلمان قصد دارند پرونده هسته‌ای جمهوری اسلامی را بار دیگر به شورای امنیت سازمان ملل ارجاع دهند. به گفته دیپلمات‌ها، متن قطعنامه هنوز نهایی نشده و رایزنی‌ها پیش از آغاز نشست شورای حکام در وین ادامه دارد.\n\nجزییات بیشتر در گفت‌وگو با احمد صمدی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "14:11:50",
-      "gregorian_utc": "2026-09-05T10:41:50+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 100127,
-      "media_size_human": "97.78 KB",
+      "tehran_time": "15:16:23",
+      "gregorian_utc": "2026-09-05T11:46:23+00:00",
+      "media_type": "video",
+      "media_size_bytes": 2640202,
+      "media_size_human": "2.52 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355845_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355845_photo.jpg",
+      "media_local_path": "media/IranintlTV_355847_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355847_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T13:10:29.653395+00:00"
+      "archived_at": "2026-09-05T13:20:32.412208+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -977,7 +977,7 @@
       "media_local_path": "media/satlastnews_76391_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76391_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T13:10:29.903646+00:00"
+      "archived_at": "2026-09-05T13:20:32.720939+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -995,7 +995,7 @@
       "media_local_path": "media/Mellig_120643_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120643_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T13:10:30.150639+00:00"
+      "archived_at": "2026-09-05T13:20:33.032900+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -1013,7 +1013,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T13:10:30.369207+00:00"
+      "archived_at": "2026-09-05T13:20:33.278483+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1031,25 +1031,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T13:10:29.405940+00:00"
+      "archived_at": "2026-09-05T13:20:32.085010+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355844,
-      "message_link": "https://t.me/IranintlTV/355844",
-      "text": "علی شیرازی، عضو تحریریه ایران‌اینترنشنال، با اشاره به هشدار دونالد ترامپ، رییس‌جمهوری آمریکا، درباره تاسیسات «کوه کلنگ» گفت به نظر می‌رسد جمهوری اسلامی فعالیت‌های هسته‌ای خود را در این تاسیسات ادامه می‌دهد و با توجه به اظهارات برخی مقام‌های جمهوری اسلامی درباره ساخت بمب اتمی، احتمال داد فعالیت‌های آنجا در راستای فرایند ساخت بمب باشد.\n@iranintltv",
+      "message_id": 355846,
+      "message_link": "https://t.me/IranintlTV/355846",
+      "text": "شبکه العربیه به نقل از منابع نظامی یمن گزارش داد چهار ایرانی و لبنانی در حمله به یک مرکز فرماندهی حوثی‌ها در استان الجوف در شمال یمن کشته شدند.\n\nمنابع نظامی یمن مشخص نکردند چند نفر از چهار فرد کشته‌شده ایرانی و چند نفر لبنانی بوده‌اند. همچنین جزییاتی درباره هویت، حوزه تخصص یا نقش این افراد ارائه نشده است.\n\nزمان حمله‌ای که به کشته شدن این چهار نفر منجرج شد، مشخص نشده است. نیروهای دولتی یمن جمعه ۱۳ شهریور مواضع، تجمعات، انبارهای سلاح و سکوهای پرتاب موشک حوثی‌ها را در مناطقی از الجوف هدف قرار دادند. شنبه ۱۴ شهریور نیز گزارش‌هایی از حملات هوایی به مواضع، انبارهای سلاح حوثی‌ها در شهر الحزم، مرکز استان الجوف، منتشر شد.\n\nمشخص نیست کشته شدن چهار ایرانی و لبنانی به کدام‌یک از این حملات مرتبط بوده است.\nhttps://iranintl.com/202609054259",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "14:09:29",
-      "gregorian_utc": "2026-09-05T10:39:29+00:00",
-      "media_type": "video",
-      "media_size_bytes": 5132692,
-      "media_size_human": "4.89 MB",
+      "tehran_time": "15:08:32",
+      "gregorian_utc": "2026-09-05T11:38:32+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 62145,
+      "media_size_human": "60.69 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355844_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355844_video.mp4",
+      "media_local_path": "media/IranintlTV_355846_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355846_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T13:10:29.653446+00:00"
+      "archived_at": "2026-09-05T13:20:32.412317+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1067,7 +1067,7 @@
       "media_local_path": "media/satlastnews_76388_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76388_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T13:10:29.903681+00:00"
+      "archived_at": "2026-09-05T13:20:32.720997+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1085,7 +1085,7 @@
       "media_local_path": "media/Mellig_120642_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120642_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T13:10:30.150661+00:00"
+      "archived_at": "2026-09-05T13:20:33.032945+00:00"
     }
   ]
 }
