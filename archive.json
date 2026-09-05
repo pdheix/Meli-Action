@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-05T16:53:48.044471+00:00",
-  "shamsi_generated": "1405/06/14 16:53:48 تهران",
+  "generated_at": "2026-09-05T17:03:09.670257+00:00",
+  "shamsi_generated": "1405/06/14 17:03:09 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -41,25 +41,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T16:50:38.488155+00:00"
+      "archived_at": "2026-09-05T17:00:45.985006+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355883,
-      "message_link": "https://t.me/IranintlTV/355883",
-      "text": "ساعاتی پس از گزارش رسانه‌های جمهوری اسلامی درباره حمله به یک نفت‌کش ایرانی در جزیره خارک، فرماندهی مرکزی آمریکا، سنتکام، اعلام کرد نیروهای آمریکایی روز شنبه در واکنش به شلیک‌های جمهوری اسلامی، سه نفتکش متعلق به سپاه پاسداران را هدف قرار داده‌اند.\n\nسنتکام گفت نفتکش «داونی» در نزدیکی جزیره خارک و «استارک ۱» در نزدیکی جاسک از کار افتادند و نفتکش خالی «کایلو» در دریای عمان پس از تخلیه خدمه، به‌طور کامل منهدم شد.\n\nجزییات بیشتر با مرضیه حسینی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 355885,
+      "message_link": "https://t.me/IranintlTV/355885",
+      "text": "فتح تپه علی‌الطاهر در جنوب لبنان به دست اسرائیل شکستی سنگین برای جمهوری اسلامی بود. دو شهر موشکی عماد ۲ و ۴ در زیر این تپه به دست اسرائیل افتاد. حزب‌الله با از دست دادن این تپه، امکان حمله موشکی به اسرائیل به نیابت از تهران را تا حد زیادی از دست داد.\n\nگزارشی از مجتبا پورمحسن\n@iranintltv",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "20:17:41",
-      "gregorian_utc": "2026-09-05T16:47:41+00:00",
+      "tehran_time": "20:30:14",
+      "gregorian_utc": "2026-09-05T17:00:14+00:00",
       "media_type": "video",
-      "media_size_bytes": 3247964,
-      "media_size_human": "3.10 MB",
+      "media_size_bytes": 6359144,
+      "media_size_human": "6.06 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355883_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355883_video.mp4",
+      "media_local_path": "media/IranintlTV_355885_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355885_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T16:50:38.957391+00:00"
+      "archived_at": "2026-09-05T17:00:46.238696+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -77,7 +77,7 @@
       "media_local_path": "media/satlastnews_76405_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76405_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T16:50:39.350620+00:00"
+      "archived_at": "2026-09-05T17:00:46.518121+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -95,7 +95,7 @@
       "media_local_path": "media/Mellig_120667_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120667_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T16:50:39.723400+00:00"
+      "archived_at": "2026-09-05T17:00:46.791391+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -113,7 +113,7 @@
       "media_local_path": "media/khabarsara53_11_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_11_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T16:50:40.070596+00:00"
+      "archived_at": "2026-09-05T17:00:47.017699+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -131,25 +131,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T16:50:38.488206+00:00"
+      "archived_at": "2026-09-05T17:00:45.985051+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355882,
-      "message_link": "https://t.me/IranintlTV/355882",
-      "text": "🔻باشگاه گل‌گهر سیرجان با انتشار ویدیویی به شعارهای توهین‌آمیز تماشاگران علیه امید عالیشاه پیش از شروع بازی با تراکتور در استادیوم سهند تبریز اعتراض کرد.\n\n🔹همچنین تصاویر بازی نشان می‌دهد تماشاگران هربار توپ به امید عالیشاه می‌رسد، او را هو می‌کنند.\n\n🔹عالیشاه پس از حواشی که در سال‌های گذشته با در بازی‌های پرسپولیس با هواداران تراکتور داشت، برای اولین بار و با لباس گل گهر در تبریز حضور یافته است.\n\n@iranintltvsport",
+      "message_id": 355884,
+      "message_link": "https://t.me/IranintlTV/355884",
+      "text": "🔻تیم فوتبال تراکتور در نخستین بازی هفته ششم لیگ برتر، گل گهر سیرجان را با نتیجه یک بر صفر شکست داد و با ۱۶ امتیاز، صدرنشینی خود در جدول را تثبیت کرد. تک گل بازی را امیرحسین حسین‌زاده در دقیقه ۴۳ و روی پاس گل بلند علیرضا بیرانوند به ثمر رساند.\n\n🔹این بازی که در استادیوم سهند تبریز برگزار شد، از زمان ورود بازیکنان به زمین برای گرم‌کردن تا دقیقه آخر، با حاشیه و جنجال همراه بود.\n\n🔹تماشاگران در زمان گرم‌کردن، شعارهای توهین‌آمیزی علیه امید عالیشاه، کاپیتان پیشین پرسپولیس که امسال برای گل‌گهر بازی می‌کند، سر دادند. در ادامه، هر توپی به او می‌رسید، هو می‌شد. عالیشاه بیش از ۸۰ دقیقه برای گل‌گهر بازی کرد.\n\n🔹اما صحنه گل حسین‌زاده، با اعتراض بازیکنان و کادر گل‌گهر همراه شد. این باشگاه با انتشار بیانیه‌ای در فضای مجازی که در میانه بازی منتشر شد، به تصمیم‌های داور از جمله روی صحنه گل، اعتراض کرد.\n\n🔹داوری البته فقط با اعتراض گل‌گهر همراه نبود؛ اعتراض‌های پی‌درپی کادر فنی تراکتور به اخراج خداداد عزیزی، مدیر تیم تراکتور در ابتدای نیمه دوم منجر شد.\n\n@iranintltvsport",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "19:56:41",
-      "gregorian_utc": "2026-09-05T16:26:41+00:00",
-      "media_type": "video",
-      "media_size_bytes": 1602244,
-      "media_size_human": "1.53 MB",
+      "tehran_time": "20:26:56",
+      "gregorian_utc": "2026-09-05T16:56:56+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 169346,
+      "media_size_human": "165.38 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355882_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355882_video.mp4",
+      "media_local_path": "media/IranintlTV_355884_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355884_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T16:50:38.968590+00:00"
+      "archived_at": "2026-09-05T17:00:46.247554+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -167,7 +167,7 @@
       "media_local_path": "media/satlastnews_76404_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76404_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T16:50:39.350724+00:00"
+      "archived_at": "2026-09-05T17:00:46.518225+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -185,7 +185,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T16:50:39.723479+00:00"
+      "archived_at": "2026-09-05T17:00:46.791477+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -203,7 +203,7 @@
       "media_local_path": "media/khabarsara53_10_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_10_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T16:50:40.070679+00:00"
+      "archived_at": "2026-09-05T17:00:47.017764+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -221,25 +221,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T16:50:38.488242+00:00"
+      "archived_at": "2026-09-05T17:00:45.985100+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355881,
-      "message_link": "https://t.me/IranintlTV/355881",
-      "text": "وزارت جنگ آمریکا گزارش رویترز درباره بررسی گزینه‌هایی برای جایگزینی استیو فاینبرگ، معاون وزیر جنگ آمریکا، را نادرست خواند و اعلام کرد روندی برای جایگزینی او در جریان نیست. این وزارتخانه افزود «هرگز معاونی بهتر از او نداشته است».\n\nپیش‌تر رویترز گزارش داد کاخ سفید در ماه‌های اخیر گزینه‌هایی را برای جایگزینی فاینبرگ بررسی کرده و این روند دست‌کم تا اواخر ماه اوت ادامه داشته است. سه منبع آگاه به رویترز گفتند با این حال، تصمیمی برای برکناری فاینبرگ گرفته نشده است.\n\nآنا کلی، سخنگوی کاخ سفید، منابع ناشناس این گزارش را بی‌اطلاع از موضوع خواند و گفت دونالد ترامپ، رییس‌جمهوری آمریکا، از عملکرد پیت هگست، وزیر جنگ آمریکا، فاینبرگ و مجموعه وزارت جنگ رضایت دارد.\n\nهگست نیز در بیانیه‌ای در پاسخ به رویترز گفت فاینبرگ از حمایت کامل او برخوردار است و «جایی نمی‌رود». او افزود فاینبرگ برای بازسازی صنایع دفاعی آمریکا فعالیت کرده و برای دولت ترامپ، وزارت جنگ و نیروهای نظامی عملکرد بسیار خوبی داشته است.\nhttps://iranintl.com/202609052805",
+      "message_id": 355883,
+      "message_link": "https://t.me/IranintlTV/355883",
+      "text": "ساعاتی پس از گزارش رسانه‌های جمهوری اسلامی درباره حمله به یک نفت‌کش ایرانی در جزیره خارک، فرماندهی مرکزی آمریکا، سنتکام، اعلام کرد نیروهای آمریکایی روز شنبه در واکنش به شلیک‌های جمهوری اسلامی، سه نفتکش متعلق به سپاه پاسداران را هدف قرار داده‌اند.\n\nسنتکام گفت نفتکش «داونی» در نزدیکی جزیره خارک و «استارک ۱» در نزدیکی جاسک از کار افتادند و نفتکش خالی «کایلو» در دریای عمان پس از تخلیه خدمه، به‌طور کامل منهدم شد.\n\nجزییات بیشتر با مرضیه حسینی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "19:53:49",
-      "gregorian_utc": "2026-09-05T16:23:49+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 161260,
-      "media_size_human": "157.48 KB",
+      "tehran_time": "20:17:41",
+      "gregorian_utc": "2026-09-05T16:47:41+00:00",
+      "media_type": "video",
+      "media_size_bytes": 3247964,
+      "media_size_human": "3.10 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355881_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355881_photo.jpg",
+      "media_local_path": "media/IranintlTV_355883_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355883_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T16:50:38.968821+00:00"
+      "archived_at": "2026-09-05T17:00:46.247684+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -257,7 +257,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T16:50:39.350758+00:00"
+      "archived_at": "2026-09-05T17:00:46.518256+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -275,7 +275,7 @@
       "media_local_path": "media/Mellig_120665_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120665_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T16:50:39.723548+00:00"
+      "archived_at": "2026-09-05T17:00:46.791540+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -293,7 +293,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T16:50:40.070710+00:00"
+      "archived_at": "2026-09-05T17:00:47.017791+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -311,25 +311,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T16:50:38.488284+00:00"
+      "archived_at": "2026-09-05T17:00:45.985138+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355880,
-      "message_link": "https://t.me/IranintlTV/355880",
-      "text": "جواد مجابی، شاعر، نویسنده، منتقد ادبی و هنرهای تجسمی، نقاش، طنزپرداز و روزنامه‌نگار ایرانی، شنبه ۱۴ شهریور پس از یک دوره بیماری درگذشت. «شناخت‌نامه احمد شاملو»، «شناخت‌نامه غلامحسین ساعدی»، «باغ گمشده» و «آینه بامداد» از جمله آثار اوست.\n\nگفت‌وگو با جمشید برزگر، روزنامه‌نگار و تحلیلگر سیاسی، درباره کارنامه هنری و ادبی جواد مجابی\n@iranintltv",
+      "message_id": 355882,
+      "message_link": "https://t.me/IranintlTV/355882",
+      "text": "🔻باشگاه گل‌گهر سیرجان با انتشار ویدیویی به شعارهای توهین‌آمیز تماشاگران علیه امید عالیشاه پیش از شروع بازی با تراکتور در استادیوم سهند تبریز اعتراض کرد.\n\n🔹همچنین تصاویر بازی نشان می‌دهد تماشاگران هربار توپ به امید عالیشاه می‌رسد، او را هو می‌کنند.\n\n🔹عالیشاه پس از حواشی که در سال‌های گذشته با در بازی‌های پرسپولیس با هواداران تراکتور داشت، برای اولین بار و با لباس گل گهر در تبریز حضور یافته است.\n\n@iranintltvsport",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "19:49:15",
-      "gregorian_utc": "2026-09-05T16:19:15+00:00",
+      "tehran_time": "19:56:41",
+      "gregorian_utc": "2026-09-05T16:26:41+00:00",
       "media_type": "video",
-      "media_size_bytes": 3342527,
-      "media_size_human": "3.19 MB",
+      "media_size_bytes": 1602244,
+      "media_size_human": "1.53 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355880_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355880_video.mp4",
+      "media_local_path": "media/IranintlTV_355882_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355882_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T16:50:38.968933+00:00"
+      "archived_at": "2026-09-05T17:00:46.247785+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -347,7 +347,7 @@
       "media_local_path": "media/satlastnews_76400_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76400_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T16:50:39.350821+00:00"
+      "archived_at": "2026-09-05T17:00:46.518313+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -365,7 +365,7 @@
       "media_local_path": "media/Mellig_120664_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120664_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T16:50:39.723598+00:00"
+      "archived_at": "2026-09-05T17:00:46.791588+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -383,7 +383,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T16:50:40.070738+00:00"
+      "archived_at": "2026-09-05T17:00:47.017814+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -401,25 +401,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T16:50:38.488338+00:00"
+      "archived_at": "2026-09-05T17:00:45.985164+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355879,
-      "message_link": "https://t.me/IranintlTV/355879",
-      "text": "آسیه امینی، تحلیل‌گر مسائل اجتماعی، درباره اجبار دانش‌آموزان به حضور در مدارس و افتتاح «دبیرستان پلیس» با هدف آموزش نظامی و امنیتی به کودکان گفت: «حکومت به‌جای تامین امنیت دانش‌آموزان، از موقعیت آن‌ها برای پیشبرد اهداف امنیتی و سیاسی خود سوءاستفاده ابزاری می‌کند.»\n@iranintltv",
+      "message_id": 355881,
+      "message_link": "https://t.me/IranintlTV/355881",
+      "text": "وزارت جنگ آمریکا گزارش رویترز درباره بررسی گزینه‌هایی برای جایگزینی استیو فاینبرگ، معاون وزیر جنگ آمریکا، را نادرست خواند و اعلام کرد روندی برای جایگزینی او در جریان نیست. این وزارتخانه افزود «هرگز معاونی بهتر از او نداشته است».\n\nپیش‌تر رویترز گزارش داد کاخ سفید در ماه‌های اخیر گزینه‌هایی را برای جایگزینی فاینبرگ بررسی کرده و این روند دست‌کم تا اواخر ماه اوت ادامه داشته است. سه منبع آگاه به رویترز گفتند با این حال، تصمیمی برای برکناری فاینبرگ گرفته نشده است.\n\nآنا کلی، سخنگوی کاخ سفید، منابع ناشناس این گزارش را بی‌اطلاع از موضوع خواند و گفت دونالد ترامپ، رییس‌جمهوری آمریکا، از عملکرد پیت هگست، وزیر جنگ آمریکا، فاینبرگ و مجموعه وزارت جنگ رضایت دارد.\n\nهگست نیز در بیانیه‌ای در پاسخ به رویترز گفت فاینبرگ از حمایت کامل او برخوردار است و «جایی نمی‌رود». او افزود فاینبرگ برای بازسازی صنایع دفاعی آمریکا فعالیت کرده و برای دولت ترامپ، وزارت جنگ و نیروهای نظامی عملکرد بسیار خوبی داشته است.\nhttps://iranintl.com/202609052805",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "19:43:47",
-      "gregorian_utc": "2026-09-05T16:13:47+00:00",
-      "media_type": "video",
-      "media_size_bytes": 4403433,
-      "media_size_human": "4.20 MB",
+      "tehran_time": "19:53:49",
+      "gregorian_utc": "2026-09-05T16:23:49+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 161260,
+      "media_size_human": "157.48 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355879_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355879_video.mp4",
+      "media_local_path": "media/IranintlTV_355881_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355881_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T16:50:38.969026+00:00"
+      "archived_at": "2026-09-05T17:00:46.247935+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -437,7 +437,7 @@
       "media_local_path": "media/satlastnews_76399_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76399_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T16:50:39.350915+00:00"
+      "archived_at": "2026-09-05T17:00:46.518407+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -455,7 +455,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T16:50:39.723655+00:00"
+      "archived_at": "2026-09-05T17:00:46.791638+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -473,7 +473,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T16:50:40.070763+00:00"
+      "archived_at": "2026-09-05T17:00:47.017834+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -491,25 +491,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T16:50:38.488379+00:00"
+      "archived_at": "2026-09-05T17:00:45.985195+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355878,
-      "message_link": "https://t.me/IranintlTV/355878",
-      "text": "فاطمه مهاجرانی، سخنگوی دولت، در گفت‌وگویی به‌مناسبت دومین سال فعالیت دولت مسعود پزشکیان، اعتراضات دی‌ماه ۱۴۰۴ را «تلخ‌ترین روزهای زندگی کاری» خود خواند. او گفت به پزشکیان گفته است با وجود تردید نداشتن در دخالت بیگانگان، نمی‌داند «واقعا کم‌وکیف قضیه» چه بوده است.\n\nاو افزود به پزشکیان گفته است: «چه شد که جامعه رسید به جایی که بتواند سر نیروی امنیتی خودش این بلا را بیاورد و او به آن طرز فجیع به شهادت برسد؟»\n@iranintltv",
+      "message_id": 355880,
+      "message_link": "https://t.me/IranintlTV/355880",
+      "text": "جواد مجابی، شاعر، نویسنده، منتقد ادبی و هنرهای تجسمی، نقاش، طنزپرداز و روزنامه‌نگار ایرانی، شنبه ۱۴ شهریور پس از یک دوره بیماری درگذشت. «شناخت‌نامه احمد شاملو»، «شناخت‌نامه غلامحسین ساعدی»، «باغ گمشده» و «آینه بامداد» از جمله آثار اوست.\n\nگفت‌وگو با جمشید برزگر، روزنامه‌نگار و تحلیلگر سیاسی، درباره کارنامه هنری و ادبی جواد مجابی\n@iranintltv",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "19:43:32",
-      "gregorian_utc": "2026-09-05T16:13:32+00:00",
+      "tehran_time": "19:49:15",
+      "gregorian_utc": "2026-09-05T16:19:15+00:00",
       "media_type": "video",
-      "media_size_bytes": 1058215,
-      "media_size_human": "1.01 MB",
+      "media_size_bytes": 3342527,
+      "media_size_human": "3.19 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355878_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355878_video.mp4",
+      "media_local_path": "media/IranintlTV_355880_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355880_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T16:50:38.969111+00:00"
+      "archived_at": "2026-09-05T17:00:46.248011+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -527,7 +527,7 @@
       "media_local_path": "media/satlastnews_76398_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76398_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T16:50:39.350986+00:00"
+      "archived_at": "2026-09-05T17:00:46.518464+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -545,7 +545,7 @@
       "media_local_path": "media/Mellig_120662_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120662_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T16:50:39.723695+00:00"
+      "archived_at": "2026-09-05T17:00:46.791671+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -563,7 +563,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T16:50:40.070788+00:00"
+      "archived_at": "2026-09-05T17:00:47.017855+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -581,25 +581,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T16:50:38.488410+00:00"
+      "archived_at": "2026-09-05T17:00:45.985220+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355877,
-      "message_link": "https://t.me/IranintlTV/355877",
-      "text": "فاطمه مهاجرانی، سخنگوی دولت، در گفت‌وگویی به‌مناسبت دومین سال فعالیت دولت مسعود پزشکیان، اعتراضات دی‌ماه ۱۴۰۴ را «تلخ‌ترین روزهای زندگی کاری» خود خواند. او گفت به پزشکیان گفته است با وجود تردید نداشتن در دخالت بیگانگان، نمی‌داند «واقعا کم‌وکیف قضیه» چه بوده است.\n\nاو افزود به پزشکیان گفته است: «چه شد که جامعه رسید به جایی که بتواند سر نیروی امنیتی خودش این بلا را بیاورد و او به آن طرز فجیع به شهادت برسد؟»\n@iranintltv",
+      "message_id": 355879,
+      "message_link": "https://t.me/IranintlTV/355879",
+      "text": "آسیه امینی، تحلیل‌گر مسائل اجتماعی، درباره اجبار دانش‌آموزان به حضور در مدارس و افتتاح «دبیرستان پلیس» با هدف آموزش نظامی و امنیتی به کودکان گفت: «حکومت به‌جای تامین امنیت دانش‌آموزان، از موقعیت آن‌ها برای پیشبرد اهداف امنیتی و سیاسی خود سوءاستفاده ابزاری می‌کند.»\n@iranintltv",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "19:42:41",
-      "gregorian_utc": "2026-09-05T16:12:41+00:00",
+      "tehran_time": "19:43:47",
+      "gregorian_utc": "2026-09-05T16:13:47+00:00",
       "media_type": "video",
-      "media_size_bytes": 1058215,
-      "media_size_human": "1.01 MB",
+      "media_size_bytes": 4403433,
+      "media_size_human": "4.20 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355877_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355877_video.mp4",
+      "media_local_path": "media/IranintlTV_355879_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355879_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T16:50:38.969195+00:00"
+      "archived_at": "2026-09-05T17:00:46.248109+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -617,7 +617,7 @@
       "media_local_path": "media/satlastnews_76397_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76397_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T16:50:39.351042+00:00"
+      "archived_at": "2026-09-05T17:00:46.518507+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -635,7 +635,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T16:50:39.723748+00:00"
+      "archived_at": "2026-09-05T17:00:46.791717+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -653,7 +653,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T16:50:40.070812+00:00"
+      "archived_at": "2026-09-05T17:00:47.017877+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -671,25 +671,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T16:50:38.488451+00:00"
+      "archived_at": "2026-09-05T17:00:45.985259+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355876,
-      "message_link": "https://t.me/IranintlTV/355876",
-      "text": "سازمان عملیات تجارت دریایی بریتانیا اعلام کرد چند کشتی تجاری در شمال خلیج فارس و دریای عمان در جریان فعالیت‌های نظامی جاری در منطقه هدف آتش قرار گرفته و از کار افتادند.\n\nاین سازمان شنبه ۱۴ شهریور در اطلاعیه‌ای اعلام کرد گزارش‌هایی درباره این کشتی‌ها دریافت کرده، اما در حال حاضر نمی‌تواند وقوع تلفات یا پیامدهای زیست‌محیطی ناشی از حملات را تایید کند.\n\nبر اساس این اطلاعیه، مقام‌های مسئول در جریان این رویداد قرار گرفتند و تحقیقات درباره آن ادامه دارد.\n\nسازمان عملیات تجارت دریایی بریتانیا از دریانوردان خواست آخرین اطلاعات امنیت دریایی را در نظر بگیرند و تحولات عملیاتی منطقه را دنبال کنند.\nhttps://iranintl.com/202609050228",
+      "message_id": 355878,
+      "message_link": "https://t.me/IranintlTV/355878",
+      "text": "فاطمه مهاجرانی، سخنگوی دولت، در گفت‌وگویی به‌مناسبت دومین سال فعالیت دولت مسعود پزشکیان، اعتراضات دی‌ماه ۱۴۰۴ را «تلخ‌ترین روزهای زندگی کاری» خود خواند. او گفت به پزشکیان گفته است با وجود تردید نداشتن در دخالت بیگانگان، نمی‌داند «واقعا کم‌وکیف قضیه» چه بوده است.\n\nاو افزود به پزشکیان گفته است: «چه شد که جامعه رسید به جایی که بتواند سر نیروی امنیتی خودش این بلا را بیاورد و او به آن طرز فجیع به شهادت برسد؟»\n@iranintltv",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "19:40:23",
-      "gregorian_utc": "2026-09-05T16:10:23+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 258294,
-      "media_size_human": "252.24 KB",
+      "tehran_time": "19:43:32",
+      "gregorian_utc": "2026-09-05T16:13:32+00:00",
+      "media_type": "video",
+      "media_size_bytes": 1058215,
+      "media_size_human": "1.01 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355876_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355876_photo.jpg",
+      "media_local_path": "media/IranintlTV_355878_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355878_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T16:50:38.969335+00:00"
+      "archived_at": "2026-09-05T17:00:46.248197+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -707,7 +707,7 @@
       "media_local_path": "media/satlastnews_76392_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76392_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T16:50:39.351146+00:00"
+      "archived_at": "2026-09-05T17:00:46.518600+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -725,7 +725,7 @@
       "media_local_path": "media/Mellig_120660_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120660_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T16:50:39.723877+00:00"
+      "archived_at": "2026-09-05T17:00:46.791838+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -743,7 +743,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T16:50:40.070837+00:00"
+      "archived_at": "2026-09-05T17:00:47.017900+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -761,25 +761,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T16:50:38.488480+00:00"
+      "archived_at": "2026-09-05T17:00:45.985284+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355875,
-      "message_link": "https://t.me/IranintlTV/355875",
-      "text": "سفارت آمریکا در بحرین شنبه ۱۴ شهریور با صدور هشدار امنیتی از شهروندان آمریکایی خواست به دلیل احتمال «تشدید پیش‌بینی‌نشده» تنش‌ها در خاورمیانه، «هوشیاری بیشتری» داشته باشند.\n\nسفارت آمریکا اعلام کرد جمهوری اسلامی و گروه‌های حامی آن ممکن است منافع آمریکا در خارج از این کشور و مکان‌های مرتبط با ایالات متحده و شهروندان آمریکایی در سراسر جهان را هدف قرار دهند.\nاین هشدار چند ساعت پیش از اعلام حمله آمریکا به سه نفتکش ایران منتشر شد.\nhttps://iranintl.com/202609058200",
+      "message_id": 355877,
+      "message_link": "https://t.me/IranintlTV/355877",
+      "text": "فاطمه مهاجرانی، سخنگوی دولت، در گفت‌وگویی به‌مناسبت دومین سال فعالیت دولت مسعود پزشکیان، اعتراضات دی‌ماه ۱۴۰۴ را «تلخ‌ترین روزهای زندگی کاری» خود خواند. او گفت به پزشکیان گفته است با وجود تردید نداشتن در دخالت بیگانگان، نمی‌داند «واقعا کم‌وکیف قضیه» چه بوده است.\n\nاو افزود به پزشکیان گفته است: «چه شد که جامعه رسید به جایی که بتواند سر نیروی امنیتی خودش این بلا را بیاورد و او به آن طرز فجیع به شهادت برسد؟»\n@iranintltv",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "19:29:38",
-      "gregorian_utc": "2026-09-05T15:59:38+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 205880,
-      "media_size_human": "201.05 KB",
+      "tehran_time": "19:42:41",
+      "gregorian_utc": "2026-09-05T16:12:41+00:00",
+      "media_type": "video",
+      "media_size_bytes": 1058215,
+      "media_size_human": "1.01 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355875_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355875_photo.jpg",
+      "media_local_path": "media/IranintlTV_355877_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355877_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T16:50:38.969432+00:00"
+      "archived_at": "2026-09-05T17:00:46.248271+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -797,7 +797,7 @@
       "media_local_path": "media/satlastnews_76391_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76391_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T16:50:39.351212+00:00"
+      "archived_at": "2026-09-05T17:00:46.518653+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -815,7 +815,7 @@
       "media_local_path": "media/Mellig_120659_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120659_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T16:50:39.723926+00:00"
+      "archived_at": "2026-09-05T17:00:46.791872+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -833,7 +833,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T16:50:40.070862+00:00"
+      "archived_at": "2026-09-05T17:00:47.017921+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -851,25 +851,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T16:50:38.488506+00:00"
+      "archived_at": "2026-09-05T17:00:45.985307+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355874,
-      "message_link": "https://t.me/IranintlTV/355874",
-      "text": "🎧نسخه صوتی اخبار شبانگاهی | شنبه ۱۴ شهریور\n@iranintlTV",
+      "message_id": 355876,
+      "message_link": "https://t.me/IranintlTV/355876",
+      "text": "سازمان عملیات تجارت دریایی بریتانیا اعلام کرد چند کشتی تجاری در شمال خلیج فارس و دریای عمان در جریان فعالیت‌های نظامی جاری در منطقه هدف آتش قرار گرفته و از کار افتادند.\n\nاین سازمان شنبه ۱۴ شهریور در اطلاعیه‌ای اعلام کرد گزارش‌هایی درباره این کشتی‌ها دریافت کرده، اما در حال حاضر نمی‌تواند وقوع تلفات یا پیامدهای زیست‌محیطی ناشی از حملات را تایید کند.\n\nبر اساس این اطلاعیه، مقام‌های مسئول در جریان این رویداد قرار گرفتند و تحقیقات درباره آن ادامه دارد.\n\nسازمان عملیات تجارت دریایی بریتانیا از دریانوردان خواست آخرین اطلاعات امنیت دریایی را در نظر بگیرند و تحولات عملیاتی منطقه را دنبال کنند.\nhttps://iranintl.com/202609050228",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "19:27:09",
-      "gregorian_utc": "2026-09-05T15:57:09+00:00",
-      "media_type": "audio",
-      "media_size_bytes": 30136939,
-      "media_size_human": "28.74 MB",
+      "tehran_time": "19:40:23",
+      "gregorian_utc": "2026-09-05T16:10:23+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 258294,
+      "media_size_human": "252.24 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355874_audio.mp3",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355874_audio.mp3",
+      "media_local_path": "media/IranintlTV_355876_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355876_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T16:50:38.969495+00:00"
+      "archived_at": "2026-09-05T17:00:46.248370+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -887,7 +887,7 @@
       "media_local_path": "media/satlastnews_76388_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76388_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T16:50:39.351272+00:00"
+      "archived_at": "2026-09-05T17:00:46.518701+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -905,7 +905,7 @@
       "media_local_path": "media/Mellig_120658_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120658_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T16:50:39.724039+00:00"
+      "archived_at": "2026-09-05T17:00:46.791981+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -923,7 +923,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T16:50:40.070886+00:00"
+      "archived_at": "2026-09-05T17:00:47.017941+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -941,25 +941,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T16:50:38.488531+00:00"
+      "archived_at": "2026-09-05T17:00:45.985331+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355873,
-      "message_link": "https://t.me/IranintlTV/355873",
-      "text": "پیت هگست، وزیر جنگ آمریکا، گفت اگر ایران به کشتی‌های آمریکایی شلیک کند، نیروهای ایالات متحده نفتکش‌های ایران را هدف قرار خواهند داد و آنها را غرق خواهند کرد.\n\nهگست شنبه ۱۴ شهریور در حساب ایکس خود و درباره اطلاعیه سنتکام درباره هدف قرار گرفتن سه نفتکش حامل نفت ایران نوشت: «موضوع ساده است؛ اگر ایران به کشتی‌های آمریکایی شلیک کند، نفتکش‌هایش را نابود و غرق خواهیم کرد. تنها کاری که باید انجام دهند این است که به نیروی دریایی آمریکا شلیک نکنند.»\n\nاو افزود: «ناوگان نفتکش‌های ایران بی‌دفاع است. ایران نیروی دریایی یا نیروی هوایی ندارد. هواپیماها، کشتی‌ها و زیردریایی‌های ما می‌توانند همه آنها را هدف قرار دهند.»\n\nسنتکام پیش‌تر اعلام کرده بود سه نفتکش مرتبط با ایران را پس از شلیک موشک‌های بالستیک سپاه پاسداران به سوی دو ناو جنگی آمریکا هدف قرار داده است.\nhttps://iranintl.com/202609057558",
+      "message_id": 355875,
+      "message_link": "https://t.me/IranintlTV/355875",
+      "text": "سفارت آمریکا در بحرین شنبه ۱۴ شهریور با صدور هشدار امنیتی از شهروندان آمریکایی خواست به دلیل احتمال «تشدید پیش‌بینی‌نشده» تنش‌ها در خاورمیانه، «هوشیاری بیشتری» داشته باشند.\n\nسفارت آمریکا اعلام کرد جمهوری اسلامی و گروه‌های حامی آن ممکن است منافع آمریکا در خارج از این کشور و مکان‌های مرتبط با ایالات متحده و شهروندان آمریکایی در سراسر جهان را هدف قرار دهند.\nاین هشدار چند ساعت پیش از اعلام حمله آمریکا به سه نفتکش ایران منتشر شد.\nhttps://iranintl.com/202609058200",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "19:16:39",
-      "gregorian_utc": "2026-09-05T15:46:39+00:00",
+      "tehran_time": "19:29:38",
+      "gregorian_utc": "2026-09-05T15:59:38+00:00",
       "media_type": "photo",
-      "media_size_bytes": 136654,
-      "media_size_human": "133.45 KB",
+      "media_size_bytes": 205880,
+      "media_size_human": "201.05 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355873_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355873_photo.jpg",
+      "media_local_path": "media/IranintlTV_355875_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355875_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T16:50:38.969628+00:00"
+      "archived_at": "2026-09-05T17:00:46.248445+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -977,7 +977,7 @@
       "media_local_path": "media/satlastnews_76387_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76387_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T16:50:39.351356+00:00"
+      "archived_at": "2026-09-05T17:00:46.518752+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -995,7 +995,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T16:50:39.724111+00:00"
+      "archived_at": "2026-09-05T17:00:46.792040+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -1013,7 +1013,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T16:50:40.070912+00:00"
+      "archived_at": "2026-09-05T17:00:47.017963+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1031,25 +1031,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T16:50:38.488556+00:00"
+      "archived_at": "2026-09-05T17:00:45.985353+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355872,
-      "message_link": "https://t.me/IranintlTV/355872",
-      "text": "خبرگزاری تسنیم، وابسته به سپاه پاسداران، گزارش داد یک نفتکش ایرانی صبح شنبه ۱۴ شهریور در اطراف جزیره خارک هدف حمله ارتش آمریکا قرار گرفت که تلفات جانی نداشت.\nتستیم به نقل از خبرنگار صداوسیما در جاسک هم از حمله آمریکا به دو نفتکش در محدوده این شهرستان خبر داد و نوشت که یکی از این نفتکش‌ها حامل محموله نفت بود.\n\nپیش‌تر سنتکام اعلام کرد پس از شلیک موشک‌های بالستیک سپاه پاسداران به سوی دو ناو جنگی آمریکا، نیروهای آمریکایی سه نفتکش ایران را هدف قرار دادند. نفتکش‌های «داونی» و «استارک ۱» از کار افتادند و نفتکش خالی «کایلو» پس از دستور تخلیه خدمه، در دریای عمان به‌طور کامل منهدم شد.\nhttps://iranintl.com/202609053819",
+      "message_id": 355874,
+      "message_link": "https://t.me/IranintlTV/355874",
+      "text": "🎧نسخه صوتی اخبار شبانگاهی | شنبه ۱۴ شهریور\n@iranintlTV",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "19:05:48",
-      "gregorian_utc": "2026-09-05T15:35:48+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 211432,
-      "media_size_human": "206.48 KB",
+      "tehran_time": "19:27:09",
+      "gregorian_utc": "2026-09-05T15:57:09+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 30136939,
+      "media_size_human": "28.74 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355872_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355872_photo.jpg",
+      "media_local_path": "media/IranintlTV_355874_audio.mp3",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355874_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T16:50:38.969729+00:00"
+      "archived_at": "2026-09-05T17:00:46.248493+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1067,7 +1067,7 @@
       "media_local_path": "media/satlastnews_76385_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76385_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T16:50:39.351416+00:00"
+      "archived_at": "2026-09-05T17:00:46.518794+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1085,7 +1085,7 @@
       "media_local_path": "media/Mellig_120656_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120656_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T16:50:39.724166+00:00"
+      "archived_at": "2026-09-05T17:00:46.792099+00:00"
     }
   ]
 }
