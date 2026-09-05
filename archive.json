@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-05T00:03:33.261697+00:00",
-  "shamsi_generated": "1405/06/14 00:03:33 تهران",
+  "generated_at": "2026-09-05T00:15:17.987400+00:00",
+  "shamsi_generated": "1405/06/14 00:15:17 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -41,7 +41,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T00:00:50.826612+00:00"
+      "archived_at": "2026-09-05T00:10:35.286537+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -59,7 +59,7 @@
       "media_local_path": "media/IranintlTV_355796_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355796_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T00:00:51.256961+00:00"
+      "archived_at": "2026-09-05T00:10:35.698720+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -77,25 +77,25 @@
       "media_local_path": "media/satlastnews_76405_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76405_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T00:00:51.548613+00:00"
+      "archived_at": "2026-09-05T00:10:36.136740+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120641,
-      "message_link": "https://t.me/Mellig/120641",
-      "text": "حمله موشکی جمهوری اسلامی از کرمان و اصفهان و کرمانشاه،اخبار لحظه به لحظه جنگ 13 شهریور 2585🖥😀\n\nMellig.net\n\n⚠️ پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 128.28 MB)",
+      "message_id": 120643,
+      "message_link": "https://t.me/Mellig/120643",
+      "text": "تصرف تپه های الطاهر و حدر رفتن\n20 سال زحمت جمهوری اسلامی\n🖥🖥🖥\nhttps://www.youtube.com/watch?v=FaKg5hoZssA",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "03:23:06",
-      "gregorian_utc": "2026-09-04T23:53:06+00:00",
-      "media_type": "audio",
-      "media_size_bytes": 134512568,
-      "media_size_human": "128.28 MB",
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 128.28 MB)",
-      "archived_at": "2026-09-05T00:00:51.810709+00:00"
+      "tehran_time": "03:33:30",
+      "gregorian_utc": "2026-09-05T00:03:30+00:00",
+      "media_type": "video",
+      "media_size_bytes": 16162647,
+      "media_size_human": "15.41 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_120643_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120643_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-09-05T00:10:36.524101+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -113,7 +113,7 @@
       "media_local_path": "media/khabarsara53_11_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_11_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T00:00:52.075733+00:00"
+      "archived_at": "2026-09-05T00:10:36.893817+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -131,7 +131,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T00:00:50.826663+00:00"
+      "archived_at": "2026-09-05T00:10:35.286603+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -149,7 +149,7 @@
       "media_local_path": "media/IranintlTV_355794_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355794_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T00:00:51.266971+00:00"
+      "archived_at": "2026-09-05T00:10:35.779330+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -167,25 +167,25 @@
       "media_local_path": "media/satlastnews_76404_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76404_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T00:00:51.548717+00:00"
+      "archived_at": "2026-09-05T00:10:36.136824+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120640,
-      "message_link": "https://t.me/Mellig/120640",
-      "text": "با درود بر شما\n\nهرشب صف بزنین در مشهد\n\nجاوید شاه🙏",
+      "message_id": 120642,
+      "message_link": "https://t.me/Mellig/120642",
+      "text": "لطفا اطلاع رسانی کنید\n\nویروس جدید توسط کسانی که میرن کربلا \n\nبچه شیعه واسه کشور ما مضر هست",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "02:58:13",
-      "gregorian_utc": "2026-09-04T23:28:13+00:00",
+      "tehran_time": "03:33:02",
+      "gregorian_utc": "2026-09-05T00:03:02+00:00",
       "media_type": "video",
-      "media_size_bytes": 10191949,
-      "media_size_human": "9.72 MB",
+      "media_size_bytes": 11720174,
+      "media_size_human": "11.18 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120640_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120640_video.mp4",
+      "media_local_path": "media/Mellig_120642_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120642_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T00:00:51.810777+00:00"
+      "archived_at": "2026-09-05T00:10:36.524136+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -203,7 +203,7 @@
       "media_local_path": "media/khabarsara53_10_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_10_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T00:00:52.075803+00:00"
+      "archived_at": "2026-09-05T00:10:36.893868+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -221,7 +221,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T00:00:50.826699+00:00"
+      "archived_at": "2026-09-05T00:10:35.286630+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -239,7 +239,7 @@
       "media_local_path": "media/IranintlTV_355793_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355793_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T00:00:51.267092+00:00"
+      "archived_at": "2026-09-05T00:10:35.779476+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -257,25 +257,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T00:00:51.548752+00:00"
+      "archived_at": "2026-09-05T00:10:36.136846+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120639,
-      "message_link": "https://t.me/Mellig/120639",
-      "text": "🚨**منابع عراقی : صدای جنگنده های ناشناس در بسیاری از شهرهای عراق شنیده میشه رفته رفته تعدادشون هم بیشتر میشه**",
+      "message_id": 120641,
+      "message_link": "https://t.me/Mellig/120641",
+      "text": "حمله موشکی جمهوری اسلامی از کرمان و اصفهان و کرمانشاه،اخبار لحظه به لحظه جنگ 13 شهریور 2585🖥😀\n\nMellig.net\n\n⚠️ پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 128.28 MB)",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "02:28:05",
-      "gregorian_utc": "2026-09-04T22:58:05+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
+      "tehran_time": "03:23:06",
+      "gregorian_utc": "2026-09-04T23:53:06+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 134512568,
+      "media_size_human": "128.28 MB",
       "media_downloaded": false,
       "media_local_path": null,
       "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T00:00:51.810839+00:00"
+      "no_media_reason": "پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 128.28 MB)",
+      "archived_at": "2026-09-05T00:10:36.524200+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -293,7 +293,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T00:00:52.075834+00:00"
+      "archived_at": "2026-09-05T00:10:36.893889+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -311,7 +311,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T00:00:50.826742+00:00"
+      "archived_at": "2026-09-05T00:10:35.286658+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -329,7 +329,7 @@
       "media_local_path": "media/IranintlTV_355792_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355792_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T00:00:51.267193+00:00"
+      "archived_at": "2026-09-05T00:10:35.779595+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -347,25 +347,25 @@
       "media_local_path": "media/satlastnews_76400_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76400_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T00:00:51.548815+00:00"
+      "archived_at": "2026-09-05T00:10:36.136888+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120638,
-      "message_link": "https://t.me/Mellig/120638",
-      "text": "🔴کاتز: منتظریم جمهوری اسلامی به تصرف ارتفاعات علی‌الطاهر واکنش نشون بده تا از غل و زنجیر و محدودیت‌های ایجاد شده توسط ترامپ آزاد بشیم",
+      "message_id": 120640,
+      "message_link": "https://t.me/Mellig/120640",
+      "text": "با درود بر شما\n\nهرشب صف بزنین در مشهد\n\nجاوید شاه🙏",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "01:33:15",
-      "gregorian_utc": "2026-09-04T22:03:15+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T00:00:51.810872+00:00"
+      "tehran_time": "02:58:13",
+      "gregorian_utc": "2026-09-04T23:28:13+00:00",
+      "media_type": "video",
+      "media_size_bytes": 10191949,
+      "media_size_human": "9.72 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_120640_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120640_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-09-05T00:10:36.524238+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -383,7 +383,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T00:00:52.075860+00:00"
+      "archived_at": "2026-09-05T00:10:36.893907+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -401,7 +401,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T00:00:50.826773+00:00"
+      "archived_at": "2026-09-05T00:10:35.286677+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -419,7 +419,7 @@
       "media_local_path": "media/IranintlTV_355791_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355791_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T00:00:51.267295+00:00"
+      "archived_at": "2026-09-05T00:10:35.779687+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -437,25 +437,25 @@
       "media_local_path": "media/satlastnews_76399_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76399_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T00:00:51.548908+00:00"
+      "archived_at": "2026-09-05T00:10:36.136952+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120637,
-      "message_link": "https://t.me/Mellig/120637",
-      "text": "۱۳ شهریور ملارد پمپ بنزین قلعه فرامرزیه",
+      "message_id": 120639,
+      "message_link": "https://t.me/Mellig/120639",
+      "text": "🚨**منابع عراقی : صدای جنگنده های ناشناس در بسیاری از شهرهای عراق شنیده میشه رفته رفته تعدادشون هم بیشتر میشه**",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "01:25:43",
-      "gregorian_utc": "2026-09-04T21:55:43+00:00",
-      "media_type": "video",
-      "media_size_bytes": 44009446,
-      "media_size_human": "41.97 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/Mellig_120637_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120637_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-09-05T00:00:51.810909+00:00"
+      "tehran_time": "02:28:05",
+      "gregorian_utc": "2026-09-04T22:58:05+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-09-05T00:10:36.524281+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -473,7 +473,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T00:00:52.075885+00:00"
+      "archived_at": "2026-09-05T00:10:36.893924+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -491,7 +491,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T00:00:50.826810+00:00"
+      "archived_at": "2026-09-05T00:10:35.286703+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -509,7 +509,7 @@
       "media_local_path": "media/IranintlTV_355790_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355790_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T00:00:51.267407+00:00"
+      "archived_at": "2026-09-05T00:10:35.779751+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -527,25 +527,25 @@
       "media_local_path": "media/satlastnews_76398_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76398_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T00:00:51.548974+00:00"
+      "archived_at": "2026-09-05T00:10:36.137000+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120636,
-      "message_link": "https://t.me/Mellig/120636",
-      "text": "دوستان لطفا از این تویت حمایت کنید \nhttps://x.com/mobarez_nastooh/status/2095982080463077531\n\nبسیاری از خانواده های کشته شدگان در ایران به خصوص در روزهای 18 و 19 دی ماه ناراحت هستند که چرا مجاهدین از نام فرزاندان آنها استفاده کرده و آنها را متعلق به این گروه میدانند. مردم ایران ذاتا از مجاهدین هم به اندازه حکومت اسلامی متنفر هستند. دلیل آن واضح است. چون آنها هم تفکر اسلامی دارند و هم تفکر سوسیالیستی . دو چیزی که باعث شد کشور رو به پیشرفت ما در سال 1979 رو به ارتجاع و نابودی برود. از پرزیدنت ترامپ میخواهیم به هیچ وجهی فریب این گروه تروریستی را نخورد.",
+      "message_id": 120638,
+      "message_link": "https://t.me/Mellig/120638",
+      "text": "🔴کاتز: منتظریم جمهوری اسلامی به تصرف ارتفاعات علی‌الطاهر واکنش نشون بده تا از غل و زنجیر و محدودیت‌های ایجاد شده توسط ترامپ آزاد بشیم",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "00:38:48",
-      "gregorian_utc": "2026-09-04T21:08:48+00:00",
-      "media_type": "webpage",
+      "tehran_time": "01:33:15",
+      "gregorian_utc": "2026-09-04T22:03:15+00:00",
+      "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
       "media_downloaded": false,
       "media_local_path": null,
       "media_link": null,
-      "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-09-05T00:00:51.811001+00:00"
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-09-05T00:10:36.524301+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -563,7 +563,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T00:00:52.075910+00:00"
+      "archived_at": "2026-09-05T00:10:36.893940+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -581,7 +581,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T00:00:50.826840+00:00"
+      "archived_at": "2026-09-05T00:10:35.286722+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -599,7 +599,7 @@
       "media_local_path": "media/IranintlTV_355789_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355789_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T00:00:51.267575+00:00"
+      "archived_at": "2026-09-05T00:10:35.779868+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -617,25 +617,25 @@
       "media_local_path": "media/satlastnews_76397_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76397_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T00:00:51.549029+00:00"
+      "archived_at": "2026-09-05T00:10:36.137036+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120635,
-      "message_link": "https://t.me/Mellig/120635",
-      "text": "درود مبارز نستوه\nاین آهنگ تقدیمتون\nبه امید آزادی ایران",
+      "message_id": 120637,
+      "message_link": "https://t.me/Mellig/120637",
+      "text": "۱۳ شهریور ملارد پمپ بنزین قلعه فرامرزیه",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "00:08:52",
-      "gregorian_utc": "2026-09-04T20:38:52+00:00",
-      "media_type": "audio",
-      "media_size_bytes": 4860028,
-      "media_size_human": "4.63 MB",
+      "tehran_time": "01:25:43",
+      "gregorian_utc": "2026-09-04T21:55:43+00:00",
+      "media_type": "video",
+      "media_size_bytes": 44009446,
+      "media_size_human": "41.97 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120635_audio.mp3",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120635_audio.mp3",
+      "media_local_path": "media/Mellig_120637_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120637_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T00:00:51.811043+00:00"
+      "archived_at": "2026-09-05T00:10:36.524324+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -653,7 +653,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T00:00:52.075934+00:00"
+      "archived_at": "2026-09-05T00:10:36.893957+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -671,7 +671,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T00:00:50.826882+00:00"
+      "archived_at": "2026-09-05T00:10:35.286756+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -689,7 +689,7 @@
       "media_local_path": "media/IranintlTV_355788_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355788_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T00:00:51.267665+00:00"
+      "archived_at": "2026-09-05T00:10:35.779926+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -707,17 +707,17 @@
       "media_local_path": "media/satlastnews_76392_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76392_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T00:00:51.549131+00:00"
+      "archived_at": "2026-09-05T00:10:36.137110+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120634,
-      "message_link": "https://t.me/Mellig/120634",
-      "text": "برنامه زنده آغاز شد بشتابید \n\nبرنامه زنده در کیک :  🦿🦿🦿\n\nhttps://kick.com/mehdimirghaderi\n\nبرنامه زنده در یوتیوب : 🖥🖥\n\nhttps://www.youtube.com/@MehdiMirghaderi",
-      "shamsi_date": "1405/06/13",
-      "tehran_time": "22:33:11",
-      "gregorian_utc": "2026-09-04T19:03:11+00:00",
+      "message_id": 120636,
+      "message_link": "https://t.me/Mellig/120636",
+      "text": "دوستان لطفا از این تویت حمایت کنید \nhttps://x.com/mobarez_nastooh/status/2095982080463077531\n\nبسیاری از خانواده های کشته شدگان در ایران به خصوص در روزهای 18 و 19 دی ماه ناراحت هستند که چرا مجاهدین از نام فرزاندان آنها استفاده کرده و آنها را متعلق به این گروه میدانند. مردم ایران ذاتا از مجاهدین هم به اندازه حکومت اسلامی متنفر هستند. دلیل آن واضح است. چون آنها هم تفکر اسلامی دارند و هم تفکر سوسیالیستی . دو چیزی که باعث شد کشور رو به پیشرفت ما در سال 1979 رو به ارتجاع و نابودی برود. از پرزیدنت ترامپ میخواهیم به هیچ وجهی فریب این گروه تروریستی را نخورد.",
+      "shamsi_date": "1405/06/14",
+      "tehran_time": "00:38:48",
+      "gregorian_utc": "2026-09-04T21:08:48+00:00",
       "media_type": "webpage",
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -725,7 +725,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-09-05T00:00:51.811104+00:00"
+      "archived_at": "2026-09-05T00:10:36.524391+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -743,7 +743,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T00:00:52.075960+00:00"
+      "archived_at": "2026-09-05T00:10:36.893975+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -761,7 +761,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T00:00:50.826914+00:00"
+      "archived_at": "2026-09-05T00:10:35.286776+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -779,7 +779,7 @@
       "media_local_path": "media/IranintlTV_355787_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355787_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T00:00:51.267736+00:00"
+      "archived_at": "2026-09-05T00:10:35.780012+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -797,25 +797,25 @@
       "media_local_path": "media/satlastnews_76391_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76391_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T00:00:51.549197+00:00"
+      "archived_at": "2026-09-05T00:10:36.137165+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120633,
-      "message_link": "https://t.me/Mellig/120633",
-      "text": "**پرزیدنت ترامپ در تروث‌سوشال:**\n\nدیوانگانِ چپِ تندرو، دموکرات‌ها و کمونیست‌ها ترجیح می‌دهند که ما در جنگ با رژیم ایران شکست بخوریم تا اینکه پرزیدنت دونالد جی. ترامپ در جنگ برای آمریکا پیروز شود.\n\nبه عبارت دیگر، آن‌ها ترجیح می‌دهند که ما شکست بخوریم تا اینکه پیروز شویم!\n\nاین افراد بسیار بیمار هستند که از سندرم TDS (سندرم اختلال ترامپ) رنج می‌برند.\n\nپرزیدنت دونالد جی.‌ ترامپ",
-      "shamsi_date": "1405/06/13",
-      "tehran_time": "22:28:02",
-      "gregorian_utc": "2026-09-04T18:58:02+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 162570,
-      "media_size_human": "158.76 KB",
+      "message_id": 120635,
+      "message_link": "https://t.me/Mellig/120635",
+      "text": "درود مبارز نستوه\nاین آهنگ تقدیمتون\nبه امید آزادی ایران",
+      "shamsi_date": "1405/06/14",
+      "tehran_time": "00:08:52",
+      "gregorian_utc": "2026-09-04T20:38:52+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 4860028,
+      "media_size_human": "4.63 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120633_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120633_photo.jpg",
+      "media_local_path": "media/Mellig_120635_audio.mp3",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120635_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T00:00:51.811196+00:00"
+      "archived_at": "2026-09-05T00:10:36.524417+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -833,7 +833,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T00:00:52.075983+00:00"
+      "archived_at": "2026-09-05T00:10:36.893990+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -851,7 +851,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T00:00:50.826941+00:00"
+      "archived_at": "2026-09-05T00:10:35.286793+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -869,7 +869,7 @@
       "media_local_path": "media/IranintlTV_355786_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355786_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T00:00:51.267808+00:00"
+      "archived_at": "2026-09-05T00:10:35.780068+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -887,25 +887,25 @@
       "media_local_path": "media/satlastnews_76388_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76388_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T00:00:51.549259+00:00"
+      "archived_at": "2026-09-05T00:10:36.137211+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120632,
-      "message_link": "https://t.me/Mellig/120632",
-      "text": "**گزارشگر**: اگر این درگیری با ایران جنگ نیست، پس دقیقاً چه چیزی است؟\n\n **ترامپ**: من آن را یک درگیری نظامی می‌نامم، زیرا برای ما مسئله‌ای جزئی است؛ یک موضوع بزرگ نیست.",
+      "message_id": 120634,
+      "message_link": "https://t.me/Mellig/120634",
+      "text": "برنامه زنده آغاز شد بشتابید \n\nبرنامه زنده در کیک :  🦿🦿🦿\n\nhttps://kick.com/mehdimirghaderi\n\nبرنامه زنده در یوتیوب : 🖥🖥\n\nhttps://www.youtube.com/@MehdiMirghaderi",
       "shamsi_date": "1405/06/13",
-      "tehran_time": "22:25:33",
-      "gregorian_utc": "2026-09-04T18:55:33+00:00",
-      "media_type": "video",
-      "media_size_bytes": 8769643,
-      "media_size_human": "8.36 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/Mellig_120632_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120632_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-09-05T00:00:51.811265+00:00"
+      "tehran_time": "22:33:11",
+      "gregorian_utc": "2026-09-04T19:03:11+00:00",
+      "media_type": "webpage",
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
+      "archived_at": "2026-09-05T00:10:36.524459+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -923,7 +923,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T00:00:52.076006+00:00"
+      "archived_at": "2026-09-05T00:10:36.894007+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -941,7 +941,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T00:00:50.826965+00:00"
+      "archived_at": "2026-09-05T00:10:35.286809+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -959,7 +959,7 @@
       "media_local_path": "media/IranintlTV_355785_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355785_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T00:00:51.267892+00:00"
+      "archived_at": "2026-09-05T00:10:35.780130+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -977,25 +977,25 @@
       "media_local_path": "media/satlastnews_76387_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76387_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T00:00:51.549319+00:00"
+      "archived_at": "2026-09-05T00:10:36.137252+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120631,
-      "message_link": "https://t.me/Mellig/120631",
-      "text": "رویترز\n کاخ سفید تلاش می‌کند وضعیت را «جنگ» توصیف نکند\nجی‌دی ونس: وضعیت فعلی نباید به‌عنوان یک «جنگ» توصیف شود، در حالی که همزمان حملات و درگیری‌های آمریکا و ایران ادامه داشته و تنش در هرمز بالاست.\nاین موضع از نظر سیاسی مهم است، زیرا دولت ترامپ همزمان تحت فشار افزایش قیمت سوخت و نزدیک شدن انتخابات میان‌دوره‌ای آمریکا قرار دارد.",
+      "message_id": 120633,
+      "message_link": "https://t.me/Mellig/120633",
+      "text": "**پرزیدنت ترامپ در تروث‌سوشال:**\n\nدیوانگانِ چپِ تندرو، دموکرات‌ها و کمونیست‌ها ترجیح می‌دهند که ما در جنگ با رژیم ایران شکست بخوریم تا اینکه پرزیدنت دونالد جی. ترامپ در جنگ برای آمریکا پیروز شود.\n\nبه عبارت دیگر، آن‌ها ترجیح می‌دهند که ما شکست بخوریم تا اینکه پیروز شویم!\n\nاین افراد بسیار بیمار هستند که از سندرم TDS (سندرم اختلال ترامپ) رنج می‌برند.\n\nپرزیدنت دونالد جی.‌ ترامپ",
       "shamsi_date": "1405/06/13",
-      "tehran_time": "22:22:32",
-      "gregorian_utc": "2026-09-04T18:52:32+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T00:00:51.811296+00:00"
+      "tehran_time": "22:28:02",
+      "gregorian_utc": "2026-09-04T18:58:02+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 162570,
+      "media_size_human": "158.76 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_120633_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120633_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-09-05T00:10:36.524526+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -1013,7 +1013,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T00:00:52.076032+00:00"
+      "archived_at": "2026-09-05T00:10:36.894024+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1031,7 +1031,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T00:00:50.826990+00:00"
+      "archived_at": "2026-09-05T00:10:35.286824+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -1049,7 +1049,7 @@
       "media_local_path": "media/IranintlTV_355784_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355784_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T00:00:51.267980+00:00"
+      "archived_at": "2026-09-05T00:10:35.780213+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1067,25 +1067,25 @@
       "media_local_path": "media/satlastnews_76385_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76385_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T00:00:51.549396+00:00"
+      "archived_at": "2026-09-05T00:10:36.137290+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120630,
-      "message_link": "https://t.me/Mellig/120630",
-      "text": "زاکانی، شهردار تهران:\nتجمعات شبانه هنوز هم ادامه داره و تا وقتی مجتبی خامنه‌ای دستور نده متوقف نمیشه.\n\nMellig.net",
+      "message_id": 120632,
+      "message_link": "https://t.me/Mellig/120632",
+      "text": "**گزارشگر**: اگر این درگیری با ایران جنگ نیست، پس دقیقاً چه چیزی است؟\n\n **ترامپ**: من آن را یک درگیری نظامی می‌نامم، زیرا برای ما مسئله‌ای جزئی است؛ یک موضوع بزرگ نیست.",
       "shamsi_date": "1405/06/13",
-      "tehran_time": "21:31:50",
-      "gregorian_utc": "2026-09-04T18:01:50+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 61943,
-      "media_size_human": "60.49 KB",
+      "tehran_time": "22:25:33",
+      "gregorian_utc": "2026-09-04T18:55:33+00:00",
+      "media_type": "video",
+      "media_size_bytes": 8769643,
+      "media_size_human": "8.36 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120630_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120630_photo.jpg",
+      "media_local_path": "media/Mellig_120632_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120632_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T00:00:51.811352+00:00"
+      "archived_at": "2026-09-05T00:10:36.524573+00:00"
     }
   ]
 }
