@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-05T06:24:00.373101+00:00",
-  "shamsi_generated": "1405/06/14 06:24:00 تهران",
+  "generated_at": "2026-09-05T06:34:39.710464+00:00",
+  "shamsi_generated": "1405/06/14 06:34:39 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -41,25 +41,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T06:20:36.038763+00:00"
+      "archived_at": "2026-09-05T06:30:44.611815+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355808,
-      "message_link": "https://t.me/IranintlTV/355808",
-      "text": "🎧نسخه صوتی اخبار بامدادی | شنبه ۱۴ شهریور\n@iranintlTV",
+      "message_id": 355809,
+      "message_link": "https://t.me/IranintlTV/355809",
+      "text": "علی‌رضا نامور حقیقی، تحلیلگر سیاسی، با اشاره به تلاش آمریکا، بریتانیا، فرانسه و آلمان برای ارجاع دوباره پرونده هسته‌ای جمهوری اسلامی به شورای امنیت سازمان ملل گفت این اقدام بیشتر جنبه سیاسی و نمادین دارد و از نظر عملی، اقدام تازه‌ای فراتر از قطعنامه‌ها و تحریم‌های موجود به همراه نخواهد داشت.\n@iranintltv",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "09:06:28",
-      "gregorian_utc": "2026-09-05T05:36:28+00:00",
-      "media_type": "audio",
-      "media_size_bytes": 30149174,
-      "media_size_human": "28.75 MB",
+      "tehran_time": "09:55:43",
+      "gregorian_utc": "2026-09-05T06:25:43+00:00",
+      "media_type": "video",
+      "media_size_bytes": 3491749,
+      "media_size_human": "3.33 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355808_audio.mp3",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355808_audio.mp3",
+      "media_local_path": "media/IranintlTV_355809_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355809_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T06:20:36.298922+00:00"
+      "archived_at": "2026-09-05T06:30:44.885644+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -77,7 +77,7 @@
       "media_local_path": "media/satlastnews_76405_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76405_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T06:20:36.582886+00:00"
+      "archived_at": "2026-09-05T06:30:45.243886+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -95,7 +95,7 @@
       "media_local_path": "media/Mellig_120643_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120643_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T06:20:36.838004+00:00"
+      "archived_at": "2026-09-05T06:30:45.530958+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -113,7 +113,7 @@
       "media_local_path": "media/khabarsara53_11_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_11_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T06:20:37.068361+00:00"
+      "archived_at": "2026-09-05T06:30:45.778962+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -131,25 +131,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T06:20:36.038812+00:00"
+      "archived_at": "2026-09-05T06:30:44.611863+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355807,
-      "message_link": "https://t.me/IranintlTV/355807",
-      "text": "جنگ پهپادی روسیه و اوکراین در دریای سیاه، چهره کشتی‌های عبوری از تنگه بسفر را هم تغییر داده است. نفتکش‌ها و کشتی‌های باری با تور، مخازن آب و حتی لاستیک تلاش می‌کنند از خود در برابر حملات پهپادهای دریایی محافظت کنند. \n\nهمزمان با افزایش حملات به کشتی‌ها و زیرساخت‌های بندری، آنکارا بار دیگر وارد رایزنی با روسیه و اوکراین شده تا امنیت کشتیرانی در دریای سیاه تامین شود.\n\nگزارش فرزیا ثابتی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 355808,
+      "message_link": "https://t.me/IranintlTV/355808",
+      "text": "🎧نسخه صوتی اخبار بامدادی | شنبه ۱۴ شهریور\n@iranintlTV",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "09:01:58",
-      "gregorian_utc": "2026-09-05T05:31:58+00:00",
-      "media_type": "video",
-      "media_size_bytes": 1517244,
-      "media_size_human": "1.45 MB",
+      "tehran_time": "09:06:28",
+      "gregorian_utc": "2026-09-05T05:36:28+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 30149174,
+      "media_size_human": "28.75 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355807_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355807_video.mp4",
+      "media_local_path": "media/IranintlTV_355808_audio.mp3",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355808_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T06:20:36.299071+00:00"
+      "archived_at": "2026-09-05T06:30:44.950385+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -167,7 +167,7 @@
       "media_local_path": "media/satlastnews_76404_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76404_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T06:20:36.582989+00:00"
+      "archived_at": "2026-09-05T06:30:45.243986+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -185,7 +185,7 @@
       "media_local_path": "media/Mellig_120642_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120642_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T06:20:36.838052+00:00"
+      "archived_at": "2026-09-05T06:30:45.531004+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -203,7 +203,7 @@
       "media_local_path": "media/khabarsara53_10_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_10_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T06:20:37.068429+00:00"
+      "archived_at": "2026-09-05T06:30:45.779026+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -221,25 +221,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T06:20:36.038848+00:00"
+      "archived_at": "2026-09-05T06:30:44.611898+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355806,
-      "message_link": "https://t.me/IranintlTV/355806",
-      "text": "ماموران امنیتی جمهوری اسلامی نهم شهریور به سوی جوانان جویای کار معترض به روند استخدام در پالایشگاه لیشتر گچساران و شرکت نیشکر دعبل خزاعی در اهواز تیراندازی کردند. معترضان به تبعیض و نحوه استخدام نیرو اعتراض داشتند.\n\nگفت‌وگو با روزبه بوالهری، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
+      "message_id": 355807,
+      "message_link": "https://t.me/IranintlTV/355807",
+      "text": "جنگ پهپادی روسیه و اوکراین در دریای سیاه، چهره کشتی‌های عبوری از تنگه بسفر را هم تغییر داده است. نفتکش‌ها و کشتی‌های باری با تور، مخازن آب و حتی لاستیک تلاش می‌کنند از خود در برابر حملات پهپادهای دریایی محافظت کنند. \n\nهمزمان با افزایش حملات به کشتی‌ها و زیرساخت‌های بندری، آنکارا بار دیگر وارد رایزنی با روسیه و اوکراین شده تا امنیت کشتیرانی در دریای سیاه تامین شود.\n\nگزارش فرزیا ثابتی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "08:51:05",
-      "gregorian_utc": "2026-09-05T05:21:05+00:00",
+      "tehran_time": "09:01:58",
+      "gregorian_utc": "2026-09-05T05:31:58+00:00",
       "media_type": "video",
-      "media_size_bytes": 3204434,
-      "media_size_human": "3.06 MB",
+      "media_size_bytes": 1517244,
+      "media_size_human": "1.45 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355806_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355806_video.mp4",
+      "media_local_path": "media/IranintlTV_355807_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355807_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T06:20:36.299150+00:00"
+      "archived_at": "2026-09-05T06:30:44.950553+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -257,7 +257,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T06:20:36.583018+00:00"
+      "archived_at": "2026-09-05T06:30:45.244015+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -275,7 +275,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 128.28 MB)",
-      "archived_at": "2026-09-05T06:20:36.838119+00:00"
+      "archived_at": "2026-09-05T06:30:45.531069+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -293,7 +293,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T06:20:37.068457+00:00"
+      "archived_at": "2026-09-05T06:30:45.779052+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -311,25 +311,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T06:20:36.038881+00:00"
+      "archived_at": "2026-09-05T06:30:44.611930+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355805,
-      "message_link": "https://t.me/IranintlTV/355805",
-      "text": "شهرام خلدی، پژوهشگر تاریخ خاورمیانه و روابط بین‌الملل، با اشاره به احتمال حمله آمریکا به سایت هسته‌ای «کوه کلنگ‌» گفت تاثیر چنین حمله‌ای به شیوه اجرای آن بستگی دارد و برای نابودی تجهیزات زیر کوه ممکن است به شمار زیادی بمب سنگرشکن یا استفاده از نیروهای ویژه نیاز باشد.\n@iranintltv",
+      "message_id": 355806,
+      "message_link": "https://t.me/IranintlTV/355806",
+      "text": "ماموران امنیتی جمهوری اسلامی نهم شهریور به سوی جوانان جویای کار معترض به روند استخدام در پالایشگاه لیشتر گچساران و شرکت نیشکر دعبل خزاعی در اهواز تیراندازی کردند. معترضان به تبعیض و نحوه استخدام نیرو اعتراض داشتند.\n\nگفت‌وگو با روزبه بوالهری، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "08:34:14",
-      "gregorian_utc": "2026-09-05T05:04:14+00:00",
+      "tehran_time": "08:51:05",
+      "gregorian_utc": "2026-09-05T05:21:05+00:00",
       "media_type": "video",
-      "media_size_bytes": 4412255,
-      "media_size_human": "4.21 MB",
+      "media_size_bytes": 3204434,
+      "media_size_human": "3.06 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355805_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355805_video.mp4",
+      "media_local_path": "media/IranintlTV_355806_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355806_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T06:20:36.299223+00:00"
+      "archived_at": "2026-09-05T06:30:44.950637+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -347,7 +347,7 @@
       "media_local_path": "media/satlastnews_76400_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76400_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T06:20:36.583076+00:00"
+      "archived_at": "2026-09-05T06:30:45.244072+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -365,7 +365,7 @@
       "media_local_path": "media/Mellig_120640_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120640_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T06:20:36.838165+00:00"
+      "archived_at": "2026-09-05T06:30:45.531120+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -383,7 +383,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T06:20:37.068479+00:00"
+      "archived_at": "2026-09-05T06:30:45.779074+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -401,25 +401,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T06:20:36.038906+00:00"
+      "archived_at": "2026-09-05T06:30:44.611954+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355804,
-      "message_link": "https://t.me/IranintlTV/355804",
-      "text": "نیویورک‌تایمز به نقل از مقام‌های آگاه گزارش داد بازرسان دولت آمریکا حدود ۵۰ نفر از اعضای ستاد مشترک نیروهای مسلح این کشور را در ارتباط با درز اطلاعات به خبرنگاران، از جمله در ارتباط با ذخایر مهمات حیاتی آمریکا در جنگ ایران، تحت آزمایش دروغ‌سنجی قرار دادند.\nبر اساس این گزارش، بازرسان از افسران نظامی و کارکنان غیرنظامی پرسیدند که آیا اطلاعات طبقه‌بندی‌شده، از جمله اطلاعات مربوط به کاهش ذخایر مهمات آمریکا، را در اختیار خبرنگاران قرار داده‌اند یا خیر.\nاین آزمایش‌ها در ماه اوت و پس از انتشار گزارش‌هایی درباره کمبود مهمات کلیدی، از جمله موشک‌های دوربرد و موشک‌های رهگیر پاتریوت، انجام شد.\nنیویورک‌تایمز گزارش داد انجام آزمایش‌های گسترده پلی‌گراف در چنین ابعادی در میان مقام‌های ارشد نظامی آمریکا بی‌سابقه بوده است.\nشان پارنل، سخنگوی پنتاگون، گفت این وزارتخانه درباره مسائل داخلی مربوط به کارکنان یا تحقیقات اظهارنظر نمی‌کند، اما «تمام موارد درز اطلاعات طبقه‌بندی‌شده مرتبط با امنیت ملی را بسیار جدی می‌گیرد و بر همین اساس درباره آنها تحقیق می‌کند.»\n\nhttps://iranintl.com/202609051658",
+      "message_id": 355805,
+      "message_link": "https://t.me/IranintlTV/355805",
+      "text": "شهرام خلدی، پژوهشگر تاریخ خاورمیانه و روابط بین‌الملل، با اشاره به احتمال حمله آمریکا به سایت هسته‌ای «کوه کلنگ‌» گفت تاثیر چنین حمله‌ای به شیوه اجرای آن بستگی دارد و برای نابودی تجهیزات زیر کوه ممکن است به شمار زیادی بمب سنگرشکن یا استفاده از نیروهای ویژه نیاز باشد.\n@iranintltv",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "07:42:55",
-      "gregorian_utc": "2026-09-05T04:12:55+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 293175,
-      "media_size_human": "286.30 KB",
+      "tehran_time": "08:34:14",
+      "gregorian_utc": "2026-09-05T05:04:14+00:00",
+      "media_type": "video",
+      "media_size_bytes": 4412255,
+      "media_size_human": "4.21 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355804_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355804_photo.jpg",
+      "media_local_path": "media/IranintlTV_355805_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355805_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T06:20:36.299433+00:00"
+      "archived_at": "2026-09-05T06:30:44.950705+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -437,7 +437,7 @@
       "media_local_path": "media/satlastnews_76399_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76399_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T06:20:36.583161+00:00"
+      "archived_at": "2026-09-05T06:30:45.244157+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -455,7 +455,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T06:20:36.838222+00:00"
+      "archived_at": "2026-09-05T06:30:45.531175+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -473,7 +473,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T06:20:37.068501+00:00"
+      "archived_at": "2026-09-05T06:30:45.779095+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -491,25 +491,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T06:20:36.038937+00:00"
+      "archived_at": "2026-09-05T06:30:44.611984+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355803,
-      "message_link": "https://t.me/IranintlTV/355803",
-      "text": "سرخط خبرهای شنبه ۱۴ شهریور\n@iranintltv",
+      "message_id": 355804,
+      "message_link": "https://t.me/IranintlTV/355804",
+      "text": "نیویورک‌تایمز به نقل از مقام‌های آگاه گزارش داد بازرسان دولت آمریکا حدود ۵۰ نفر از اعضای ستاد مشترک نیروهای مسلح این کشور را در ارتباط با درز اطلاعات به خبرنگاران، از جمله در ارتباط با ذخایر مهمات حیاتی آمریکا در جنگ ایران، تحت آزمایش دروغ‌سنجی قرار دادند.\nبر اساس این گزارش، بازرسان از افسران نظامی و کارکنان غیرنظامی پرسیدند که آیا اطلاعات طبقه‌بندی‌شده، از جمله اطلاعات مربوط به کاهش ذخایر مهمات آمریکا، را در اختیار خبرنگاران قرار داده‌اند یا خیر.\nاین آزمایش‌ها در ماه اوت و پس از انتشار گزارش‌هایی درباره کمبود مهمات کلیدی، از جمله موشک‌های دوربرد و موشک‌های رهگیر پاتریوت، انجام شد.\nنیویورک‌تایمز گزارش داد انجام آزمایش‌های گسترده پلی‌گراف در چنین ابعادی در میان مقام‌های ارشد نظامی آمریکا بی‌سابقه بوده است.\nشان پارنل، سخنگوی پنتاگون، گفت این وزارتخانه درباره مسائل داخلی مربوط به کارکنان یا تحقیقات اظهارنظر نمی‌کند، اما «تمام موارد درز اطلاعات طبقه‌بندی‌شده مرتبط با امنیت ملی را بسیار جدی می‌گیرد و بر همین اساس درباره آنها تحقیق می‌کند.»\n\nhttps://iranintl.com/202609051658",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "07:33:47",
-      "gregorian_utc": "2026-09-05T04:03:47+00:00",
-      "media_type": "video",
-      "media_size_bytes": 1023304,
-      "media_size_human": "999.32 KB",
+      "tehran_time": "07:42:55",
+      "gregorian_utc": "2026-09-05T04:12:55+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 293175,
+      "media_size_human": "286.30 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355803_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355803_video.mp4",
+      "media_local_path": "media/IranintlTV_355804_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355804_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T06:20:36.299477+00:00"
+      "archived_at": "2026-09-05T06:30:44.950927+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -527,7 +527,7 @@
       "media_local_path": "media/satlastnews_76398_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76398_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T06:20:36.583224+00:00"
+      "archived_at": "2026-09-05T06:30:45.244222+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -545,7 +545,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T06:20:36.838271+00:00"
+      "archived_at": "2026-09-05T06:30:45.531199+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -563,7 +563,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T06:20:37.068522+00:00"
+      "archived_at": "2026-09-05T06:30:45.779116+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -581,25 +581,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T06:20:36.038961+00:00"
+      "archived_at": "2026-09-05T06:30:44.612008+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355802,
-      "message_link": "https://t.me/IranintlTV/355802",
-      "text": "دو تشکل کارگری شورای سازماندهی اعتراضات کارگران پیمانی نفت و  شورای سازماندهی اعتراضات کارگران غیررسمی نفت در بیانیه مشترکی تیراندازی به جوانان جویای کار در روز نهم شهریور در گچساران و اهواز را محکوم کردند. \nاین بیانیه بااشاره به تیراندازی نیروی انتظامی به جوانان جویای کار در مقابل پالایشگاه تازه تاسیس «لیشتر» در گچساران، و شرکت نیشکر «دعبل خزاعی» در اهواز در روز نهم شهریور نوشتند: «این بساط سرکوب نیروی کار، بیکار‌سازی‌ها یا‌ حتی به رگبار بستن جوان جویای کار و معیشت تا کی می‌تواند ادامه یابد؟»\nدر بیانیه آمده است: «این تنها جوانان جویای کار در گچساران و اهواز نیستند که برای کار و معاش جمع شده و فریاد اعتراض از گرسنگی و بیکاری سر می‌دهند. این درد عمومی جمعیت میلیونی جوانان در ایران و همه ما مردم است. بیکاری درد عمومی است و هم اکنون تعداد بی‌شماری از همکاران ما در نفت از کار بیکار شده‌اند و بختک بیکاری به جان میلیون‌ها انسان در این جامعه چنگ انداخته است.»\nاین دو شورا هشدار دادند: «جان بسیاری از همکاران ما و کارگران و بخش‌های مختلف مردم از فقر و بیکاری به لب رسیده است.»\nhttps://iranintl.com/202609059159",
+      "message_id": 355803,
+      "message_link": "https://t.me/IranintlTV/355803",
+      "text": "سرخط خبرهای شنبه ۱۴ شهریور\n@iranintltv",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "07:14:26",
-      "gregorian_utc": "2026-09-05T03:44:26+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 77070,
-      "media_size_human": "75.26 KB",
+      "tehran_time": "07:33:47",
+      "gregorian_utc": "2026-09-05T04:03:47+00:00",
+      "media_type": "video",
+      "media_size_bytes": 1023304,
+      "media_size_human": "999.32 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355802_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355802_photo.jpg",
+      "media_local_path": "media/IranintlTV_355803_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355803_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T06:20:36.299616+00:00"
+      "archived_at": "2026-09-05T06:30:44.950983+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -617,7 +617,7 @@
       "media_local_path": "media/satlastnews_76397_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76397_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T06:20:36.583286+00:00"
+      "archived_at": "2026-09-05T06:30:45.244266+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -635,7 +635,7 @@
       "media_local_path": "media/Mellig_120637_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120637_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T06:20:36.838310+00:00"
+      "archived_at": "2026-09-05T06:30:45.531228+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -653,7 +653,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T06:20:37.068544+00:00"
+      "archived_at": "2026-09-05T06:30:45.779136+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -671,25 +671,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T06:20:36.038999+00:00"
+      "archived_at": "2026-09-05T06:30:44.612046+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355801,
-      "message_link": "https://t.me/IranintlTV/355801",
-      "text": "مدیریت بحران استانداری اصفهان اعلام کرد شامگاه جمعه هنگام عبور یک تانکر از خیابان کاظمی این شهر، بخشی از این خیابان فرونشست و چرخ‌های تانکر در حفره ایجاد شده فرورفت. ماموران آتش‌نشانی و شرکت آب‌وفاضلاب توانستند تانکر را از حفره خارج کنند.\nhttps://iranintl.com/202609053134",
+      "message_id": 355802,
+      "message_link": "https://t.me/IranintlTV/355802",
+      "text": "دو تشکل کارگری شورای سازماندهی اعتراضات کارگران پیمانی نفت و  شورای سازماندهی اعتراضات کارگران غیررسمی نفت در بیانیه مشترکی تیراندازی به جوانان جویای کار در روز نهم شهریور در گچساران و اهواز را محکوم کردند. \nاین بیانیه بااشاره به تیراندازی نیروی انتظامی به جوانان جویای کار در مقابل پالایشگاه تازه تاسیس «لیشتر» در گچساران، و شرکت نیشکر «دعبل خزاعی» در اهواز در روز نهم شهریور نوشتند: «این بساط سرکوب نیروی کار، بیکار‌سازی‌ها یا‌ حتی به رگبار بستن جوان جویای کار و معیشت تا کی می‌تواند ادامه یابد؟»\nدر بیانیه آمده است: «این تنها جوانان جویای کار در گچساران و اهواز نیستند که برای کار و معاش جمع شده و فریاد اعتراض از گرسنگی و بیکاری سر می‌دهند. این درد عمومی جمعیت میلیونی جوانان در ایران و همه ما مردم است. بیکاری درد عمومی است و هم اکنون تعداد بی‌شماری از همکاران ما در نفت از کار بیکار شده‌اند و بختک بیکاری به جان میلیون‌ها انسان در این جامعه چنگ انداخته است.»\nاین دو شورا هشدار دادند: «جان بسیاری از همکاران ما و کارگران و بخش‌های مختلف مردم از فقر و بیکاری به لب رسیده است.»\nhttps://iranintl.com/202609059159",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "06:56:18",
-      "gregorian_utc": "2026-09-05T03:26:18+00:00",
+      "tehran_time": "07:14:26",
+      "gregorian_utc": "2026-09-05T03:44:26+00:00",
       "media_type": "photo",
-      "media_size_bytes": 105904,
-      "media_size_human": "103.42 KB",
+      "media_size_bytes": 77070,
+      "media_size_human": "75.26 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355801_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355801_photo.jpg",
+      "media_local_path": "media/IranintlTV_355802_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355802_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T06:20:36.299693+00:00"
+      "archived_at": "2026-09-05T06:30:44.951133+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -707,7 +707,7 @@
       "media_local_path": "media/satlastnews_76392_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76392_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T06:20:36.583388+00:00"
+      "archived_at": "2026-09-05T06:30:45.244360+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -725,7 +725,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-09-05T06:20:36.838403+00:00"
+      "archived_at": "2026-09-05T06:30:45.531322+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -743,7 +743,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T06:20:37.068568+00:00"
+      "archived_at": "2026-09-05T06:30:45.779160+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -761,25 +761,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T06:20:36.039024+00:00"
+      "archived_at": "2026-09-05T06:30:44.612070+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355800,
-      "message_link": "https://t.me/IranintlTV/355800",
-      "text": "خبرگزاری فرانسه گزارش داد بیش از ۱۲۰ نفر در یمن پس از آن‌که نیروهای حوثی، گروه نیابتی جمهوری اسلامی، عملیاتی را با هدف پیشروی به سمت تنگه راهبردی باب‌المندب آغاز کردند، کشته شده‌اند.\nدرگیری‌ها روز پنج‌شنبه پس از آن آغاز شد که حوثی‌ها حمله زمینی خود را با پشتیبانی حمله‌های موشکی و پهپادی در نزدیکی ساحل دریای سرخ یمن آغاز کردند. حوثی‌ها در این منطقه در تلاش هستند مواضع خود را در نزدیکی یکی از پرترددترین گلوگاه‌های دریایی جهان تقویت کنند.\n\nhttps://iranintl.com/202609052139",
+      "message_id": 355801,
+      "message_link": "https://t.me/IranintlTV/355801",
+      "text": "مدیریت بحران استانداری اصفهان اعلام کرد شامگاه جمعه هنگام عبور یک تانکر از خیابان کاظمی این شهر، بخشی از این خیابان فرونشست و چرخ‌های تانکر در حفره ایجاد شده فرورفت. ماموران آتش‌نشانی و شرکت آب‌وفاضلاب توانستند تانکر را از حفره خارج کنند.\nhttps://iranintl.com/202609053134",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "05:58:45",
-      "gregorian_utc": "2026-09-05T02:28:45+00:00",
+      "tehran_time": "06:56:18",
+      "gregorian_utc": "2026-09-05T03:26:18+00:00",
       "media_type": "photo",
-      "media_size_bytes": 221991,
-      "media_size_human": "216.79 KB",
+      "media_size_bytes": 105904,
+      "media_size_human": "103.42 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355800_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355800_photo.jpg",
+      "media_local_path": "media/IranintlTV_355801_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355801_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T06:20:36.299775+00:00"
+      "archived_at": "2026-09-05T06:30:44.951201+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -797,7 +797,7 @@
       "media_local_path": "media/satlastnews_76391_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76391_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T06:20:36.583445+00:00"
+      "archived_at": "2026-09-05T06:30:45.244414+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -815,7 +815,7 @@
       "media_local_path": "media/Mellig_120635_audio.mp3",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120635_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T06:20:36.838434+00:00"
+      "archived_at": "2026-09-05T06:30:45.531354+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -833,7 +833,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T06:20:37.068589+00:00"
+      "archived_at": "2026-09-05T06:30:45.779181+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -851,25 +851,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T06:20:36.039047+00:00"
+      "archived_at": "2026-09-05T06:30:44.612096+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355799,
-      "message_link": "https://t.me/IranintlTV/355799",
-      "text": "تانکرترکرز اعلام کرد که روز جمعه ۱۷ مورد انتقال کشتی‌به‌کشتی نفت خام و گاز (ال‌ان‌جی و ال‌پی‌جی) را شناسایی و ثبت کرده است که در خلیج عمان انجام شده‌اند. در این انتقال‌ها دست‌کم ۲۴ میلیون بشکه نفت و فرآورده‌های نفتی جابه‌جا شده است.\nتانکرترکرز همچنین گفت شمار بیشتری از نفتکش‌های حامل نفت را شناسایی کرده است که در آب‌های منطقه منتظر یافتن کشتی دیگری برای انجام عملیات انتقال هستند.\n\nhttps://iranintl.com/202609057090",
+      "message_id": 355800,
+      "message_link": "https://t.me/IranintlTV/355800",
+      "text": "خبرگزاری فرانسه گزارش داد بیش از ۱۲۰ نفر در یمن پس از آن‌که نیروهای حوثی، گروه نیابتی جمهوری اسلامی، عملیاتی را با هدف پیشروی به سمت تنگه راهبردی باب‌المندب آغاز کردند، کشته شده‌اند.\nدرگیری‌ها روز پنج‌شنبه پس از آن آغاز شد که حوثی‌ها حمله زمینی خود را با پشتیبانی حمله‌های موشکی و پهپادی در نزدیکی ساحل دریای سرخ یمن آغاز کردند. حوثی‌ها در این منطقه در تلاش هستند مواضع خود را در نزدیکی یکی از پرترددترین گلوگاه‌های دریایی جهان تقویت کنند.\n\nhttps://iranintl.com/202609052139",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "04:48:29",
-      "gregorian_utc": "2026-09-05T01:18:29+00:00",
+      "tehran_time": "05:58:45",
+      "gregorian_utc": "2026-09-05T02:28:45+00:00",
       "media_type": "photo",
-      "media_size_bytes": 200718,
-      "media_size_human": "196.01 KB",
+      "media_size_bytes": 221991,
+      "media_size_human": "216.79 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355799_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355799_photo.jpg",
+      "media_local_path": "media/IranintlTV_355800_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355800_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T06:20:36.299850+00:00"
+      "archived_at": "2026-09-05T06:30:44.951282+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -887,7 +887,7 @@
       "media_local_path": "media/satlastnews_76388_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76388_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T06:20:36.583497+00:00"
+      "archived_at": "2026-09-05T06:30:45.244464+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -905,7 +905,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فقط شامل پیش‌نمایش لینک است (بدون فایل قابل دانلود).",
-      "archived_at": "2026-09-05T06:20:36.838488+00:00"
+      "archived_at": "2026-09-05T06:30:45.531407+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -923,7 +923,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T06:20:37.068611+00:00"
+      "archived_at": "2026-09-05T06:30:45.779202+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -941,25 +941,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T06:20:36.039068+00:00"
+      "archived_at": "2026-09-05T06:30:44.612117+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355798,
-      "message_link": "https://t.me/IranintlTV/355798",
-      "text": "هم‌ز‌مان با ادامه پیشروی نیروهای دولت قانونی یمن علیه حوثی‌ها در استان تعز، الحدث به نقل از یک منبع نظامی گزارش داد نیروهای مسلح یمن کنترل تپه سعید طاهر و منطقه ذیبان در شهرستان حیفان، در جنوب تعز را به دست گرفتند و این مناطق را از کنترل حوثی‌ها خارج کردند.\nنیروهای دولت قانونی یمن روز قبل نیز مواضع نظامی در جبهه الطویر در منطقه مقبنه استان تعز را از حوثی‌ها بازپس گرفتند.\nنیروهای دولتی یمن همچنین اعلام کرد نیروی هوایی این کشور مواضع حوثی‌های وابسته به جمهوری اسلامی را در غرب تعز بمباران کرد.\nدر همین حال، العربیه به نقل از ارتش یمن گزارش داد صدها نفر از شبه‌نظامیان حوثی در ساحل غربی یمن کشته و زخمی شده‌اند.\nرییس شورای رهبری ریاست‌جمهوری یمن با هشدار درباره اینکه حوثی‌ها از قربانی کردن غیرنظامیان برای پیشبرد ماجراجویی‌های بی‌محابای خود ابایی ندارند، تاکید کرد یمن اجازه نخواهد داد جمهوری اسلامی و نیابتی‌هایش بر باب‌المندب مسلط شوند.\n\nhttps://iranintl.com/202609057742",
+      "message_id": 355799,
+      "message_link": "https://t.me/IranintlTV/355799",
+      "text": "تانکرترکرز اعلام کرد که روز جمعه ۱۷ مورد انتقال کشتی‌به‌کشتی نفت خام و گاز (ال‌ان‌جی و ال‌پی‌جی) را شناسایی و ثبت کرده است که در خلیج عمان انجام شده‌اند. در این انتقال‌ها دست‌کم ۲۴ میلیون بشکه نفت و فرآورده‌های نفتی جابه‌جا شده است.\nتانکرترکرز همچنین گفت شمار بیشتری از نفتکش‌های حامل نفت را شناسایی کرده است که در آب‌های منطقه منتظر یافتن کشتی دیگری برای انجام عملیات انتقال هستند.\n\nhttps://iranintl.com/202609057090",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "04:24:45",
-      "gregorian_utc": "2026-09-05T00:54:45+00:00",
+      "tehran_time": "04:48:29",
+      "gregorian_utc": "2026-09-05T01:18:29+00:00",
       "media_type": "photo",
-      "media_size_bytes": 205581,
-      "media_size_human": "200.76 KB",
+      "media_size_bytes": 200718,
+      "media_size_human": "196.01 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355798_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355798_photo.jpg",
+      "media_local_path": "media/IranintlTV_355799_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355799_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T06:20:36.299962+00:00"
+      "archived_at": "2026-09-05T06:30:44.951355+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -977,7 +977,7 @@
       "media_local_path": "media/satlastnews_76387_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76387_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T06:20:36.583550+00:00"
+      "archived_at": "2026-09-05T06:30:45.244519+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -995,7 +995,7 @@
       "media_local_path": "media/Mellig_120633_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120633_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T06:20:36.838575+00:00"
+      "archived_at": "2026-09-05T06:30:45.531489+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -1013,7 +1013,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T06:20:37.068634+00:00"
+      "archived_at": "2026-09-05T06:30:45.779225+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1031,25 +1031,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T06:20:36.039095+00:00"
+      "archived_at": "2026-09-05T06:30:44.612140+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355797,
-      "message_link": "https://t.me/IranintlTV/355797",
-      "text": "ستاد فرماندهی مرکزی آمریکا، سنتکام، جمعه ۱۳ شهریور با انتشار تصویری در شبکه اجتماعی ایکس اعلام کرد چتربازان ارتش آمریکا تجهیزات ارتباطی را در یک مکان دورافتاده در خاورمیانه مستقر کرده‌اند. سنتکام محل دقیق استقرار این نیروها و تجهیزات را اعلام نکرد.\n\nانتشار این تصویر هم‌زمان با ادامه حضور گسترده نظامی آمریکا در خاورمیانه و عملیات نیروهای این کشور در منطقه صورت می‌گیرد . سنتکام پیش‌تر اعلام کرده بود این نیروها برای ادامه عملیات در منطقه به دستور دونالد ترامپ، رییس‌جمهوری آمریکا، آماده‌اند.\nhttps://iranintl.com/202609047142",
+      "message_id": 355798,
+      "message_link": "https://t.me/IranintlTV/355798",
+      "text": "هم‌ز‌مان با ادامه پیشروی نیروهای دولت قانونی یمن علیه حوثی‌ها در استان تعز، الحدث به نقل از یک منبع نظامی گزارش داد نیروهای مسلح یمن کنترل تپه سعید طاهر و منطقه ذیبان در شهرستان حیفان، در جنوب تعز را به دست گرفتند و این مناطق را از کنترل حوثی‌ها خارج کردند.\nنیروهای دولت قانونی یمن روز قبل نیز مواضع نظامی در جبهه الطویر در منطقه مقبنه استان تعز را از حوثی‌ها بازپس گرفتند.\nنیروهای دولتی یمن همچنین اعلام کرد نیروی هوایی این کشور مواضع حوثی‌های وابسته به جمهوری اسلامی را در غرب تعز بمباران کرد.\nدر همین حال، العربیه به نقل از ارتش یمن گزارش داد صدها نفر از شبه‌نظامیان حوثی در ساحل غربی یمن کشته و زخمی شده‌اند.\nرییس شورای رهبری ریاست‌جمهوری یمن با هشدار درباره اینکه حوثی‌ها از قربانی کردن غیرنظامیان برای پیشبرد ماجراجویی‌های بی‌محابای خود ابایی ندارند، تاکید کرد یمن اجازه نخواهد داد جمهوری اسلامی و نیابتی‌هایش بر باب‌المندب مسلط شوند.\n\nhttps://iranintl.com/202609057742",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "04:04:00",
-      "gregorian_utc": "2026-09-05T00:34:00+00:00",
+      "tehran_time": "04:24:45",
+      "gregorian_utc": "2026-09-05T00:54:45+00:00",
       "media_type": "photo",
-      "media_size_bytes": 144491,
-      "media_size_human": "141.10 KB",
+      "media_size_bytes": 205581,
+      "media_size_human": "200.76 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355797_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355797_photo.jpg",
+      "media_local_path": "media/IranintlTV_355798_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355798_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T06:20:36.300041+00:00"
+      "archived_at": "2026-09-05T06:30:44.951469+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1067,7 +1067,7 @@
       "media_local_path": "media/satlastnews_76385_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76385_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T06:20:36.583595+00:00"
+      "archived_at": "2026-09-05T06:30:45.244564+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
@@ -1085,7 +1085,7 @@
       "media_local_path": "media/Mellig_120632_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120632_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T06:20:36.838633+00:00"
+      "archived_at": "2026-09-05T06:30:45.531546+00:00"
     }
   ]
 }
