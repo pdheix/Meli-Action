@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-05T15:52:48.510099+00:00",
-  "shamsi_generated": "1405/06/14 15:52:48 تهران",
+  "generated_at": "2026-09-05T16:02:04.224425+00:00",
+  "shamsi_generated": "1405/06/14 16:02:04 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -41,25 +41,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T15:50:29.667394+00:00"
+      "archived_at": "2026-09-05T15:58:50.580373+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355873,
-      "message_link": "https://t.me/IranintlTV/355873",
-      "text": "پیت هگست، وزیر جنگ آمریکا، گفت اگر ایران به کشتی‌های آمریکایی شلیک کند، نیروهای ایالات متحده نفتکش‌های ایران را هدف قرار خواهند داد و آنها را غرق خواهند کرد.\n\nهگست شنبه ۱۴ شهریور در حساب ایکس خود و درباره اطلاعیه سنتکام درباره هدف قرار گرفتن سه نفتکش حامل نفت ایران نوشت: «موضوع ساده است؛ اگر ایران به کشتی‌های آمریکایی شلیک کند، نفتکش‌هایش را نابود و غرق خواهیم کرد. تنها کاری که باید انجام دهند این است که به نیروی دریایی آمریکا شلیک نکنند.»\n\nاو افزود: «ناوگان نفتکش‌های ایران بی‌دفاع است. ایران نیروی دریایی یا نیروی هوایی ندارد. هواپیماها، کشتی‌ها و زیردریایی‌های ما می‌توانند همه آنها را هدف قرار دهند.»\n\nسنتکام پیش‌تر اعلام کرده بود سه نفتکش مرتبط با ایران را پس از شلیک موشک‌های بالستیک سپاه پاسداران به سوی دو ناو جنگی آمریکا هدف قرار داده است.\nhttps://iranintl.com/202609057558",
+      "message_id": 355874,
+      "message_link": "https://t.me/IranintlTV/355874",
+      "text": "🎧نسخه صوتی اخبار شبانگاهی | شنبه ۱۴ شهریور\n@iranintlTV",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "19:16:39",
-      "gregorian_utc": "2026-09-05T15:46:39+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 136654,
-      "media_size_human": "133.45 KB",
+      "tehran_time": "19:27:09",
+      "gregorian_utc": "2026-09-05T15:57:09+00:00",
+      "media_type": "audio",
+      "media_size_bytes": 30136939,
+      "media_size_human": "28.74 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355873_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355873_photo.jpg",
+      "media_local_path": "media/IranintlTV_355874_audio.mp3",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355874_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T15:50:30.091634+00:00"
+      "archived_at": "2026-09-05T15:58:50.881131+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -77,25 +77,25 @@
       "media_local_path": "media/satlastnews_76405_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76405_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T15:50:30.464355+00:00"
+      "archived_at": "2026-09-05T15:58:51.147828+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120664,
-      "message_link": "https://t.me/Mellig/120664",
-      "text": "جنگ بزرگ در حال آغاز شدن است ⌛",
+      "message_id": 120665,
+      "message_link": "https://t.me/Mellig/120665",
+      "text": "**لحظه هشدار تخلیه خدمه نفتکش های جمهوری اسلامی توسط خلبان جنگنده ارتش آمریکا:**\n\nMellig.net",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "19:06:34",
-      "gregorian_utc": "2026-09-05T15:36:34+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 59533,
-      "media_size_human": "58.14 KB",
+      "tehran_time": "19:22:02",
+      "gregorian_utc": "2026-09-05T15:52:02+00:00",
+      "media_type": "video",
+      "media_size_bytes": 18326318,
+      "media_size_human": "17.48 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120664_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120664_photo.jpg",
+      "media_local_path": "media/Mellig_120665_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120665_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T15:50:30.791448+00:00"
+      "archived_at": "2026-09-05T15:58:51.415562+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -113,7 +113,7 @@
       "media_local_path": "media/khabarsara53_11_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_11_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T15:50:31.126689+00:00"
+      "archived_at": "2026-09-05T15:58:51.642810+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -131,25 +131,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T15:50:29.667430+00:00"
+      "archived_at": "2026-09-05T15:58:50.580423+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355872,
-      "message_link": "https://t.me/IranintlTV/355872",
-      "text": "خبرگزاری تسنیم، وابسته به سپاه پاسداران، گزارش داد یک نفتکش ایرانی صبح شنبه ۱۴ شهریور در اطراف جزیره خارک هدف حمله ارتش آمریکا قرار گرفت که تلفات جانی نداشت.\nتستیم به نقل از خبرنگار صداوسیما در جاسک هم از حمله آمریکا به دو نفتکش در محدوده این شهرستان خبر داد و نوشت که یکی از این نفتکش‌ها حامل محموله نفت بود.\n\nپیش‌تر سنتکام اعلام کرد پس از شلیک موشک‌های بالستیک سپاه پاسداران به سوی دو ناو جنگی آمریکا، نیروهای آمریکایی سه نفتکش ایران را هدف قرار دادند. نفتکش‌های «داونی» و «استارک ۱» از کار افتادند و نفتکش خالی «کایلو» پس از دستور تخلیه خدمه، در دریای عمان به‌طور کامل منهدم شد.\nhttps://iranintl.com/202609053819",
+      "message_id": 355873,
+      "message_link": "https://t.me/IranintlTV/355873",
+      "text": "پیت هگست، وزیر جنگ آمریکا، گفت اگر ایران به کشتی‌های آمریکایی شلیک کند، نیروهای ایالات متحده نفتکش‌های ایران را هدف قرار خواهند داد و آنها را غرق خواهند کرد.\n\nهگست شنبه ۱۴ شهریور در حساب ایکس خود و درباره اطلاعیه سنتکام درباره هدف قرار گرفتن سه نفتکش حامل نفت ایران نوشت: «موضوع ساده است؛ اگر ایران به کشتی‌های آمریکایی شلیک کند، نفتکش‌هایش را نابود و غرق خواهیم کرد. تنها کاری که باید انجام دهند این است که به نیروی دریایی آمریکا شلیک نکنند.»\n\nاو افزود: «ناوگان نفتکش‌های ایران بی‌دفاع است. ایران نیروی دریایی یا نیروی هوایی ندارد. هواپیماها، کشتی‌ها و زیردریایی‌های ما می‌توانند همه آنها را هدف قرار دهند.»\n\nسنتکام پیش‌تر اعلام کرده بود سه نفتکش مرتبط با ایران را پس از شلیک موشک‌های بالستیک سپاه پاسداران به سوی دو ناو جنگی آمریکا هدف قرار داده است.\nhttps://iranintl.com/202609057558",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "19:05:48",
-      "gregorian_utc": "2026-09-05T15:35:48+00:00",
+      "tehran_time": "19:16:39",
+      "gregorian_utc": "2026-09-05T15:46:39+00:00",
       "media_type": "photo",
-      "media_size_bytes": 211432,
-      "media_size_human": "206.48 KB",
+      "media_size_bytes": 136654,
+      "media_size_human": "133.45 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355872_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355872_photo.jpg",
+      "media_local_path": "media/IranintlTV_355873_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355873_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T15:50:30.091721+00:00"
+      "archived_at": "2026-09-05T15:58:50.881375+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -167,25 +167,25 @@
       "media_local_path": "media/satlastnews_76404_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76404_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T15:50:30.464427+00:00"
+      "archived_at": "2026-09-05T15:58:51.147933+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120663,
-      "message_link": "https://t.me/Mellig/120663",
-      "text": "🔴 #خبر_فوری\nسفارت آمریکا در بحرین هشدار امنیتی فوری صادر کرد و از شهروندان آمریکایی در خاورمیانه خواست برای احتمال لغو شدن پرواز ها در خاورمیانه آماده باشند.",
+      "message_id": 120664,
+      "message_link": "https://t.me/Mellig/120664",
+      "text": "جنگ بزرگ در حال آغاز شدن است ⌛",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "18:59:54",
-      "gregorian_utc": "2026-09-05T15:29:54+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T15:50:30.791504+00:00"
+      "tehran_time": "19:06:34",
+      "gregorian_utc": "2026-09-05T15:36:34+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 59533,
+      "media_size_human": "58.14 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_120664_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120664_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-09-05T15:58:51.415744+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -203,7 +203,7 @@
       "media_local_path": "media/khabarsara53_10_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_10_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T15:50:31.126738+00:00"
+      "archived_at": "2026-09-05T15:58:51.642883+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -221,25 +221,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T15:50:29.667455+00:00"
+      "archived_at": "2026-09-05T15:58:50.580464+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355871,
-      "message_link": "https://t.me/IranintlTV/355871",
-      "text": "جمعی از ایرانیان نورنبرگ در آلمان با‌ برگزاری پرفرمنس و برپایی تجمع یاد جاویدنامان راه آزادی ایران را در روز ۱۴ شهریورماه گرامی‌داشتند. برگزارکنندگان این مراسم علاوه بر پرفورمنس به معرفی جاویدنامان و حمایت از انقلاب ملی ایرانیان در آلمان پرداختند.\n\n⚠️ پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 105.74 MB)",
+      "message_id": 355872,
+      "message_link": "https://t.me/IranintlTV/355872",
+      "text": "خبرگزاری تسنیم، وابسته به سپاه پاسداران، گزارش داد یک نفتکش ایرانی صبح شنبه ۱۴ شهریور در اطراف جزیره خارک هدف حمله ارتش آمریکا قرار گرفت که تلفات جانی نداشت.\nتستیم به نقل از خبرنگار صداوسیما در جاسک هم از حمله آمریکا به دو نفتکش در محدوده این شهرستان خبر داد و نوشت که یکی از این نفتکش‌ها حامل محموله نفت بود.\n\nپیش‌تر سنتکام اعلام کرد پس از شلیک موشک‌های بالستیک سپاه پاسداران به سوی دو ناو جنگی آمریکا، نیروهای آمریکایی سه نفتکش ایران را هدف قرار دادند. نفتکش‌های «داونی» و «استارک ۱» از کار افتادند و نفتکش خالی «کایلو» پس از دستور تخلیه خدمه، در دریای عمان به‌طور کامل منهدم شد.\nhttps://iranintl.com/202609053819",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "19:04:11",
-      "gregorian_utc": "2026-09-05T15:34:11+00:00",
-      "media_type": "video",
-      "media_size_bytes": 110872300,
-      "media_size_human": "105.74 MB",
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 105.74 MB)",
-      "archived_at": "2026-09-05T15:50:30.091760+00:00"
+      "tehran_time": "19:05:48",
+      "gregorian_utc": "2026-09-05T15:35:48+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 211432,
+      "media_size_human": "206.48 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/IranintlTV_355872_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355872_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-09-05T15:58:50.881505+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -257,25 +257,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T15:50:30.464447+00:00"
+      "archived_at": "2026-09-05T15:58:51.147968+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120662,
-      "message_link": "https://t.me/Mellig/120662",
-      "text": "سنتکام پس از هدف قرار گرفتن ۲ ناو جنگی نیروی دریایی آمریکا توسط ج.ا، ۳ نفتکش سپاه پاسداران را منهدم کرد\nتامپا فلوریدا نیروهای فرماندهی مرکزی ایالات متحده  روز ۵ سپتامبر پس از آنکه سپاه پاسداران، موشک‌های بالستیک به سوی دو ناو جنگی نیروی دریایی آمریکا در حال گشت‌زنی در آب‌های منطقه شلیک کرد، سه نفتکش حامل نفت خام ایران را هدف قرار دادند\nیک ناو هواپیمابر آمریکا و یک ناوشکن با موفقیت از چندین حمله بدون تحریک قبلی گریختند هیچ‌یک از نیروهای آمریکایی آسیب ندیدند\nپس از حملات ناموفق ج.ا سنتکام نفتکش‌های حامل نفت خام سپاه پاسداران در نزدیکی جاسک را به‌طور دائمی از کار انداخت وبه‌طور کامل منهدم کردند تاغیرقابل استفاده شود\nاین سه نفتکش بخشی از یک شبکه سایه چندمیلیارددلاری بودند که منابع مالی سپاه پاسداران و نیروهای نیابتی منطقه‌ای آن را تأمین می‌کردند\nدریاسالار برد کوپر فرمانده سنتکام گفت:پیام به سپاه پاسداران روشن باشد:اگر به دو کشتی ما شلیک کنیدما هزینه اقتصادی حتی سنگین‌تری به شما تحمیل خواهیم کرد،ما در دفاع از نیروهای آمریکایی تردید نخواهیم کرد و در صورت لزوم ناوگان نفتی محدود ودر معرض آسیب ایران رانابود خواهیم کرد.",
+      "message_id": 120663,
+      "message_link": "https://t.me/Mellig/120663",
+      "text": "🔴 #خبر_فوری\nسفارت آمریکا در بحرین هشدار امنیتی فوری صادر کرد و از شهروندان آمریکایی در خاورمیانه خواست برای احتمال لغو شدن پرواز ها در خاورمیانه آماده باشند.",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "18:27:41",
-      "gregorian_utc": "2026-09-05T14:57:41+00:00",
-      "media_type": "video",
-      "media_size_bytes": 2119967,
-      "media_size_human": "2.02 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/Mellig_120662_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120662_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-09-05T15:50:30.791615+00:00"
+      "tehran_time": "18:59:54",
+      "gregorian_utc": "2026-09-05T15:29:54+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-09-05T15:58:51.415822+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -293,7 +293,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T15:50:31.126757+00:00"
+      "archived_at": "2026-09-05T15:58:51.642915+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -311,25 +311,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T15:50:29.667478+00:00"
+      "archived_at": "2026-09-05T15:58:50.580502+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355870,
-      "message_link": "https://t.me/IranintlTV/355870",
-      "text": "ابوالحسن فاطمی، نماینده خامنه‌ای در چهارمحال و بختیاری، گفت: «در مهم‌ترین برهه تاریخ قرار داریم و اگر حضور مردم در تجمعات شبانه به هر دلیلی کاهش پیدا کرد، حضور روحانیون در تجمعات، جلسات مذهبی و عرصه‌های مرتبط با انقلاب و نظام، لحظه‌به‌لحظه واجب‌تر می‌شود.»\nاو افزود: «مردم به روحانیون نگاه می‌کنند و حتی تعداد آن‌ها در جلسات را می‌شمارند و درباره اینکه چند روحانی در یک برنامه حضور داشته‌اند، قضاوت می‌کنند.» \n\nhttps://iranintl.com/202609051955",
+      "message_id": 355871,
+      "message_link": "https://t.me/IranintlTV/355871",
+      "text": "جمعی از ایرانیان نورنبرگ در آلمان با‌ برگزاری پرفرمنس و برپایی تجمع یاد جاویدنامان راه آزادی ایران را در روز ۱۴ شهریورماه گرامی‌داشتند. برگزارکنندگان این مراسم علاوه بر پرفورمنس به معرفی جاویدنامان و حمایت از انقلاب ملی ایرانیان در آلمان پرداختند.\n\n⚠️ پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 105.74 MB)",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "18:57:08",
-      "gregorian_utc": "2026-09-05T15:27:08+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 167069,
-      "media_size_human": "163.15 KB",
-      "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355870_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355870_photo.jpg",
-      "no_media_reason": null,
-      "archived_at": "2026-09-05T15:50:30.091822+00:00"
+      "tehran_time": "19:04:11",
+      "gregorian_utc": "2026-09-05T15:34:11+00:00",
+      "media_type": "video",
+      "media_size_bytes": 110872300,
+      "media_size_human": "105.74 MB",
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام حاوی محتوای رسانه‌ای است اما به دلیل حجم بالا قابل دانلود نبود. (حجم: 105.74 MB)",
+      "archived_at": "2026-09-05T15:58:50.881565+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -347,25 +347,25 @@
       "media_local_path": "media/satlastnews_76400_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76400_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T15:50:30.464487+00:00"
+      "archived_at": "2026-09-05T15:58:51.148033+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120661,
-      "message_link": "https://t.me/Mellig/120661",
-      "text": "🔴 #خبر_فوری\nفرماندهی مرکزی ارتش آمریکا در خاورمیانه از شلیک موشک های بالستیک توسط ایران به سمت یک ناو هواپیمابر و یک ناو جنگی آمریکا در دریای عمان خبر داد.",
+      "message_id": 120662,
+      "message_link": "https://t.me/Mellig/120662",
+      "text": "سنتکام پس از هدف قرار گرفتن ۲ ناو جنگی نیروی دریایی آمریکا توسط ج.ا، ۳ نفتکش سپاه پاسداران را منهدم کرد\nتامپا فلوریدا نیروهای فرماندهی مرکزی ایالات متحده  روز ۵ سپتامبر پس از آنکه سپاه پاسداران، موشک‌های بالستیک به سوی دو ناو جنگی نیروی دریایی آمریکا در حال گشت‌زنی در آب‌های منطقه شلیک کرد، سه نفتکش حامل نفت خام ایران را هدف قرار دادند\nیک ناو هواپیمابر آمریکا و یک ناوشکن با موفقیت از چندین حمله بدون تحریک قبلی گریختند هیچ‌یک از نیروهای آمریکایی آسیب ندیدند\nپس از حملات ناموفق ج.ا سنتکام نفتکش‌های حامل نفت خام سپاه پاسداران در نزدیکی جاسک را به‌طور دائمی از کار انداخت وبه‌طور کامل منهدم کردند تاغیرقابل استفاده شود\nاین سه نفتکش بخشی از یک شبکه سایه چندمیلیارددلاری بودند که منابع مالی سپاه پاسداران و نیروهای نیابتی منطقه‌ای آن را تأمین می‌کردند\nدریاسالار برد کوپر فرمانده سنتکام گفت:پیام به سپاه پاسداران روشن باشد:اگر به دو کشتی ما شلیک کنیدما هزینه اقتصادی حتی سنگین‌تری به شما تحمیل خواهیم کرد،ما در دفاع از نیروهای آمریکایی تردید نخواهیم کرد و در صورت لزوم ناوگان نفتی محدود ودر معرض آسیب ایران رانابود خواهیم کرد.",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "18:01:25",
-      "gregorian_utc": "2026-09-05T14:31:25+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T15:50:30.791660+00:00"
+      "tehran_time": "18:27:41",
+      "gregorian_utc": "2026-09-05T14:57:41+00:00",
+      "media_type": "video",
+      "media_size_bytes": 2119967,
+      "media_size_human": "2.02 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_120662_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120662_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-09-05T15:58:51.415868+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -383,7 +383,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T15:50:31.126774+00:00"
+      "archived_at": "2026-09-05T15:58:51.642943+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -401,25 +401,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T15:50:29.667497+00:00"
+      "archived_at": "2026-09-05T15:58:50.580532+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355869,
-      "message_link": "https://t.me/IranintlTV/355869",
-      "text": "علیرضا زاکانی، شهردار تهران، گفت: «آمریکا حد یقفی ندارد و هرچه به این کشور داده شود، باز به دنبال خواسته‌های دیگری خواهد بود.» او با اشاره به برجام گفت: «تا به امروز هرچه از آمریکایی‌ها دیده شده، خلاف تعهد بوده است.»\n@iranintltv",
+      "message_id": 355870,
+      "message_link": "https://t.me/IranintlTV/355870",
+      "text": "ابوالحسن فاطمی، نماینده خامنه‌ای در چهارمحال و بختیاری، گفت: «در مهم‌ترین برهه تاریخ قرار داریم و اگر حضور مردم در تجمعات شبانه به هر دلیلی کاهش پیدا کرد، حضور روحانیون در تجمعات، جلسات مذهبی و عرصه‌های مرتبط با انقلاب و نظام، لحظه‌به‌لحظه واجب‌تر می‌شود.»\nاو افزود: «مردم به روحانیون نگاه می‌کنند و حتی تعداد آن‌ها در جلسات را می‌شمارند و درباره اینکه چند روحانی در یک برنامه حضور داشته‌اند، قضاوت می‌کنند.» \n\nhttps://iranintl.com/202609051955",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "18:55:23",
-      "gregorian_utc": "2026-09-05T15:25:23+00:00",
-      "media_type": "video",
-      "media_size_bytes": 1635474,
-      "media_size_human": "1.56 MB",
+      "tehran_time": "18:57:08",
+      "gregorian_utc": "2026-09-05T15:27:08+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 167069,
+      "media_size_human": "163.15 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355869_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355869_video.mp4",
+      "media_local_path": "media/IranintlTV_355870_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355870_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T15:50:30.091869+00:00"
+      "archived_at": "2026-09-05T15:58:50.881666+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -437,25 +437,25 @@
       "media_local_path": "media/satlastnews_76399_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76399_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T15:50:30.464551+00:00"
+      "archived_at": "2026-09-05T15:58:51.148126+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120660,
-      "message_link": "https://t.me/Mellig/120660",
-      "text": "💢**وال‌استریت ژورنال: موازنه قدرت در تنگه هرمز به ضرر تهران تغییر کرد / زمان دیگر به نفع  ج.ا نیست**\n\n🔺روزنامه وال‌استریت ژورنال در گزارشی اعلام کرد موازنه قدرت در تنگه هرمز و روند زمان در حال حرکت به ضرر تهران است. اصرار واشنگتن بر محاصره دریایی و اختلال در صادرات نفت، دکترین فرسایشی رژيم ج.ا را با چالش جدی مواجه کرده است.\n\n🔺با فشردن گلوگاه تنگه هرمز، هم ایالات متحده و هم ج.ا انتظار داشتند که از رقیب خود بیشتر دوام بیاورند، چرا که هر دو طرف بر این باور بودند که زمان به نفع آن‌ها پیش خواهد رفت. اما اکنون، به نظر می‌رسد که روند اوضاع در حال چرخش علیه ج.ا است.\n\nMellig.net",
+      "message_id": 120661,
+      "message_link": "https://t.me/Mellig/120661",
+      "text": "🔴 #خبر_فوری\nفرماندهی مرکزی ارتش آمریکا در خاورمیانه از شلیک موشک های بالستیک توسط ایران به سمت یک ناو هواپیمابر و یک ناو جنگی آمریکا در دریای عمان خبر داد.",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "17:45:25",
-      "gregorian_utc": "2026-09-05T14:15:25+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 30736,
-      "media_size_human": "30.02 KB",
-      "media_downloaded": true,
-      "media_local_path": "media/Mellig_120660_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120660_photo.jpg",
-      "no_media_reason": null,
-      "archived_at": "2026-09-05T15:50:30.791758+00:00"
+      "tehran_time": "18:01:25",
+      "gregorian_utc": "2026-09-05T14:31:25+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-09-05T15:58:51.415924+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -473,7 +473,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T15:50:31.126789+00:00"
+      "archived_at": "2026-09-05T15:58:51.642968+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -491,25 +491,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T15:50:29.667530+00:00"
+      "archived_at": "2026-09-05T15:58:50.580568+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355868,
-      "message_link": "https://t.me/IranintlTV/355868",
-      "text": "هم‌زمان با تعمیق بحران اقتصادی و معیشتی و افزایش فشار امنیتی، شهروندان در پیام‌های متعدد به ایران‌اینترنشنال، راه پایان این بحران‌ها را سقوط حکومت دانستند.\n\nمخاطبان در پیام‌هایشان می‌گویند باید برای اعتراض به خیابان رفت.\n\nمحسن مهیمنی، عضو تحریریه ایران‌اینترنشنال، پیام‌های مخاطبان درباره لزوم اعتراض و سخنان مقام‌ها درباره انقلاب ملی و تکرار اعتراضات را توضیح می‌دهد.\n@iranintltv",
+      "message_id": 355869,
+      "message_link": "https://t.me/IranintlTV/355869",
+      "text": "علیرضا زاکانی، شهردار تهران، گفت: «آمریکا حد یقفی ندارد و هرچه به این کشور داده شود، باز به دنبال خواسته‌های دیگری خواهد بود.» او با اشاره به برجام گفت: «تا به امروز هرچه از آمریکایی‌ها دیده شده، خلاف تعهد بوده است.»\n@iranintltv",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "18:10:33",
-      "gregorian_utc": "2026-09-05T14:40:33+00:00",
+      "tehran_time": "18:55:23",
+      "gregorian_utc": "2026-09-05T15:25:23+00:00",
       "media_type": "video",
-      "media_size_bytes": 3110140,
-      "media_size_human": "2.97 MB",
+      "media_size_bytes": 1635474,
+      "media_size_human": "1.56 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355868_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355868_video.mp4",
+      "media_local_path": "media/IranintlTV_355869_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355869_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T15:50:30.091920+00:00"
+      "archived_at": "2026-09-05T15:58:50.881772+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -527,25 +527,25 @@
       "media_local_path": "media/satlastnews_76398_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76398_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T15:50:30.464598+00:00"
+      "archived_at": "2026-09-05T15:58:51.148192+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120659,
-      "message_link": "https://t.me/Mellig/120659",
-      "text": "کاسبی همه خرابه :))",
+      "message_id": 120660,
+      "message_link": "https://t.me/Mellig/120660",
+      "text": "💢**وال‌استریت ژورنال: موازنه قدرت در تنگه هرمز به ضرر تهران تغییر کرد / زمان دیگر به نفع  ج.ا نیست**\n\n🔺روزنامه وال‌استریت ژورنال در گزارشی اعلام کرد موازنه قدرت در تنگه هرمز و روند زمان در حال حرکت به ضرر تهران است. اصرار واشنگتن بر محاصره دریایی و اختلال در صادرات نفت، دکترین فرسایشی رژيم ج.ا را با چالش جدی مواجه کرده است.\n\n🔺با فشردن گلوگاه تنگه هرمز، هم ایالات متحده و هم ج.ا انتظار داشتند که از رقیب خود بیشتر دوام بیاورند، چرا که هر دو طرف بر این باور بودند که زمان به نفع آن‌ها پیش خواهد رفت. اما اکنون، به نظر می‌رسد که روند اوضاع در حال چرخش علیه ج.ا است.\n\nMellig.net",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "17:34:01",
-      "gregorian_utc": "2026-09-05T14:04:01+00:00",
+      "tehran_time": "17:45:25",
+      "gregorian_utc": "2026-09-05T14:15:25+00:00",
       "media_type": "photo",
-      "media_size_bytes": 153035,
-      "media_size_human": "149.45 KB",
+      "media_size_bytes": 30736,
+      "media_size_human": "30.02 KB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120659_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120659_photo.jpg",
+      "media_local_path": "media/Mellig_120660_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120660_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T15:50:30.791787+00:00"
+      "archived_at": "2026-09-05T15:58:51.416057+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -563,7 +563,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T15:50:31.126804+00:00"
+      "archived_at": "2026-09-05T15:58:51.642994+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -581,25 +581,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T15:50:29.667550+00:00"
+      "archived_at": "2026-09-05T15:58:50.580599+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355867,
-      "message_link": "https://t.me/IranintlTV/355867",
-      "text": "عطا حسینیان، روزنامه‌نگار اقتصادی و حوزه انرژی، درباره اختلاف‌نظرها در داخل حکومت جمهوری اسلامی بر سر افزایش قیمت بنزین گفت: «حکومت با تشدید بحران بنزین، عملا چاره‌ای جز تغییر قیمت و سهمیه‌بندی ندارد؛ اما مقام‌ها به‌دلیل آگاهی از تبعات اجتماعی و سیاسی این تصمیم، حاضر نیستند مسئولیت آن و هزینه‌های ناشی از آن را بپذیرند.»\n@iranintltv",
+      "message_id": 355868,
+      "message_link": "https://t.me/IranintlTV/355868",
+      "text": "هم‌زمان با تعمیق بحران اقتصادی و معیشتی و افزایش فشار امنیتی، شهروندان در پیام‌های متعدد به ایران‌اینترنشنال، راه پایان این بحران‌ها را سقوط حکومت دانستند.\n\nمخاطبان در پیام‌هایشان می‌گویند باید برای اعتراض به خیابان رفت.\n\nمحسن مهیمنی، عضو تحریریه ایران‌اینترنشنال، پیام‌های مخاطبان درباره لزوم اعتراض و سخنان مقام‌ها درباره انقلاب ملی و تکرار اعتراضات را توضیح می‌دهد.\n@iranintltv",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "18:06:01",
-      "gregorian_utc": "2026-09-05T14:36:01+00:00",
+      "tehran_time": "18:10:33",
+      "gregorian_utc": "2026-09-05T14:40:33+00:00",
       "media_type": "video",
-      "media_size_bytes": 3497147,
-      "media_size_human": "3.34 MB",
+      "media_size_bytes": 3110140,
+      "media_size_human": "2.97 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355867_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355867_video.mp4",
+      "media_local_path": "media/IranintlTV_355868_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355868_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T15:50:30.091970+00:00"
+      "archived_at": "2026-09-05T15:58:50.881863+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -617,25 +617,25 @@
       "media_local_path": "media/satlastnews_76397_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76397_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T15:50:30.464634+00:00"
+      "archived_at": "2026-09-05T15:58:51.148247+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120658,
-      "message_link": "https://t.me/Mellig/120658",
-      "text": "🔴 **اعطای اختیارات و مصونیت کامل پارلمان پاکستان به \"عاصم منیر\"**\n\nپارلمان پاکستان برای اولین بار در تاریخ این کشور، فرماندهی قانونی هر سه نیروی مسلح زمینی، هوایی و دریایی ارتش پاکستان را به \"عاصم منیر\"، فرمانده ارتش پاکستان واگذار کرد.\n\nبا این اختیارات جدید اعطا شده، عاصم منیر می‌تواند بدون تایید کابینه پاکستان، تمامی پرسنل ارتش را در هر رده خدمتی، بازنشسته، اخراج یا حفظ کند.\n\nدوره پنج ساله ریاست عاصم منیر حداقل تا سال ۲۰۳۰ ادامه دارد.\n\nاو به عنوان \"فیلد مارشال\"، رتبه و مصونیت قانونی و قضایی خود را برای تمام عمر حفظ می‌کند و برکناری او نیاز به رای دو سوم اعضای پارلمان دارد.\n\nMellig.net",
+      "message_id": 120659,
+      "message_link": "https://t.me/Mellig/120659",
+      "text": "کاسبی همه خرابه :))",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "17:32:39",
-      "gregorian_utc": "2026-09-05T14:02:39+00:00",
+      "tehran_time": "17:34:01",
+      "gregorian_utc": "2026-09-05T14:04:01+00:00",
       "media_type": "photo",
-      "media_size_bytes": 115239,
-      "media_size_human": "112.54 KB",
+      "media_size_bytes": 153035,
+      "media_size_human": "149.45 KB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120658_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120658_photo.jpg",
+      "media_local_path": "media/Mellig_120659_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120659_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T15:50:30.791863+00:00"
+      "archived_at": "2026-09-05T15:58:51.416104+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -653,7 +653,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T15:50:31.126819+00:00"
+      "archived_at": "2026-09-05T15:58:51.643020+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -671,25 +671,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T15:50:29.667582+00:00"
+      "archived_at": "2026-09-05T15:58:50.580642+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355866,
-      "message_link": "https://t.me/IranintlTV/355866",
-      "text": "عبدالرضا فرهادیان، وکیل محمدباقر خرازی، روحانی بازداشت‌شده و از بستگان مجتبی خامنه‌ای، گفت وزارت خارجه، دبیرخانه شعام و معاونت حقوقی رییس‌جمهوری گزارش‌هایی علیه موکلش به دادسرای ویژه روحانیت فرستاده‌اند. به گفته او، این نهادها در پرونده شاکی حقوقی نیستند و خرازی پس از دریافت این گزارش‌ها از سوی دادستان ویژه روحانیت احضار شده است.\nاو افزود بخشی از حساسیت‌ها به انتشار سخنان خرازی درباره موضوعاتی از جمله سیاست داخلی و حجاب مربوط است که عمدتا بیان دیدگاه‌های فقهی او بوده است. به گفته فرهادیان، پرونده در حال رسیدگی و تصمیم نهایی بر عهده مرجع قضایی است.\nخرازی پیش‌تر در ویدیویی جمهوری اسلامی را نظامی «منسوخ» خواند و گفت یک «دولت سایه» از پیش وجود داشته است. او از مخاطبان خود خواست شبکه‌ای ۲۵۰ هزار نفری تشکیل دهند تا «حکومت اسلامی» را جایگزین نظام کنونی کنند. \nخرازی همچنین گفته بود مسعود پزشکیان ۲۸ بار استعفا کرده یا تهدید به کناره‌گیری کرده و مجتبی خامنه‌ای نیز هشدار داده است در صورت استعفای دوباره پزشکیان، آن را خواهد پذیرفت.\nخرازی این کلیپ‌ها را جعلی و ساخته هوش مصنوعی خواند و گفت چنین اظهاراتی بیان نکرده است.\nht",
+      "message_id": 355867,
+      "message_link": "https://t.me/IranintlTV/355867",
+      "text": "عطا حسینیان، روزنامه‌نگار اقتصادی و حوزه انرژی، درباره اختلاف‌نظرها در داخل حکومت جمهوری اسلامی بر سر افزایش قیمت بنزین گفت: «حکومت با تشدید بحران بنزین، عملا چاره‌ای جز تغییر قیمت و سهمیه‌بندی ندارد؛ اما مقام‌ها به‌دلیل آگاهی از تبعات اجتماعی و سیاسی این تصمیم، حاضر نیستند مسئولیت آن و هزینه‌های ناشی از آن را بپذیرند.»\n@iranintltv",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "17:58:53",
-      "gregorian_utc": "2026-09-05T14:28:53+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 130110,
-      "media_size_human": "127.06 KB",
+      "tehran_time": "18:06:01",
+      "gregorian_utc": "2026-09-05T14:36:01+00:00",
+      "media_type": "video",
+      "media_size_bytes": 3497147,
+      "media_size_human": "3.34 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355866_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355866_photo.jpg",
+      "media_local_path": "media/IranintlTV_355867_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355867_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T15:50:30.092015+00:00"
+      "archived_at": "2026-09-05T15:58:50.881946+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -707,25 +707,25 @@
       "media_local_path": "media/satlastnews_76392_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76392_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T15:50:30.464703+00:00"
+      "archived_at": "2026-09-05T15:58:51.148355+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120657,
-      "message_link": "https://t.me/Mellig/120657",
-      "text": "🔴 #خبر_فوری\nشوک و بهت در خاورمیانه،\nفرماندهی مرکزی ارتش ایالات متحده اعلام کرد:\nصبح امروز 3 ابر نفتکش حامل نفت ایران را هدف قرار داده است،\nنفتکش \"دانی\" را در نزدیکی جزیره خارک و نفتکش \"استارک 1\" را در نزدیکی جاسک به طور دائم از کار انداخت و نفتکش \"کایلو\" را در خلیج عمان به طور کامل نابود کرد",
+      "message_id": 120658,
+      "message_link": "https://t.me/Mellig/120658",
+      "text": "🔴 **اعطای اختیارات و مصونیت کامل پارلمان پاکستان به \"عاصم منیر\"**\n\nپارلمان پاکستان برای اولین بار در تاریخ این کشور، فرماندهی قانونی هر سه نیروی مسلح زمینی، هوایی و دریایی ارتش پاکستان را به \"عاصم منیر\"، فرمانده ارتش پاکستان واگذار کرد.\n\nبا این اختیارات جدید اعطا شده، عاصم منیر می‌تواند بدون تایید کابینه پاکستان، تمامی پرسنل ارتش را در هر رده خدمتی، بازنشسته، اخراج یا حفظ کند.\n\nدوره پنج ساله ریاست عاصم منیر حداقل تا سال ۲۰۳۰ ادامه دارد.\n\nاو به عنوان \"فیلد مارشال\"، رتبه و مصونیت قانونی و قضایی خود را برای تمام عمر حفظ می‌کند و برکناری او نیاز به رای دو سوم اعضای پارلمان دارد.\n\nMellig.net",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "17:23:51",
-      "gregorian_utc": "2026-09-05T13:53:51+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T15:50:30.791907+00:00"
+      "tehran_time": "17:32:39",
+      "gregorian_utc": "2026-09-05T14:02:39+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 115239,
+      "media_size_human": "112.54 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_120658_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120658_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-09-05T15:58:51.416220+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -743,7 +743,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T15:50:31.126835+00:00"
+      "archived_at": "2026-09-05T15:58:51.643047+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -761,25 +761,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T15:50:29.667601+00:00"
+      "archived_at": "2026-09-05T15:58:50.580695+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355865,
-      "message_link": "https://t.me/IranintlTV/355865",
-      "text": "گزارش‌های منتشرشده در رسانه‌های داخلی ایران در روزهای اخیر از کمبود و افزایش بی‌سابقه قیمت دارو و همچنین رشد هزینه‌های خدمات بهداشت و درمان حکایت دارد.\n\nاین گزارش‌ها در حالی نگرانی‌ها را افزایش داده‌اند که بهای برخی داروهای ساده، از جمله مسکن‌ها، نیز روندی صعودی پیدا کرده است. هم‌زمان، اخباری درباره شیوع سویه جدیدی از ویروس کرونا نیز منتشر شده که نگرانی‌ها درباره دسترسی شهروندان به دارو و خدمات درمانی را بیش از پیش افزایش داده است.\n\nفرشاد متقی، عضو تحریریه ایران‌اینترنشنال، در «پیوست» به موضوع بحران دارو و درمان در ایران پرداخته است\n@iranintltv",
+      "message_id": 355866,
+      "message_link": "https://t.me/IranintlTV/355866",
+      "text": "عبدالرضا فرهادیان، وکیل محمدباقر خرازی، روحانی بازداشت‌شده و از بستگان مجتبی خامنه‌ای، گفت وزارت خارجه، دبیرخانه شعام و معاونت حقوقی رییس‌جمهوری گزارش‌هایی علیه موکلش به دادسرای ویژه روحانیت فرستاده‌اند. به گفته او، این نهادها در پرونده شاکی حقوقی نیستند و خرازی پس از دریافت این گزارش‌ها از سوی دادستان ویژه روحانیت احضار شده است.\nاو افزود بخشی از حساسیت‌ها به انتشار سخنان خرازی درباره موضوعاتی از جمله سیاست داخلی و حجاب مربوط است که عمدتا بیان دیدگاه‌های فقهی او بوده است. به گفته فرهادیان، پرونده در حال رسیدگی و تصمیم نهایی بر عهده مرجع قضایی است.\nخرازی پیش‌تر در ویدیویی جمهوری اسلامی را نظامی «منسوخ» خواند و گفت یک «دولت سایه» از پیش وجود داشته است. او از مخاطبان خود خواست شبکه‌ای ۲۵۰ هزار نفری تشکیل دهند تا «حکومت اسلامی» را جایگزین نظام کنونی کنند. \nخرازی همچنین گفته بود مسعود پزشکیان ۲۸ بار استعفا کرده یا تهدید به کناره‌گیری کرده و مجتبی خامنه‌ای نیز هشدار داده است در صورت استعفای دوباره پزشکیان، آن را خواهد پذیرفت.\nخرازی این کلیپ‌ها را جعلی و ساخته هوش مصنوعی خواند و گفت چنین اظهاراتی بیان نکرده است.\nht",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "17:50:51",
-      "gregorian_utc": "2026-09-05T14:20:51+00:00",
-      "media_type": "video",
-      "media_size_bytes": 5808555,
-      "media_size_human": "5.54 MB",
+      "tehran_time": "17:58:53",
+      "gregorian_utc": "2026-09-05T14:28:53+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 130110,
+      "media_size_human": "127.06 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355865_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355865_video.mp4",
+      "media_local_path": "media/IranintlTV_355866_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355866_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T15:50:30.092083+00:00"
+      "archived_at": "2026-09-05T15:58:50.881993+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -797,25 +797,25 @@
       "media_local_path": "media/satlastnews_76391_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76391_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T15:50:30.464745+00:00"
+      "archived_at": "2026-09-05T15:58:51.148422+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120656,
-      "message_link": "https://t.me/Mellig/120656",
-      "text": "♦️**تصاویری از نفتکش هدف قرار گرفته توسط آمریکا**\n\nMellig.net",
+      "message_id": 120657,
+      "message_link": "https://t.me/Mellig/120657",
+      "text": "🔴 #خبر_فوری\nشوک و بهت در خاورمیانه،\nفرماندهی مرکزی ارتش ایالات متحده اعلام کرد:\nصبح امروز 3 ابر نفتکش حامل نفت ایران را هدف قرار داده است،\nنفتکش \"دانی\" را در نزدیکی جزیره خارک و نفتکش \"استارک 1\" را در نزدیکی جاسک به طور دائم از کار انداخت و نفتکش \"کایلو\" را در خلیج عمان به طور کامل نابود کرد",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "17:16:06",
-      "gregorian_utc": "2026-09-05T13:46:06+00:00",
-      "media_type": "video",
-      "media_size_bytes": 1318422,
-      "media_size_human": "1.26 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/Mellig_120656_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120656_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-09-05T15:50:30.791942+00:00"
+      "tehran_time": "17:23:51",
+      "gregorian_utc": "2026-09-05T13:53:51+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-09-05T15:58:51.416291+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -833,7 +833,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T15:50:31.126849+00:00"
+      "archived_at": "2026-09-05T15:58:51.643073+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -851,25 +851,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T15:50:29.667618+00:00"
+      "archived_at": "2026-09-05T15:58:50.580741+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355864,
-      "message_link": "https://t.me/IranintlTV/355864",
-      "text": "ویدیویی که ستاد فرماندهی مرکزی ایالات متحده (سنتکام) منتشر کرده، حملات به سه نفتکش حامل نفت خام جمهوری اسلامی را پس از شلیک موشک‌های بالستیک از سوی سپاه پاسداران به سمت دو ناو جنگی نیروی دریایی آمریکا نشان می‌دهد. سنتکام اعلام کرد دو نفتکش از کار افتاده‌اند و یک نفتکش دیگر در خلیج عمان منهدم شده است.\n@iranintltv",
+      "message_id": 355865,
+      "message_link": "https://t.me/IranintlTV/355865",
+      "text": "گزارش‌های منتشرشده در رسانه‌های داخلی ایران در روزهای اخیر از کمبود و افزایش بی‌سابقه قیمت دارو و همچنین رشد هزینه‌های خدمات بهداشت و درمان حکایت دارد.\n\nاین گزارش‌ها در حالی نگرانی‌ها را افزایش داده‌اند که بهای برخی داروهای ساده، از جمله مسکن‌ها، نیز روندی صعودی پیدا کرده است. هم‌زمان، اخباری درباره شیوع سویه جدیدی از ویروس کرونا نیز منتشر شده که نگرانی‌ها درباره دسترسی شهروندان به دارو و خدمات درمانی را بیش از پیش افزایش داده است.\n\nفرشاد متقی، عضو تحریریه ایران‌اینترنشنال، در «پیوست» به موضوع بحران دارو و درمان در ایران پرداخته است\n@iranintltv",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "17:39:57",
-      "gregorian_utc": "2026-09-05T14:09:57+00:00",
+      "tehran_time": "17:50:51",
+      "gregorian_utc": "2026-09-05T14:20:51+00:00",
       "media_type": "video",
-      "media_size_bytes": 390206,
-      "media_size_human": "381.06 KB",
+      "media_size_bytes": 5808555,
+      "media_size_human": "5.54 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355864_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355864_video.mp4",
+      "media_local_path": "media/IranintlTV_355865_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355865_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T15:50:30.092134+00:00"
+      "archived_at": "2026-09-05T15:58:50.882092+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -887,25 +887,25 @@
       "media_local_path": "media/satlastnews_76388_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76388_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T15:50:30.464785+00:00"
+      "archived_at": "2026-09-05T15:58:51.148483+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120655,
-      "message_link": "https://t.me/Mellig/120655",
-      "text": "🔴 #خبر_فوری\nتصاویر ماهواره‌ای نشان می‌دهند که صبح امروز نفتکش فوق‌العاده بزرگ شرکت ملی نفتکش‌رانی ایران،\nدر سواحل جزیره خارک مورد حمله 4 موشک نیروهای آمریکایی قرار گرفته است",
+      "message_id": 120656,
+      "message_link": "https://t.me/Mellig/120656",
+      "text": "♦️**تصاویری از نفتکش هدف قرار گرفته توسط آمریکا**\n\nMellig.net",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "17:09:44",
-      "gregorian_utc": "2026-09-05T13:39:44+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T15:50:30.791977+00:00"
+      "tehran_time": "17:16:06",
+      "gregorian_utc": "2026-09-05T13:46:06+00:00",
+      "media_type": "video",
+      "media_size_bytes": 1318422,
+      "media_size_human": "1.26 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_120656_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120656_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-09-05T15:58:51.416349+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -923,7 +923,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T15:50:31.126864+00:00"
+      "archived_at": "2026-09-05T15:58:51.643098+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -941,25 +941,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T15:50:29.667634+00:00"
+      "archived_at": "2026-09-05T15:58:50.580767+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355863,
-      "message_link": "https://t.me/IranintlTV/355863",
-      "text": "یکی از مخاطبان ایران‌اینترنشنال می‌گوید برای پیدا کردن یک شربت به ۳۰ داروخانه سر زده و در نهایت آن را با قیمت گزاف خریده است.\nاو می‌گوید: «قیمت این شربت قبل از جنگ ۶۰۰ تا ۷۰۰ هزار تومان بود، ولی امروز یک‌ونیم میلیون تومان براش پرداخت کردیم. مگه چقدر درآمد داریم؟»",
+      "message_id": 355864,
+      "message_link": "https://t.me/IranintlTV/355864",
+      "text": "ویدیویی که ستاد فرماندهی مرکزی ایالات متحده (سنتکام) منتشر کرده، حملات به سه نفتکش حامل نفت خام جمهوری اسلامی را پس از شلیک موشک‌های بالستیک از سوی سپاه پاسداران به سمت دو ناو جنگی نیروی دریایی آمریکا نشان می‌دهد. سنتکام اعلام کرد دو نفتکش از کار افتاده‌اند و یک نفتکش دیگر در خلیج عمان منهدم شده است.\n@iranintltv",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "17:32:54",
-      "gregorian_utc": "2026-09-05T14:02:54+00:00",
+      "tehran_time": "17:39:57",
+      "gregorian_utc": "2026-09-05T14:09:57+00:00",
       "media_type": "video",
-      "media_size_bytes": 32663593,
-      "media_size_human": "31.15 MB",
+      "media_size_bytes": 390206,
+      "media_size_human": "381.06 KB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355863_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355863_video.mp4",
+      "media_local_path": "media/IranintlTV_355864_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355864_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T15:50:30.092157+00:00"
+      "archived_at": "2026-09-05T15:58:50.882167+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -977,25 +977,25 @@
       "media_local_path": "media/satlastnews_76387_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76387_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T15:50:30.464827+00:00"
+      "archived_at": "2026-09-05T15:58:51.148551+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120654,
-      "message_link": "https://t.me/Mellig/120654",
-      "text": "این ویدیو ها رو شخصی به اسم دهه 50 یا بابک ایران بان میسازه. خودش توی لوس آنجلس قایم شده نه عکس داره نه اسم واقعی سالی یکبار هم میره ایران و میاد. \nکارش چی هست؟ یک مشت عکس و فیلم پیدا کنه بهم بچسبونه و بگه همه مزدور جمهوری اسلامی هستند. حالا خودش کیه؟ سر دسته مزدوران جمهوری اسلامی.\nدر ضمن جمهوری اسلامی اگر اینقدر نیرو داشت که دیگه باید فاتحه هر مبارزه رو خوند\n\nhttps://x.com/mobarez_nastooh/status/2096227899548315932",
+      "message_id": 120655,
+      "message_link": "https://t.me/Mellig/120655",
+      "text": "🔴 #خبر_فوری\nتصاویر ماهواره‌ای نشان می‌دهند که صبح امروز نفتکش فوق‌العاده بزرگ شرکت ملی نفتکش‌رانی ایران،\nدر سواحل جزیره خارک مورد حمله 4 موشک نیروهای آمریکایی قرار گرفته است",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "16:57:21",
-      "gregorian_utc": "2026-09-05T13:27:21+00:00",
-      "media_type": "video",
-      "media_size_bytes": 1644714,
-      "media_size_human": "1.57 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/Mellig_120654_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120654_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-09-05T15:50:30.792046+00:00"
+      "tehran_time": "17:09:44",
+      "gregorian_utc": "2026-09-05T13:39:44+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-09-05T15:58:51.416406+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -1013,7 +1013,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T15:50:31.126880+00:00"
+      "archived_at": "2026-09-05T15:58:51.643124+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
@@ -1031,25 +1031,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T15:50:29.667649+00:00"
+      "archived_at": "2026-09-05T15:58:50.580793+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
       "channel_username": "IranintlTV",
-      "message_id": 355862,
-      "message_link": "https://t.me/IranintlTV/355862",
-      "text": "🔻شبکه ورزشی تی‌وای‌سی اسپورتس آرژانتین گزارش داد که کارلوس توز قصد دارد مسابقه خداحافظی خود را در ماه دسامبر امسال در استادیوم ۵۷ هزار نفری لا بومبونرا، ورزشگاه خانگی بوکا جونیورز، برگزار کند. کریستیانو رونالدو و لیونل مسی ممکن است در این دیدار برای نخستین بار در یک تیم کنار یکدیگر بازی کنند.\n\n🔹این دو بازیکن در دو دهه گذشته به‌عنوان برجسته‌ترین ستاره‌های نسل خود با یکدیگر رقابت کرده‌اند.\n\n🔹رقابت آنها به یکی از مشهورترین رقابت‌های تاریخ فوتبال تبدیل شده و مسی و رونالدو در مجموع ۳۷ بار در رده باشگاهی و ملی مقابل یکدیگر قرار گرفته‌اند.\n\n🔹توز ۴۲ ساله در سال ۲۰۲۱، زمانی که برای بوکا جونیورز بازی می‌کرد، از فوتبال خداحافظی کرد. بوکا جونیورز باشگاهی است که او دوران حرفه‌ای خود را نیز از آنجا آغاز کرده بود.\n\n🔹به‌طور موقت زمانی در ماه دسامبر برای برگزاری این مسابقه در نظر گرفته شده است و توز برنامه‌های بلندپروازانه‌ای برای برگزاری دیداری به‌یادماندنی با حضور شماری از بزرگ‌ترین نام‌های فوتبال دارد.\n\n🔹توز امیدوار است ترکیب اصلی یکی از تیم‌ها را از نزدیک‌ترین دوستان خود تشکیل دهد.\n\n@iranintltvsport",
+      "message_id": 355863,
+      "message_link": "https://t.me/IranintlTV/355863",
+      "text": "یکی از مخاطبان ایران‌اینترنشنال می‌گوید برای پیدا کردن یک شربت به ۳۰ داروخانه سر زده و در نهایت آن را با قیمت گزاف خریده است.\nاو می‌گوید: «قیمت این شربت قبل از جنگ ۶۰۰ تا ۷۰۰ هزار تومان بود، ولی امروز یک‌ونیم میلیون تومان براش پرداخت کردیم. مگه چقدر درآمد داریم؟»",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "17:31:58",
-      "gregorian_utc": "2026-09-05T14:01:58+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 232883,
-      "media_size_human": "227.42 KB",
+      "tehran_time": "17:32:54",
+      "gregorian_utc": "2026-09-05T14:02:54+00:00",
+      "media_type": "video",
+      "media_size_bytes": 32663593,
+      "media_size_human": "31.15 MB",
       "media_downloaded": true,
-      "media_local_path": "media/IranintlTV_355862_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355862_photo.jpg",
+      "media_local_path": "media/IranintlTV_355863_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355863_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T15:50:30.093429+00:00"
+      "archived_at": "2026-09-05T15:58:50.882207+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1067,25 +1067,25 @@
       "media_local_path": "media/satlastnews_76385_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76385_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T15:50:30.464864+00:00"
+      "archived_at": "2026-09-05T15:58:51.148608+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120653,
-      "message_link": "https://t.me/Mellig/120653",
-      "text": "با درود فراوان بر آقای میرقادری، سلطان قلب همه‌ی ملی‌گرایان مردم‌گرا ❤️\n\nهرگز یادمان نمی‌رود که این حکومت و مزدورانش چه وقیحانه بر اساس سخن دیکتاتور سقط‌شده جمهوری اسهالی، موشعلی پرپرشده\n(\"با اغتشاش‌گر حرف زدن فایده ای ندارد باید سر جایش نشاند !!\" )\nجنایات و دزدی‌هایشان را توجیه کردند!\n\nوقاحتشان را یادمان باشد تا فردای آزادی، به هیچ عنوان بخشش و دل‌رحمی در کار نباشد.\n\nانتقام خون پاک همه‌ی جاویدنامان ۱۸ و ۱۹ دی، همه سربه‌داران و اموال مصادره شده همه‌ی این باشرفان را خواهیم گرفت.\n\nاون روز خیلی دور نخواهد بود.\n\nپاینده ایران و ایرانی میهن پرست\nجاوید شاه تا ابد",
+      "message_id": 120654,
+      "message_link": "https://t.me/Mellig/120654",
+      "text": "این ویدیو ها رو شخصی به اسم دهه 50 یا بابک ایران بان میسازه. خودش توی لوس آنجلس قایم شده نه عکس داره نه اسم واقعی سالی یکبار هم میره ایران و میاد. \nکارش چی هست؟ یک مشت عکس و فیلم پیدا کنه بهم بچسبونه و بگه همه مزدور جمهوری اسلامی هستند. حالا خودش کیه؟ سر دسته مزدوران جمهوری اسلامی.\nدر ضمن جمهوری اسلامی اگر اینقدر نیرو داشت که دیگه باید فاتحه هر مبارزه رو خوند\n\nhttps://x.com/mobarez_nastooh/status/2096227899548315932",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "16:31:18",
-      "gregorian_utc": "2026-09-05T13:01:18+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 154368,
-      "media_size_human": "150.75 KB",
+      "tehran_time": "16:57:21",
+      "gregorian_utc": "2026-09-05T13:27:21+00:00",
+      "media_type": "video",
+      "media_size_bytes": 1644714,
+      "media_size_human": "1.57 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120653_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120653_photo.jpg",
+      "media_local_path": "media/Mellig_120654_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120654_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T15:50:30.792072+00:00"
+      "archived_at": "2026-09-05T15:58:51.416491+00:00"
     }
   ]
 }
