@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-05T13:42:56.130487+00:00",
-  "shamsi_generated": "1405/06/14 13:42:56 تهران",
+  "generated_at": "2026-09-05T13:53:20.002319+00:00",
+  "shamsi_generated": "1405/06/14 13:53:20 تهران",
   "channels": [
     {
       "username": "zedTV",
@@ -28,12 +28,12 @@
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12764,
-      "message_link": "https://t.me/zedTV/12764",
-      "text": "دلار ۲۲۷ هزار و یورو ۲۶۳ هزار تومان؛ تداوم سقوط آزاد ارزش ریال.\nسکه امامی ۲۳۶ میلیون و طلا ۲۳.۶ میلیون تومان؛ تشدید بحران معیشتی.\nرژیم در مهار فروپاشی اقتصادی ناتوان است؛ کنترل بازار به‌طور کامل از دست رفت.",
+      "message_id": 12767,
+      "message_link": "https://t.me/zedTV/12767",
+      "text": "التماس حسن روحانی برای سازش؛ نشانه‌ای از وحشت و فروپاشی درونی نظام.\nتلاش اصلاح‌طلبان برای نجات رژیم در مرحله پایانی سقوط.\nنزدیک شدن جمهوری اسلامی به لبه پرتگاه با خروج چهره‌های حکومتی.",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "17:01:14",
-      "gregorian_utc": "2026-09-05T13:31:14+00:00",
+      "tehran_time": "17:19:34",
+      "gregorian_utc": "2026-09-05T13:49:34+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -41,7 +41,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T13:40:33.836150+00:00"
+      "archived_at": "2026-09-05T13:50:43.467935+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -59,7 +59,7 @@
       "media_local_path": "media/IranintlTV_355859_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355859_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T13:40:34.137467+00:00"
+      "archived_at": "2026-09-05T13:50:43.800937+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -77,25 +77,25 @@
       "media_local_path": "media/satlastnews_76405_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76405_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T13:40:34.459624+00:00"
+      "archived_at": "2026-09-05T13:50:44.199874+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120655,
-      "message_link": "https://t.me/Mellig/120655",
-      "text": "🔴 #خبر_فوری\nتصاویر ماهواره‌ای نشان می‌دهند که صبح امروز نفتکش فوق‌العاده بزرگ شرکت ملی نفتکش‌رانی ایران،\nدر سواحل جزیره خارک مورد حمله 4 موشک نیروهای آمریکایی قرار گرفته است",
+      "message_id": 120656,
+      "message_link": "https://t.me/Mellig/120656",
+      "text": "♦️**تصاویری از نفتکش هدف قرار گرفته توسط آمریکا**\n\nMellig.net",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "17:09:44",
-      "gregorian_utc": "2026-09-05T13:39:44+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T13:40:34.748068+00:00"
+      "tehran_time": "17:16:06",
+      "gregorian_utc": "2026-09-05T13:46:06+00:00",
+      "media_type": "video",
+      "media_size_bytes": 1318422,
+      "media_size_human": "1.26 MB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_120656_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120656_video.mp4",
+      "no_media_reason": null,
+      "archived_at": "2026-09-05T13:50:44.553043+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -113,17 +113,17 @@
       "media_local_path": "media/khabarsara53_11_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_11_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T13:40:35.000235+00:00"
+      "archived_at": "2026-09-05T13:50:44.894017+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12763,
-      "message_link": "https://t.me/zedTV/12763",
-      "text": "پرواز جنگنده‌ها در ارتفاع پایین؛ نایاب شدن داروهای ضروری و بحران درمان در کشور.\nگرانی سرسام‌آور اقلام اساسی و قطعی مکرر برق در تهران؛ فشار اقتصادی بر خانواده‌ها.\nفریاد استیصال و فراخوان برای اعتصابات سراسری؛ پایان توهم اصلاح‌طلبی و مطالبه تغییر.",
+      "message_id": 12766,
+      "message_link": "https://t.me/zedTV/12766",
+      "text": "ذخایر بنزین کشور رو به پایان؛ سوخت تنها برای دو ماه باقی مانده است.\nسناریوهای احتمالی: سهمیه‌بندی شدید، جهش قیمت‌ها یا ایجاد بازار چندنرخی.\nتوقف واردات در پی محاصره اقتصادی؛ روسیه نیز با کمبود بنزین مواجه است.",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "15:32:27",
-      "gregorian_utc": "2026-09-05T12:02:27+00:00",
+      "tehran_time": "17:19:25",
+      "gregorian_utc": "2026-09-05T13:49:25+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -131,7 +131,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T13:40:33.836228+00:00"
+      "archived_at": "2026-09-05T13:50:43.467976+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -149,7 +149,7 @@
       "media_local_path": "media/IranintlTV_355858_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355858_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T13:40:34.137664+00:00"
+      "archived_at": "2026-09-05T13:50:43.801096+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -167,25 +167,25 @@
       "media_local_path": "media/satlastnews_76404_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76404_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T13:40:34.459726+00:00"
+      "archived_at": "2026-09-05T13:50:44.199969+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120654,
-      "message_link": "https://t.me/Mellig/120654",
-      "text": "این ویدیو ها رو شخصی به اسم دهه 50 یا بابک ایران بان میسازه. خودش توی لوس آنجلس قایم شده نه عکس داره نه اسم واقعی سالی یکبار هم میره ایران و میاد. \nکارش چی هست؟ یک مشت عکس و فیلم پیدا کنه بهم بچسبونه و بگه همه مزدور جمهوری اسلامی هستند. حالا خودش کیه؟ سر دسته مزدوران جمهوری اسلامی.\nدر ضمن جمهوری اسلامی اگر اینقدر نیرو داشت که دیگه باید فاتحه هر مبارزه رو خوند\n\nhttps://x.com/mobarez_nastooh/status/2096227899548315932",
+      "message_id": 120655,
+      "message_link": "https://t.me/Mellig/120655",
+      "text": "🔴 #خبر_فوری\nتصاویر ماهواره‌ای نشان می‌دهند که صبح امروز نفتکش فوق‌العاده بزرگ شرکت ملی نفتکش‌رانی ایران،\nدر سواحل جزیره خارک مورد حمله 4 موشک نیروهای آمریکایی قرار گرفته است",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "16:57:21",
-      "gregorian_utc": "2026-09-05T13:27:21+00:00",
-      "media_type": "video",
-      "media_size_bytes": 1644714,
-      "media_size_human": "1.57 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/Mellig_120654_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120654_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-09-05T13:40:34.748173+00:00"
+      "tehran_time": "17:09:44",
+      "gregorian_utc": "2026-09-05T13:39:44+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-09-05T13:50:44.553112+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -203,17 +203,17 @@
       "media_local_path": "media/khabarsara53_10_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/khabarsara53_10_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T13:40:35.000310+00:00"
+      "archived_at": "2026-09-05T13:50:44.894073+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12762,
-      "message_link": "https://t.me/zedTV/12762",
-      "text": "تدارکات سپاه پاسداران برای آغاز موج جدید حملات هوایی و زمینی علیه مواضع پژاک؛\nگسترش تحرکات نظامی رژیم در مناطق مرزی کردستان؛\nگزارش‌ها از آمادگی نیروهای امنیتی برای عملیات تهاجمی در غرب کشور.",
+      "message_id": 12765,
+      "message_link": "https://t.me/zedTV/12765",
+      "text": "محاصره ۱۳۰ مستشار نظامی جمهوری اسلامی در تونل‌های علی‌طاهر.\nاحتمال اسارت یا کشته شدن تمامی نیروها در صورت عدم مداخله فوری.\nبحران در صفوف نیروهای اعزامی رژیم به جنوب لبنان.",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "15:32:14",
-      "gregorian_utc": "2026-09-05T12:02:14+00:00",
+      "tehran_time": "17:19:11",
+      "gregorian_utc": "2026-09-05T13:49:11+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -221,7 +221,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T13:40:33.836277+00:00"
+      "archived_at": "2026-09-05T13:50:43.468010+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -239,7 +239,7 @@
       "media_local_path": "media/IranintlTV_355857_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355857_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T13:40:34.137779+00:00"
+      "archived_at": "2026-09-05T13:50:43.801177+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -257,25 +257,25 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T13:40:34.459759+00:00"
+      "archived_at": "2026-09-05T13:50:44.199992+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120653,
-      "message_link": "https://t.me/Mellig/120653",
-      "text": "با درود فراوان بر آقای میرقادری، سلطان قلب همه‌ی ملی‌گرایان مردم‌گرا ❤️\n\nهرگز یادمان نمی‌رود که این حکومت و مزدورانش چه وقیحانه بر اساس سخن دیکتاتور سقط‌شده جمهوری اسهالی، موشعلی پرپرشده\n(\"با اغتشاش‌گر حرف زدن فایده ای ندارد باید سر جایش نشاند !!\" )\nجنایات و دزدی‌هایشان را توجیه کردند!\n\nوقاحتشان را یادمان باشد تا فردای آزادی، به هیچ عنوان بخشش و دل‌رحمی در کار نباشد.\n\nانتقام خون پاک همه‌ی جاویدنامان ۱۸ و ۱۹ دی، همه سربه‌داران و اموال مصادره شده همه‌ی این باشرفان را خواهیم گرفت.\n\nاون روز خیلی دور نخواهد بود.\n\nپاینده ایران و ایرانی میهن پرست\nجاوید شاه تا ابد",
+      "message_id": 120654,
+      "message_link": "https://t.me/Mellig/120654",
+      "text": "این ویدیو ها رو شخصی به اسم دهه 50 یا بابک ایران بان میسازه. خودش توی لوس آنجلس قایم شده نه عکس داره نه اسم واقعی سالی یکبار هم میره ایران و میاد. \nکارش چی هست؟ یک مشت عکس و فیلم پیدا کنه بهم بچسبونه و بگه همه مزدور جمهوری اسلامی هستند. حالا خودش کیه؟ سر دسته مزدوران جمهوری اسلامی.\nدر ضمن جمهوری اسلامی اگر اینقدر نیرو داشت که دیگه باید فاتحه هر مبارزه رو خوند\n\nhttps://x.com/mobarez_nastooh/status/2096227899548315932",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "16:31:18",
-      "gregorian_utc": "2026-09-05T13:01:18+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 154368,
-      "media_size_human": "150.75 KB",
+      "tehran_time": "16:57:21",
+      "gregorian_utc": "2026-09-05T13:27:21+00:00",
+      "media_type": "video",
+      "media_size_bytes": 1644714,
+      "media_size_human": "1.57 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120653_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120653_photo.jpg",
+      "media_local_path": "media/Mellig_120654_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120654_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T13:40:34.748266+00:00"
+      "archived_at": "2026-09-05T13:50:44.553183+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -293,17 +293,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T13:40:35.000342+00:00"
+      "archived_at": "2026-09-05T13:50:44.894095+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12761,
-      "message_link": "https://t.me/zedTV/12761",
-      "text": "فراخوان رژیم برای بازگشت چهره‌های خارج‌نشین در پی بازگشت محسن نامجو به کشور.\nمنتقدان: این دعوت‌ها نمایشی تبلیغاتی برای پنهان‌سازی تداوم سرکوب و اعدام معترضان است.\nمانا نیستانی در طرح جدید خود تلاش حکومت برای بازسازی اعتبار لرزانش را به تصویر کشید.",
+      "message_id": 12764,
+      "message_link": "https://t.me/zedTV/12764",
+      "text": "دلار ۲۲۷ هزار و یورو ۲۶۳ هزار تومان؛ تداوم سقوط آزاد ارزش ریال.\nسکه امامی ۲۳۶ میلیون و طلا ۲۳.۶ میلیون تومان؛ تشدید بحران معیشتی.\nرژیم در مهار فروپاشی اقتصادی ناتوان است؛ کنترل بازار به‌طور کامل از دست رفت.",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "15:32:14",
-      "gregorian_utc": "2026-09-05T12:02:14+00:00",
+      "tehran_time": "17:01:14",
+      "gregorian_utc": "2026-09-05T13:31:14+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -311,7 +311,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T13:40:33.836316+00:00"
+      "archived_at": "2026-09-05T13:50:43.468049+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -329,7 +329,7 @@
       "media_local_path": "media/IranintlTV_355856_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355856_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T13:40:34.137826+00:00"
+      "archived_at": "2026-09-05T13:50:43.801211+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -347,25 +347,25 @@
       "media_local_path": "media/satlastnews_76400_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76400_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T13:40:34.459822+00:00"
+      "archived_at": "2026-09-05T13:50:44.200040+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120652,
-      "message_link": "https://t.me/Mellig/120652",
-      "text": "**🚨گزارشات اولیه از خروج نیروهای روسی از بوشه**ر",
+      "message_id": 120653,
+      "message_link": "https://t.me/Mellig/120653",
+      "text": "با درود فراوان بر آقای میرقادری، سلطان قلب همه‌ی ملی‌گرایان مردم‌گرا ❤️\n\nهرگز یادمان نمی‌رود که این حکومت و مزدورانش چه وقیحانه بر اساس سخن دیکتاتور سقط‌شده جمهوری اسهالی، موشعلی پرپرشده\n(\"با اغتشاش‌گر حرف زدن فایده ای ندارد باید سر جایش نشاند !!\" )\nجنایات و دزدی‌هایشان را توجیه کردند!\n\nوقاحتشان را یادمان باشد تا فردای آزادی، به هیچ عنوان بخشش و دل‌رحمی در کار نباشد.\n\nانتقام خون پاک همه‌ی جاویدنامان ۱۸ و ۱۹ دی، همه سربه‌داران و اموال مصادره شده همه‌ی این باشرفان را خواهیم گرفت.\n\nاون روز خیلی دور نخواهد بود.\n\nپاینده ایران و ایرانی میهن پرست\nجاوید شاه تا ابد",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "16:04:06",
-      "gregorian_utc": "2026-09-05T12:34:06+00:00",
-      "media_type": null,
-      "media_size_bytes": 0,
-      "media_size_human": null,
-      "media_downloaded": false,
-      "media_local_path": null,
-      "media_link": null,
-      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T13:40:34.748322+00:00"
+      "tehran_time": "16:31:18",
+      "gregorian_utc": "2026-09-05T13:01:18+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 154368,
+      "media_size_human": "150.75 KB",
+      "media_downloaded": true,
+      "media_local_path": "media/Mellig_120653_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120653_photo.jpg",
+      "no_media_reason": null,
+      "archived_at": "2026-09-05T13:50:44.553221+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -383,17 +383,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T13:40:35.000368+00:00"
+      "archived_at": "2026-09-05T13:50:44.894114+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12760,
-      "message_link": "https://t.me/zedTV/12760",
-      "text": "بیش از ۶۰ کشته در درگیری‌های سنگین میان شبه‌نظامیان حوثی وابسته به رژیم و نیروهای دولتی یمن.\nتلاش حوثی‌ها برای اشغال مناطق استراتژیک باب‌المندب و قطع دسترسی به بندر حیاتی المخا.\nتداوم تنش‌آفرینی نیابتی‌های جمهوری اسلامی در دریای سرخ و کشتار غیرنظامیان.",
+      "message_id": 12763,
+      "message_link": "https://t.me/zedTV/12763",
+      "text": "پرواز جنگنده‌ها در ارتفاع پایین؛ نایاب شدن داروهای ضروری و بحران درمان در کشور.\nگرانی سرسام‌آور اقلام اساسی و قطعی مکرر برق در تهران؛ فشار اقتصادی بر خانواده‌ها.\nفریاد استیصال و فراخوان برای اعتصابات سراسری؛ پایان توهم اصلاح‌طلبی و مطالبه تغییر.",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "15:16:35",
-      "gregorian_utc": "2026-09-05T11:46:35+00:00",
+      "tehran_time": "15:32:27",
+      "gregorian_utc": "2026-09-05T12:02:27+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -401,7 +401,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T13:40:33.836347+00:00"
+      "archived_at": "2026-09-05T13:50:43.468074+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -419,7 +419,7 @@
       "media_local_path": "media/IranintlTV_355855_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355855_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T13:40:34.137925+00:00"
+      "archived_at": "2026-09-05T13:50:43.801288+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -437,17 +437,17 @@
       "media_local_path": "media/satlastnews_76399_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76399_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T13:40:34.459913+00:00"
+      "archived_at": "2026-09-05T13:50:44.200112+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120651,
-      "message_link": "https://t.me/Mellig/120651",
-      "text": "تدارکات سپاه پاسداران برای آغاز موج جدید حملات هوایی و زمینی علیه مواضع پژاک؛\nگسترش تحرکات نظامی رژیم در مناطق مرزی کردستان؛\nگزارش‌ها از آمادگی نیروهای امنیتی برای عملیات تهاجمی در غرب کشور",
+      "message_id": 120652,
+      "message_link": "https://t.me/Mellig/120652",
+      "text": "**🚨گزارشات اولیه از خروج نیروهای روسی از بوشه**ر",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "15:57:18",
-      "gregorian_utc": "2026-09-05T12:27:18+00:00",
+      "tehran_time": "16:04:06",
+      "gregorian_utc": "2026-09-05T12:34:06+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -455,7 +455,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T13:40:34.748354+00:00"
+      "archived_at": "2026-09-05T13:50:44.553267+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -473,17 +473,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T13:40:35.000393+00:00"
+      "archived_at": "2026-09-05T13:50:44.894132+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12759,
-      "message_link": "https://t.me/zedTV/12759",
-      "text": "آکسیوس: تدوین راهبرد پساجنگ دولت ترامپ برای مهار منطقه‌ای جمهوری اسلامی.\nتشکیل ائتلاف بزرگ علیه تهران و گسترش پیمان ابراهیم با حضور عربستان سعودی.\nتلاش واشینگتن برای ایجاد خاورمیانه جدید و پایان نفوذ مخرب رژیم ایران.",
+      "message_id": 12762,
+      "message_link": "https://t.me/zedTV/12762",
+      "text": "تدارکات سپاه پاسداران برای آغاز موج جدید حملات هوایی و زمینی علیه مواضع پژاک؛\nگسترش تحرکات نظامی رژیم در مناطق مرزی کردستان؛\nگزارش‌ها از آمادگی نیروهای امنیتی برای عملیات تهاجمی در غرب کشور.",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "14:46:48",
-      "gregorian_utc": "2026-09-05T11:16:48+00:00",
+      "tehran_time": "15:32:14",
+      "gregorian_utc": "2026-09-05T12:02:14+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -491,7 +491,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T13:40:33.836385+00:00"
+      "archived_at": "2026-09-05T13:50:43.468104+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -509,7 +509,7 @@
       "media_local_path": "media/IranintlTV_355854_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355854_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T13:40:34.147929+00:00"
+      "archived_at": "2026-09-05T13:50:43.814496+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -527,17 +527,17 @@
       "media_local_path": "media/satlastnews_76398_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76398_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T13:40:34.459984+00:00"
+      "archived_at": "2026-09-05T13:50:44.200169+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120650,
-      "message_link": "https://t.me/Mellig/120650",
-      "text": "سلام آقای میرقادری،\n\nمشهد  پمپ‌بنزین‌ میثاق  کارت آزاد رو فعال کرده، اما برای دریافت  ۱۵ لیتر بنزین باید حداقل ۶ ساعت در صف منتظر موند. \n\nتوی بعضی جایگاه سوخت ها  مثل جایگاه سوخت  شاندیزِ مشهد هم  میتونی به اپراتور   ۲۰۰ هزار تومان رشوه بدی و  بدون ایستادن تو صف ،   یک باک کامل بنزین بزنی . رسما بازار سیاه راه انداختن",
+      "message_id": 120651,
+      "message_link": "https://t.me/Mellig/120651",
+      "text": "تدارکات سپاه پاسداران برای آغاز موج جدید حملات هوایی و زمینی علیه مواضع پژاک؛\nگسترش تحرکات نظامی رژیم در مناطق مرزی کردستان؛\nگزارش‌ها از آمادگی نیروهای امنیتی برای عملیات تهاجمی در غرب کشور",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "15:28:24",
-      "gregorian_utc": "2026-09-05T11:58:24+00:00",
+      "tehran_time": "15:57:18",
+      "gregorian_utc": "2026-09-05T12:27:18+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -545,7 +545,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T13:40:34.748382+00:00"
+      "archived_at": "2026-09-05T13:50:44.553290+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -563,17 +563,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T13:40:35.000417+00:00"
+      "archived_at": "2026-09-05T13:50:44.894151+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12758,
-      "message_link": "https://t.me/zedTV/12758",
-      "text": "ارزش واقعی یارانه اولیه معادل ۱۴ میلیون تومان به نرخ امروز برآورد شد.\nسهم ماهانه خانواده ۴ نفره ۵۶ میلیون تومان؛ پرده‌برداری از فریب بزرگ اقتصادی رژیم.\nغارت سیستماتیک سفره مردم و نابودی قدرت خرید شهروندان در سایه تورم.",
+      "message_id": 12761,
+      "message_link": "https://t.me/zedTV/12761",
+      "text": "فراخوان رژیم برای بازگشت چهره‌های خارج‌نشین در پی بازگشت محسن نامجو به کشور.\nمنتقدان: این دعوت‌ها نمایشی تبلیغاتی برای پنهان‌سازی تداوم سرکوب و اعدام معترضان است.\nمانا نیستانی در طرح جدید خود تلاش حکومت برای بازسازی اعتبار لرزانش را به تصویر کشید.",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "13:46:03",
-      "gregorian_utc": "2026-09-05T10:16:03+00:00",
+      "tehran_time": "15:32:14",
+      "gregorian_utc": "2026-09-05T12:02:14+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -581,7 +581,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T13:40:33.836416+00:00"
+      "archived_at": "2026-09-05T13:50:43.468126+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -599,7 +599,7 @@
       "media_local_path": "media/IranintlTV_355853_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355853_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T13:40:34.148116+00:00"
+      "archived_at": "2026-09-05T13:50:43.814663+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -617,25 +617,25 @@
       "media_local_path": "media/satlastnews_76397_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76397_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T13:40:34.460040+00:00"
+      "archived_at": "2026-09-05T13:50:44.200210+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120649,
-      "message_link": "https://t.me/Mellig/120649",
-      "text": "یادش بخیر عرزشی های متوهم\n\nچه شعرایی واسه موشعلی میخوندن 😂😂😂\n\nدرود بهت بی بی 🥂😍👈❤️",
+      "message_id": 120650,
+      "message_link": "https://t.me/Mellig/120650",
+      "text": "سلام آقای میرقادری،\n\nمشهد  پمپ‌بنزین‌ میثاق  کارت آزاد رو فعال کرده، اما برای دریافت  ۱۵ لیتر بنزین باید حداقل ۶ ساعت در صف منتظر موند. \n\nتوی بعضی جایگاه سوخت ها  مثل جایگاه سوخت  شاندیزِ مشهد هم  میتونی به اپراتور   ۲۰۰ هزار تومان رشوه بدی و  بدون ایستادن تو صف ،   یک باک کامل بنزین بزنی . رسما بازار سیاه راه انداختن",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "15:25:06",
-      "gregorian_utc": "2026-09-05T11:55:06+00:00",
-      "media_type": "video",
-      "media_size_bytes": 1469051,
-      "media_size_human": "1.40 MB",
-      "media_downloaded": true,
-      "media_local_path": "media/Mellig_120649_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120649_video.mp4",
-      "no_media_reason": null,
-      "archived_at": "2026-09-05T13:40:34.748419+00:00"
+      "tehran_time": "15:28:24",
+      "gregorian_utc": "2026-09-05T11:58:24+00:00",
+      "media_type": null,
+      "media_size_bytes": 0,
+      "media_size_human": null,
+      "media_downloaded": false,
+      "media_local_path": null,
+      "media_link": null,
+      "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
+      "archived_at": "2026-09-05T13:50:44.553310+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -653,17 +653,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T13:40:35.000442+00:00"
+      "archived_at": "2026-09-05T13:50:44.894170+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12757,
-      "message_link": "https://t.me/zedTV/12757",
-      "text": "محاصره کامل اعضای سپاه پاسداران در تپه‌های علی‌طاهر توسط ارتش اسرائیل.\nتوصیف وضعیت نیروهای رژیم به شرایط بحرانی و بن‌بست توسط خبرنگار اعزامی.\nتنگ‌تر شدن حلقه محاصره در جنوب لبنان و استیصال نیروهای قدس.",
+      "message_id": 12760,
+      "message_link": "https://t.me/zedTV/12760",
+      "text": "بیش از ۶۰ کشته در درگیری‌های سنگین میان شبه‌نظامیان حوثی وابسته به رژیم و نیروهای دولتی یمن.\nتلاش حوثی‌ها برای اشغال مناطق استراتژیک باب‌المندب و قطع دسترسی به بندر حیاتی المخا.\nتداوم تنش‌آفرینی نیابتی‌های جمهوری اسلامی در دریای سرخ و کشتار غیرنظامیان.",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "13:32:43",
-      "gregorian_utc": "2026-09-05T10:02:43+00:00",
+      "tehran_time": "15:16:35",
+      "gregorian_utc": "2026-09-05T11:46:35+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -671,7 +671,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T13:40:33.836459+00:00"
+      "archived_at": "2026-09-05T13:50:43.468163+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -689,7 +689,7 @@
       "media_local_path": "media/IranintlTV_355852_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355852_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T13:40:34.148308+00:00"
+      "archived_at": "2026-09-05T13:50:43.814743+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -707,25 +707,25 @@
       "media_local_path": "media/satlastnews_76392_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76392_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T13:40:34.460143+00:00"
+      "archived_at": "2026-09-05T13:50:44.200293+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120648,
-      "message_link": "https://t.me/Mellig/120648",
-      "text": "اقرار به شکست عرزشی ها 😁\n\nدارن دق میکنن 🤣🤣",
+      "message_id": 120649,
+      "message_link": "https://t.me/Mellig/120649",
+      "text": "یادش بخیر عرزشی های متوهم\n\nچه شعرایی واسه موشعلی میخوندن 😂😂😂\n\nدرود بهت بی بی 🥂😍👈❤️",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "15:09:44",
-      "gregorian_utc": "2026-09-05T11:39:44+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 142701,
-      "media_size_human": "139.36 KB",
+      "tehran_time": "15:25:06",
+      "gregorian_utc": "2026-09-05T11:55:06+00:00",
+      "media_type": "video",
+      "media_size_bytes": 1469051,
+      "media_size_human": "1.40 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120648_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120648_photo.jpg",
+      "media_local_path": "media/Mellig_120649_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120649_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T13:40:34.748460+00:00"
+      "archived_at": "2026-09-05T13:50:44.553337+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -743,17 +743,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T13:40:35.000468+00:00"
+      "archived_at": "2026-09-05T13:50:44.894200+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12756,
-      "message_link": "https://t.me/zedTV/12756",
-      "text": "توسل مبلغان رژیم به تئوری اعداد برای توجیه زمان تدفین و دوره رهبری خامنه‌ای.\nتلاش برای عادی‌سازی بحران‌های اخیر با استفاده از محاسبات و تئوری‌های موهوم.\nافزایش ابهامات و تناقض‌گویی‌ها در رسانه‌های حکومتی درباره وضعیت رهبر جمهوری اسلامی.",
+      "message_id": 12759,
+      "message_link": "https://t.me/zedTV/12759",
+      "text": "آکسیوس: تدوین راهبرد پساجنگ دولت ترامپ برای مهار منطقه‌ای جمهوری اسلامی.\nتشکیل ائتلاف بزرگ علیه تهران و گسترش پیمان ابراهیم با حضور عربستان سعودی.\nتلاش واشینگتن برای ایجاد خاورمیانه جدید و پایان نفوذ مخرب رژیم ایران.",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "13:03:40",
-      "gregorian_utc": "2026-09-05T09:33:40+00:00",
+      "tehran_time": "14:46:48",
+      "gregorian_utc": "2026-09-05T11:16:48+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -761,7 +761,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T13:40:33.836489+00:00"
+      "archived_at": "2026-09-05T13:50:43.468185+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -779,7 +779,7 @@
       "media_local_path": "media/IranintlTV_355851_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355851_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T13:40:34.148468+00:00"
+      "archived_at": "2026-09-05T13:50:43.814872+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -797,25 +797,25 @@
       "media_local_path": "media/satlastnews_76391_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76391_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T13:40:34.460231+00:00"
+      "archived_at": "2026-09-05T13:50:44.200340+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120647,
-      "message_link": "https://t.me/Mellig/120647",
-      "text": "♦️بر اساس گزارش ها، امارات در هفته‌های اخیر به لنج‌های ایرانی اجازه پهلوگیری نمی‌دهد و حتی به برخی لنج‌ها دو روز مهلت داده شده تا امارات را ترک کنند؛ در نتیجه، واردات و صادرات دریایی میان دو کشور عملاً متوقف شده است.\n\nMellig.net",
+      "message_id": 120648,
+      "message_link": "https://t.me/Mellig/120648",
+      "text": "اقرار به شکست عرزشی ها 😁\n\nدارن دق میکنن 🤣🤣",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "12:05:48",
-      "gregorian_utc": "2026-09-05T08:35:48+00:00",
-      "media_type": "video",
-      "media_size_bytes": 3272512,
-      "media_size_human": "3.12 MB",
+      "tehran_time": "15:09:44",
+      "gregorian_utc": "2026-09-05T11:39:44+00:00",
+      "media_type": "photo",
+      "media_size_bytes": 142701,
+      "media_size_human": "139.36 KB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120647_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120647_video.mp4",
+      "media_local_path": "media/Mellig_120648_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120648_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T13:40:34.748622+00:00"
+      "archived_at": "2026-09-05T13:50:44.553368+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -833,17 +833,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T13:40:35.000493+00:00"
+      "archived_at": "2026-09-05T13:50:44.894216+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12755,
-      "message_link": "https://t.me/zedTV/12755",
-      "text": "دلار با عبور از تمام مرزها به ۲۲۴ هزار و ۵۰۰ تومان رسید؛ سقوط بی‌سابقه ارزش ریال.\nبهای هر گرم طلای ۱۸ عیار از مرز ۲۳ میلیون و ۶۰۰ هزار تومان فراتر رفت.\nتلاطم سنگین در بازار تهران در پی تهدید علیه مراکز اتمی و گزارش‌ انفجار در خلیج فارس.",
+      "message_id": 12758,
+      "message_link": "https://t.me/zedTV/12758",
+      "text": "ارزش واقعی یارانه اولیه معادل ۱۴ میلیون تومان به نرخ امروز برآورد شد.\nسهم ماهانه خانواده ۴ نفره ۵۶ میلیون تومان؛ پرده‌برداری از فریب بزرگ اقتصادی رژیم.\nغارت سیستماتیک سفره مردم و نابودی قدرت خرید شهروندان در سایه تورم.",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "13:03:24",
-      "gregorian_utc": "2026-09-05T09:33:24+00:00",
+      "tehran_time": "13:46:03",
+      "gregorian_utc": "2026-09-05T10:16:03+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -851,7 +851,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T13:40:33.836517+00:00"
+      "archived_at": "2026-09-05T13:50:43.468210+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -869,7 +869,7 @@
       "media_local_path": "media/IranintlTV_355850_audio.mp3",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355850_audio.mp3",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T13:40:34.148538+00:00"
+      "archived_at": "2026-09-05T13:50:43.814941+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -887,25 +887,25 @@
       "media_local_path": "media/satlastnews_76388_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76388_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T13:40:34.460298+00:00"
+      "archived_at": "2026-09-05T13:50:44.200385+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120646,
-      "message_link": "https://t.me/Mellig/120646",
-      "text": "واقعا چرا ؟؟؟ دادن رفت 🙄\n\nMellig.net",
+      "message_id": 120647,
+      "message_link": "https://t.me/Mellig/120647",
+      "text": "♦️بر اساس گزارش ها، امارات در هفته‌های اخیر به لنج‌های ایرانی اجازه پهلوگیری نمی‌دهد و حتی به برخی لنج‌ها دو روز مهلت داده شده تا امارات را ترک کنند؛ در نتیجه، واردات و صادرات دریایی میان دو کشور عملاً متوقف شده است.\n\nMellig.net",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "11:07:01",
-      "gregorian_utc": "2026-09-05T07:37:01+00:00",
+      "tehran_time": "12:05:48",
+      "gregorian_utc": "2026-09-05T08:35:48+00:00",
       "media_type": "video",
-      "media_size_bytes": 1305001,
-      "media_size_human": "1.24 MB",
+      "media_size_bytes": 3272512,
+      "media_size_human": "3.12 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120646_video.mp4",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120646_video.mp4",
+      "media_local_path": "media/Mellig_120647_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120647_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T13:40:34.748681+00:00"
+      "archived_at": "2026-09-05T13:50:44.553418+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -923,17 +923,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T13:40:35.000516+00:00"
+      "archived_at": "2026-09-05T13:50:44.894233+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12754,
-      "message_link": "https://t.me/zedTV/12754",
-      "text": "حمله موشکی آمریکا به دو نفت‌کش متعلق به شرکت ملی نفت رژیم ایران؛\nاصابت موشک به شناورهای «دانی» در خارک و «استارک» در نزدیکی کوه مبارک؛\nوقوع خسارت در بخش‌های فنی و بدنه هر دو نفت‌کش.",
+      "message_id": 12757,
+      "message_link": "https://t.me/zedTV/12757",
+      "text": "محاصره کامل اعضای سپاه پاسداران در تپه‌های علی‌طاهر توسط ارتش اسرائیل.\nتوصیف وضعیت نیروهای رژیم به شرایط بحرانی و بن‌بست توسط خبرنگار اعزامی.\nتنگ‌تر شدن حلقه محاصره در جنوب لبنان و استیصال نیروهای قدس.",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "12:32:02",
-      "gregorian_utc": "2026-09-05T09:02:02+00:00",
+      "tehran_time": "13:32:43",
+      "gregorian_utc": "2026-09-05T10:02:43+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -941,7 +941,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T13:40:33.836547+00:00"
+      "archived_at": "2026-09-05T13:50:43.468237+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -959,7 +959,7 @@
       "media_local_path": "media/IranintlTV_355849_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/IranintlTV_355849_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T13:40:34.148594+00:00"
+      "archived_at": "2026-09-05T13:50:43.814984+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -977,25 +977,25 @@
       "media_local_path": "media/satlastnews_76387_video.mp4",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76387_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T13:40:34.460366+00:00"
+      "archived_at": "2026-09-05T13:50:44.200431+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120645,
-      "message_link": "https://t.me/Mellig/120645",
-      "text": "شرق استان تهران\n\nهمین الان ساعت ده صبح",
+      "message_id": 120646,
+      "message_link": "https://t.me/Mellig/120646",
+      "text": "واقعا چرا ؟؟؟ دادن رفت 🙄\n\nMellig.net",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "11:01:38",
-      "gregorian_utc": "2026-09-05T07:31:38+00:00",
-      "media_type": "photo",
-      "media_size_bytes": 88902,
-      "media_size_human": "86.82 KB",
+      "tehran_time": "11:07:01",
+      "gregorian_utc": "2026-09-05T07:37:01+00:00",
+      "media_type": "video",
+      "media_size_bytes": 1305001,
+      "media_size_human": "1.24 MB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120645_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120645_photo.jpg",
+      "media_local_path": "media/Mellig_120646_video.mp4",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120646_video.mp4",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T13:40:34.748724+00:00"
+      "archived_at": "2026-09-05T13:50:44.553455+00:00"
     },
     {
       "channel_name": "کانال رسمی خبر سرا (یوتیوب)",
@@ -1013,17 +1013,17 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T13:40:35.000542+00:00"
+      "archived_at": "2026-09-05T13:50:44.894251+00:00"
     },
     {
       "channel_name": "ZED TV - ضد تی وی",
       "channel_username": "zedTV",
-      "message_id": 12753,
-      "message_link": "https://t.me/zedTV/12753",
-      "text": "♦️ طرح مشترک ترامپ و نتانیاهو برای سرنگونی رژیم؛ فروپاشی اقتصادی زمینه‌ساز قیام نهایی.\n♦️ لزوم نابودی مراکز سرکوب و پایگاه‌های تروریستی رژیم توسط نیروهای متحد.\n♦️ هشدار جدی به شهروندان جهت دوری از تجمعات مزدوران و مراکز حکومتی.",
+      "message_id": 12756,
+      "message_link": "https://t.me/zedTV/12756",
+      "text": "توسل مبلغان رژیم به تئوری اعداد برای توجیه زمان تدفین و دوره رهبری خامنه‌ای.\nتلاش برای عادی‌سازی بحران‌های اخیر با استفاده از محاسبات و تئوری‌های موهوم.\nافزایش ابهامات و تناقض‌گویی‌ها در رسانه‌های حکومتی درباره وضعیت رهبر جمهوری اسلامی.",
       "shamsi_date": "1405/06/14",
-      "tehran_time": "12:18:24",
-      "gregorian_utc": "2026-09-05T08:48:24+00:00",
+      "tehran_time": "13:03:40",
+      "gregorian_utc": "2026-09-05T09:33:40+00:00",
       "media_type": null,
       "media_size_bytes": 0,
       "media_size_human": null,
@@ -1031,7 +1031,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T13:40:33.836574+00:00"
+      "archived_at": "2026-09-05T13:50:43.468267+00:00"
     },
     {
       "channel_name": "Iran International ایران اینترنشنال",
@@ -1049,7 +1049,7 @@
       "media_local_path": null,
       "media_link": null,
       "no_media_reason": "پیام فاقد محتوای رسانه‌ای است.",
-      "archived_at": "2026-09-05T13:40:34.148829+00:00"
+      "archived_at": "2026-09-05T13:50:43.815178+00:00"
     },
     {
       "channel_name": "Satellites Last News",
@@ -1067,25 +1067,25 @@
       "media_local_path": "media/satlastnews_76385_photo.jpg",
       "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/satlastnews_76385_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T13:40:34.460424+00:00"
+      "archived_at": "2026-09-05T13:50:44.200471+00:00"
     },
     {
       "channel_name": "ملی‌ گرایان مردم‌ گرا",
       "channel_username": "Mellig",
-      "message_id": 120644,
-      "message_link": "https://t.me/Mellig/120644",
-      "text": "",
+      "message_id": 120645,
+      "message_link": "https://t.me/Mellig/120645",
+      "text": "شرق استان تهران\n\nهمین الان ساعت ده صبح",
       "shamsi_date": "1405/06/14",
       "tehran_time": "11:01:38",
       "gregorian_utc": "2026-09-05T07:31:38+00:00",
       "media_type": "photo",
-      "media_size_bytes": 138120,
-      "media_size_human": "134.88 KB",
+      "media_size_bytes": 88902,
+      "media_size_human": "86.82 KB",
       "media_downloaded": true,
-      "media_local_path": "media/Mellig_120644_photo.jpg",
-      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120644_photo.jpg",
+      "media_local_path": "media/Mellig_120645_photo.jpg",
+      "media_link": "https://raw.githubusercontent.com/pdheix/freenewsforiranaizbsjxnskxsnd/main/media/Mellig_120645_photo.jpg",
       "no_media_reason": null,
-      "archived_at": "2026-09-05T13:40:34.748764+00:00"
+      "archived_at": "2026-09-05T13:50:44.553483+00:00"
     }
   ]
 }
